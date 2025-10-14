@@ -2,7 +2,7 @@ name: Update RSS Feed
 
 on:
   schedule:
-    - cron: "0 * * * *"  # every 1 hour
+    - cron: "0 * * * *"  # Every hour
   workflow_dispatch:
 
 jobs:
@@ -27,6 +27,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feeds/feed.xml
-          git commit -m "Auto-update RSS feed [skip ci]" || echo "No changes to commit"
-          git push
+          if [ -f feeds/feed.xml ]; then
+            git add feeds/feed.xml
+            git commit -m "Auto-update RSS feed [skip ci]" || echo "No changes to commit"
+            git push
+          else
+            echo "⚠️ feeds/feed.xml not found. Skipping commit."
+          fi
