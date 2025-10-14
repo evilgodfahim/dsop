@@ -19,23 +19,28 @@ async function generateRSS() {
     const $ = cheerio.load(data);
     const items = [];
 
-    $("a.card-title, a.node-title, .card-title a").each((_, el) => {
-      const title = $(el).text().trim();
-      const href = $(el).attr("href");
-      if (title && href && !href.includes("#")) {
+    // Scrape all articles
+    $("div.card-content.quote-two").each((_, el) => {
+      const aTag = $(el).find("h3.title a");
+      const title = aTag.text().trim();
+      const href = aTag.attr("href");
+      const intro = $(el).find("p.intro").text().trim();
+
+      if (title && href) {
         const link = href.startsWith("http") ? href : baseURL + href;
-        items.push({ title, link });
+        items.push({ title, link, description: intro });
       }
     });
 
     console.log(`Found ${items.length} articles`);
 
-    // Fallback: if no articles found, add a dummy item
+    // Fallback: dummy item if no articles found
     if (items.length === 0) {
       console.log("⚠️ No articles found, creating dummy item");
       items.push({
         title: "No articles found yet",
-        link: baseURL
+        link: baseURL,
+        description: "RSS feed could not scrape any articles."
       });
     }
 
@@ -53,15 +58,18 @@ async function generateRSS() {
       feed.item({
         title: item.title,
         url: item.link,
+        description: item.description,
         date: new Date()
       });
     });
 
+    // Write feed.xml
     const xml = feed.xml({ indent: true });
     fs.writeFileSync("./feeds/feed.xml", xml);
     console.log(`✅ RSS generated with ${items.length} items.`);
   } catch (err) {
     console.error("❌ Error generating RSS:", err.message);
+
     // Create dummy feed on error
     const feed = new RSS({
       title: "The Daily Star – Opinion (dummy feed)",
@@ -74,10 +82,10 @@ async function generateRSS() {
     feed.item({
       title: "Feed generation failed",
       url: baseURL,
+      description: "An error occurred during scraping.",
       date: new Date()
     });
-    const xml = feed.xml({ indent: true });
-    fs.writeFileSync("./feeds/feed.xml", xml);
+    fs.writeFileSync("./feeds/feed.xml", feed.xml({ indent: true }));
   }
 }
 
