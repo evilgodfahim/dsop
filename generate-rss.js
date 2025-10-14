@@ -5,6 +5,7 @@ const RSS = require("rss");
 
 const baseURL = "https://www.thedailystar.net";
 const targetURL = "https://www.thedailystar.net/opinion";
+fs.mkdirSync("./feeds", { recursive: true });
 
 async function generateRSS() {
   try {
