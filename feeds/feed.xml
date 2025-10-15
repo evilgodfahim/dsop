@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Oct 2025 05:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 06:21:22 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Oct 2025 05:13:56 GMT</pubDate>
+        <pubDate>Wed, 15 Oct 2025 06:21:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[CCC must play the role expected of it]]></title>
+            <description><![CDATA[Address the myriad problems facing Chattogram residents]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/ccc-must-play-the-role-expected-it-4010391</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ccc-must-play-the-role-expected-it-4010391</guid>
+            <pubDate>Wed, 15 Oct 2025 06:21:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[He moves still, in the gyres of our memory]]></title>
             <description><![CDATA[It has been several days since the passing of Professor Syed Manzoorul Islam, yet I remain grief-stricken.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/he-moves-still-the-gyres-our-memory-4010381</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/he-moves-still-the-gyres-our-memory-4010381</guid>
-            <pubDate>Wed, 15 Oct 2025 05:13:56 GMT</pubDate>
+            <pubDate>Wed, 15 Oct 2025 06:21:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don’t normalise violence against women]]></title>
             <description><![CDATA[Expand support services, ensure justice for victims, and end child marriage]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-normalise-violence-against-women-4009916</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-normalise-violence-against-women-4009916</guid>
-            <pubDate>Wed, 15 Oct 2025 05:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the 2025 Nobel prize in economics matters for us]]></title>
-            <description><![CDATA[When automation and artificial intelligence are transforming economies, the Nobel laureates’ work offers caution and hope.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/why-the-2025-nobel-prize-economics-matters-us-4009906</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/why-the-2025-nobel-prize-economics-matters-us-4009906</guid>
-            <pubDate>Wed, 15 Oct 2025 05:13:56 GMT</pubDate>
+            <pubDate>Wed, 15 Oct 2025 06:21:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
