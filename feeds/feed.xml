@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Oct 2025 13:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 14:15:00 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Oct 2025 13:27:54 GMT</pubDate>
+        <pubDate>Wed, 15 Oct 2025 14:15:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The fight for safe food production in Bangladesh]]></title>
-            <description><![CDATA[Why are farmers spending extra money to use an unhealthy amount of chemical fertiliser and pesticides?]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-fight-safe-food-production-bangladesh-4010791</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-fight-safe-food-production-bangladesh-4010791</guid>
-            <pubDate>Wed, 15 Oct 2025 13:27:54 GMT</pubDate>
+            <title><![CDATA[Why are chemical warehouses still near residential areas?]]></title>
+            <description><![CDATA[Enforce laws, expedite relocation]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-are-chemical-warehouses-still-near-residential-areas-4010831</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-chemical-warehouses-still-near-residential-areas-4010831</guid>
+            <pubDate>Wed, 15 Oct 2025 14:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RTI: Are our political parties ready for transparency and accountability?]]></title>
             <description><![CDATA[Political parties argue that they lie outside the RTI Act’s purview, not being obliged to respond to citizens’ RTI requests.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/rti-are-our-political-parties-ready-transparency-and-accountability-4010561</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rti-are-our-political-parties-ready-transparency-and-accountability-4010561</guid>
-            <pubDate>Wed, 15 Oct 2025 13:27:54 GMT</pubDate>
+            <pubDate>Wed, 15 Oct 2025 14:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CCC must play the role expected of it]]></title>
             <description><![CDATA[Address the myriad problems facing Chattogram residents]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/ccc-must-play-the-role-expected-it-4010391</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ccc-must-play-the-role-expected-it-4010391</guid>
-            <pubDate>Wed, 15 Oct 2025 13:27:54 GMT</pubDate>
+            <pubDate>Wed, 15 Oct 2025 14:15:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
