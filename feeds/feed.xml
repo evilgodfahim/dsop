@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Star – Opinion (dummy feed)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[The Daily Star – Opinion]]></title>
+        <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Oct 2025 16:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 17:12:23 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Oct 2025 16:18:34 GMT</pubDate>
+        <pubDate>Thu, 16 Oct 2025 17:12:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://www.thedailystar.net</link>
-            <guid isPermaLink="true">https://www.thedailystar.net</guid>
-            <pubDate>Thu, 16 Oct 2025 16:18:34 GMT</pubDate>
+            <title><![CDATA[July National Charter: A consensus in name only?]]></title>
+            <description><![CDATA[A genuine national consensus on the path to democratic renewal has fallen short of expectations.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/july-national-charter-consensus-name-only-4011706</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/july-national-charter-consensus-name-only-4011706</guid>
+            <pubDate>Thu, 16 Oct 2025 17:12:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indiscriminate use of antibiotics must stop]]></title>
+            <description><![CDATA[Authorities must enforce regulations, improve healthcare access]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/indiscriminate-use-antibiotics-must-stop-4011466</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/indiscriminate-use-antibiotics-must-stop-4011466</guid>
+            <pubDate>Thu, 16 Oct 2025 17:12:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s food security depends on inclusion and innovation]]></title>
+            <description><![CDATA[According to Food Security Statistics 2023 from BBS, about 22 percent of Bangladeshi households face moderate to severe food insecurity, with one percent severely deprived.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-food-security-depends-inclusion-and-innovation-4011411</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-food-security-depends-inclusion-and-innovation-4011411</guid>
+            <pubDate>Thu, 16 Oct 2025 17:12:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
