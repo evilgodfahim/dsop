@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Oct 2025 01:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Oct 2025 03:10:58 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Oct 2025 01:08:54 GMT</pubDate>
+        <pubDate>Mon, 20 Oct 2025 03:10:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Constituent power and a pathway for implementing July Charter]]></title>
+            <description><![CDATA[July National Charter marks a key step toward democratic renewal.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/constituent-power-and-pathway-implementing-july-charter-4013991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/constituent-power-and-pathway-implementing-july-charter-4013991</guid>
+            <pubDate>Mon, 20 Oct 2025 03:10:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sabotage or not, the government must account for the recent fires]]></title>
             <description><![CDATA[Repeated fire incidents expose governance failures]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/sabotage-or-not-the-government-must-account-the-recent-fires-4013946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/sabotage-or-not-the-government-must-account-the-recent-fires-4013946</guid>
-            <pubDate>Mon, 20 Oct 2025 01:08:54 GMT</pubDate>
+            <pubDate>Mon, 20 Oct 2025 03:10:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tripura mob killing of Bangladeshis exposes the accountability gap]]></title>
             <description><![CDATA[India must bring to justice those behind the killings]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/tripura-mob-killing-bangladeshis-exposes-the-accountability-gap-4013726</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/tripura-mob-killing-bangladeshis-exposes-the-accountability-gap-4013726</guid>
-            <pubDate>Mon, 20 Oct 2025 01:08:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mirpur at risk as illegal chemical businesses mushroom]]></title>
-            <description><![CDATA[Residents and workers must be protected from harm]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/mirpur-risk-illegal-chemical-businesses-mushroom-4013731</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/mirpur-risk-illegal-chemical-businesses-mushroom-4013731</guid>
-            <pubDate>Mon, 20 Oct 2025 01:08:54 GMT</pubDate>
+            <pubDate>Mon, 20 Oct 2025 03:10:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
