@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Oct 2025 07:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Oct 2025 08:26:45 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Oct 2025 07:14:54 GMT</pubDate>
+        <pubDate>Mon, 20 Oct 2025 08:26:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A tariff schedule that hurts businesses]]></title>
+            <description><![CDATA[The government must recognise the punitive consequences of sudden tariff increases.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/tariff-schedule-hurts-businesses-4014571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/tariff-schedule-hurts-businesses-4014571</guid>
+            <pubDate>Mon, 20 Oct 2025 08:26:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vulnerable workers deserve special protection]]></title>
             <description><![CDATA[Seven teenage workers killed in Rupnagar factory blaze are victims of policy negligence]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/vulnerable-workers-deserve-special-protection-4014521</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/vulnerable-workers-deserve-special-protection-4014521</guid>
-            <pubDate>Mon, 20 Oct 2025 07:14:54 GMT</pubDate>
+            <pubDate>Mon, 20 Oct 2025 08:26:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Constituent power and a pathway for implementing July Charter]]></title>
             <description><![CDATA[July National Charter marks a key step toward democratic renewal.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/constituent-power-and-pathway-implementing-july-charter-4013991</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/constituent-power-and-pathway-implementing-july-charter-4013991</guid>
-            <pubDate>Mon, 20 Oct 2025 07:14:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[National unity is key to Bangladesh's success]]></title>
-            <description><![CDATA[Dr Yunus’s initiative in UNGA achieved much more than diplomatic optics.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/national-unity-key-bangladeshs-success-4013956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/national-unity-key-bangladeshs-success-4013956</guid>
-            <pubDate>Mon, 20 Oct 2025 07:14:54 GMT</pubDate>
+            <pubDate>Mon, 20 Oct 2025 08:26:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
