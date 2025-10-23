@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Oct 2025 03:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 04:16:58 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Oct 2025 03:38:04 GMT</pubDate>
+        <pubDate>Thu, 23 Oct 2025 04:16:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The unfinished revolution for women's political rights]]></title>
+            <description><![CDATA[Post-uprising women were expected to play central role in policymaking, which did not happen.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-unfinished-revolution-womens-political-rights-4016426</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-unfinished-revolution-womens-political-rights-4016426</guid>
+            <pubDate>Thu, 23 Oct 2025 04:16:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ports for private profit or national progress?]]></title>
             <description><![CDATA[After allowing private operators in major ports, India enacted a competition law specifically covering port concessions to prevent monopolistic control by a few global terminal operators.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/ports-private-profit-or-national-progress-4016416</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ports-private-profit-or-national-progress-4016416</guid>
-            <pubDate>Thu, 23 Oct 2025 03:38:04 GMT</pubDate>
+            <pubDate>Thu, 23 Oct 2025 04:16:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reduce preventable deaths and injuries]]></title>
             <description><![CDATA[Alarming rate of road crash injuries, deaths needs urgent intervention]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/reduce-preventable-deaths-and-injuries-4016161</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reduce-preventable-deaths-and-injuries-4016161</guid>
-            <pubDate>Thu, 23 Oct 2025 03:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New data regulations warrant urgent rethinking]]></title>
-            <description><![CDATA[Countries that have embraced data localisation have seen digital markets shrink.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/new-data-regulations-warrant-urgent-rethinking-4016156</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-data-regulations-warrant-urgent-rethinking-4016156</guid>
-            <pubDate>Thu, 23 Oct 2025 03:38:04 GMT</pubDate>
+            <pubDate>Thu, 23 Oct 2025 04:16:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
