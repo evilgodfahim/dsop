@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Oct 2025 08:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Oct 2025 09:15:43 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Oct 2025 08:18:54 GMT</pubDate>
+        <pubDate>Thu, 30 Oct 2025 09:15:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Public exam results must not seal an individual’s fate]]></title>
+            <description><![CDATA[Research shows that human development is not linear; some individuals bloom later than others.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/public-exam-results-must-not-seal-individuals-fate-4022361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/public-exam-results-must-not-seal-individuals-fate-4022361</guid>
+            <pubDate>Thu, 30 Oct 2025 09:15:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why the proposed NHRC amendment risks ineffectiveness]]></title>
             <description><![CDATA[The previous decade of the NHRC’s experience demonstrates that it failed to exercise its investigative powers.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/why-the-proposed-nhrc-amendment-risks-ineffectiveness-4022331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-the-proposed-nhrc-amendment-risks-ineffectiveness-4022331</guid>
-            <pubDate>Thu, 30 Oct 2025 08:18:54 GMT</pubDate>
+            <pubDate>Thu, 30 Oct 2025 09:15:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why survival in Dhaka feels accidental]]></title>
             <description><![CDATA[When a city demands miracles to survive its own design, something fundamental has gone wrong.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/why-survival-dhaka-feels-accidental-4022311</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-survival-dhaka-feels-accidental-4022311</guid>
-            <pubDate>Thu, 30 Oct 2025 08:18:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s grand politics: Who’s really directing the show?]]></title>
-            <description><![CDATA[Bangladesh perpetually appears to be at a “critical crossroads.”]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-grand-politics-whos-really-directing-the-show-4022296</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-grand-politics-whos-really-directing-the-show-4022296</guid>
-            <pubDate>Thu, 30 Oct 2025 08:18:54 GMT</pubDate>
+            <pubDate>Thu, 30 Oct 2025 09:15:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
