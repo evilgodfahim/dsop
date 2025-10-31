@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Star – Opinion]]></title>
-        <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
+        <title><![CDATA[The Daily Star – Opinion (dummy feed)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Oct 2025 21:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Oct 2025 22:13:27 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Oct 2025 21:12:31 GMT</pubDate>
+        <pubDate>Fri, 31 Oct 2025 22:13:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Alarming decline in SME lending]]></title>
-            <description><![CDATA[Bank's disbursement of SME loans in FY2024-25 is a nine percent drop year-on-year.]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/alarming-decline-sme-lending-4023766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/alarming-decline-sme-lending-4023766</guid>
-            <pubDate>Fri, 31 Oct 2025 21:12:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why road safety designs need people’s voices]]></title>
-            <description><![CDATA[In Bangladesh, pedestrians remain the most vulnerable road users.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-road-safety-designs-need-peoples-voices-4023731</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-road-safety-designs-need-peoples-voices-4023731</guid>
-            <pubDate>Fri, 31 Oct 2025 21:12:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the consensus commission jeopardises the July charter]]></title>
-            <description><![CDATA[Reforms imposed through coercion or technical manoeuvering never endure and such top-down reforms inevitably fail.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-the-consensus-commission-jeopardises-the-july-charter-4023156</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-the-consensus-commission-jeopardises-the-july-charter-4023156</guid>
-            <pubDate>Fri, 31 Oct 2025 21:12:31 GMT</pubDate>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping.]]></description>
+            <link>https://www.thedailystar.net</link>
+            <guid isPermaLink="true">https://www.thedailystar.net</guid>
+            <pubDate>Fri, 31 Oct 2025 22:13:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
