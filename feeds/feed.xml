@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Nov 2025 05:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Nov 2025 06:19:19 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Nov 2025 05:13:14 GMT</pubDate>
+        <pubDate>Sat, 01 Nov 2025 06:19:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Fix the chaos around Mayor Hanif Flyover]]></title>
+            <description><![CDATA[The Mayor Hanif Flyover has become one of Dhaka’s worst traffic choke points.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-chaos-around-mayor-hanif-flyover-4024221</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-chaos-around-mayor-hanif-flyover-4024221</guid>
+            <pubDate>Sat, 01 Nov 2025 06:19:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The de-escalation deficit in our campuses]]></title>
             <description><![CDATA[Our campuses are becoming increasingly unrestful, with a decline in civic patience and a growing culture of direct action.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/the-de-escalation-deficit-our-campuses-4023946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-de-escalation-deficit-our-campuses-4023946</guid>
-            <pubDate>Sat, 01 Nov 2025 05:13:14 GMT</pubDate>
+            <pubDate>Sat, 01 Nov 2025 06:19:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How reducing dwell time can improve Chittagong Port’s efficiency]]></title>
             <description><![CDATA[In Bangladesh, inefficiency leads to containers lingering for weeks in the Chittagong Port terminal.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/how-reducing-dwell-time-can-improve-chittagong-ports-efficiency-4023791</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-reducing-dwell-time-can-improve-chittagong-ports-efficiency-4023791</guid>
-            <pubDate>Sat, 01 Nov 2025 05:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alarming decline in SME lending]]></title>
-            <description><![CDATA[Bank's disbursement of SME loans in FY2024-25 is a nine percent drop year-on-year.]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/alarming-decline-sme-lending-4023766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/alarming-decline-sme-lending-4023766</guid>
-            <pubDate>Sat, 01 Nov 2025 05:13:14 GMT</pubDate>
+            <pubDate>Sat, 01 Nov 2025 06:19:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
