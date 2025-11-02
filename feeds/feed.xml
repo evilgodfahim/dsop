@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Nov 2025 01:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Nov 2025 03:10:53 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Nov 2025 01:10:09 GMT</pubDate>
+        <pubDate>Sun, 02 Nov 2025 03:10:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Journalists cannot be safe if power remains unaccountable]]></title>
+            <description><![CDATA[Several journalists have been killed in the last two years alone.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/journalists-cannot-be-safe-if-power-remains-unaccountable-4024966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/journalists-cannot-be-safe-if-power-remains-unaccountable-4024966</guid>
+            <pubDate>Sun, 02 Nov 2025 03:10:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The ‘consensus’ fiasco: An experiment that shouldn't have failed]]></title>
             <description><![CDATA[Two issues have now blocked progress in July charter implementation discussions]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/the-consensus-fiasco-experiment-shouldnt-have-failed-4024521</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-consensus-fiasco-experiment-shouldnt-have-failed-4024521</guid>
-            <pubDate>Sun, 02 Nov 2025 01:10:09 GMT</pubDate>
+            <pubDate>Sun, 02 Nov 2025 03:10:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Legal reform is key to protecting intellectual property rights of Indigenous culture]]></title>
-            <description><![CDATA[The key foundation for any transmitting legal system is to recognise the Indigenous customary law.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/legal-reform-key-protecting-intellectual-property-rights-indigenous-culture-4024246</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/legal-reform-key-protecting-intellectual-property-rights-indigenous-culture-4024246</guid>
-            <pubDate>Sun, 02 Nov 2025 01:10:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fix the chaos around Mayor Hanif Flyover]]></title>
-            <description><![CDATA[The Mayor Hanif Flyover has become one of Dhaka’s worst traffic choke points.]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-chaos-around-mayor-hanif-flyover-4024221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-chaos-around-mayor-hanif-flyover-4024221</guid>
-            <pubDate>Sun, 02 Nov 2025 01:10:09 GMT</pubDate>
+            <title><![CDATA[Why Bangladesh needs a two-year economic recovery agenda]]></title>
+            <description><![CDATA[For too long, Bangladesh has relied on growth momentum driven by remittances and ready-made garments.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-bangladesh-needs-two-year-economic-recovery-agenda-4024506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladesh-needs-two-year-economic-recovery-agenda-4024506</guid>
+            <pubDate>Sun, 02 Nov 2025 03:10:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
