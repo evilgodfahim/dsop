@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Star – Opinion]]></title>
-        <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
+        <title><![CDATA[The Daily Star – Opinion (dummy feed)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Nov 2025 03:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Nov 2025 04:23:38 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Nov 2025 03:12:41 GMT</pubDate>
+        <pubDate>Mon, 03 Nov 2025 04:23:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[‘Those in power are often the biggest obstacles to justice’]]></title>
-            <description><![CDATA[To uncover the truth, we need to start with self-criticism.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/those-power-are-often-the-biggest-obstacles-justice-4025411</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/those-power-are-often-the-biggest-obstacles-justice-4025411</guid>
-            <pubDate>Mon, 03 Nov 2025 03:12:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teaching young people to shoot?]]></title>
-            <description><![CDATA[Focus instead on skills development and employment]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/teaching-young-people-shoot-4025396</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/teaching-young-people-shoot-4025396</guid>
-            <pubDate>Mon, 03 Nov 2025 03:12:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka’s gridlock is a crisis of coordination]]></title>
-            <description><![CDATA[Dhaka was, and for much of its population remains, a city of non-motorised transport. Rickshaws once made up as much as 85 percent of vehicular traffic.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/dhakas-gridlock-crisis-coordination-4025136</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dhakas-gridlock-crisis-coordination-4025136</guid>
-            <pubDate>Mon, 03 Nov 2025 03:12:41 GMT</pubDate>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping.]]></description>
+            <link>https://www.thedailystar.net</link>
+            <guid isPermaLink="true">https://www.thedailystar.net</guid>
+            <pubDate>Mon, 03 Nov 2025 04:23:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
