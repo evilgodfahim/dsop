@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Nov 2025 05:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Nov 2025 06:22:37 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Nov 2025 05:15:29 GMT</pubDate>
+        <pubDate>Mon, 03 Nov 2025 06:22:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Farmgate tragedy and the question of state liability]]></title>
+            <description><![CDATA[The amount of compensation offered by the government is inadequate.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/farmgate-tragedy-and-the-question-state-liability-4025436</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/farmgate-tragedy-and-the-question-state-liability-4025436</guid>
+            <pubDate>Mon, 03 Nov 2025 06:22:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What can Bangladesh learn from the 2025 Nobel Prize in economics?]]></title>
             <description><![CDATA[Our schools and universities should move away from rote learning.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/what-can-bangladesh-learn-the-2025-nobel-prize-economics-4025426</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-can-bangladesh-learn-the-2025-nobel-prize-economics-4025426</guid>
-            <pubDate>Mon, 03 Nov 2025 05:15:29 GMT</pubDate>
+            <pubDate>Mon, 03 Nov 2025 06:22:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Those in power are often the biggest obstacles to justice’]]></title>
             <description><![CDATA[To uncover the truth, we need to start with self-criticism.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/those-power-are-often-the-biggest-obstacles-justice-4025411</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/those-power-are-often-the-biggest-obstacles-justice-4025411</guid>
-            <pubDate>Mon, 03 Nov 2025 05:15:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teaching young people to shoot?]]></title>
-            <description><![CDATA[Focus instead on skills development and employment]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/teaching-young-people-shoot-4025396</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/teaching-young-people-shoot-4025396</guid>
-            <pubDate>Mon, 03 Nov 2025 05:15:29 GMT</pubDate>
+            <pubDate>Mon, 03 Nov 2025 06:22:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
