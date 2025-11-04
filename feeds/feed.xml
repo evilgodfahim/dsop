@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Nov 2025 14:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Nov 2025 15:15:48 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Nov 2025 14:14:47 GMT</pubDate>
+        <pubDate>Tue, 04 Nov 2025 15:15:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Mamdani effect: Rekindling hope in a cynical city]]></title>
+            <description><![CDATA[Zohran Mamdani’s meteoric political rise in the New York mayoral race caught the imagination of the entire world.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-mamdani-effect-rekindling-hope-cynical-city-4027001</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-mamdani-effect-rekindling-hope-cynical-city-4027001</guid>
+            <pubDate>Tue, 04 Nov 2025 15:15:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fixed broadband at risk: BTRC’s proposed tax measures could hurt users and ISPs]]></title>
             <description><![CDATA[The introduction of new taxation provisions by the BTRC to different licensing layers could increase costs for broadband service providers]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/fixed-broadband-risk-btrcs-proposed-tax-measures-could-hurt-users-and-isps-4026806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fixed-broadband-risk-btrcs-proposed-tax-measures-could-hurt-users-and-isps-4026806</guid>
-            <pubDate>Tue, 04 Nov 2025 14:14:47 GMT</pubDate>
+            <pubDate>Tue, 04 Nov 2025 15:15:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mob violence cases need firmer police pursuit]]></title>
             <description><![CDATA[Police’s business-as-usual approach cannot rein in this dangerous trend]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/mob-violence-cases-need-firmer-police-pursuit-4026731</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/mob-violence-cases-need-firmer-police-pursuit-4026731</guid>
-            <pubDate>Tue, 04 Nov 2025 14:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Changing the narrative of Bangladesh-Malaysia bilateral relations]]></title>
-            <description><![CDATA[Bangladesh is Malaysia’s second-largest trading partner in South Asia.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/changing-the-narrative-bangladesh-malaysia-bilateral-relations-4026641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/changing-the-narrative-bangladesh-malaysia-bilateral-relations-4026641</guid>
-            <pubDate>Tue, 04 Nov 2025 14:14:47 GMT</pubDate>
+            <pubDate>Tue, 04 Nov 2025 15:15:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
