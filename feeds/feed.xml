@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Nov 2025 12:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 13:24:00 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Nov 2025 12:28:07 GMT</pubDate>
+        <pubDate>Fri, 07 Nov 2025 13:24:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Redirecting money spent on migration will boost small businesses]]></title>
+            <description><![CDATA[The remedies are not complex, but they demand courage, understanding of local realities and humane behaviour from policymakers.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/redirecting-money-spent-migration-will-boost-small-businesses-4029366</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/redirecting-money-spent-migration-will-boost-small-businesses-4029366</guid>
+            <pubDate>Fri, 07 Nov 2025 13:24:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No illegal surveillance should be allowed]]></title>
             <description><![CDATA[We must recognise that laws alone cannot change a system.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/no-illegal-surveillance-should-be-allowed-4029251</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/no-illegal-surveillance-should-be-allowed-4029251</guid>
-            <pubDate>Fri, 07 Nov 2025 12:28:07 GMT</pubDate>
+            <pubDate>Fri, 07 Nov 2025 13:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why nuclear intelligence is vital for Bangladesh]]></title>
             <description><![CDATA[NUCINT bridges physical, cyber, and human dimensions of security.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/why-nuclear-intelligence-vital-bangladesh-4029166</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-nuclear-intelligence-vital-bangladesh-4029166</guid>
-            <pubDate>Fri, 07 Nov 2025 12:28:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lessons from Mamdani’s magic: Put voters at the centre of our politics]]></title>
-            <description><![CDATA[No compromise on holding elections on time]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/lessons-mamdanis-magic-put-voters-the-centre-our-politics-4028831</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/lessons-mamdanis-magic-put-voters-the-centre-our-politics-4028831</guid>
-            <pubDate>Fri, 07 Nov 2025 12:28:07 GMT</pubDate>
+            <pubDate>Fri, 07 Nov 2025 13:24:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
