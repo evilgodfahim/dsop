@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Nov 2025 01:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Nov 2025 02:58:06 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Nov 2025 01:03:23 GMT</pubDate>
+        <pubDate>Sat, 08 Nov 2025 02:58:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Dhaka University’s clean-up paradox]]></title>
+            <description><![CDATA[At the heart of the capital stands the University of Dhaka, a place that often evokes the nation’s consciousness and shapes its identity.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/dhaka-universitys-clean-paradox-4029701</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/dhaka-universitys-clean-paradox-4029701</guid>
+            <pubDate>Sat, 08 Nov 2025 02:58:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Halt construction on Pragati Sarani]]></title>
             <description><![CDATA[DNCC's construction of a ward office in a busy Dhaka street is a violation of the very idea of public space.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/halt-construction-pragati-sarani-4029376</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/halt-construction-pragati-sarani-4029376</guid>
-            <pubDate>Sat, 08 Nov 2025 01:03:23 GMT</pubDate>
+            <pubDate>Sat, 08 Nov 2025 02:58:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Redirecting money spent on migration will boost small businesses]]></title>
             <description><![CDATA[The remedies are not complex, but they demand courage, understanding of local realities and humane behaviour from policymakers.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/redirecting-money-spent-migration-will-boost-small-businesses-4029366</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/redirecting-money-spent-migration-will-boost-small-businesses-4029366</guid>
-            <pubDate>Sat, 08 Nov 2025 01:03:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No illegal surveillance should be allowed]]></title>
-            <description><![CDATA[We must recognise that laws alone cannot change a system.]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/no-illegal-surveillance-should-be-allowed-4029251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/no-illegal-surveillance-should-be-allowed-4029251</guid>
-            <pubDate>Sat, 08 Nov 2025 01:03:23 GMT</pubDate>
+            <pubDate>Sat, 08 Nov 2025 02:58:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
