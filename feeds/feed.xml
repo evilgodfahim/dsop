@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Nov 2025 01:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Nov 2025 03:10:17 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Nov 2025 01:07:52 GMT</pubDate>
+        <pubDate>Thu, 13 Nov 2025 03:10:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[We must distinguish between corrosive and constructive capital]]></title>
+            <description><![CDATA[Money moves more quickly than ever in the modern world. However, not all money is what it seems or claims to be. While some subtly advance hidden interests and undermine accountability, others create opportunity, institutions, and trust.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-must-distinguish-between-corrosive-and-constructive-capital-4033481</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-distinguish-between-corrosive-and-constructive-capital-4033481</guid>
+            <pubDate>Thu, 13 Nov 2025 03:10:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reduce Global South’s climate debt burden]]></title>
             <description><![CDATA[Wealthy nations must take responsibility as the highest polluters]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/reduce-global-souths-climate-debt-burden-4033306</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reduce-global-souths-climate-debt-burden-4033306</guid>
-            <pubDate>Thu, 13 Nov 2025 01:07:52 GMT</pubDate>
+            <pubDate>Thu, 13 Nov 2025 03:10:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can COP30 deliver on climate promises?]]></title>
             <description><![CDATA[Global attention has currently turned to Belém, one of the gateways to the Brazilian Amazon, where the climate community has gathered for the 30th Conference of the Parties (COP 30) under the United Nations Framework Convention on Climate Change (UNFCCC).]]></description>
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/can-cop30-deliver-climate-promises-4032706</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/can-cop30-deliver-climate-promises-4032706</guid>
-            <pubDate>Thu, 13 Nov 2025 01:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caring for caregivers: The missing link in disability support]]></title>
-            <description><![CDATA[The most profound acts of love often unfold in homes where a family member lives with a disability. In these homes, a woman—usually the mother, wife, or sister—becomes the entire infrastructure of care; a 24-hour lifeline that holds the household together.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/caring-caregivers-the-missing-link-disability-support-4032711</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/caring-caregivers-the-missing-link-disability-support-4032711</guid>
-            <pubDate>Thu, 13 Nov 2025 01:07:52 GMT</pubDate>
+            <pubDate>Thu, 13 Nov 2025 03:10:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
