@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Nov 2025 03:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Nov 2025 04:20:48 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Nov 2025 03:13:44 GMT</pubDate>
+        <pubDate>Sun, 16 Nov 2025 04:20:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The bureaucracy that outlived every regime]]></title>
             <description><![CDATA[This very idea marks the key difference between a coup and a revolution in political theory. It emerged while reflecting on the failure of the Paris Commune 150 years ago and has since reappeared throughout history whenever victorious political struggles have failed to achieve real transformation, ending instead in lost revolutions or counter-revolutions.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/the-bureaucracy-outlived-every-regime-4035646</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-bureaucracy-outlived-every-regime-4035646</guid>
-            <pubDate>Sun, 16 Nov 2025 03:13:44 GMT</pubDate>
+            <pubDate>Sun, 16 Nov 2025 04:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Bangladesh at risk of losing the election information war?]]></title>
+            <description><![CDATA["I've made a solemn commitment to deliver an election that would stand out in terms of voter turnout, participation of new and women voters, global confidence in safety and security, and its festive atmosphere as a celebration of democracy and rule of law." - Chief Adviser Muhammad Yunus.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-risk-losing-the-election-information-war-4035651</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-risk-losing-the-election-information-war-4035651</guid>
+            <pubDate>Sun, 16 Nov 2025 04:20:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh Railway’s service woes persist]]></title>
             <description><![CDATA[Its mismanaged system needs more than investment]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/bangladesh-railways-service-woes-persist-4035521</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bangladesh-railways-service-woes-persist-4035521</guid>
-            <pubDate>Sun, 16 Nov 2025 03:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Matarbari and Pangaon: Bridging the gap in our logistics chain]]></title>
-            <description><![CDATA[The Matarbari Deep-Sea Port promises to be a game-changer for the country's shipping and logistics landscape.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/matarbari-and-pangaon-bridging-the-gap-our-logistics-chain-4035131</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/matarbari-and-pangaon-bridging-the-gap-our-logistics-chain-4035131</guid>
-            <pubDate>Sun, 16 Nov 2025 03:13:44 GMT</pubDate>
+            <pubDate>Sun, 16 Nov 2025 04:20:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
