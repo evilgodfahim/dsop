@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Nov 2025 11:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Nov 2025 12:29:37 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Nov 2025 11:13:01 GMT</pubDate>
+        <pubDate>Mon, 17 Nov 2025 12:29:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[An inevitable verdict]]></title>
+            <description><![CDATA[Sheikh Hasina was sentenced to death on two charges]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/inevitable-verdict-4037021</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/inevitable-verdict-4037021</guid>
+            <pubDate>Mon, 17 Nov 2025 12:29:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[If the state cannot govern, violence will]]></title>
             <description><![CDATA[Bangladesh is facing a crisis that extends far beyond the headlines. The show of violence unfolding in many parts of the country is not simply a failure of security.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/if-the-state-cannot-govern-violence-will-4036431</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/if-the-state-cannot-govern-violence-will-4036431</guid>
-            <pubDate>Mon, 17 Nov 2025 11:13:01 GMT</pubDate>
+            <pubDate>Mon, 17 Nov 2025 12:29:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How India and Bangladesh are reinforcing each other’s extremes]]></title>
             <description><![CDATA[When Sheikh Hasina's long reign finally ended in 2024, Bangladesh found itself at an uncertain crossroads not just of leadership but also of identity.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/how-india-and-bangladesh-are-reinforcing-each-others-extremes-4036441</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-india-and-bangladesh-are-reinforcing-each-others-extremes-4036441</guid>
-            <pubDate>Mon, 17 Nov 2025 11:13:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The BBC’s speech-edit crisis and lessons for us]]></title>
-            <description><![CDATA[As a former BBC journalist, it is excruciating to watch heads roll over a lapse in editorial standards at an institution that thrived for 103 years in Britain.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-bbcs-speech-edit-crisis-and-lessons-us-4036446</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-bbcs-speech-edit-crisis-and-lessons-us-4036446</guid>
-            <pubDate>Mon, 17 Nov 2025 11:13:01 GMT</pubDate>
+            <pubDate>Mon, 17 Nov 2025 12:29:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
