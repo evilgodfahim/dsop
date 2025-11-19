@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Nov 2025 12:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Nov 2025 13:27:54 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Nov 2025 12:29:50 GMT</pubDate>
+        <pubDate>Wed, 19 Nov 2025 13:27:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No refuge for Palestinians caught between Israeli military and Jewish mobs]]></title>
+            <description><![CDATA[In recent weeks, organised Jewish mobs have unleashed violence across occupied Palestinian towns and villages in West Bank.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/no-refuge-palestinians-caught-between-israeli-military-and-jewish-mobs-4038636</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/no-refuge-palestinians-caught-between-israeli-military-and-jewish-mobs-4038636</guid>
+            <pubDate>Wed, 19 Nov 2025 13:27:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Citizens deserve clarity before a referendum vote]]></title>
             <description><![CDATA[With the three main political players gearing up for elections, it appears that Chief Adviser Muhammad Yunus has managed to placate all sides with the four-point referendum proposal.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/citizens-deserve-clarity-referendum-vote-4038206</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/citizens-deserve-clarity-referendum-vote-4038206</guid>
-            <pubDate>Wed, 19 Nov 2025 12:29:50 GMT</pubDate>
+            <pubDate>Wed, 19 Nov 2025 13:27:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Factory owners’ fear of unions stems from their loss of control’]]></title>
             <description><![CDATA[Before I offer my perspective, it is important to first clarify where responsibility lies. The factory owners themselves are entirely responsible for the situation they now call harmful to the industry. For all the things involved, there is no one else to blame—not the workers, not the labour leaders, not the government, not any international organisation.]]></description>
             <link>https://www.thedailystar.net/opinion/interviews/news/factory-owners-fear-unions-stems-their-loss-control-4038211</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/factory-owners-fear-unions-stems-their-loss-control-4038211</guid>
-            <pubDate>Wed, 19 Nov 2025 12:29:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Removing barriers to women’s access to public toilets is long overdue]]></title>
-            <description><![CDATA[Access to clean public toilets is not only a basic human right, it also draws a distinction between a life of dignity versus one of humiliation.]]></description>
-            <link>https://www.thedailystar.net/opinion/news/removing-barriers-womens-access-public-toilets-long-overdue-4038221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/removing-barriers-womens-access-public-toilets-long-overdue-4038221</guid>
-            <pubDate>Wed, 19 Nov 2025 12:29:50 GMT</pubDate>
+            <pubDate>Wed, 19 Nov 2025 13:27:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
