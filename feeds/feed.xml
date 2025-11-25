@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Nov 2025 12:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 13:29:44 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Nov 2025 12:30:22 GMT</pubDate>
+        <pubDate>Tue, 25 Nov 2025 13:29:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Dissecting UN’s 'Comprehensive Plan' for Gaza, and its inevitable dead end]]></title>
+            <title><![CDATA[The danger of antibiotic resistance must not be ignored anymore]]></title>
+            <description><![CDATA[Latest official data raise serious concerns.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/the-danger-antibiotic-resistance-must-not-be-ignored-anymore-4043246</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-danger-antibiotic-resistance-must-not-be-ignored-anymore-4043246</guid>
+            <pubDate>Tue, 25 Nov 2025 13:29:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dissecting the UNSC plan for Gaza and its inevitable dead end]]></title>
             <description><![CDATA[US policy documents on the Middle East do not reach the daylight before Israel is given the chance to filter and gut them.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/dissecting-uns-comprehensive-plan-gaza-and-its-inevitable-dead-end-4043191</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dissecting-uns-comprehensive-plan-gaza-and-its-inevitable-dead-end-4043191</guid>
-            <pubDate>Tue, 25 Nov 2025 12:30:22 GMT</pubDate>
+            <link>https://www.thedailystar.net/opinion/views/news/dissecting-the-unsc-plan-gaza-and-its-inevitable-dead-end-4043191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dissecting-the-unsc-plan-gaza-and-its-inevitable-dead-end-4043191</guid>
+            <pubDate>Tue, 25 Nov 2025 13:29:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Global South to write 21st century's growth story]]></title>
             <description><![CDATA[As the impacts of climate change become more severe with deadly heatwaves, eroding coastlines, rising food prices, and increasing social and economic instability, affected countries, particularly poor ones, are getting concerned about having to slow their development while addressing climate change.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/global-south-write-21st-centurys-growth-story-4042706</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/global-south-write-21st-centurys-growth-story-4042706</guid>
-            <pubDate>Tue, 25 Nov 2025 12:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[University dormitories must be part of the earthquake conversation]]></title>
-            <description><![CDATA[The earthquake of November 21 once again exposed the serious weaknesses in Bangladesh's built environment. At least 10 people lost their lives, including in Dhaka, where many buildings tilted dangerously, developed cracks, and some of their parts collapsed.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/university-dormitories-must-be-part-the-earthquake-conversation-4042711</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/university-dormitories-must-be-part-the-earthquake-conversation-4042711</guid>
-            <pubDate>Tue, 25 Nov 2025 12:30:22 GMT</pubDate>
+            <pubDate>Tue, 25 Nov 2025 13:29:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
