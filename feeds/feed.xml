@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Star – Opinion (dummy feed)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[The Daily Star – Opinion]]></title>
+        <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Nov 2025 01:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 03:10:24 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Nov 2025 01:07:10 GMT</pubDate>
+        <pubDate>Tue, 25 Nov 2025 03:10:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://www.thedailystar.net</link>
-            <guid isPermaLink="true">https://www.thedailystar.net</guid>
-            <pubDate>Tue, 25 Nov 2025 01:07:10 GMT</pubDate>
+            <title><![CDATA[Global South to write 21st century's growth story]]></title>
+            <description><![CDATA[As the impacts of climate change become more severe with deadly heatwaves, eroding coastlines, rising food prices, and increasing social and economic instability, affected countries, particularly poor ones, are getting concerned about having to slow their development while addressing climate change.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/global-south-write-21st-centurys-growth-story-4042706</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/global-south-write-21st-centurys-growth-story-4042706</guid>
+            <pubDate>Tue, 25 Nov 2025 03:10:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We must tackle digital violence to fight gender inequality]]></title>
+            <description><![CDATA[Every year, the global community observes countless designated days, organises events, undertakes projects, and spends millions with the aim of eradicating gender-based violence against women and girls. Yet, despite decades of effort, the needle has barely moved.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/we-must-tackle-digital-violence-fight-gender-inequality-4042721</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/we-must-tackle-digital-violence-fight-gender-inequality-4042721</guid>
+            <pubDate>Tue, 25 Nov 2025 03:10:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quake defences delayed by red tape]]></title>
+            <description><![CDATA[Govt must urgently open the quake safety assessment facility]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/quake-defences-delayed-red-tape-4042541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/quake-defences-delayed-red-tape-4042541</guid>
+            <pubDate>Tue, 25 Nov 2025 03:10:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
