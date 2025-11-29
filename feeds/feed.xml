@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Star – Opinion (dummy feed)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[The Daily Star – Opinion]]></title>
+        <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Nov 2025 08:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Nov 2025 09:14:01 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Nov 2025 08:18:28 GMT</pubDate>
+        <pubDate>Sat, 29 Nov 2025 09:14:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://www.thedailystar.net</link>
-            <guid isPermaLink="true">https://www.thedailystar.net</guid>
-            <pubDate>Sat, 29 Nov 2025 08:18:28 GMT</pubDate>
+            <title><![CDATA[The birth pang of a university]]></title>
+            <description><![CDATA[DCU must move beyond colonial-era templates for public universities.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-birth-pang-university-4046041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-birth-pang-university-4046041</guid>
+            <pubDate>Sat, 29 Nov 2025 09:14:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Civil registration system needs a citizen-centred upgrade]]></title>
+            <description><![CDATA[Every year, lakhs of birth certificates are issued to establish the civil identity of citizens, and this document later becomes essential for obtaining a National ID (NID) card.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/civil-registration-system-needs-citizen-centred-upgrade-4046046</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/civil-registration-system-needs-citizen-centred-upgrade-4046046</guid>
+            <pubDate>Sat, 29 Nov 2025 09:14:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As COP falters, South Asia must build its own collaborative climate platform]]></title>
+            <description><![CDATA[Climate action is no longer a matter of policy debate but one of how it can be done most cost-effectively.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/cop-falters-south-asia-must-build-its-own-collaborative-climate-platform-4046051</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/cop-falters-south-asia-must-build-its-own-collaborative-climate-platform-4046051</guid>
+            <pubDate>Sat, 29 Nov 2025 09:14:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
