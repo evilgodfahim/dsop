@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Nov 2025 03:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Nov 2025 04:17:13 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Nov 2025 03:07:00 GMT</pubDate>
+        <pubDate>Sat, 29 Nov 2025 04:17:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The birth pang of a university]]></title>
             <description><![CDATA[As the Chinese word for "crisis," wei ji (danger and opportunity), suggests, we do not need to see all crises as catastrophes but as thresholds for reinvention.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/the-birth-pang-university-4046041</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-birth-pang-university-4046041</guid>
-            <pubDate>Sat, 29 Nov 2025 03:07:00 GMT</pubDate>
+            <pubDate>Sat, 29 Nov 2025 04:17:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uniting for safe digital spaces for women and girls]]></title>
+            <description><![CDATA["He said if she ever left him, he would share her personal details online." The threat was not empty. For many women and adolescent girls in Bangladesh, private life and digital life now blur into one.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/uniting-safe-digital-spaces-women-and-girls-4046056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/uniting-safe-digital-spaces-women-and-girls-4046056</guid>
+            <pubDate>Sat, 29 Nov 2025 04:17:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Act now to reverse the poverty backslide]]></title>
             <description><![CDATA[Bangladesh is witnessing one of its most troubling reversals in poverty in over a decade]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/act-now-reverse-the-poverty-backslide-4045806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/act-now-reverse-the-poverty-backslide-4045806</guid>
-            <pubDate>Sat, 29 Nov 2025 03:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A picture that lays bare the decay of our education system]]></title>
-            <description><![CDATA[Why have we failed to give quality education to schoolgoers?]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/picture-lays-bare-the-decay-our-education-system-4045256</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/picture-lays-bare-the-decay-our-education-system-4045256</guid>
-            <pubDate>Sat, 29 Nov 2025 03:07:00 GMT</pubDate>
+            <pubDate>Sat, 29 Nov 2025 04:17:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
