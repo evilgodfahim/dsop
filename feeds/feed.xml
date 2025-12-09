@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Dec 2025 12:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Dec 2025 13:31:48 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Dec 2025 12:31:38 GMT</pubDate>
+        <pubDate>Tue, 09 Dec 2025 13:31:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[ACC must embrace independent oversight]]></title>
+            <description><![CDATA[Repeated graft allegations against ACC officials raise concerns]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/acc-must-embrace-independent-oversight-4054401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/acc-must-embrace-independent-oversight-4054401</guid>
+            <pubDate>Tue, 09 Dec 2025 13:31:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can we break the triad of corruption, rights abuse, and injustice?]]></title>
             <description><![CDATA[Every year, the International Anti-Corruption Day is observed on December 9, shortly followed by the International Human Rights Day.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/can-we-break-the-triad-corruption-rights-abuse-and-injustice-4053811</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-we-break-the-triad-corruption-rights-abuse-and-injustice-4053811</guid>
-            <pubDate>Tue, 09 Dec 2025 12:31:38 GMT</pubDate>
+            <pubDate>Tue, 09 Dec 2025 13:31:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tax education should be part of the school curriculum]]></title>
             <description><![CDATA[Every year, thousands of young people step into adult life without the faintest idea of how the tax system works.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/tax-education-should-be-part-the-school-curriculum-4053816</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tax-education-should-be-part-the-school-curriculum-4053816</guid>
-            <pubDate>Tue, 09 Dec 2025 12:31:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Bangladesh's economy is cannibalising its own future]]></title>
-            <description><![CDATA[Labour's share collapses because wages are suppressed by informal payments embedded throughout production.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-bangladeshs-economy-cannibalising-its-own-future-4053821</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-bangladeshs-economy-cannibalising-its-own-future-4053821</guid>
-            <pubDate>Tue, 09 Dec 2025 12:31:38 GMT</pubDate>
+            <pubDate>Tue, 09 Dec 2025 13:31:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
