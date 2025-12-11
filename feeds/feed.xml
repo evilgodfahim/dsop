@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Dec 2025 01:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Dec 2025 03:20:05 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Dec 2025 01:11:39 GMT</pubDate>
+        <pubDate>Thu, 11 Dec 2025 03:20:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Stalled reforms leave journalists exposed amid poll security risks]]></title>
+            <description><![CDATA[As the country moves towards the much-anticipated 2026 general election—promised to be an exemplary one by the interim government led by Professor Muhammad Yunus—early signs of political intolerance and toxicity have become increasingly alarming.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/stalled-reforms-leave-journalists-exposed-amid-poll-security-risks-4055546</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/stalled-reforms-leave-journalists-exposed-amid-poll-security-risks-4055546</guid>
+            <pubDate>Thu, 11 Dec 2025 03:20:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Persistence of human rights abuse alarming]]></title>
             <description><![CDATA[Reforms within rule-of-law institutions must occur now, not later]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/persistence-human-rights-abuse-alarming-4055316</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/persistence-human-rights-abuse-alarming-4055316</guid>
-            <pubDate>Thu, 11 Dec 2025 01:11:39 GMT</pubDate>
+            <pubDate>Thu, 11 Dec 2025 03:20:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to bridge education and employment in Bangladesh]]></title>
             <description><![CDATA[Bangladesh's inability to create adequate opportunities for its young population has moved far beyond an economic concern.]]></description>
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/how-bridge-education-and-employment-bangladesh-4054621</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/how-bridge-education-and-employment-bangladesh-4054621</guid>
-            <pubDate>Thu, 11 Dec 2025 01:11:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[16 Days of activism: Will the dystopia for women ever end?]]></title>
-            <description><![CDATA[TDS: The Women’s Affairs Reforms Commission made 423 recommendations. How much has been implemented?]]></description>
-            <link>https://www.thedailystar.net/supplements/16-days-activism-2025/news/16-days-activism-will-the-dystopia-women-ever-end-4054816</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/supplements/16-days-activism-2025/news/16-days-activism-will-the-dystopia-women-ever-end-4054816</guid>
-            <pubDate>Thu, 11 Dec 2025 01:11:39 GMT</pubDate>
+            <pubDate>Thu, 11 Dec 2025 03:20:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
