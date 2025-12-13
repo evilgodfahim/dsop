@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Dec 2025 03:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Dec 2025 04:20:36 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 13 Dec 2025 03:11:22 GMT</pubDate>
+        <pubDate>Sat, 13 Dec 2025 04:20:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Prioritising reforms over governance: Putting the cart before the horse]]></title>
             <description><![CDATA[Every day our newspapers carry some story or op-ed article about why laws or regulations are not being implemented, projects are facing cost and time overruns, and completed projects are not delivering the outputs of products and services that they were expected to deliver.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/prioritising-reforms-over-governance-putting-the-cart-the-horse-4056956</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/prioritising-reforms-over-governance-putting-the-cart-the-horse-4056956</guid>
-            <pubDate>Sat, 13 Dec 2025 03:11:22 GMT</pubDate>
+            <pubDate>Sat, 13 Dec 2025 04:20:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Dhaka airport has turned into a game of Ludo]]></title>
+            <description><![CDATA[Dhaka airport's Terminal-3, which had a soft launch in October 2023, has completed 99 percent of its construction, according to reports.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/how-dhaka-airport-has-turned-game-ludo-4056966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/how-dhaka-airport-has-turned-game-ludo-4056966</guid>
+            <pubDate>Sat, 13 Dec 2025 04:20:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A test Bangladesh cannot afford to fail]]></title>
             <description><![CDATA[Election schedule marks a defining moment for our democratic future]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/test-bangladesh-cannot-afford-fail-4056786</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/test-bangladesh-cannot-afford-fail-4056786</guid>
-            <pubDate>Sat, 13 Dec 2025 03:11:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh needs more dynamic Islamic discourse]]></title>
-            <description><![CDATA[Begum Rokeya led a deeply pious life, full of respect for Islam and its values.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/bangladesh-needs-more-dynamic-islamic-discourse-4056306</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/bangladesh-needs-more-dynamic-islamic-discourse-4056306</guid>
-            <pubDate>Sat, 13 Dec 2025 03:11:22 GMT</pubDate>
+            <pubDate>Sat, 13 Dec 2025 04:20:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
