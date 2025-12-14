@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Dec 2025 01:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Dec 2025 03:24:01 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Dec 2025 01:16:33 GMT</pubDate>
+        <pubDate>Sun, 14 Dec 2025 03:24:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The police commission ordinance is an eyewash at best]]></title>
+            <description><![CDATA[The longstanding public demand and decades of relentless advocacy by stakeholders, particularly articulated as a key aspiration of the July movement, for an independent police commission, have been ruthlessly and shamelessly shattered by the Police Commission Ordinance 2025, gazetted on December 09, 2025.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-police-commission-ordinance-eyewash-best-4057631</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-police-commission-ordinance-eyewash-best-4057631</guid>
+            <pubDate>Sun, 14 Dec 2025 03:24:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What does it mean to honour the legacy of Bangladesh’s martyred intellectuals?]]></title>
+            <description><![CDATA[Occupying powers often follow the same old playbook. They fight not only armed opponents, but also the social conditions that make resistance possible—education, free speech, professional integrity, and the willingness to question authority.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-does-it-mean-honour-the-legacy-bangladeshs-martyred-intellectuals-4057641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-does-it-mean-honour-the-legacy-bangladeshs-martyred-intellectuals-4057641</guid>
+            <pubDate>Sun, 14 Dec 2025 03:24:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An ominous warning for the February polls]]></title>
             <description><![CDATA[Violence against candidates threatens public safety]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/ominous-warning-the-february-polls-4057556</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ominous-warning-the-february-polls-4057556</guid>
-            <pubDate>Sun, 14 Dec 2025 01:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prioritising reforms over governance: Putting the cart before the horse]]></title>
-            <description><![CDATA[Once the elected government decides to adopt a particular reform or set of reforms, they will need to operationalise this through legislation.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/prioritising-reforms-over-governance-putting-the-cart-the-horse-4056956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/prioritising-reforms-over-governance-putting-the-cart-the-horse-4056956</guid>
-            <pubDate>Sun, 14 Dec 2025 01:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Dhaka airport has turned into a game of Ludo]]></title>
-            <description><![CDATA[Dhaka airport's Terminal-3, which had a soft launch in October 2023, has completed 99 percent of its construction, according to reports.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/how-dhaka-airport-has-turned-game-ludo-4056966</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/how-dhaka-airport-has-turned-game-ludo-4056966</guid>
-            <pubDate>Sun, 14 Dec 2025 01:16:33 GMT</pubDate>
+            <pubDate>Sun, 14 Dec 2025 03:24:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
