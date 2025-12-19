@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Dec 2025 20:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 21:13:56 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Dec 2025 20:16:45 GMT</pubDate>
+        <pubDate>Fri, 19 Dec 2025 21:13:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[As deepfakes blur reality, voters must learn to doubt what they see]]></title>
+            <description><![CDATA[During the last election cycle, the country witnessed a relatively small but calculated deployment of deepfakes.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/deepfakes-blur-reality-voters-must-learn-doubt-what-they-see-4062146</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/deepfakes-blur-reality-voters-must-learn-doubt-what-they-see-4062146</guid>
+            <pubDate>Fri, 19 Dec 2025 21:13:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Washington just rewrote the geopolitical rules. Is Bangladesh ready?]]></title>
             <description><![CDATA[In November 2025, Washington did something extraordinary, silently codifying the end of the world order that had shaped global politics since the end of the Cold War.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/washington-just-rewrote-the-geopolitical-rules-bangladesh-ready-4062131</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/washington-just-rewrote-the-geopolitical-rules-bangladesh-ready-4062131</guid>
-            <pubDate>Fri, 19 Dec 2025 20:16:45 GMT</pubDate>
+            <pubDate>Fri, 19 Dec 2025 21:13:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Phulbari coal, power crisis, and a dangerous revisionism]]></title>
             <description><![CDATA[Regarding the Phulbari Open-Pit Coal Mining Project, the chief adviser's press secretary recently made a Facebook post suggesting that Bangladesh is facing a severe power crisis because coal at Phulbari was not extracted.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/phulbari-coal-power-crisis-and-dangerous-revisionism-4061851</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/phulbari-coal-power-crisis-and-dangerous-revisionism-4061851</guid>
-            <pubDate>Fri, 19 Dec 2025 20:16:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The gig economy’s convenience has an unseen toll]]></title>
-            <description><![CDATA[Bangladesh's gig economy, such as ride-sharing, food delivery, courier services, has mushroomed in the last decade.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-gig-economys-convenience-has-unseen-toll-4061856</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-gig-economys-convenience-has-unseen-toll-4061856</guid>
-            <pubDate>Fri, 19 Dec 2025 20:16:45 GMT</pubDate>
+            <pubDate>Fri, 19 Dec 2025 21:13:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
