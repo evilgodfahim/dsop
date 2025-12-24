@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Star – Opinion (dummy feed)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[The Daily Star – Opinion]]></title>
+        <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Dec 2025 01:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Dec 2025 03:19:19 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Dec 2025 01:11:01 GMT</pubDate>
+        <pubDate>Wed, 24 Dec 2025 03:19:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://www.thedailystar.net</link>
-            <guid isPermaLink="true">https://www.thedailystar.net</guid>
-            <pubDate>Wed, 24 Dec 2025 01:11:01 GMT</pubDate>
+            <title><![CDATA[The ‘strange fruit’ of Bhaluka and a republic in retreat]]></title>
+            <description><![CDATA[On the night of December 18, 2025, a young man was beaten to death, tied to a tree, and set ablaze by a mob in Bhaluka, Mymensingh.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-strange-fruit-bhaluka-and-republic-retreat-4064896</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-strange-fruit-bhaluka-and-republic-retreat-4064896</guid>
+            <pubDate>Wed, 24 Dec 2025 03:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We can’t afford silence in the face of growing mob violence]]></title>
+            <description><![CDATA[Govt must be firm as mobs torch newsrooms and state machinery looks away]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/we-cant-afford-silence-the-face-growing-mob-violence-4064716</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-cant-afford-silence-the-face-growing-mob-violence-4064716</guid>
+            <pubDate>Wed, 24 Dec 2025 03:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to ensure publicly funded software serves the public]]></title>
+            <description><![CDATA[Bangladesh has taken a bold step in declaring that software developed with public funds will be treated as a national asset.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-ensure-publicly-funded-software-serves-the-public-4064186</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-ensure-publicly-funded-software-serves-the-public-4064186</guid>
+            <pubDate>Wed, 24 Dec 2025 03:19:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
