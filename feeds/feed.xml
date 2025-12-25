@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Star – Opinion]]></title>
-        <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
+        <title><![CDATA[The Daily Star – Opinion (dummy feed)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Dec 2025 23:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Dec 2025 01:11:50 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Dec 2025 23:14:07 GMT</pubDate>
+        <pubDate>Thu, 25 Dec 2025 01:11:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[A smarter solar strategy essential for Bangladesh’s clean energy transition]]></title>
-            <description><![CDATA[In recent years, Bangladesh has made notable progress in renewable energy production.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/smarter-solar-strategy-essential-bangladeshs-clean-energy-transition-4065661</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/smarter-solar-strategy-essential-bangladeshs-clean-energy-transition-4065661</guid>
-            <pubDate>Wed, 24 Dec 2025 23:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poll concerns must be addressed seriously]]></title>
-            <description><![CDATA[EC must ensure proper enforcement of law and electoral code.]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/poll-concerns-must-be-addressed-seriously-4065451</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/poll-concerns-must-be-addressed-seriously-4065451</guid>
-            <pubDate>Wed, 24 Dec 2025 23:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The peace promise of ceasefire is but a mirage for Palestinians]]></title>
-            <description><![CDATA[The bombs may have eased, but Palestinian children are still dying.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-peace-promise-ceasefire-mirage-palestinians-4065311</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-peace-promise-ceasefire-mirage-palestinians-4065311</guid>
-            <pubDate>Wed, 24 Dec 2025 23:14:07 GMT</pubDate>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping.]]></description>
+            <link>https://www.thedailystar.net</link>
+            <guid isPermaLink="true">https://www.thedailystar.net</guid>
+            <pubDate>Thu, 25 Dec 2025 01:11:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
