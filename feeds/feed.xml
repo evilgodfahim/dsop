@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Dec 2025 03:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Dec 2025 04:30:25 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Dec 2025 03:20:09 GMT</pubDate>
+        <pubDate>Fri, 26 Dec 2025 04:30:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Short-term profit should not drive our shipping policy]]></title>
             <description><![CDATA[Recently,  Bangladesh Shipping Corporation (BSC) has reported its highest net profit in 54 years, an achievement that has understandably generated optimism among policymakers and maritime stakeholders.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/short-term-profit-should-not-drive-our-shipping-policy-4066266</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/short-term-profit-should-not-drive-our-shipping-policy-4066266</guid>
-            <pubDate>Fri, 26 Dec 2025 03:20:09 GMT</pubDate>
+            <pubDate>Fri, 26 Dec 2025 04:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dipu Chandra Das and a tragedy of outrage without truth]]></title>
+            <description><![CDATA[Dipu Chandra Das did not die because he insulted a religion. He died because accusation has become a more powerful weapon than truth, and because crowds in Bangladesh increasingly believe that outrage is evidence enough.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/dipu-chandra-das-and-tragedy-outrage-without-truth-4066281</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dipu-chandra-das-and-tragedy-outrage-without-truth-4066281</guid>
+            <pubDate>Fri, 26 Dec 2025 04:30:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A psychological reset for BNP, a moment of political recalibration for Bangladesh]]></title>
             <description><![CDATA[Tarique Rahman returns home after 17 years in exile]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/psychological-reset-bnp-moment-political-recalibration-bangladesh-4066131</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/psychological-reset-bnp-moment-political-recalibration-bangladesh-4066131</guid>
-            <pubDate>Fri, 26 Dec 2025 03:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Temporary solutions do little to help Rohingya women]]></title>
-            <description><![CDATA[Every so often, news reports surface to remind us of the painfully perpetual existence of the Rohingya crisis in our very own backwaters.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/closer-look/news/temporary-solutions-do-little-help-rohingya-women-4065646</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/temporary-solutions-do-little-help-rohingya-women-4065646</guid>
-            <pubDate>Fri, 26 Dec 2025 03:20:09 GMT</pubDate>
+            <pubDate>Fri, 26 Dec 2025 04:30:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
