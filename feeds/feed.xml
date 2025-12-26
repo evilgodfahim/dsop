@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Dec 2025 14:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Dec 2025 15:15:27 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Dec 2025 14:14:39 GMT</pubDate>
+        <pubDate>Fri, 26 Dec 2025 15:15:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Oversight without independence?]]></title>
+            <description><![CDATA[Replacing NTMC won’t matter if government retains the helm]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/oversight-without-independence-4066626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/oversight-without-independence-4066626</guid>
+            <pubDate>Fri, 26 Dec 2025 15:15:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Short-term profit should not drive our shipping policy]]></title>
             <description><![CDATA[Recently,  Bangladesh Shipping Corporation (BSC) has reported its highest net profit in 54 years, an achievement that has understandably generated optimism among policymakers and maritime stakeholders.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/short-term-profit-should-not-drive-our-shipping-policy-4066266</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/short-term-profit-should-not-drive-our-shipping-policy-4066266</guid>
-            <pubDate>Fri, 26 Dec 2025 14:14:39 GMT</pubDate>
+            <pubDate>Fri, 26 Dec 2025 15:15:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adieu to a frontliner of our Liberation War]]></title>
             <description><![CDATA[On December 20, 2025, Bangladesh lost Bir Uttam Abdul Karim Khandker, Liberation War deputy chief of staff and the first chief of the Bangladesh Air Force.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/adieu-frontliner-our-liberation-war-4066271</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/adieu-frontliner-our-liberation-war-4066271</guid>
-            <pubDate>Fri, 26 Dec 2025 14:14:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shrimp over rice and the quiet erosion of our food security]]></title>
-            <description><![CDATA[Recent reports on the southern coast describe an alarming breakdown in dry-season farming.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/shrimp-over-rice-and-the-quiet-erosion-our-food-security-4066276</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/shrimp-over-rice-and-the-quiet-erosion-our-food-security-4066276</guid>
-            <pubDate>Fri, 26 Dec 2025 14:14:39 GMT</pubDate>
+            <pubDate>Fri, 26 Dec 2025 15:15:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
