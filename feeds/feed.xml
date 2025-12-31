@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 31 Dec 2025 04:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Dec 2025 05:22:57 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 31 Dec 2025 04:34:09 GMT</pubDate>
+        <pubDate>Wed, 31 Dec 2025 05:22:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What economy are we leaving behind in 2025?]]></title>
             <description><![CDATA[When the interim government formed following the July 2024 uprising, macroeconomic stability was weak, with several major economic indicators performing poorly.]]></description>
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/what-economy-are-we-leaving-behind-2025-4069576</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/what-economy-are-we-leaving-behind-2025-4069576</guid>
-            <pubDate>Wed, 31 Dec 2025 04:34:09 GMT</pubDate>
+            <pubDate>Wed, 31 Dec 2025 05:22:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How 2025 thinned our cultural space]]></title>
+            <description><![CDATA[If there is one unsettling thread running through Bangladesh's civic space in 2025, it is not confined to uncertain politics, mob outbursts or economic troubles. It runs—often violently—through our cultural scene.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/closer-look/news/how-2025-thinned-our-cultural-space-4069561</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/how-2025-thinned-our-cultural-space-4069561</guid>
+            <pubDate>Wed, 31 Dec 2025 05:22:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A leader who strengthened our struggle for democracy]]></title>
             <description><![CDATA[Khaleda Zia leaves behind an enduring legacy of service.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/leader-who-strengthened-our-struggle-democracy-4069411</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/leader-who-strengthened-our-struggle-democracy-4069411</guid>
-            <pubDate>Wed, 31 Dec 2025 04:34:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why seaport reforms must begin at the customs house]]></title>
-            <description><![CDATA[The ongoing debate over seaport reforms in Bangladesh is largely centred on the long-term leasing of terminals to foreign operators to modernise port infrastructure.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-seaport-reforms-must-begin-the-customs-house-4068816</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-seaport-reforms-must-begin-the-customs-house-4068816</guid>
-            <pubDate>Wed, 31 Dec 2025 04:34:09 GMT</pubDate>
+            <pubDate>Wed, 31 Dec 2025 05:22:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
