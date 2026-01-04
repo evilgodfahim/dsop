@@ -4,30 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Jan 2026 18:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jan 2026 19:11:31 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Jan 2026 18:21:07 GMT</pubDate>
+        <pubDate>Sun, 04 Jan 2026 19:11:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Memory, museums, and the danger of forgetting]]></title>
+            <description><![CDATA[Recently, while rereading The Museum of Innocence, I was struck again by Orhan Pamuk's insistence that memory does not disappear all at once.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/memory-museums-and-the-danger-forgetting-4073256</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/memory-museums-and-the-danger-forgetting-4073256</guid>
+            <pubDate>Sun, 04 Jan 2026 19:11:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are we entering an era of 'might is right'?]]></title>
             <description><![CDATA[US action may embolden other powers and destroy global stability]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/are-we-entering-era-might-right-4073131</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/are-we-entering-era-might-right-4073131</guid>
-            <pubDate>Sun, 04 Jan 2026 18:21:07 GMT</pubDate>
+            <pubDate>Sun, 04 Jan 2026 19:11:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Venezuela attack and the geopolitics of oil control]]></title>
             <description><![CDATA[The US strike in Venezuela has triggered a crisis with potentially global consequences]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/venezuela-attack-and-the-geopolitics-oil-control-4073046</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/venezuela-attack-and-the-geopolitics-oil-control-4073046</guid>
-            <pubDate>Sun, 04 Jan 2026 18:21:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Education reform: Too little, too late under the interim regime]]></title>
-            <description><![CDATA[The tenure of the interim government (IG) since August 2024 has not been particularly comforting for the country's education community.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/education-reform-too-little-too-late-under-the-interim-regime-4072331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/education-reform-too-little-too-late-under-the-interim-regime-4072331</guid>
-            <pubDate>Sun, 04 Jan 2026 18:21:07 GMT</pubDate>
+            <pubDate>Sun, 04 Jan 2026 19:11:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
