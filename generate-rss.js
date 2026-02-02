@@ -5,18 +5,46 @@ const RSS = require("rss");
 
 const baseURL = "https://www.thedailystar.net";
 const targetURL = "https://www.thedailystar.net/opinion";
+const flareSolverrURL = process.env.FLARESOLVERR_URL || "http://localhost:8191";
 
 // Ensure feeds folder exists
 fs.mkdirSync("./feeds", { recursive: true });
 
+async function fetchWithFlareSolverr(url) {
+  try {
+    console.log(`Fetching ${url} via FlareSolverr...`);
+    
+    const response = await axios.post(
+      `${flareSolverrURL}/v1`,
+      {
+        cmd: "request.get",
+        url: url,
+        maxTimeout: 60000
+      },
+      {
+        headers: { "Content-Type": "application/json" },
+        timeout: 65000
+      }
+    );
+
+    if (response.data && response.data.solution) {
+      console.log("✅ FlareSolverr successfully bypassed protection");
+      return response.data.solution.response;
+    } else {
+      throw new Error("FlareSolverr did not return a solution");
+    }
+  } catch (error) {
+    console.error("❌ FlareSolverr error:", error.message);
+    throw error;
+  }
+}
+
 async function generateRSS() {
   try {
-    const { data } = await axios.get(targetURL, {
-      headers: { "User-Agent": "Mozilla/5.0 (Feed Generator Bot)" },
-      timeout: 20000
-    });
-
-    const $ = cheerio.load(data);
+    // Fetch page content using FlareSolverr
+    const htmlContent = await fetchWithFlareSolverr(targetURL);
+    
+    const $ = cheerio.load(htmlContent);
     const items = [];
 
     // Scrape all articles
