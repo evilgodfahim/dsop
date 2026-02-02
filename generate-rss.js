@@ -47,16 +47,36 @@ async function generateRSS() {
     const $ = cheerio.load(htmlContent);
     const items = [];
 
-    // Scrape all articles
-    $("div.card-content.quote-two").each((_, el) => {
-      const aTag = $(el).find("h3.title a");
-      const title = aTag.text().trim();
-      const href = aTag.attr("href");
-      const intro = $(el).find("p.intro").text().trim();
+    // Scrape all articles using the new selectors
+    $("div.card").each((_, el) => {
+      const $card = $(el);
+      
+      // Get title from h5.card-title or h1.card-title
+      const titleElement = $card.find("h5.card-title a, h1.card-title a").first();
+      const title = titleElement.text().trim();
+      const href = titleElement.attr("href");
+      
+      // Get description/intro if available
+      const intro = $card.find("div.card-intro").text().trim() || 
+                    $card.find("p.intro").text().trim();
+      
+      // Get author if available
+      const author = $card.find("div.author a").text().trim();
+      
+      // Get date if available
+      const date = $card.find("div.card-info span").first().text().trim();
 
       if (title && href) {
         const link = href.startsWith("http") ? href : baseURL + href;
-        items.push({ title, link, description: intro });
+        const description = intro || (author ? `By ${author}` : "");
+        
+        items.push({ 
+          title, 
+          link, 
+          description,
+          author,
+          date
+        });
       }
     });
 
@@ -68,7 +88,9 @@ async function generateRSS() {
       items.push({
         title: "No articles found yet",
         link: baseURL,
-        description: "RSS feed could not scrape any articles."
+        description: "RSS feed could not scrape any articles.",
+        author: "",
+        date: new Date().toUTCString()
       });
     }
 
@@ -87,7 +109,8 @@ async function generateRSS() {
         title: item.title,
         url: item.link,
         description: item.description,
-        date: new Date()
+        author: item.author || undefined,
+        date: item.date || new Date()
       });
     });
 
