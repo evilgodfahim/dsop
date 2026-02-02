@@ -4,16 +4,157 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Feb 2026 13:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 13:33:59 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Feb 2026 13:20:38 GMT</pubDate>
+        <pubDate>Mon, 02 Feb 2026 13:33:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[No articles found yet]]></title>
-            <description><![CDATA[RSS feed could not scrape any articles.]]></description>
-            <link>https://www.thedailystar.net</link>
-            <guid isPermaLink="true">https://www.thedailystar.net</guid>
-            <pubDate>Mon, 02 Feb 2026 13:20:38 GMT</pubDate>
+            <title><![CDATA[Opinion / Why we need more ‘techies’ in our newsrooms]]></title>
+            <description><![CDATA[From the invention of the printing press to the rise of broadcast media, every major shift in communication technology has reshaped how news is produced, distributed, and consumed. Journalism has survived for centuries not because it resisted change, but because it adapted to it.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-we-need-more-techies-our-newsrooms-4096116</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-we-need-more-techies-our-newsrooms-4096116</guid>
+            <dc:creator><![CDATA[Usama Rafid]]></dc:creator>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Editorial / Why the hurry to sign deals?]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/why-the-hurry-sign-deals-4095886</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-the-hurry-sign-deals-4095886</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / The NCP manifesto: Bold on youth, silent on inclusion]]></title>
+            <description><![CDATA[By Kamal Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-ncp-manifesto-bold-youth-silent-inclusion-4096096</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-ncp-manifesto-bold-youth-silent-inclusion-4096096</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Wetlands Day / Failed governance is killing our wetlands. We must act fast]]></title>
+            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/failed-governance-killing-our-wetlands-we-must-act-fast-4096136</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/failed-governance-killing-our-wetlands-we-must-act-fast-4096136</guid>
+            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
+            <pubDate>Mon, 02 Feb 2026 00:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / Safeguarding voters’ minds against AI]]></title>
+            <description><![CDATA[By Shoukot Ali]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/safeguarding-voters-minds-against-ai-4096146</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/safeguarding-voters-minds-against-ai-4096146</guid>
+            <dc:creator><![CDATA[Shoukot Ali]]></dc:creator>
+            <pubDate>Mon, 02 Feb 2026 00:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / Voters must hold politicians to task over health and education]]></title>
+            <description><![CDATA[By Anu Muhammad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/voters-must-hold-politicians-task-over-health-and-education-4095406</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/voters-must-hold-politicians-task-over-health-and-education-4095406</guid>
+            <dc:creator><![CDATA[Anu Muhammad]]></dc:creator>
+            <pubDate>Sun, 01 Feb 2026 04:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who will seal off these wells of death?]]></title>
+            <description><![CDATA[By Md. Firoj Alam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/who-will-seal-these-wells-death-4095411</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/who-will-seal-these-wells-death-4095411</guid>
+            <dc:creator><![CDATA[Md. Firoj Alam]]></dc:creator>
+            <pubDate>Sun, 01 Feb 2026 04:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / Why does the taka remain weak despite record remittances?]]></title>
+            <description><![CDATA[By Md Mominur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-does-the-taka-remain-weak-despite-record-remittances-4095421</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-does-the-taka-remain-weak-despite-record-remittances-4095421</guid>
+            <dc:creator><![CDATA[Md Mominur Rahman]]></dc:creator>
+            <pubDate>Sun, 01 Feb 2026 04:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Editorial / A test for the government before the polls]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/test-the-government-the-polls-4096086</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/test-the-government-the-polls-4096086</guid>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Editorial / The key is in proper execution of the law]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/the-key-proper-execution-the-law-4095401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-key-proper-execution-the-law-4095401</guid>
+            <pubDate>Sun, 01 Feb 2026 04:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Editorial / Why are there so few women candidates?]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/why-are-there-so-few-women-candidates-4095026</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-are-there-so-few-women-candidates-4095026</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unnecessary C-sections must be stopped]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/unnecessary-c-sections-must-be-stopped-4094616</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/unnecessary-c-sections-must-be-stopped-4094616</guid>
+            <pubDate>Sat, 31 Jan 2026 06:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Protect the referendum’s integrity]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/protect-the-referendums-integrity-4094601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-the-referendums-integrity-4094601</guid>
+            <pubDate>Sat, 31 Jan 2026 06:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Education needs decisive actions, not empty promises]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/education-needs-decisive-actions-not-empty-promises-4094621</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/education-needs-decisive-actions-not-empty-promises-4094621</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 31 Jan 2026 06:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / Media reform in Bangladesh needs precision, not pressure]]></title>
+            <description><![CDATA[By S.M. Rezwan-Ul-Alam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/media-reform-bangladesh-needs-precision-not-pressure-4093966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/media-reform-bangladesh-needs-precision-not-pressure-4093966</guid>
+            <dc:creator><![CDATA[S.M. Rezwan-Ul-Alam]]></dc:creator>
+            <pubDate>Fri, 30 Jan 2026 00:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oral history, 1971, and the danger of erasing memory]]></title>
+            <description><![CDATA[By Tahsina Nasir]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/oral-history-1971-and-the-danger-erasing-memory-4094631</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/oral-history-1971-and-the-danger-erasing-memory-4094631</guid>
+            <dc:creator><![CDATA[Tahsina Nasir]]></dc:creator>
+            <pubDate>Sat, 31 Jan 2026 07:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Integrating nutrition into primary care: A way forward to prevent disease and help people thrive]]></title>
+            <description><![CDATA[By Shah Mohammad Fahim]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/integrating-nutrition-primary-care-way-forward-prevent-disease-and-help-people-thrive-4094636</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/integrating-nutrition-primary-care-way-forward-prevent-disease-and-help-people-thrive-4094636</guid>
+            <dc:creator><![CDATA[Shah Mohammad Fahim]]></dc:creator>
+            <pubDate>Sat, 31 Jan 2026 07:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Confrontational election politics shows that little has changed]]></title>
+            <description><![CDATA[By Azman Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/confrontational-election-politics-shows-little-has-changed-4093991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/confrontational-election-politics-shows-little-has-changed-4093991</guid>
+            <dc:creator><![CDATA[Azman Rahman]]></dc:creator>
+            <pubDate>Fri, 30 Jan 2026 00:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / Yes, no and 'confused': A closer look at the July charter as the referendum nears]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/yes-no-and-confused-closer-look-the-july-charter-the-referendum-nears-4093996</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/yes-no-and-confused-closer-look-the-july-charter-the-referendum-nears-4093996</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Fri, 30 Jan 2026 01:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s T20 snub: ICC failed a key test of sporting governance]]></title>
+            <description><![CDATA[By Md. Arifujjaman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-t20-snub-icc-failed-key-test-sporting-governance-4092991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-t20-snub-icc-failed-key-test-sporting-governance-4092991</guid>
+            <dc:creator><![CDATA[Md. Arifujjaman]]></dc:creator>
+            <pubDate>Thu, 29 Jan 2026 01:04:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
