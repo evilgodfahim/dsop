@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Feb 2026 13:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 13:57:59 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Feb 2026 13:33:59 GMT</pubDate>
+        <pubDate>Mon, 02 Feb 2026 13:57:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Editorial / A test for the government before the polls]]></title>
+            <description><![CDATA[Surge in mob killings and violence raises alarm]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/test-the-government-the-polls-4096086</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/test-the-government-the-polls-4096086</guid>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Opinion / Why we need more ‘techies’ in our newsrooms]]></title>
-            <description><![CDATA[From the invention of the printing press to the rise of broadcast media, every major shift in communication technology has reshaped how news is produced, distributed, and consumed. Journalism has survived for centuries not because it resisted change, but because it adapted to it.]]></description>
+            <description><![CDATA[By Usama Rafid]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/why-we-need-more-techies-our-newsrooms-4096116</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-we-need-more-techies-our-newsrooms-4096116</guid>
             <dc:creator><![CDATA[Usama Rafid]]></dc:creator>
@@ -63,20 +70,6 @@
             <pubDate>Sun, 01 Feb 2026 04:36:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Opinion / Why does the taka remain weak despite record remittances?]]></title>
-            <description><![CDATA[By Md Mominur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-does-the-taka-remain-weak-despite-record-remittances-4095421</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-does-the-taka-remain-weak-despite-record-remittances-4095421</guid>
-            <dc:creator><![CDATA[Md Mominur Rahman]]></dc:creator>
-            <pubDate>Sun, 01 Feb 2026 04:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Editorial / A test for the government before the polls]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/test-the-government-the-polls-4096086</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/test-the-government-the-polls-4096086</guid>
-            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Editorial / The key is in proper execution of the law]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/the-key-proper-execution-the-law-4095401</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-key-proper-execution-the-law-4095401</guid>
@@ -99,6 +92,20 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/protect-the-referendums-integrity-4094601</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-the-referendums-integrity-4094601</guid>
             <pubDate>Sat, 31 Jan 2026 06:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are so many dying by suicide?]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/why-are-so-many-dying-suicide-4093946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-are-so-many-dying-suicide-4093946</guid>
+            <pubDate>Fri, 30 Jan 2026 00:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion /  Islamic banks merger: Depositors deserve transparency in Shariah decisions]]></title>
+            <description><![CDATA[By Mezbah Uddin Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/islamic-banks-merger-depositors-deserve-transparency-shariah-decisions-4095426</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/islamic-banks-merger-depositors-deserve-transparency-shariah-decisions-4095426</guid>
+            <dc:creator><![CDATA[Mezbah Uddin Ahmed]]></dc:creator>
+            <pubDate>Sun, 01 Feb 2026 04:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Education needs decisive actions, not empty promises]]></title>
@@ -147,14 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/yes-no-and-confused-closer-look-the-july-charter-the-referendum-nears-4093996</guid>
             <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
             <pubDate>Fri, 30 Jan 2026 01:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s T20 snub: ICC failed a key test of sporting governance]]></title>
-            <description><![CDATA[By Md. Arifujjaman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-t20-snub-icc-failed-key-test-sporting-governance-4092991</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-t20-snub-icc-failed-key-test-sporting-governance-4092991</guid>
-            <dc:creator><![CDATA[Md. Arifujjaman]]></dc:creator>
-            <pubDate>Thu, 29 Jan 2026 01:04:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
