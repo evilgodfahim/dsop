@@ -4,13 +4,28 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Feb 2026 01:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Feb 2026 04:09:41 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Feb 2026 01:29:35 GMT</pubDate>
+        <pubDate>Tue, 03 Feb 2026 04:09:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[A tough fiscal test awaits the next government]]></title>
+            <description><![CDATA[In the run-up to the national election, political parties in Bangladesh are making an array of commitments to voters, such as job creation for the youth, increased allocation for health and education, support for households, social protection, and price relief.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/tough-fiscal-test-awaits-the-next-government-4097066</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/tough-fiscal-test-awaits-the-next-government-4097066</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Election legitimacy and the absence of Awami League]]></title>
+            <description><![CDATA[By David Bergman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/election-legitimacy-and-the-absence-awami-league-4097081</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/election-legitimacy-and-the-absence-awami-league-4097081</guid>
+            <dc:creator><![CDATA[David Bergman]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Editorial / A test for the government before the polls]]></title>
-            <description><![CDATA[Surge in mob killings and violence raises alarm]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/test-the-government-the-polls-4096086</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/test-the-government-the-polls-4096086</guid>
             <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
@@ -54,22 +69,6 @@
             <pubDate>Mon, 02 Feb 2026 00:12:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Opinion / Voters must hold politicians to task over health and education]]></title>
-            <description><![CDATA[By Anu Muhammad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/voters-must-hold-politicians-task-over-health-and-education-4095406</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/voters-must-hold-politicians-task-over-health-and-education-4095406</guid>
-            <dc:creator><![CDATA[Anu Muhammad]]></dc:creator>
-            <pubDate>Sun, 01 Feb 2026 04:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who will seal off these wells of death?]]></title>
-            <description><![CDATA[By Md. Firoj Alam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/who-will-seal-these-wells-death-4095411</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/who-will-seal-these-wells-death-4095411</guid>
-            <dc:creator><![CDATA[Md. Firoj Alam]]></dc:creator>
-            <pubDate>Sun, 01 Feb 2026 04:36:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Editorial / The key is in proper execution of the law]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/the-key-proper-execution-the-law-4095401</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-key-proper-execution-the-law-4095401</guid>
@@ -98,6 +97,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/why-are-so-many-dying-suicide-4093946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-are-so-many-dying-suicide-4093946</guid>
             <pubDate>Fri, 30 Jan 2026 00:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who will seal off these wells of death?]]></title>
+            <description><![CDATA[By Md. Firoj Alam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/who-will-seal-these-wells-death-4095411</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/who-will-seal-these-wells-death-4095411</guid>
+            <dc:creator><![CDATA[Md. Firoj Alam]]></dc:creator>
+            <pubDate>Sun, 01 Feb 2026 04:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / Why does the taka remain weak despite record remittances?]]></title>
+            <description><![CDATA[By Md Mominur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-does-the-taka-remain-weak-despite-record-remittances-4095421</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-does-the-taka-remain-weak-despite-record-remittances-4095421</guid>
+            <dc:creator><![CDATA[Md Mominur Rahman]]></dc:creator>
+            <pubDate>Sun, 01 Feb 2026 04:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Opinion /  Islamic banks merger: Depositors deserve transparency in Shariah decisions]]></title>
@@ -138,22 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/integrating-nutrition-primary-care-way-forward-prevent-disease-and-help-people-thrive-4094636</guid>
             <dc:creator><![CDATA[Shah Mohammad Fahim]]></dc:creator>
             <pubDate>Sat, 31 Jan 2026 07:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Confrontational election politics shows that little has changed]]></title>
-            <description><![CDATA[By Azman Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/confrontational-election-politics-shows-little-has-changed-4093991</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/confrontational-election-politics-shows-little-has-changed-4093991</guid>
-            <dc:creator><![CDATA[Azman Rahman]]></dc:creator>
-            <pubDate>Fri, 30 Jan 2026 00:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion / Yes, no and 'confused': A closer look at the July charter as the referendum nears]]></title>
-            <description><![CDATA[By Kallol Mustafa]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/yes-no-and-confused-closer-look-the-july-charter-the-referendum-nears-4093996</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/yes-no-and-confused-closer-look-the-july-charter-the-referendum-nears-4093996</guid>
-            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Fri, 30 Jan 2026 01:07:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
