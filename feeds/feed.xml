@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Feb 2026 06:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Feb 2026 07:37:56 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Feb 2026 06:41:51 GMT</pubDate>
+        <pubDate>Tue, 03 Feb 2026 07:37:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A tough fiscal test awaits the next government]]></title>
@@ -17,20 +17,28 @@
             <pubDate>Tue, 03 Feb 2026 00:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[As SAARC remains dormant, South Asia must look elsewhere]]></title>
+            <title><![CDATA[Opinion / As SAARC remains dormant, South Asia must look elsewhere]]></title>
             <description><![CDATA[By Md Mostafizur Rahman Nafis Ehsas Chowdhury]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/saarc-remains-dormant-south-asia-must-look-elsewhere-4097076</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/saarc-remains-dormant-south-asia-must-look-elsewhere-4097076</guid>
             <dc:creator><![CDATA[Md Mostafizur Rahman Nafis Ehsas Chowdhury]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Tue, 03 Feb 2026 00:32:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Election legitimacy and the absence of Awami League]]></title>
+            <title><![CDATA[Opinion / Election legitimacy and the absence of Awami League]]></title>
             <description><![CDATA[By David Bergman]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/election-legitimacy-and-the-absence-awami-league-4097081</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/election-legitimacy-and-the-absence-awami-league-4097081</guid>
             <dc:creator><![CDATA[David Bergman]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Tue, 03 Feb 2026 00:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Better care for ovarian cancer is possible, and long overdue]]></title>
+            <description><![CDATA[By Rafe Sadnan Adel]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/better-care-ovarian-cancer-possible-and-long-overdue-4097086</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/better-care-ovarian-cancer-possible-and-long-overdue-4097086</guid>
+            <dc:creator><![CDATA[Rafe Sadnan Adel]]></dc:creator>
+            <pubDate>Tue, 03 Feb 2026 00:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Editorial / A test for the government before the polls]]></title>
@@ -61,7 +69,7 @@
             <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Green funds must prioritise SMEs]]></title>
+            <title><![CDATA[Editorial / Green funds must prioritise SMEs]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/green-funds-must-prioritise-smes-4097061</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/green-funds-must-prioritise-smes-4097061</guid>
             <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
@@ -89,12 +97,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/protect-the-referendums-integrity-4094601</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-the-referendums-integrity-4094601</guid>
             <pubDate>Sat, 31 Jan 2026 06:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are so many dying by suicide?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/why-are-so-many-dying-suicide-4093946</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-are-so-many-dying-suicide-4093946</guid>
-            <pubDate>Fri, 30 Jan 2026 00:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Opinion / Safeguarding voters’ minds against AI]]></title>
