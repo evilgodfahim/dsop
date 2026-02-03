@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Feb 2026 05:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Feb 2026 06:41:51 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Feb 2026 05:44:51 GMT</pubDate>
+        <pubDate>Tue, 03 Feb 2026 06:41:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A tough fiscal test awaits the next government]]></title>
@@ -14,7 +14,7 @@
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/tough-fiscal-test-awaits-the-next-government-4097066</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/tough-fiscal-test-awaits-the-next-government-4097066</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Tue, 03 Feb 2026 00:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[As SAARC remains dormant, South Asia must look elsewhere]]></title>
@@ -61,12 +61,10 @@
             <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World Wetlands Day / Failed governance is killing our wetlands. We must act fast]]></title>
-            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/failed-governance-killing-our-wetlands-we-must-act-fast-4096136</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/failed-governance-killing-our-wetlands-we-must-act-fast-4096136</guid>
-            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
-            <pubDate>Mon, 02 Feb 2026 00:06:00 GMT</pubDate>
+            <title><![CDATA[Green funds must prioritise SMEs]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/green-funds-must-prioritise-smes-4097061</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/green-funds-must-prioritise-smes-4097061</guid>
+            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Editorial / The key is in proper execution of the law]]></title>
@@ -97,6 +95,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/why-are-so-many-dying-suicide-4093946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-are-so-many-dying-suicide-4093946</guid>
             <pubDate>Fri, 30 Jan 2026 00:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / Safeguarding voters’ minds against AI]]></title>
+            <description><![CDATA[By Shoukot Ali]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/safeguarding-voters-minds-against-ai-4096146</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/safeguarding-voters-minds-against-ai-4096146</guid>
+            <dc:creator><![CDATA[Shoukot Ali]]></dc:creator>
+            <pubDate>Mon, 02 Feb 2026 00:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Opinion / Voters must hold politicians to task over health and education]]></title>
@@ -145,14 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/media-reform-bangladesh-needs-precision-not-pressure-4093966</guid>
             <dc:creator><![CDATA[S.M. Rezwan-Ul-Alam]]></dc:creator>
             <pubDate>Fri, 30 Jan 2026 00:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oral history, 1971, and the danger of erasing memory]]></title>
-            <description><![CDATA[By Tahsina Nasir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/oral-history-1971-and-the-danger-erasing-memory-4094631</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/oral-history-1971-and-the-danger-erasing-memory-4094631</guid>
-            <dc:creator><![CDATA[Tahsina Nasir]]></dc:creator>
-            <pubDate>Sat, 31 Jan 2026 07:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
