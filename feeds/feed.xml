@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 12:45:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 14:02:06 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Feb 2026 12:45:36 GMT</pubDate>
+        <pubDate>Thu, 05 Feb 2026 14:02:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Voters need assurance of safety, not denial of facts]]></title>
+            <description><![CDATA[Denying the presence of electoral violence will do little to assure voter of election day safety.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/voters-need-assurance-safety-not-denial-facts-4098956</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/voters-need-assurance-safety-not-denial-facts-4098956</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Epstein Files and the politics of partial truths]]></title>
-            <description><![CDATA[Epstein’s is not only a story of individual depravity, but of institutional deference to wealth and status.]]></description>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/the-epstein-files-and-the-politics-partial-truths-4098796</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-epstein-files-and-the-politics-partial-truths-4098796</guid>
             <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
@@ -65,14 +72,6 @@
             <pubDate>Tue, 03 Feb 2026 00:32:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Opinion / Election legitimacy and the absence of Awami League]]></title>
-            <description><![CDATA[By David Bergman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/election-legitimacy-and-the-absence-awami-league-4097081</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/election-legitimacy-and-the-absence-awami-league-4097081</guid>
-            <dc:creator><![CDATA[David Bergman]]></dc:creator>
-            <pubDate>Tue, 03 Feb 2026 00:36:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Editorial / Protect food items from hazardous chemicals]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/protect-food-items-hazardous-chemicals-4098301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-food-items-hazardous-chemicals-4098301</guid>
@@ -101,6 +100,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/why-are-there-so-few-women-candidates-4095026</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-are-there-so-few-women-candidates-4095026</guid>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / Better care for ovarian cancer is possible, and long overdue]]></title>
+            <description><![CDATA[By Rafe Sadnan Adel]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/better-care-ovarian-cancer-possible-and-long-overdue-4097086</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/better-care-ovarian-cancer-possible-and-long-overdue-4097086</guid>
+            <dc:creator><![CDATA[Rafe Sadnan Adel]]></dc:creator>
+            <pubDate>Tue, 03 Feb 2026 00:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Opinion / The NCP manifesto: Bold on youth, silent on inclusion]]></title>
@@ -149,14 +156,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/who-will-seal-these-wells-death-4095411</guid>
             <dc:creator><![CDATA[Md. Firoj Alam]]></dc:creator>
             <pubDate>Sun, 01 Feb 2026 04:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion / Why does the taka remain weak despite record remittances?]]></title>
-            <description><![CDATA[By Md Mominur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-does-the-taka-remain-weak-despite-record-remittances-4095421</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-does-the-taka-remain-weak-despite-record-remittances-4095421</guid>
-            <dc:creator><![CDATA[Md Mominur Rahman]]></dc:creator>
-            <pubDate>Sun, 01 Feb 2026 04:41:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
