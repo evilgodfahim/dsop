@@ -4,20 +4,28 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 10:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 11:30:38 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Feb 2026 10:34:41 GMT</pubDate>
+        <pubDate>Thu, 05 Feb 2026 11:30:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The Epstein Files and the politics of partial truths]]></title>
+            <description><![CDATA[Epstein’s is not only a story of individual depravity, but of institutional deference to wealth and status.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-epstein-files-and-the-politics-partial-truths-4098796</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-epstein-files-and-the-politics-partial-truths-4098796</guid>
+            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Opinion / Youth vote and the limits of democratic absorption]]></title>
-            <description><![CDATA[“We dreamt of a country where all people, regardless of gender, race, religion, would have equal opportunity… We expected policy changes and reforms, but it is far away from what we dreamt of.”]]></description>
+            <description><![CDATA[By Tasneem Tayeb]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/youth-vote-and-the-limits-democratic-absorption-4098306</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/youth-vote-and-the-limits-democratic-absorption-4098306</guid>
             <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
             <pubDate>Thu, 05 Feb 2026 00:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[True patriotism means confronting our environmental crisis]]></title>
+            <title><![CDATA[Opinion / True patriotism means confronting our environmental crisis]]></title>
             <description><![CDATA[By Ahad Chowdhury]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/true-patriotism-means-confronting-our-environmental-crisis-4098316</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/true-patriotism-means-confronting-our-environmental-crisis-4098316</guid>
@@ -65,15 +73,7 @@
             <pubDate>Tue, 03 Feb 2026 00:36:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Opinion / Better care for ovarian cancer is possible, and long overdue]]></title>
-            <description><![CDATA[By Rafe Sadnan Adel]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/better-care-ovarian-cancer-possible-and-long-overdue-4097086</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/better-care-ovarian-cancer-possible-and-long-overdue-4097086</guid>
-            <dc:creator><![CDATA[Rafe Sadnan Adel]]></dc:creator>
-            <pubDate>Tue, 03 Feb 2026 00:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protect food items from hazardous chemicals]]></title>
+            <title><![CDATA[Editorial / Protect food items from hazardous chemicals]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/protect-food-items-hazardous-chemicals-4098301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-food-items-hazardous-chemicals-4098301</guid>
             <pubDate>Thu, 05 Feb 2026 00:10:00 GMT</pubDate>
@@ -101,6 +101,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/why-are-there-so-few-women-candidates-4095026</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-are-there-so-few-women-candidates-4095026</guid>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / The NCP manifesto: Bold on youth, silent on inclusion]]></title>
+            <description><![CDATA[By Kamal Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-ncp-manifesto-bold-youth-silent-inclusion-4096096</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-ncp-manifesto-bold-youth-silent-inclusion-4096096</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Opinion / Why we need more ‘techies’ in our newsrooms]]></title>
@@ -149,14 +157,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-does-the-taka-remain-weak-despite-record-remittances-4095421</guid>
             <dc:creator><![CDATA[Md Mominur Rahman]]></dc:creator>
             <pubDate>Sun, 01 Feb 2026 04:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion /  Islamic banks merger: Depositors deserve transparency in Shariah decisions]]></title>
-            <description><![CDATA[By Mezbah Uddin Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/islamic-banks-merger-depositors-deserve-transparency-shariah-decisions-4095426</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/islamic-banks-merger-depositors-deserve-transparency-shariah-decisions-4095426</guid>
-            <dc:creator><![CDATA[Mezbah Uddin Ahmed]]></dc:creator>
-            <pubDate>Sun, 01 Feb 2026 04:46:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
