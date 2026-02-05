@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 06:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 07:45:01 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Feb 2026 06:50:37 GMT</pubDate>
+        <pubDate>Thu, 05 Feb 2026 07:45:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Opinion / Youth vote and the limits of democratic absorption]]></title>
@@ -31,6 +31,14 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/manifesto-misread-rejoinder-bold-youth-silent-inclusion-4098326</guid>
             <dc:creator><![CDATA[Istiak Akib]]></dc:creator>
             <pubDate>Thu, 05 Feb 2026 00:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NCP manifesto debate: If this is inclusion, we need to relearn politics]]></title>
+            <description><![CDATA[By Kamal Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/ncp-manifesto-debate-if-inclusion-we-need-relearn-politics-4098331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ncp-manifesto-debate-if-inclusion-we-need-relearn-politics-4098331</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Thu, 05 Feb 2026 00:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Opinion / A tough fiscal test awaits the next government]]></title>
@@ -93,12 +101,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/why-are-there-so-few-women-candidates-4095026</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-are-there-so-few-women-candidates-4095026</guid>
             <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unnecessary C-sections must be stopped]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/unnecessary-c-sections-must-be-stopped-4094616</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/unnecessary-c-sections-must-be-stopped-4094616</guid>
-            <pubDate>Sat, 31 Jan 2026 06:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Opinion / Why we need more ‘techies’ in our newsrooms]]></title>
