@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 04:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 05:51:24 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Feb 2026 04:08:41 GMT</pubDate>
+        <pubDate>Thu, 05 Feb 2026 05:51:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Youth vote and the limits of democratic absorption]]></title>
@@ -14,6 +14,14 @@
             <link>https://www.thedailystar.net/opinion/views/news/youth-vote-and-the-limits-democratic-absorption-4098306</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/youth-vote-and-the-limits-democratic-absorption-4098306</guid>
             <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[True patriotism means confronting our environmental crisis]]></title>
+            <description><![CDATA[By Ahad Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/true-patriotism-means-confronting-our-environmental-crisis-4098316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/true-patriotism-means-confronting-our-environmental-crisis-4098316</guid>
+            <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -63,14 +71,6 @@
             <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Opinion / Why we need more ‘techies’ in our newsrooms]]></title>
-            <description><![CDATA[By Usama Rafid]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-we-need-more-techies-our-newsrooms-4096116</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-we-need-more-techies-our-newsrooms-4096116</guid>
-            <dc:creator><![CDATA[Usama Rafid]]></dc:creator>
-            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Editorial / Green funds must prioritise SMEs]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/green-funds-must-prioritise-smes-4097061</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/green-funds-must-prioritise-smes-4097061</guid>
@@ -99,6 +99,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/protect-the-referendums-integrity-4094601</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-the-referendums-integrity-4094601</guid>
             <pubDate>Sat, 31 Jan 2026 06:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / Why we need more ‘techies’ in our newsrooms]]></title>
+            <description><![CDATA[By Usama Rafid]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-we-need-more-techies-our-newsrooms-4096116</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-we-need-more-techies-our-newsrooms-4096116</guid>
+            <dc:creator><![CDATA[Usama Rafid]]></dc:creator>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Wetlands Day / Failed governance is killing our wetlands. We must act fast]]></title>
@@ -147,14 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/islamic-banks-merger-depositors-deserve-transparency-shariah-decisions-4095426</guid>
             <dc:creator><![CDATA[Mezbah Uddin Ahmed]]></dc:creator>
             <pubDate>Sun, 01 Feb 2026 04:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Education needs decisive actions, not empty promises]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/education-needs-decisive-actions-not-empty-promises-4094621</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/education-needs-decisive-actions-not-empty-promises-4094621</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 31 Jan 2026 06:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
