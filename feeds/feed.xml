@@ -4,15 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Feb 2026 01:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 04:09:01 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Feb 2026 01:26:10 GMT</pubDate>
+        <pubDate>Fri, 06 Feb 2026 04:09:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Voters need assurance of safety, not denial of facts]]></title>
             <description><![CDATA[Denying the presence of electoral violence will do little to assure voter of election day safety.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/voters-need-assurance-safety-not-denial-facts-4098956</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/voters-need-assurance-safety-not-denial-facts-4098956</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The quiet abandonment of potato farmers]]></title>
+            <description><![CDATA[By Sukanta Halder]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-quiet-abandonment-potato-farmers-4099326</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-quiet-abandonment-potato-farmers-4099326</guid>
+            <dc:creator><![CDATA[Sukanta Halder]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What has Ducsu done so far?]]></title>
+            <description><![CDATA[By Azra Humayra]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-has-ducsu-done-so-far-4099331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-has-ducsu-done-so-far-4099331</guid>
+            <dc:creator><![CDATA[Azra Humayra]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -56,22 +72,6 @@
             <pubDate>Thu, 05 Feb 2026 00:25:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Opinion / A tough fiscal test awaits the next government]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/tough-fiscal-test-awaits-the-next-government-4097066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/tough-fiscal-test-awaits-the-next-government-4097066</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 03 Feb 2026 00:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion / As Saarc remains dormant, South Asia must look elsewhere]]></title>
-            <description><![CDATA[By Md Mostafizur Rahman Nafis Ehsas Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/saarc-remains-dormant-south-asia-must-look-elsewhere-4097076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/saarc-remains-dormant-south-asia-must-look-elsewhere-4097076</guid>
-            <dc:creator><![CDATA[Md Mostafizur Rahman Nafis Ehsas Chowdhury]]></dc:creator>
-            <pubDate>Tue, 03 Feb 2026 00:32:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Editorial / Protect food items from hazardous chemicals]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/protect-food-items-hazardous-chemicals-4098301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-food-items-hazardous-chemicals-4098301</guid>
@@ -100,6 +100,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/why-are-there-so-few-women-candidates-4095026</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-are-there-so-few-women-candidates-4095026</guid>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / As Saarc remains dormant, South Asia must look elsewhere]]></title>
+            <description><![CDATA[By Md Mostafizur Rahman Nafis Ehsas Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/saarc-remains-dormant-south-asia-must-look-elsewhere-4097076</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/saarc-remains-dormant-south-asia-must-look-elsewhere-4097076</guid>
+            <dc:creator><![CDATA[Md Mostafizur Rahman Nafis Ehsas Chowdhury]]></dc:creator>
+            <pubDate>Tue, 03 Feb 2026 00:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / Election legitimacy and the absence of Awami League]]></title>
+            <description><![CDATA[By David Bergman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/election-legitimacy-and-the-absence-awami-league-4097081</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/election-legitimacy-and-the-absence-awami-league-4097081</guid>
+            <dc:creator><![CDATA[David Bergman]]></dc:creator>
+            <pubDate>Tue, 03 Feb 2026 00:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Opinion / Better care for ovarian cancer is possible, and long overdue]]></title>
@@ -140,22 +156,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/safeguarding-voters-minds-against-ai-4096146</guid>
             <dc:creator><![CDATA[Shoukot Ali]]></dc:creator>
             <pubDate>Mon, 02 Feb 2026 00:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion / Voters must hold politicians to task over health and education]]></title>
-            <description><![CDATA[By Anu Muhammad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/voters-must-hold-politicians-task-over-health-and-education-4095406</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/voters-must-hold-politicians-task-over-health-and-education-4095406</guid>
-            <dc:creator><![CDATA[Anu Muhammad]]></dc:creator>
-            <pubDate>Sun, 01 Feb 2026 04:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who will seal off these wells of death?]]></title>
-            <description><![CDATA[By Md. Firoj Alam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/who-will-seal-these-wells-death-4095411</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/who-will-seal-these-wells-death-4095411</guid>
-            <dc:creator><![CDATA[Md. Firoj Alam]]></dc:creator>
-            <pubDate>Sun, 01 Feb 2026 04:36:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
