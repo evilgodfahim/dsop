@@ -4,15 +4,23 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Feb 2026 05:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 06:34:45 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Feb 2026 05:37:20 GMT</pubDate>
+        <pubDate>Sat, 07 Feb 2026 06:34:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Next government must prioritise health reform]]></title>
             <description><![CDATA[Do what is needed to achieve Universal Health Coverage]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/next-government-must-prioritise-health-reform-4099671</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/next-government-must-prioritise-health-reform-4099671</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh needs more than just a ‘free and fair’ election]]></title>
+            <description><![CDATA[By Jeffrey Noel Vanness]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-more-just-free-and-fair-election-4099811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-more-just-free-and-fair-election-4099811</guid>
+            <dc:creator><![CDATA[Jeffrey Noel Vanness]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -46,28 +54,18 @@
             <pubDate>Fri, 06 Feb 2026 00:42:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ensure enactment of tobacco control law]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/ensure-enactment-tobacco-control-law-4099801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-enactment-tobacco-control-law-4099801</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What has Ducsu done so far?]]></title>
             <description><![CDATA[By Azra Humayra]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/what-has-ducsu-done-so-far-4099331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-has-ducsu-done-so-far-4099331</guid>
             <dc:creator><![CDATA[Azra Humayra]]></dc:creator>
             <pubDate>Fri, 06 Feb 2026 00:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Epstein Files and the politics of partial truths]]></title>
-            <description><![CDATA[By Khan Khalid Adnan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-epstein-files-and-the-politics-partial-truths-4098796</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-epstein-files-and-the-politics-partial-truths-4098796</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion / Youth vote and the limits of democratic absorption]]></title>
-            <description><![CDATA[By Tasneem Tayeb]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/youth-vote-and-the-limits-democratic-absorption-4098306</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/youth-vote-and-the-limits-democratic-absorption-4098306</guid>
-            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
-            <pubDate>Thu, 05 Feb 2026 00:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Policy consistency is crucial in primary education]]></title>
@@ -98,6 +96,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/the-key-proper-execution-the-law-4095401</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-key-proper-execution-the-law-4095401</guid>
             <pubDate>Sun, 01 Feb 2026 04:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / Youth vote and the limits of democratic absorption]]></title>
+            <description><![CDATA[By Tasneem Tayeb]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/youth-vote-and-the-limits-democratic-absorption-4098306</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/youth-vote-and-the-limits-democratic-absorption-4098306</guid>
+            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
+            <pubDate>Thu, 05 Feb 2026 00:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / True patriotism means confronting our environmental crisis]]></title>
+            <description><![CDATA[By Ahad Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/true-patriotism-means-confronting-our-environmental-crisis-4098316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/true-patriotism-means-confronting-our-environmental-crisis-4098316</guid>
+            <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
+            <pubDate>Thu, 05 Feb 2026 00:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A manifesto misread: A rejoinder to ‘bold on youth, silent on inclusion’]]></title>
@@ -138,22 +152,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/election-legitimacy-and-the-absence-awami-league-4097081</guid>
             <dc:creator><![CDATA[David Bergman]]></dc:creator>
             <pubDate>Tue, 03 Feb 2026 00:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion / Better care for ovarian cancer is possible, and long overdue]]></title>
-            <description><![CDATA[By Rafe Sadnan Adel]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/better-care-ovarian-cancer-possible-and-long-overdue-4097086</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/better-care-ovarian-cancer-possible-and-long-overdue-4097086</guid>
-            <dc:creator><![CDATA[Rafe Sadnan Adel]]></dc:creator>
-            <pubDate>Tue, 03 Feb 2026 00:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion / The NCP manifesto: Bold on youth, silent on inclusion]]></title>
-            <description><![CDATA[By Kamal Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-ncp-manifesto-bold-youth-silent-inclusion-4096096</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-ncp-manifesto-bold-youth-silent-inclusion-4096096</guid>
-            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
