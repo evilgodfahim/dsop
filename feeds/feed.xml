@@ -4,16 +4,22 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Feb 2026 05:59:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Feb 2026 06:59:08 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Feb 2026 05:59:46 GMT</pubDate>
+        <pubDate>Sun, 08 Feb 2026 06:59:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The interim’s last-minute deals and the economic perils ahead]]></title>
-            <description><![CDATA[Many of my high school teachers in Nalitabari, Sherpur used to say that good students never burn the midnight oil on the eve of an exam.]]></description>
+            <description><![CDATA[The interim government has entered a sensitive arena by approving a defence industrial zone in Chattogram’s Mirsarai.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/the-interims-last-minute-deals-and-the-economic-perils-ahead-4100606</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-interims-last-minute-deals-and-the-economic-perils-ahead-4100606</guid>
             <dc:creator><![CDATA[Birupaksha Paul]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crisis at Chattogram port must end]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/crisis-chattogram-port-must-end-4100351</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/crisis-chattogram-port-must-end-4100351</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -61,12 +67,10 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can the next government tame the bureaucracy?]]></title>
-            <description><![CDATA[By Sabbir Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/can-the-next-government-tame-the-bureaucracy-4099321</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-the-next-government-tame-the-bureaucracy-4099321</guid>
-            <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
-            <pubDate>Fri, 06 Feb 2026 00:34:00 GMT</pubDate>
+            <title><![CDATA[A rights record that weakens confidence]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/rights-record-weakens-confidence-4100586</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rights-record-weakens-confidence-4100586</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Ensure enactment of tobacco control law]]></title>
@@ -93,10 +97,12 @@
             <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Editorial / A test for the government before the polls]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/test-the-government-the-polls-4096086</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/test-the-government-the-polls-4096086</guid>
-            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Can the next government tame the bureaucracy?]]></title>
+            <description><![CDATA[By Sabbir Ahmad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/can-the-next-government-tame-the-bureaucracy-4099321</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-the-next-government-tame-the-bureaucracy-4099321</guid>
+            <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
+            <pubDate>Fri, 06 Feb 2026 00:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The quiet abandonment of potato farmers]]></title>
@@ -145,14 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ncp-manifesto-debate-if-inclusion-we-need-relearn-politics-4098331</guid>
             <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
             <pubDate>Thu, 05 Feb 2026 00:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion / A tough fiscal test awaits the next government]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/tough-fiscal-test-awaits-the-next-government-4097066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/tough-fiscal-test-awaits-the-next-government-4097066</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 03 Feb 2026 00:28:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
