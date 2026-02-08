@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Feb 2026 04:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Feb 2026 05:59:46 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Feb 2026 04:58:14 GMT</pubDate>
+        <pubDate>Sun, 08 Feb 2026 05:59:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The interim’s last-minute deals and the economic perils ahead]]></title>
@@ -22,6 +22,14 @@
             <link>https://www.thedailystar.net/opinion/views/news/eight-reasons-explain-the-rise-jamaat-e-islami-4100626</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/eight-reasons-explain-the-rise-jamaat-e-islami-4100626</guid>
             <dc:creator><![CDATA[David Bergman]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fixing a broken education system]]></title>
+            <description><![CDATA[By Zia Haider Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/fixing-broken-education-system-4100641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fixing-broken-education-system-4100641</guid>
+            <dc:creator><![CDATA[Zia Haider Rahman]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 06 Feb 2026 00:34:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The quiet abandonment of potato farmers]]></title>
-            <description><![CDATA[By Sukanta Halder]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-quiet-abandonment-potato-farmers-4099326</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-quiet-abandonment-potato-farmers-4099326</guid>
-            <dc:creator><![CDATA[Sukanta Halder]]></dc:creator>
-            <pubDate>Fri, 06 Feb 2026 00:42:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ensure enactment of tobacco control law]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/ensure-enactment-tobacco-control-law-4099801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-enactment-tobacco-control-law-4099801</guid>
@@ -97,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/test-the-government-the-polls-4096086</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/test-the-government-the-polls-4096086</guid>
             <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The quiet abandonment of potato farmers]]></title>
+            <description><![CDATA[By Sukanta Halder]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-quiet-abandonment-potato-farmers-4099326</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-quiet-abandonment-potato-farmers-4099326</guid>
+            <dc:creator><![CDATA[Sukanta Halder]]></dc:creator>
+            <pubDate>Fri, 06 Feb 2026 00:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What has Ducsu done so far?]]></title>
@@ -145,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/tough-fiscal-test-awaits-the-next-government-4097066</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
             <pubDate>Tue, 03 Feb 2026 00:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion / As Saarc remains dormant, South Asia must look elsewhere]]></title>
-            <description><![CDATA[By Md Mostafizur Rahman Nafis Ehsas Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/saarc-remains-dormant-south-asia-must-look-elsewhere-4097076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/saarc-remains-dormant-south-asia-must-look-elsewhere-4097076</guid>
-            <dc:creator><![CDATA[Md Mostafizur Rahman Nafis Ehsas Chowdhury]]></dc:creator>
-            <pubDate>Tue, 03 Feb 2026 00:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
