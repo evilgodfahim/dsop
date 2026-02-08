@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Feb 2026 23:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Feb 2026 02:01:00 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Feb 2026 23:23:04 GMT</pubDate>
+        <pubDate>Sun, 08 Feb 2026 02:01:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Eight reasons that explain the rise of Jamaat-e-Islami]]></title>
+            <description><![CDATA[Perhaps the most striking, and largely unforeseen, consequence of the fall of the Hasina government has been the surge in support for Jamaat-e-Islami over the past 18 months.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/eight-reasons-explain-the-rise-jamaat-e-islami-4100626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/eight-reasons-explain-the-rise-jamaat-e-islami-4100626</guid>
+            <dc:creator><![CDATA[David Bergman]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Next government must prioritise health reform]]></title>
-            <description><![CDATA[Do what is needed to achieve Universal Health Coverage]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/next-government-must-prioritise-health-reform-4099671</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/next-government-must-prioritise-health-reform-4099671</guid>
             <pubDate>Invalid Date</pubDate>
@@ -60,14 +67,6 @@
             <pubDate>Sat, 07 Feb 2026 00:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What has Ducsu done so far?]]></title>
-            <description><![CDATA[By Azra Humayra]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-has-ducsu-done-so-far-4099331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-has-ducsu-done-so-far-4099331</guid>
-            <dc:creator><![CDATA[Azra Humayra]]></dc:creator>
-            <pubDate>Fri, 06 Feb 2026 00:44:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Policy consistency is crucial in primary education]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/policy-consistency-crucial-primary-education-4099316</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/policy-consistency-crucial-primary-education-4099316</guid>
@@ -96,6 +95,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/the-key-proper-execution-the-law-4095401</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-key-proper-execution-the-law-4095401</guid>
             <pubDate>Sun, 01 Feb 2026 04:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What has Ducsu done so far?]]></title>
+            <description><![CDATA[By Azra Humayra]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-has-ducsu-done-so-far-4099331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-has-ducsu-done-so-far-4099331</guid>
+            <dc:creator><![CDATA[Azra Humayra]]></dc:creator>
+            <pubDate>Fri, 06 Feb 2026 00:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Opinion / Youth vote and the limits of democratic absorption]]></title>
@@ -144,14 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/saarc-remains-dormant-south-asia-must-look-elsewhere-4097076</guid>
             <dc:creator><![CDATA[Md Mostafizur Rahman Nafis Ehsas Chowdhury]]></dc:creator>
             <pubDate>Tue, 03 Feb 2026 00:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion / Election legitimacy and the absence of Awami League]]></title>
-            <description><![CDATA[By David Bergman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/election-legitimacy-and-the-absence-awami-league-4097081</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/election-legitimacy-and-the-absence-awami-league-4097081</guid>
-            <dc:creator><![CDATA[David Bergman]]></dc:creator>
-            <pubDate>Tue, 03 Feb 2026 00:36:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
