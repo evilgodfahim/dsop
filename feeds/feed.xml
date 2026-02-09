@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Feb 2026 04:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Feb 2026 06:03:45 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Feb 2026 04:21:48 GMT</pubDate>
+        <pubDate>Mon, 09 Feb 2026 06:03:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Will this election pass the minority protection test?]]></title>
@@ -28,6 +28,14 @@
             <title><![CDATA[‘The US will work with whoever forms the next government’]]></title>
             <link>https://www.thedailystar.net/opinion/interviews/news/the-us-will-work-whoever-forms-the-next-government-4101591</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/the-us-will-work-whoever-forms-the-next-government-4101591</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New energy policy, same challenges: Bangladesh needs an inclusive approach]]></title>
+            <description><![CDATA[By Shafiqul Alam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/new-energy-policy-same-challenges-bangladesh-needs-inclusive-approach-4101596</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-energy-policy-same-challenges-bangladesh-needs-inclusive-approach-4101596</guid>
+            <dc:creator><![CDATA[Shafiqul Alam]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -61,12 +69,10 @@
             <pubDate>Sun, 08 Feb 2026 02:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fixing a broken education system]]></title>
-            <description><![CDATA[By Zia Haider Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/fixing-broken-education-system-4100641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fixing-broken-education-system-4100641</guid>
-            <dc:creator><![CDATA[Zia Haider Rahman]]></dc:creator>
-            <pubDate>Sun, 08 Feb 2026 02:31:00 GMT</pubDate>
+            <title><![CDATA[Save Baikka Beel before it is too late]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/save-baikka-beel-it-too-late-4101576</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/save-baikka-beel-it-too-late-4101576</guid>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A rights record that weakens confidence]]></title>
@@ -93,9 +99,11 @@
             <pubDate>Fri, 06 Feb 2026 00:26:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Voters need assurance of safety, not denial of facts]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/voters-need-assurance-safety-not-denial-facts-4098956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/voters-need-assurance-safety-not-denial-facts-4098956</guid>
+            <title><![CDATA[The Epstein Files and the politics of partial truths]]></title>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-epstein-files-and-the-politics-partial-truths-4098796</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-epstein-files-and-the-politics-partial-truths-4098796</guid>
+            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -145,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/youth-vote-and-the-limits-democratic-absorption-4098306</guid>
             <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
             <pubDate>Thu, 05 Feb 2026 00:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion / True patriotism means confronting our environmental crisis]]></title>
-            <description><![CDATA[By Ahad Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/true-patriotism-means-confronting-our-environmental-crisis-4098316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/true-patriotism-means-confronting-our-environmental-crisis-4098316</guid>
-            <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
-            <pubDate>Thu, 05 Feb 2026 00:19:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
