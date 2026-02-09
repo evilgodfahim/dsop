@@ -4,13 +4,35 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Feb 2026 01:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Feb 2026 04:21:48 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Feb 2026 01:44:03 GMT</pubDate>
+        <pubDate>Mon, 09 Feb 2026 04:21:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Will this election pass the minority protection test?]]></title>
+            <description><![CDATA[In late December, several houses of minority communities in Raozan and Rangunia upazilas of Chattogram were padlocked from outside and set on fire, forcing families to cut their way out to safety.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/closer-look/news/will-election-pass-the-minority-protection-test-4101581</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/will-election-pass-the-minority-protection-test-4101581</guid>
+            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Women voters are not undecided – they are unconvinced]]></title>
+            <description><![CDATA[By Tasmiah T Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/women-voters-are-not-undecided-they-are-unconvinced-4101586</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/women-voters-are-not-undecided-they-are-unconvinced-4101586</guid>
+            <dc:creator><![CDATA[Tasmiah T Rahman]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘The US will work with whoever forms the next government’]]></title>
+            <link>https://www.thedailystar.net/opinion/interviews/news/the-us-will-work-whoever-forms-the-next-government-4101591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/the-us-will-work-whoever-forms-the-next-government-4101591</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The interim’s last-minute deals and the economic perils ahead]]></title>
-            <description><![CDATA[The interim government has entered a sensitive arena by approving a defence industrial zone in Chattogram’s Mirsarai.]]></description>
+            <description><![CDATA[By Birupaksha Paul]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/the-interims-last-minute-deals-and-the-economic-perils-ahead-4100606</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-interims-last-minute-deals-and-the-economic-perils-ahead-4100606</guid>
             <dc:creator><![CDATA[Birupaksha Paul]]></dc:creator>
@@ -47,9 +69,33 @@
             <pubDate>Sun, 08 Feb 2026 02:31:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A rights record that weakens confidence]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/rights-record-weakens-confidence-4100586</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rights-record-weakens-confidence-4100586</guid>
+            <pubDate>Sun, 08 Feb 2026 01:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ensure enactment of tobacco control law]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/ensure-enactment-tobacco-control-law-4099801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-enactment-tobacco-control-law-4099801</guid>
+            <pubDate>Sat, 07 Feb 2026 00:58:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Next government must prioritise health reform]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/next-government-must-prioritise-health-reform-4099671</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/next-government-must-prioritise-health-reform-4099671</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Policy consistency is crucial in primary education]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/policy-consistency-crucial-primary-education-4099316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/policy-consistency-crucial-primary-education-4099316</guid>
+            <pubDate>Fri, 06 Feb 2026 00:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Voters need assurance of safety, not denial of facts]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/voters-need-assurance-safety-not-denial-facts-4098956</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/voters-need-assurance-safety-not-denial-facts-4098956</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -67,36 +113,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/i-can-manage-myself-just-fine-thanks-4099816</guid>
             <dc:creator><![CDATA[Iqra L Qamari]]></dc:creator>
             <pubDate>Sat, 07 Feb 2026 01:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A rights record that weakens confidence]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/rights-record-weakens-confidence-4100586</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rights-record-weakens-confidence-4100586</guid>
-            <pubDate>Sun, 08 Feb 2026 01:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ensure enactment of tobacco control law]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/ensure-enactment-tobacco-control-law-4099801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-enactment-tobacco-control-law-4099801</guid>
-            <pubDate>Sat, 07 Feb 2026 00:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Policy consistency is crucial in primary education]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/policy-consistency-crucial-primary-education-4099316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/policy-consistency-crucial-primary-education-4099316</guid>
-            <pubDate>Fri, 06 Feb 2026 00:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Voters need assurance of safety, not denial of facts]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/voters-need-assurance-safety-not-denial-facts-4098956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/voters-need-assurance-safety-not-denial-facts-4098956</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Editorial / Protect food items from hazardous chemicals]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/protect-food-items-hazardous-chemicals-4098301</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-food-items-hazardous-chemicals-4098301</guid>
-            <pubDate>Thu, 05 Feb 2026 00:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can the next government tame the bureaucracy?]]></title>
@@ -137,22 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/true-patriotism-means-confronting-our-environmental-crisis-4098316</guid>
             <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
             <pubDate>Thu, 05 Feb 2026 00:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A manifesto misread: A rejoinder to ‘bold on youth, silent on inclusion’]]></title>
-            <description><![CDATA[By Istiak Akib]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/manifesto-misread-rejoinder-bold-youth-silent-inclusion-4098326</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/manifesto-misread-rejoinder-bold-youth-silent-inclusion-4098326</guid>
-            <dc:creator><![CDATA[Istiak Akib]]></dc:creator>
-            <pubDate>Thu, 05 Feb 2026 00:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NCP manifesto debate: If this is inclusion, we need to relearn politics]]></title>
-            <description><![CDATA[By Kamal Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/ncp-manifesto-debate-if-inclusion-we-need-relearn-politics-4098331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ncp-manifesto-debate-if-inclusion-we-need-relearn-politics-4098331</guid>
-            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Thu, 05 Feb 2026 00:25:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
