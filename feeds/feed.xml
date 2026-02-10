@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Feb 2026 10:49:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Feb 2026 11:45:00 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Feb 2026 10:49:46 GMT</pubDate>
+        <pubDate>Tue, 10 Feb 2026 11:45:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[EC is failing to do its due diligence]]></title>
+            <description><![CDATA[Parties’ delay in submitting social media details is unacceptable]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/ec-failing-do-its-due-diligence-4102096</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ec-failing-do-its-due-diligence-4102096</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Can election manifestos deliver on economic pledges?]]></title>
-            <description><![CDATA[Bangladesh’s GDP in the fiscal year 2025 was $461.63 billion. If the country aims to reach a $1 trillion economy by FY2034, the economy would need to more than double over nine years.]]></description>
+            <description><![CDATA[By Fahmida Khatun]]></description>
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/can-election-manifestos-deliver-economic-pledges-4102441</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/can-election-manifestos-deliver-economic-pledges-4102441</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
@@ -63,14 +70,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/women-voters-are-not-undecided-they-are-unconvinced-4101586</guid>
             <dc:creator><![CDATA[Tasmiah T Rahman]]></dc:creator>
             <pubDate>Mon, 09 Feb 2026 00:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interview with Michael Kugelman /  ‘The US will work with whoever forms the next government’]]></title>
-            <description><![CDATA[By Porimol Palma]]></description>
-            <link>https://www.thedailystar.net/opinion/interviews/news/the-us-will-work-whoever-forms-the-next-government-4101591</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/the-us-will-work-whoever-forms-the-next-government-4101591</guid>
-            <dc:creator><![CDATA[Porimol Palma]]></dc:creator>
-            <pubDate>Mon, 09 Feb 2026 00:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop the inflow of illegal arms]]></title>
