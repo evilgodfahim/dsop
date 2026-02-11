@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Feb 2026 04:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Feb 2026 06:05:41 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Feb 2026 04:25:50 GMT</pubDate>
+        <pubDate>Wed, 11 Feb 2026 06:05:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[An election of narratives and least scrutiny]]></title>
@@ -30,6 +30,14 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-cpi-2025-fall-kleptocracy-or-temporary-setback-4103346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-cpi-2025-fall-kleptocracy-or-temporary-setback-4103346</guid>
             <dc:creator><![CDATA[Iftekharuzzaman]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An education law – does it matter?]]></title>
+            <description><![CDATA[By Manzoor Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/education-law-does-it-matter-4103351</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/education-law-does-it-matter-4103351</guid>
+            <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -61,12 +69,10 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Guard the ballot: February 12 vote must not be stolen]]></title>
-            <description><![CDATA[By Shahab Enam Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/guard-the-ballot-february-12-vote-must-not-be-stolen-4102451</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/guard-the-ballot-february-12-vote-must-not-be-stolen-4102451</guid>
-            <dc:creator><![CDATA[Shahab Enam Khan]]></dc:creator>
-            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Act decisively against disinformation]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/act-decisively-against-disinformation-4103326</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/act-decisively-against-disinformation-4103326</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop the inflow of illegal arms]]></title>
@@ -93,10 +99,12 @@
             <pubDate>Sun, 08 Feb 2026 01:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ensure enactment of tobacco control law]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/ensure-enactment-tobacco-control-law-4099801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-enactment-tobacco-control-law-4099801</guid>
-            <pubDate>Sat, 07 Feb 2026 00:58:00 GMT</pubDate>
+            <title><![CDATA[A coherent political vision is key to empowering local government]]></title>
+            <description><![CDATA[By Nawshad Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/coherent-political-vision-key-empowering-local-government-4102456</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/coherent-political-vision-key-empowering-local-government-4102456</guid>
+            <dc:creator><![CDATA[Nawshad Ahmed]]></dc:creator>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The political coming-of-age of a generation]]></title>
@@ -145,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/election-season-and-the-strain-urban-environment-4100611</guid>
             <dc:creator><![CDATA[Shaikh Afnan Birahim]]></dc:creator>
             <pubDate>Sun, 08 Feb 2026 01:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eight reasons that explain the rise of Jamaat-e-Islami]]></title>
-            <description><![CDATA[By David Bergman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/eight-reasons-explain-the-rise-jamaat-e-islami-4100626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/eight-reasons-explain-the-rise-jamaat-e-islami-4100626</guid>
-            <dc:creator><![CDATA[David Bergman]]></dc:creator>
-            <pubDate>Sun, 08 Feb 2026 02:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
