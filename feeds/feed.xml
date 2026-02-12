@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Feb 2026 07:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 08:38:53 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Feb 2026 07:11:52 GMT</pubDate>
+        <pubDate>Thu, 12 Feb 2026 08:38:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why this election matters more than ever]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-true-leaders-not-divisive-or-power-hungry-netas-4103756</guid>
             <dc:creator><![CDATA[Abu Afsarul Haider]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strengthening institutions for renewable energy: The first test for the new government]]></title>
+            <description><![CDATA[By Mohammad Iftekharul Islam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/strengthening-institutions-renewable-energy-the-first-test-the-new-government-4104036</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/strengthening-institutions-renewable-energy-the-first-test-the-new-government-4104036</guid>
+            <dc:creator><![CDATA[Mohammad Iftekharul Islam]]></dc:creator>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An election of narratives and least scrutiny]]></title>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 11 Feb 2026 01:37:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An education law – does it matter?]]></title>
-            <description><![CDATA[By Manzoor Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/education-law-does-it-matter-4103351</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/education-law-does-it-matter-4103351</guid>
-            <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
-            <pubDate>Wed, 11 Feb 2026 01:38:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Act decisively against disinformation]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/act-decisively-against-disinformation-4103326</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/act-decisively-against-disinformation-4103326</guid>
@@ -97,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/save-baikka-beel-it-too-late-4101576</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/save-baikka-beel-it-too-late-4101576</guid>
             <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can election manifestos deliver on economic pledges?]]></title>
+            <description><![CDATA[By Fahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/can-election-manifestos-deliver-economic-pledges-4102441</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/can-election-manifestos-deliver-economic-pledges-4102441</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Our coasts demand more than recycled political pledges]]></title>
@@ -145,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/women-voters-are-not-undecided-they-are-unconvinced-4101586</guid>
             <dc:creator><![CDATA[Tasmiah T Rahman]]></dc:creator>
             <pubDate>Mon, 09 Feb 2026 00:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The interim’s last-minute deals and the economic perils ahead]]></title>
-            <description><![CDATA[By Birupaksha Paul]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-interims-last-minute-deals-and-the-economic-perils-ahead-4100606</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-interims-last-minute-deals-and-the-economic-perils-ahead-4100606</guid>
-            <dc:creator><![CDATA[Birupaksha Paul]]></dc:creator>
-            <pubDate>Sun, 08 Feb 2026 01:49:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
