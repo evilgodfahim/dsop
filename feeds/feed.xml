@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Feb 2026 14:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 15:44:24 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Feb 2026 14:07:28 GMT</pubDate>
+        <pubDate>Thu, 12 Feb 2026 15:44:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The people have given their verdict]]></title>
+            <description><![CDATA[All candidates must honour the election result with grace and dignity.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/the-people-have-given-their-verdict-4104656</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-people-have-given-their-verdict-4104656</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why this election matters more than ever]]></title>
-            <description><![CDATA[Despite many uncertainties and deep misgivings that weigh heavily on our minds, the excitement of voting this time is inescapable.]]></description>
+            <description><![CDATA[By Aasha Mehreen Amin]]></description>
             <link>https://www.thedailystar.net/opinion/views/no-strings-attached/news/why-election-matters-more-ever-4104006</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/no-strings-attached/news/why-election-matters-more-ever-4104006</guid>
             <dc:creator><![CDATA[Aasha Mehreen Amin]]></dc:creator>
@@ -61,14 +68,6 @@
             <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bangladesh in CPI 2025: Fall of kleptocracy, or a temporary setback?]]></title>
-            <description><![CDATA[By Iftekharuzzaman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-cpi-2025-fall-kleptocracy-or-temporary-setback-4103346</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-cpi-2025-fall-kleptocracy-or-temporary-setback-4103346</guid>
-            <dc:creator><![CDATA[Iftekharuzzaman]]></dc:creator>
-            <pubDate>Wed, 11 Feb 2026 01:37:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Act decisively against disinformation]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/act-decisively-against-disinformation-4103326</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/act-decisively-against-disinformation-4103326</guid>
@@ -97,6 +96,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/save-baikka-beel-it-too-late-4101576</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/save-baikka-beel-it-too-late-4101576</guid>
             <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An education law – does it matter?]]></title>
+            <description><![CDATA[By Manzoor Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/education-law-does-it-matter-4103351</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/education-law-does-it-matter-4103351</guid>
+            <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
+            <pubDate>Wed, 11 Feb 2026 01:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can election manifestos deliver on economic pledges?]]></title>
@@ -145,14 +152,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/will-election-pass-the-minority-protection-test-4101581</guid>
             <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
             <pubDate>Mon, 09 Feb 2026 00:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Women voters are not undecided – they are unconvinced]]></title>
-            <description><![CDATA[By Tasmiah T Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/women-voters-are-not-undecided-they-are-unconvinced-4101586</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/women-voters-are-not-undecided-they-are-unconvinced-4101586</guid>
-            <dc:creator><![CDATA[Tasmiah T Rahman]]></dc:creator>
-            <pubDate>Mon, 09 Feb 2026 00:14:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
