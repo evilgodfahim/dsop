@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Feb 2026 13:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 14:40:42 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Feb 2026 13:58:00 GMT</pubDate>
+        <pubDate>Fri, 13 Feb 2026 14:40:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[BNP’s landslide victory marks a turning point in politics]]></title>
+            <description><![CDATA[Bangladesh renews its democratic journey following its 13th parliamentary election.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/bnps-landslide-victory-marks-turning-point-politics-4105331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bnps-landslide-victory-marks-turning-point-politics-4105331</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A new Bangladesh demands new directions]]></title>
-            <description><![CDATA[While all our expectations from this pivotal moment may not have been fulfilled, we have, nevertheless, obtained a roadmap for moving forward. Bangladesh is soon going to have a parliament with members elected through a largely credible competition.]]></description>
+            <description><![CDATA[By Altaf Parvez]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/new-bangladesh-demands-new-directions-4104761</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-bangladesh-demands-new-directions-4104761</guid>
             <dc:creator><![CDATA[Altaf Parvez]]></dc:creator>
@@ -63,14 +70,6 @@
             <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An election of narratives and least scrutiny]]></title>
-            <description><![CDATA[By Kamal Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/election-narratives-and-least-scrutiny-4103331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/election-narratives-and-least-scrutiny-4103331</guid>
-            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Wed, 11 Feb 2026 00:42:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ensure free, fair, and peaceful voting]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/ensure-free-fair-and-peaceful-voting-4103956</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-free-fair-and-peaceful-voting-4103956</guid>
@@ -99,6 +98,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/ec-failing-do-its-due-diligence-4102096</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ec-failing-do-its-due-diligence-4102096</guid>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The electoral process has held so far. Can it withstand the final test?]]></title>
+            <description><![CDATA[By Sayeeful Islam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-electoral-process-has-held-so-far-can-it-withstand-the-final-test-4103341</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-electoral-process-has-held-so-far-can-it-withstand-the-final-test-4103341</guid>
+            <dc:creator><![CDATA[Sayeeful Islam]]></dc:creator>
+            <pubDate>Wed, 11 Feb 2026 01:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh in CPI 2025: Fall of kleptocracy, or a temporary setback?]]></title>
@@ -147,14 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/coherent-political-vision-key-empowering-local-government-4102456</guid>
             <dc:creator><![CDATA[Nawshad Ahmed]]></dc:creator>
             <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The political coming-of-age of a generation]]></title>
-            <description><![CDATA[By Maisha Islam Monamee]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-political-coming-age-generation-4101961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-political-coming-age-generation-4101961</guid>
-            <dc:creator><![CDATA[Maisha Islam Monamee]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
         </item>
     </channel>
 </rss>
