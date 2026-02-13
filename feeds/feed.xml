@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Feb 2026 06:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 07:45:41 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Feb 2026 06:52:49 GMT</pubDate>
+        <pubDate>Fri, 13 Feb 2026 07:45:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A new Bangladesh demands new directions]]></title>
@@ -23,6 +23,12 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/finally-election-felt-real-4104766</guid>
             <dc:creator><![CDATA[Afia Jahin]]></dc:creator>
             <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can we finally address harassment and domestic abuse with deserved gravitas?]]></title>
+            <link>https://www.thedailystar.net/opinion/views/mind-the-gap/news/can-we-finally-address-harassment-and-domestic-abuse-deserved-gravitas-4104776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/can-we-finally-address-harassment-and-domestic-abuse-deserved-gravitas-4104776</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[The people have given their verdict]]></title>
@@ -63,14 +69,6 @@
             <pubDate>Wed, 11 Feb 2026 00:42:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The electoral process has held so far. Can it withstand the final test?]]></title>
-            <description><![CDATA[By Sayeeful Islam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-electoral-process-has-held-so-far-can-it-withstand-the-final-test-4103341</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-electoral-process-has-held-so-far-can-it-withstand-the-final-test-4103341</guid>
-            <dc:creator><![CDATA[Sayeeful Islam]]></dc:creator>
-            <pubDate>Wed, 11 Feb 2026 01:31:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ensure free, fair, and peaceful voting]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/ensure-free-fair-and-peaceful-voting-4103956</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-free-fair-and-peaceful-voting-4103956</guid>
@@ -99,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/ec-failing-do-its-due-diligence-4102096</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ec-failing-do-its-due-diligence-4102096</guid>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh in CPI 2025: Fall of kleptocracy, or a temporary setback?]]></title>
+            <description><![CDATA[By Iftekharuzzaman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-cpi-2025-fall-kleptocracy-or-temporary-setback-4103346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-cpi-2025-fall-kleptocracy-or-temporary-setback-4103346</guid>
+            <dc:creator><![CDATA[Iftekharuzzaman]]></dc:creator>
+            <pubDate>Wed, 11 Feb 2026 01:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An education law – does it matter?]]></title>
@@ -147,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-political-coming-age-generation-4101961</guid>
             <dc:creator><![CDATA[Maisha Islam Monamee]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will this election pass the minority protection test?]]></title>
-            <description><![CDATA[By Tasneem Tayeb]]></description>
-            <link>https://www.thedailystar.net/opinion/views/closer-look/news/will-election-pass-the-minority-protection-test-4101581</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/will-election-pass-the-minority-protection-test-4101581</guid>
-            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
-            <pubDate>Mon, 09 Feb 2026 00:11:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
