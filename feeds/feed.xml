@@ -4,13 +4,21 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Feb 2026 04:04:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 05:39:26 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Feb 2026 04:04:46 GMT</pubDate>
+        <pubDate>Sat, 14 Feb 2026 05:39:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[V for Victory, V for Valentine: A mandate is not a licence]]></title>
+            <description><![CDATA[It’s perhaps divine timing that V-Day falls just after the confirmation of election results, marked by the public’s overwhelming support for the party at the top and the strengthening of support bases for the parties in second place.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/v-victory-v-valentine-mandate-not-licence-4105471</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/v-victory-v-valentine-mandate-not-licence-4105471</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A test of democratic renewal]]></title>
-            <description><![CDATA[On Thursday, Bangladesh held an acceptable election after 18 years, one in which participation was not curtailed by the state itself.]]></description>
+            <description><![CDATA[By Anu Muhammad]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/test-democratic-renewal-4105481</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/test-democratic-renewal-4105481</guid>
             <dc:creator><![CDATA[Anu Muhammad]]></dc:creator>
@@ -90,12 +98,6 @@
             <title><![CDATA[Why is  full central bank autonomy still elusive?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/why-full-central-bank-autonomy-still-elusive-4102926</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-full-central-bank-autonomy-still-elusive-4102926</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EC is failing to do its due diligence]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/ec-failing-do-its-due-diligence-4102096</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ec-failing-do-its-due-diligence-4102096</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
