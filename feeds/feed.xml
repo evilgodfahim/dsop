@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Feb 2026 17:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 18:25:31 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Feb 2026 17:21:05 GMT</pubDate>
+        <pubDate>Sat, 14 Feb 2026 18:25:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Column by Mahfuz Anam / The likely PM’s first crucial challenge]]></title>
+            <description><![CDATA[Hearty congratulations to the BNP as a party and to its leader, Tarique Rahman, for a magnificent win. This is not just the win of a political party in an election.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/the-likely-pms-first-crucial-challenge-4106066</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/the-likely-pms-first-crucial-challenge-4106066</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The new Bangladesh must shun political violence]]></title>
-            <description><![CDATA[Political parties must commit to mutual respect and tolerance.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/the-new-bangladesh-must-shun-political-violence-4105946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-new-bangladesh-must-shun-political-violence-4105946</guid>
             <pubDate>Invalid Date</pubDate>
@@ -92,12 +99,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/act-decisively-against-disinformation-4103326</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/act-decisively-against-disinformation-4103326</guid>
             <pubDate>Wed, 11 Feb 2026 00:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is  full central bank autonomy still elusive?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/why-full-central-bank-autonomy-still-elusive-4102926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-full-central-bank-autonomy-still-elusive-4102926</guid>
-            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Finally, an election that felt real]]></title>
