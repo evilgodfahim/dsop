@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Feb 2026 12:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 13:39:56 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Feb 2026 12:34:01 GMT</pubDate>
+        <pubDate>Sat, 14 Feb 2026 13:39:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The new Bangladesh must shun political violence]]></title>
+            <description><![CDATA[Political parties must commit to mutual respect and tolerance.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/the-new-bangladesh-must-shun-political-violence-4105946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-new-bangladesh-must-shun-political-violence-4105946</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bangladesh has spoken. Now it’s time to deliver]]></title>
-            <description><![CDATA[Bangladesh’s most consequential election, held on Thursday, would change the course of politics in the country.]]></description>
+            <description><![CDATA[By Shahab Enam Khan]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-has-spoken-now-its-time-deliver-4105846</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-has-spoken-now-its-time-deliver-4105846</guid>
             <dc:creator><![CDATA[Shahab Enam Khan]]></dc:creator>
@@ -63,14 +70,6 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[A new Bangladesh demands new directions]]></title>
-            <description><![CDATA[By Altaf Parvez]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/new-bangladesh-demands-new-directions-4104761</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-bangladesh-demands-new-directions-4104761</guid>
-            <dc:creator><![CDATA[Altaf Parvez]]></dc:creator>
-            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The people have given their verdict]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/the-people-have-given-their-verdict-4104656</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-people-have-given-their-verdict-4104656</guid>
@@ -99,6 +98,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/why-full-central-bank-autonomy-still-elusive-4102926</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-full-central-bank-autonomy-still-elusive-4102926</guid>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finally, an election that felt real]]></title>
+            <description><![CDATA[By Afia Jahin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/finally-election-felt-real-4104766</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/finally-election-felt-real-4104766</guid>
+            <dc:creator><![CDATA[Afia Jahin]]></dc:creator>
+            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From boycotts to balance: Rethinking the opposition’s role in parliament]]></title>
@@ -147,14 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/election-narratives-and-least-scrutiny-4103331</guid>
             <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
             <pubDate>Wed, 11 Feb 2026 00:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The electoral process has held so far. Can it withstand the final test?]]></title>
-            <description><![CDATA[By Sayeeful Islam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-electoral-process-has-held-so-far-can-it-withstand-the-final-test-4103341</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-electoral-process-has-held-so-far-can-it-withstand-the-final-test-4103341</guid>
-            <dc:creator><![CDATA[Sayeeful Islam]]></dc:creator>
-            <pubDate>Wed, 11 Feb 2026 01:31:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
