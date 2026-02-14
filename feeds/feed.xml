@@ -4,13 +4,21 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Feb 2026 05:39:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 06:36:56 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Feb 2026 05:39:26 GMT</pubDate>
+        <pubDate>Sat, 14 Feb 2026 06:36:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The emerging architecture of post-authoritarian politics]]></title>
+            <description><![CDATA[What is being decided is not only who will govern but whether the institutional settlement emerging from the uprising can acquire sufficient legitimacy to endure.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-emerging-architecture-post-authoritarian-politics-4105281</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-emerging-architecture-post-authoritarian-politics-4105281</guid>
+            <dc:creator><![CDATA[Kazi ASM Nurul Huda]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[V for Victory, V for Valentine: A mandate is not a licence]]></title>
-            <description><![CDATA[It’s perhaps divine timing that V-Day falls just after the confirmation of election results, marked by the public’s overwhelming support for the party at the top and the strengthening of support bases for the parties in second place.]]></description>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
             <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/v-victory-v-valentine-mandate-not-licence-4105471</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/v-victory-v-valentine-mandate-not-licence-4105471</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
@@ -30,6 +38,14 @@
             <link>https://www.thedailystar.net/opinion/views/news/credible-election-the-reform-journey-commences-now-4105491</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/credible-election-the-reform-journey-commences-now-4105491</guid>
             <dc:creator><![CDATA[Md Abdul Alim]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lack of women’s representation mars an otherwise fair election]]></title>
+            <description><![CDATA[By Samina Luthfa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/lack-womens-representation-mars-otherwise-fair-election-4105501</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/lack-womens-representation-mars-otherwise-fair-election-4105501</guid>
+            <dc:creator><![CDATA[Samina Luthfa]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -53,22 +69,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/finally-election-felt-real-4104766</guid>
             <dc:creator><![CDATA[Afia Jahin]]></dc:creator>
             <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From boycotts to balance: Rethinking the opposition’s role in parliament]]></title>
-            <description><![CDATA[By Asif Bin Ali]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/boycotts-balance-rethinking-the-oppositions-role-parliament-4104771</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/boycotts-balance-rethinking-the-oppositions-role-parliament-4104771</guid>
-            <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can we finally address harassment and domestic abuse with deserved gravitas?]]></title>
-            <description><![CDATA[By Noshin Nawal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/mind-the-gap/news/can-we-finally-address-harassment-and-domestic-abuse-deserved-gravitas-4104776</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/can-we-finally-address-harassment-and-domestic-abuse-deserved-gravitas-4104776</guid>
-            <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
-            <pubDate>Fri, 13 Feb 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The people have given their verdict]]></title>
@@ -98,6 +98,22 @@
             <title><![CDATA[Why is  full central bank autonomy still elusive?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/why-full-central-bank-autonomy-still-elusive-4102926</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-full-central-bank-autonomy-still-elusive-4102926</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can we finally address harassment and domestic abuse with deserved gravitas?]]></title>
+            <description><![CDATA[By Noshin Nawal]]></description>
+            <link>https://www.thedailystar.net/opinion/views/mind-the-gap/news/can-we-finally-address-harassment-and-domestic-abuse-deserved-gravitas-4104776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/can-we-finally-address-harassment-and-domestic-abuse-deserved-gravitas-4104776</guid>
+            <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
+            <pubDate>Fri, 13 Feb 2026 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why this election matters more than ever]]></title>
+            <description><![CDATA[By Aasha Mehreen Amin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/no-strings-attached/news/why-election-matters-more-ever-4104006</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/no-strings-attached/news/why-election-matters-more-ever-4104006</guid>
+            <dc:creator><![CDATA[Aasha Mehreen Amin]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -139,22 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-cpi-2025-fall-kleptocracy-or-temporary-setback-4103346</guid>
             <dc:creator><![CDATA[Iftekharuzzaman]]></dc:creator>
             <pubDate>Wed, 11 Feb 2026 01:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An education law – does it matter?]]></title>
-            <description><![CDATA[By Manzoor Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/education-law-does-it-matter-4103351</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/education-law-does-it-matter-4103351</guid>
-            <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
-            <pubDate>Wed, 11 Feb 2026 01:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can election manifestos deliver on economic pledges?]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/can-election-manifestos-deliver-economic-pledges-4102441</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/can-election-manifestos-deliver-economic-pledges-4102441</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
