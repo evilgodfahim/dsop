@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Feb 2026 01:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 04:16:04 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Feb 2026 01:45:52 GMT</pubDate>
+        <pubDate>Sun, 15 Feb 2026 04:16:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / The likely PM’s first crucial challenge]]></title>
@@ -14,6 +14,14 @@
             <link>https://www.thedailystar.net/opinion/views/the-third-view/news/the-likely-pms-first-crucial-challenge-4106066</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/the-likely-pms-first-crucial-challenge-4106066</guid>
             <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reviving RTI: A test for the new government]]></title>
+            <description><![CDATA[By Shamsul Bari and Ruhi Naz]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/reviving-rti-test-the-new-government-4106071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/reviving-rti-test-the-new-government-4106071</guid>
+            <dc:creator><![CDATA[Shamsul Bari and Ruhi Naz]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -63,14 +71,6 @@
             <pubDate>Sat, 14 Feb 2026 01:50:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lack of women’s representation mars an otherwise fair election]]></title>
-            <description><![CDATA[By Samina Luthfa]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/lack-womens-representation-mars-otherwise-fair-election-4105501</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/lack-womens-representation-mars-otherwise-fair-election-4105501</guid>
-            <dc:creator><![CDATA[Samina Luthfa]]></dc:creator>
-            <pubDate>Sat, 14 Feb 2026 01:56:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[BNP’s landslide victory marks a turning point in politics]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/bnps-landslide-victory-marks-turning-point-politics-4105331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bnps-landslide-victory-marks-turning-point-politics-4105331</guid>
@@ -99,6 +99,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/act-decisively-against-disinformation-4103326</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/act-decisively-against-disinformation-4103326</guid>
             <pubDate>Wed, 11 Feb 2026 00:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A new Bangladesh demands new directions]]></title>
+            <description><![CDATA[By Altaf Parvez]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/new-bangladesh-demands-new-directions-4104761</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-bangladesh-demands-new-directions-4104761</guid>
+            <dc:creator><![CDATA[Altaf Parvez]]></dc:creator>
+            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finally, an election that felt real]]></title>
@@ -147,14 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/strengthening-institutions-renewable-energy-the-first-test-the-new-government-4104036</guid>
             <dc:creator><![CDATA[Mohammad Iftekharul Islam]]></dc:creator>
             <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An election of narratives and least scrutiny]]></title>
-            <description><![CDATA[By Kamal Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/election-narratives-and-least-scrutiny-4103331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/election-narratives-and-least-scrutiny-4103331</guid>
-            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Wed, 11 Feb 2026 00:42:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
