@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Feb 2026 17:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 18:27:31 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Feb 2026 17:20:19 GMT</pubDate>
+        <pubDate>Sun, 15 Feb 2026 18:27:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Advisers’ asset disclosures and a test for the new government]]></title>
+            <description><![CDATA[The interim government’s (IG) disclosure of the assets of advisers on February 10, just days before the scheduled end of its tenure, was not only delayed by 533 days after its commitment to do so, but was also incomplete, flawed, and unfit for purpose.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/advisers-asset-disclosures-and-test-the-new-government-4106976</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/advisers-asset-disclosures-and-test-the-new-government-4106976</guid>
+            <dc:creator><![CDATA[Iftekharuzzaman]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A chance to break the cycle of retribution]]></title>
-            <description><![CDATA[Rahman is inheriting a fragile economy and institutions weakened by partisanship.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/chance-break-the-cycle-retribution-4106731</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/chance-break-the-cycle-retribution-4106731</guid>
             <pubDate>Invalid Date</pubDate>
@@ -60,14 +67,6 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[V for Victory, V for Valentine: A mandate is not a licence]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/v-victory-v-valentine-mandate-not-licence-4105471</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/v-victory-v-valentine-mandate-not-licence-4105471</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 14 Feb 2026 01:32:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[BNP’s landslide victory marks a turning point in politics]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/bnps-landslide-victory-marks-turning-point-politics-4105331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bnps-landslide-victory-marks-turning-point-politics-4105331</guid>
@@ -96,6 +95,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/act-decisively-against-disinformation-4103326</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/act-decisively-against-disinformation-4103326</guid>
             <pubDate>Wed, 11 Feb 2026 00:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A test of democratic renewal]]></title>
+            <description><![CDATA[By Anu Muhammad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/test-democratic-renewal-4105481</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/test-democratic-renewal-4105481</guid>
+            <dc:creator><![CDATA[Anu Muhammad]]></dc:creator>
+            <pubDate>Sat, 14 Feb 2026 01:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A credible election, the reform journey commences now]]></title>
@@ -144,14 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/can-we-finally-address-harassment-and-domestic-abuse-deserved-gravitas-4104776</guid>
             <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
             <pubDate>Fri, 13 Feb 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why this election matters more than ever]]></title>
-            <description><![CDATA[By Aasha Mehreen Amin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/no-strings-attached/news/why-election-matters-more-ever-4104006</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/no-strings-attached/news/why-election-matters-more-ever-4104006</guid>
-            <dc:creator><![CDATA[Aasha Mehreen Amin]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
         </item>
     </channel>
 </rss>
