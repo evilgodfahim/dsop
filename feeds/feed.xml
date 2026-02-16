@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Feb 2026 12:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 14:01:59 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Feb 2026 12:48:19 GMT</pubDate>
+        <pubDate>Mon, 16 Feb 2026 14:01:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[A parliament of firsts and youthful lawmakers]]></title>
+            <description><![CDATA[Integrity and restraint will determine success]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/parliament-firsts-and-youthful-lawmakers-4107616</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/parliament-firsts-and-youthful-lawmakers-4107616</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Advisers’ asset disclosures and a test for the new government]]></title>
-            <description><![CDATA[The interim government’s (IG) disclosure of the assets of advisers on February 10, just days before the scheduled end of its tenure, was not only delayed by 533 days after its commitment to do so, but was also incomplete, flawed, and unfit for purpose.]]></description>
+            <description><![CDATA[By Iftekharuzzaman]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/advisers-asset-disclosures-and-test-the-new-government-4106976</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/advisers-asset-disclosures-and-test-the-new-government-4106976</guid>
             <dc:creator><![CDATA[Iftekharuzzaman]]></dc:creator>
@@ -87,12 +94,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/partial-transparency-not-enough-4103986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/partial-transparency-not-enough-4103986</guid>
             <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Act decisively against disinformation]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/act-decisively-against-disinformation-4103326</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/act-decisively-against-disinformation-4103326</guid>
-            <pubDate>Wed, 11 Feb 2026 00:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The emerging architecture of post-authoritarian politics]]></title>
