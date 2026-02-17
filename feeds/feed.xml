@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Feb 2026 04:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Feb 2026 05:53:57 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Feb 2026 04:13:25 GMT</pubDate>
+        <pubDate>Tue, 17 Feb 2026 05:53:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What BNP should keep in mind as it assumes power]]></title>
@@ -39,6 +39,12 @@
             <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Curb post-poll misinformation]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/curb-post-poll-misinformation-4107831</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/curb-post-poll-misinformation-4107831</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The weight of a supermajority in parliament]]></title>
             <description><![CDATA[By Tasneem Tayeb]]></description>
             <link>https://www.thedailystar.net/opinion/views/closer-look/news/the-weight-supermajority-parliament-4106981</link>
@@ -57,14 +63,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/chance-break-the-cycle-retribution-4106731</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/chance-break-the-cycle-retribution-4106731</guid>
             <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column by Mahfuz Anam / The likely PM’s first crucial challenge]]></title>
-            <description><![CDATA[By Mahfuz Anam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/the-likely-pms-first-crucial-challenge-4106066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/the-likely-pms-first-crucial-challenge-4106066</guid>
-            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Politics remains rigged against women]]></title>
@@ -95,6 +93,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/ensure-free-fair-and-peaceful-voting-4103956</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-free-fair-and-peaceful-voting-4103956</guid>
             <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reviving RTI: A test for the new government]]></title>
+            <description><![CDATA[By Shamsul Bari and Ruhi Naz]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/reviving-rti-test-the-new-government-4106071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/reviving-rti-test-the-new-government-4106071</guid>
+            <dc:creator><![CDATA[Shamsul Bari and Ruhi Naz]]></dc:creator>
+            <pubDate>Sun, 15 Feb 2026 00:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh has spoken. Now it’s time to deliver]]></title>
@@ -143,14 +149,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/lack-womens-representation-mars-otherwise-fair-election-4105501</guid>
             <dc:creator><![CDATA[Samina Luthfa]]></dc:creator>
             <pubDate>Sat, 14 Feb 2026 01:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new Bangladesh demands new directions]]></title>
-            <description><![CDATA[By Altaf Parvez]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/new-bangladesh-demands-new-directions-4104761</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-bangladesh-demands-new-directions-4104761</guid>
-            <dc:creator><![CDATA[Altaf Parvez]]></dc:creator>
-            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
