@@ -4,13 +4,28 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Feb 2026 01:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Feb 2026 04:13:25 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Feb 2026 01:29:02 GMT</pubDate>
+        <pubDate>Tue, 17 Feb 2026 04:13:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[What BNP should keep in mind as it assumes power]]></title>
+            <description><![CDATA[BNP rightly deserves our congratulations for winning a decisive victory in the 13th parliamentary election.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/what-bnp-should-keep-mind-it-assumes-power-4107851</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/what-bnp-should-keep-mind-it-assumes-power-4107851</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Global tourism resilience day / Our tourism needs a policy reset]]></title>
+            <description><![CDATA[By Sabbir Ahmad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/our-tourism-needs-policy-reset-4107886</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-tourism-needs-policy-reset-4107886</guid>
+            <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A parliament of firsts and youthful lawmakers]]></title>
-            <description><![CDATA[Integrity and restraint will determine success]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/parliament-firsts-and-youthful-lawmakers-4107616</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/parliament-firsts-and-youthful-lawmakers-4107616</guid>
             <pubDate>Invalid Date</pubDate>
@@ -52,24 +67,16 @@
             <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reviving RTI: A test for the new government]]></title>
-            <description><![CDATA[By Shamsul Bari and Ruhi Naz]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/reviving-rti-test-the-new-government-4106071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/reviving-rti-test-the-new-government-4106071</guid>
-            <dc:creator><![CDATA[Shamsul Bari and Ruhi Naz]]></dc:creator>
-            <pubDate>Sun, 15 Feb 2026 00:17:00 GMT</pubDate>
+            <title><![CDATA[Politics remains rigged against women]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/politics-remains-rigged-against-women-4106081</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/politics-remains-rigged-against-women-4106081</guid>
+            <pubDate>Sun, 15 Feb 2026 00:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The new Bangladesh must shun political violence]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/the-new-bangladesh-must-shun-political-violence-4105946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-new-bangladesh-must-shun-political-violence-4105946</guid>
             <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Politics remains rigged against women]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/politics-remains-rigged-against-women-4106081</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/politics-remains-rigged-against-women-4106081</guid>
-            <pubDate>Sun, 15 Feb 2026 00:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BNP’s landslide victory marks a turning point in politics]]></title>
@@ -90,10 +97,12 @@
             <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Partial transparency not enough]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/partial-transparency-not-enough-4103986</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/partial-transparency-not-enough-4103986</guid>
-            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Bangladesh has spoken. Now it’s time to deliver]]></title>
+            <description><![CDATA[By Shahab Enam Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-has-spoken-now-its-time-deliver-4105846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-has-spoken-now-its-time-deliver-4105846</guid>
+            <dc:creator><![CDATA[Shahab Enam Khan]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[The emerging architecture of post-authoritarian politics]]></title>
@@ -141,14 +150,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/new-bangladesh-demands-new-directions-4104761</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-bangladesh-demands-new-directions-4104761</guid>
             <dc:creator><![CDATA[Altaf Parvez]]></dc:creator>
-            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finally, an election that felt real]]></title>
-            <description><![CDATA[By Afia Jahin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/finally-election-felt-real-4104766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/finally-election-felt-real-4104766</guid>
-            <dc:creator><![CDATA[Afia Jahin]]></dc:creator>
             <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
