@@ -4,15 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Feb 2026 01:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Feb 2026 04:15:19 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Feb 2026 01:43:34 GMT</pubDate>
+        <pubDate>Wed, 18 Feb 2026 04:15:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A moment to unite and deliver]]></title>
             <description><![CDATA[Govt, opposition must work together for the sake of the country]]></description>
             <link>https://www.thedailystar.net/shout/editorial/news/moment-unite-and-deliver-4108416</link>
             <guid isPermaLink="true">https://www.thedailystar.net/shout/editorial/news/moment-unite-and-deliver-4108416</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Extortion capitalism and the economics of control]]></title>
+            <description><![CDATA[By Abdullah A Dewan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/extortion-capitalism-and-the-economics-control-4108776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/extortion-capitalism-and-the-economics-control-4108776</guid>
+            <dc:creator><![CDATA[Abdullah A Dewan]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A six-point strategic memo to the new government]]></title>
+            <description><![CDATA[By Hossain Zillur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/six-point-strategic-memo-the-new-government-4108786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/six-point-strategic-memo-the-new-government-4108786</guid>
+            <dc:creator><![CDATA[Hossain Zillur Rahman]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -54,14 +70,6 @@
             <pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Advisers’ asset disclosures and a test for the new government]]></title>
-            <description><![CDATA[By Iftekharuzzaman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/advisers-asset-disclosures-and-test-the-new-government-4106976</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/advisers-asset-disclosures-and-test-the-new-government-4106976</guid>
-            <dc:creator><![CDATA[Iftekharuzzaman]]></dc:creator>
-            <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Curb post-poll misinformation]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/curb-post-poll-misinformation-4107831</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/curb-post-poll-misinformation-4107831</guid>
@@ -92,10 +100,12 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[BNP’s landslide victory marks a turning point in politics]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/bnps-landslide-victory-marks-turning-point-politics-4105331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bnps-landslide-victory-marks-turning-point-politics-4105331</guid>
-            <pubDate>Invalid Date</pubDate>
+            <title><![CDATA[The weight of a supermajority in parliament]]></title>
+            <description><![CDATA[By Tasneem Tayeb]]></description>
+            <link>https://www.thedailystar.net/opinion/views/closer-look/news/the-weight-supermajority-parliament-4106981</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/the-weight-supermajority-parliament-4106981</guid>
+            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
+            <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / The likely PM’s first crucial challenge]]></title>
@@ -144,14 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/test-democratic-renewal-4105481</guid>
             <dc:creator><![CDATA[Anu Muhammad]]></dc:creator>
             <pubDate>Sat, 14 Feb 2026 01:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A credible election, the reform journey commences now]]></title>
-            <description><![CDATA[By Md Abdul Alim]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/credible-election-the-reform-journey-commences-now-4105491</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/credible-election-the-reform-journey-commences-now-4105491</guid>
-            <dc:creator><![CDATA[Md Abdul Alim]]></dc:creator>
-            <pubDate>Sat, 14 Feb 2026 01:50:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
