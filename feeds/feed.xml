@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Feb 2026 10:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Feb 2026 11:33:57 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Feb 2026 10:36:59 GMT</pubDate>
+        <pubDate>Thu, 19 Feb 2026 11:33:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Strong words must be matched by firm action]]></title>
+            <description><![CDATA[Govt must curb mob tendencies, check disturbances by party activists]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/strong-words-must-be-matched-firm-action-4109991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/strong-words-must-be-matched-firm-action-4109991</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Decisive action is needed to deliver on education pledges]]></title>
-            <description><![CDATA[The overwhelming support of voters received by the BNP thrusts upon the new government a special responsibility and a challenge to meet people’s expectations.]]></description>
+            <description><![CDATA[By Manzoor Ahmed]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/decisive-action-needed-deliver-education-pledges-4109581</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/decisive-action-needed-deliver-education-pledges-4109581</guid>
             <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
@@ -63,14 +70,6 @@
             <pubDate>Wed, 18 Feb 2026 00:13:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A six-point strategic memo to the new government]]></title>
-            <description><![CDATA[By Hossain Zillur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/six-point-strategic-memo-the-new-government-4108786</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/six-point-strategic-memo-the-new-government-4108786</guid>
-            <dc:creator><![CDATA[Hossain Zillur Rahman]]></dc:creator>
-            <pubDate>Wed, 18 Feb 2026 00:16:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How logical is LDC graduation deferment?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/how-logical-ldc-graduation-deferment-4109541</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-logical-ldc-graduation-deferment-4109541</guid>
@@ -99,6 +98,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/parliament-firsts-and-youthful-lawmakers-4107616</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/parliament-firsts-and-youthful-lawmakers-4107616</guid>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A six-point strategic memo to the new government]]></title>
+            <description><![CDATA[By Hossain Zillur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/six-point-strategic-memo-the-new-government-4108786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/six-point-strategic-memo-the-new-government-4108786</guid>
+            <dc:creator><![CDATA[Hossain Zillur Rahman]]></dc:creator>
+            <pubDate>Wed, 18 Feb 2026 00:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Goodbye and good luck]]></title>
@@ -147,14 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/the-weight-supermajority-parliament-4106981</guid>
             <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
             <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column by Mahfuz Anam / The likely PM’s first crucial challenge]]></title>
-            <description><![CDATA[By Mahfuz Anam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/the-likely-pms-first-crucial-challenge-4106066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/the-likely-pms-first-crucial-challenge-4106066</guid>
-            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
