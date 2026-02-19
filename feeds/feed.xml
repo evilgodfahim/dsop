@@ -4,13 +4,29 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Feb 2026 01:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Feb 2026 04:14:21 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Feb 2026 01:42:53 GMT</pubDate>
+        <pubDate>Thu, 19 Feb 2026 04:14:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Decisive action is needed to deliver on education pledges]]></title>
+            <description><![CDATA[The overwhelming support of voters received by the BNP thrusts upon the new government a special responsibility and a challenge to meet people’s expectations.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/decisive-action-needed-deliver-education-pledges-4109581</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/decisive-action-needed-deliver-education-pledges-4109581</guid>
+            <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The referendum mandate is real, but reform must return to the constitution]]></title>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-referendum-mandate-real-reform-must-return-the-constitution-4109591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-referendum-mandate-real-reform-must-return-the-constitution-4109591</guid>
+            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The government will be stronger with more women at the table]]></title>
-            <description><![CDATA[Imagine a parliament and cabinet with a significant number of competent, capable, and honest women members.]]></description>
+            <description><![CDATA[By Aasha Mehreen Amin]]></description>
             <link>https://www.thedailystar.net/opinion/views/no-strings-attached/news/the-government-will-be-stronger-more-women-the-table-4108766</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/no-strings-attached/news/the-government-will-be-stronger-more-women-the-table-4108766</guid>
             <dc:creator><![CDATA[Aasha Mehreen Amin]]></dc:creator>
@@ -39,36 +55,18 @@
             <pubDate>Wed, 18 Feb 2026 00:16:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How logical is LDC graduation deferment?]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/how-logical-ldc-graduation-deferment-4109541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-logical-ldc-graduation-deferment-4109541</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Goodbye and good luck]]></title>
             <description><![CDATA[By Apurba Jahangir]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/goodbye-and-good-luck-4108791</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/goodbye-and-good-luck-4108791</guid>
             <dc:creator><![CDATA[Apurba Jahangir]]></dc:creator>
             <pubDate>Wed, 18 Feb 2026 00:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What BNP should keep in mind as it assumes power]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/what-bnp-should-keep-mind-it-assumes-power-4107851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/what-bnp-should-keep-mind-it-assumes-power-4107851</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Global tourism resilience day / Our tourism needs a policy reset]]></title>
-            <description><![CDATA[By Sabbir Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/our-tourism-needs-policy-reset-4107886</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-tourism-needs-policy-reset-4107886</guid>
-            <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
-            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rural growth demands capital, not paper promises]]></title>
-            <description><![CDATA[By Saba El Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/rural-growth-demands-capital-not-paper-promises-4107906</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rural-growth-demands-capital-not-paper-promises-4107906</guid>
-            <dc:creator><![CDATA[Saba El Kabir]]></dc:creator>
-            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contain price hike during Ramadan]]></title>
@@ -101,6 +99,30 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Global tourism resilience day / Our tourism needs a policy reset]]></title>
+            <description><![CDATA[By Sabbir Ahmad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/our-tourism-needs-policy-reset-4107886</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-tourism-needs-policy-reset-4107886</guid>
+            <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
+            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rural growth demands capital, not paper promises]]></title>
+            <description><![CDATA[By Saba El Kabir]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/rural-growth-demands-capital-not-paper-promises-4107906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rural-growth-demands-capital-not-paper-promises-4107906</guid>
+            <dc:creator><![CDATA[Saba El Kabir]]></dc:creator>
+            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the trade agreement with the US is problematic]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-the-trade-agreement-the-us-problematic-4107546</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-the-trade-agreement-the-us-problematic-4107546</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Advisers’ asset disclosures and a test for the new government]]></title>
             <description><![CDATA[By Iftekharuzzaman]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/advisers-asset-disclosures-and-test-the-new-government-4106976</link>
@@ -131,30 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/reviving-rti-test-the-new-government-4106071</guid>
             <dc:creator><![CDATA[Shamsul Bari and Ruhi Naz]]></dc:creator>
             <pubDate>Sun, 15 Feb 2026 00:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh has spoken. Now it’s time to deliver]]></title>
-            <description><![CDATA[By Shahab Enam Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-has-spoken-now-its-time-deliver-4105846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-has-spoken-now-its-time-deliver-4105846</guid>
-            <dc:creator><![CDATA[Shahab Enam Khan]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The emerging architecture of post-authoritarian politics]]></title>
-            <description><![CDATA[By Kazi ASM Nurul Huda]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-emerging-architecture-post-authoritarian-politics-4105281</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-emerging-architecture-post-authoritarian-politics-4105281</guid>
-            <dc:creator><![CDATA[Kazi ASM Nurul Huda]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[V for Victory, V for Valentine: A mandate is not a licence]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/v-victory-v-valentine-mandate-not-licence-4105471</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/v-victory-v-valentine-mandate-not-licence-4105471</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 14 Feb 2026 01:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
