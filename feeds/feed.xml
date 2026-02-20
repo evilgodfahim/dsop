@@ -4,13 +4,28 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Feb 2026 01:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Feb 2026 04:09:16 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Feb 2026 01:26:18 GMT</pubDate>
+        <pubDate>Fri, 20 Feb 2026 04:09:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[World day of social justice / How multispecies justice supports social justice]]></title>
+            <description><![CDATA[“Multispecies justice”—quite a mouthful, I know. I remember the first time I heard about it: I was freezing, sitting in my 19th-century classroom, which always managed to maintain a subzero temperature no matter the season.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-multispecies-justice-supports-social-justice-4110331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-multispecies-justice-supports-social-justice-4110331</guid>
+            <dc:creator><![CDATA[Marzana Tasnim]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Refusing constitution assembly oath defies people’s verdict]]></title>
+            <description><![CDATA[By Sharif Bhuiyan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/refusing-constitution-assembly-oath-defies-peoples-verdict-4110346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/refusing-constitution-assembly-oath-defies-peoples-verdict-4110346</guid>
+            <dc:creator><![CDATA[Sharif Bhuiyan]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Strong words must be matched by firm action]]></title>
-            <description><![CDATA[Govt must curb mob tendencies, check disturbances by party activists]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/strong-words-must-be-matched-firm-action-4109991</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/strong-words-must-be-matched-firm-action-4109991</guid>
             <pubDate>Invalid Date</pubDate>
@@ -40,34 +55,18 @@
             <pubDate>Thu, 19 Feb 2026 00:59:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Strong words must be matched by firm action]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/strong-words-must-be-matched-firm-action-4110271</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/strong-words-must-be-matched-firm-action-4110271</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The new prime minister faces tough tests ahead]]></title>
             <description><![CDATA[By Zillur Rahman]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/the-new-prime-minister-faces-tough-tests-ahead-4109596</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-new-prime-minister-faces-tough-tests-ahead-4109596</guid>
             <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
             <pubDate>Thu, 19 Feb 2026 01:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The government will be stronger with more women at the table]]></title>
-            <description><![CDATA[By Aasha Mehreen Amin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/no-strings-attached/news/the-government-will-be-stronger-more-women-the-table-4108766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/no-strings-attached/news/the-government-will-be-stronger-more-women-the-table-4108766</guid>
-            <dc:creator><![CDATA[Aasha Mehreen Amin]]></dc:creator>
-            <pubDate>Wed, 18 Feb 2026 00:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A moment to unite and deliver]]></title>
-            <link>https://www.thedailystar.net/shout/editorial/news/moment-unite-and-deliver-4108416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/shout/editorial/news/moment-unite-and-deliver-4108416</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Extortion capitalism and the economics of control]]></title>
-            <description><![CDATA[By Abdullah A Dewan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/extortion-capitalism-and-the-economics-control-4108776</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/extortion-capitalism-and-the-economics-control-4108776</guid>
-            <dc:creator><![CDATA[Abdullah A Dewan]]></dc:creator>
-            <pubDate>Wed, 18 Feb 2026 00:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How logical is LDC graduation deferment?]]></title>
@@ -98,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/parliament-firsts-and-youthful-lawmakers-4107616</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/parliament-firsts-and-youthful-lawmakers-4107616</guid>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Extortion capitalism and the economics of control]]></title>
+            <description><![CDATA[By Abdullah A Dewan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/extortion-capitalism-and-the-economics-control-4108776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/extortion-capitalism-and-the-economics-control-4108776</guid>
+            <dc:creator><![CDATA[Abdullah A Dewan]]></dc:creator>
+            <pubDate>Wed, 18 Feb 2026 00:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A six-point strategic memo to the new government]]></title>
@@ -145,14 +152,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/advisers-asset-disclosures-and-test-the-new-government-4106976</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/advisers-asset-disclosures-and-test-the-new-government-4106976</guid>
             <dc:creator><![CDATA[Iftekharuzzaman]]></dc:creator>
-            <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The weight of a supermajority in parliament]]></title>
-            <description><![CDATA[By Tasneem Tayeb]]></description>
-            <link>https://www.thedailystar.net/opinion/views/closer-look/news/the-weight-supermajority-parliament-4106981</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/the-weight-supermajority-parliament-4106981</guid>
-            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
             <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
