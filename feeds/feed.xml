@@ -4,13 +4,21 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Feb 2026 01:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 04:01:28 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Feb 2026 01:24:31 GMT</pubDate>
+        <pubDate>Sat, 21 Feb 2026 04:01:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[What the scheduling fiasco of Ekushey book fair tells us]]></title>
+            <description><![CDATA[Ekushey February (February 21) is a date that reminds the Bangladeshi people of their culture as well as their originary moments.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/what-the-scheduling-fiasco-ekushey-book-fair-tells-us-4110956</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/what-the-scheduling-fiasco-ekushey-book-fair-tells-us-4110956</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A 10-point roadmap for Bangladesh's logistics transformation]]></title>
-            <description><![CDATA[With a fresh public mandate in hand, the new administration enters office at a pivotal moment, ready to convert the prime minister’s pre-election pledges into a concrete roadmap for economic transformation.]]></description>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/10-point-roadmap-bangladeshs-logistics-transformation-4110291</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/10-point-roadmap-bangladeshs-logistics-transformation-4110291</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 19 Feb 2026 00:51:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Increasing public health investment must be a top priority]]></title>
-            <description><![CDATA[By Md Shafaat Ali Choyon]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/increasing-public-health-investment-must-be-top-priority-4109586</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/increasing-public-health-investment-must-be-top-priority-4109586</guid>
-            <dc:creator><![CDATA[Md Shafaat Ali Choyon]]></dc:creator>
-            <pubDate>Thu, 19 Feb 2026 00:54:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Strong words must be matched by firm action]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/strong-words-must-be-matched-firm-action-4110271</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/strong-words-must-be-matched-firm-action-4110271</guid>
@@ -97,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/curb-post-poll-misinformation-4107831</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/curb-post-poll-misinformation-4107831</guid>
             <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The referendum mandate is real, but reform must return to the constitution]]></title>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-referendum-mandate-real-reform-must-return-the-constitution-4109591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-referendum-mandate-real-reform-must-return-the-constitution-4109591</guid>
+            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
+            <pubDate>Thu, 19 Feb 2026 00:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The new prime minister faces tough tests ahead]]></title>
@@ -144,14 +152,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/our-tourism-needs-policy-reset-4107886</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-tourism-needs-policy-reset-4107886</guid>
             <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
-            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rural growth demands capital, not paper promises]]></title>
-            <description><![CDATA[By Saba El Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/rural-growth-demands-capital-not-paper-promises-4107906</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rural-growth-demands-capital-not-paper-promises-4107906</guid>
-            <dc:creator><![CDATA[Saba El Kabir]]></dc:creator>
             <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
