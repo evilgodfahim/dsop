@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Feb 2026 08:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 09:23:48 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Feb 2026 08:22:56 GMT</pubDate>
+        <pubDate>Sat, 21 Feb 2026 09:23:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What the scheduling fiasco of Ekushey book fair tells us]]></title>
@@ -15,6 +15,22 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/what-the-scheduling-fiasco-ekushey-book-fair-tells-us-4110956</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
             <pubDate>Sat, 21 Feb 2026 02:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A bizarre mission to restore the Madhupur Sal forest]]></title>
+            <description><![CDATA[By Philip Gain]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bizarre-mission-restore-the-madhupur-sal-forest-4110971</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bizarre-mission-restore-the-madhupur-sal-forest-4110971</guid>
+            <dc:creator><![CDATA[Philip Gain]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 02:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reconciling hundi realities with LDC graduation goals]]></title>
+            <description><![CDATA[By Saba El Kabir]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/reconciling-hundi-realities-ldc-graduation-goals-4110961</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/reconciling-hundi-realities-ldc-graduation-goals-4110961</guid>
+            <dc:creator><![CDATA[Saba El Kabir]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 02:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A 10-point roadmap for Bangladesh's logistics transformation]]></title>
@@ -38,7 +54,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/not-forgetting-the-victims-club-epstein-and-crimes-against-humanity-4110976</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/not-forgetting-the-victims-club-epstein-and-crimes-against-humanity-4110976</guid>
             <dc:creator><![CDATA[Binoy Kampmark]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Sat, 21 Feb 2026 02:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Refusing constitution assembly oath defies people’s verdict]]></title>
@@ -85,18 +101,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/how-logical-ldc-graduation-deferment-4109541</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-logical-ldc-graduation-deferment-4109541</guid>
             <pubDate>Thu, 19 Feb 2026 00:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can students afford to lose more school days?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/can-students-afford-lose-more-school-days-4109566</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/can-students-afford-lose-more-school-days-4109566</guid>
-            <pubDate>Thu, 19 Feb 2026 00:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contain price hike during Ramadan]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/contain-price-hike-during-ramadan-4108761</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/contain-price-hike-during-ramadan-4108761</guid>
-            <pubDate>Wed, 18 Feb 2026 00:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Increasing public health investment must be a top priority]]></title>
