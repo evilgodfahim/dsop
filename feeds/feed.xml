@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 10:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 11:36:03 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 10:43:32 GMT</pubDate>
+        <pubDate>Wed, 25 Feb 2026 11:36:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[We do not want any more police excesses]]></title>
+            <description><![CDATA[They give uneasy signals to the public]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/we-do-not-want-any-more-police-excesses-4114786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-do-not-want-any-more-police-excesses-4114786</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Climate actions need less talk, more work]]></title>
-            <description><![CDATA[A lesson emerging from COP participation is that for advocacy to deliver results, it must be married to strategy.]]></description>
+            <description><![CDATA[By Namira ShameemHossain Zillur Rahman]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/climate-actions-need-less-talk-more-work-4114206</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/climate-actions-need-less-talk-more-work-4114206</guid>
             <dc:creator><![CDATA[Namira ShameemHossain Zillur Rahman]]></dc:creator>
@@ -65,14 +72,6 @@
             <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When extortion is sanitised, rights become negotiable]]></title>
-            <description><![CDATA[By Abdullah A Dewan]]></description>
-            <link>https://www.thedailystar.net/opinion/news/when-extortion-sanitised-rights-become-negotiable-4113361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/when-extortion-sanitised-rights-become-negotiable-4113361</guid>
-            <dc:creator><![CDATA[Abdullah A Dewan]]></dc:creator>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Meta’s unforgivable inaction]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/metas-unforgivable-inaction-4113821</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/metas-unforgivable-inaction-4113821</guid>
@@ -101,6 +100,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/road-safety-must-come-first-4112111</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/road-safety-must-come-first-4112111</guid>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s renewables drive must include women]]></title>
+            <description><![CDATA[By Wasiur Rahman Tonmoy]]></description>
+            <link>https://www.thedailystar.net/opinion/news/bangladeshs-renewables-drive-must-include-women-4113311</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladeshs-renewables-drive-must-include-women-4113311</guid>
+            <dc:creator><![CDATA[Wasiur Rahman Tonmoy]]></dc:creator>
+            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Army’s role during the polls and interim period merits a nod]]></title>
@@ -149,14 +156,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/modern-day-slavery-threatening-our-women-migrants-4111641</guid>
             <dc:creator><![CDATA[Md Abbas]]></dc:creator>
             <pubDate>Sun, 22 Feb 2026 01:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why do voters elect controversial politicians?]]></title>
-            <description><![CDATA[By Abdullah A Dewan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-do-voters-elect-controversial-politicians-4111626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-do-voters-elect-controversial-politicians-4111626</guid>
-            <dc:creator><![CDATA[Abdullah A Dewan]]></dc:creator>
-            <pubDate>Sun, 22 Feb 2026 01:33:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
