@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 01:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 04:14:07 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 01:41:51 GMT</pubDate>
+        <pubDate>Wed, 25 Feb 2026 04:14:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Climate actions need less talk, more work]]></title>
+            <description><![CDATA[At a recent climate adda hosted by the Power and Participation Research Centre (PPRC), participants including COP30 returnees, local youth climate activists, researchers, engineers, and policy thinkers gathered to reflect on the COP experience and draw lessons on how climate engagement can be meaningfully taken forward.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/climate-actions-need-less-talk-more-work-4114206</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/climate-actions-need-less-talk-more-work-4114206</guid>
+            <dc:creator><![CDATA[Namira ShameemHossain Zillur Rahman]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Meta’s unforgivable inaction]]></title>
-            <description><![CDATA[A shameful failure to protect independent journalism]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/metas-unforgivable-inaction-4113821</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/metas-unforgivable-inaction-4113821</guid>
             <pubDate>Invalid Date</pubDate>
@@ -40,6 +47,12 @@
             <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Refrain from partisan acts]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/refrain-partisan-acts-4114201</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/refrain-partisan-acts-4114201</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bangladesh’s renewables drive must include women]]></title>
             <description><![CDATA[By Wasiur Rahman Tonmoy]]></description>
             <link>https://www.thedailystar.net/opinion/news/bangladeshs-renewables-drive-must-include-women-4113311</link>
@@ -54,22 +67,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/armys-role-during-the-polls-and-interim-period-merits-nod-4112506</guid>
             <dc:creator><![CDATA[Tanim Ahmed]]></dc:creator>
             <pubDate>Mon, 23 Feb 2026 00:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tourism and roads won’t solve CHT’s deeper wounds]]></title>
-            <description><![CDATA[By Kurnikova ChakmaJoya DewanMuhammad Asadullah]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/tourism-and-roads-wont-solve-chts-deeper-wounds-4112526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tourism-and-roads-wont-solve-chts-deeper-wounds-4112526</guid>
-            <dc:creator><![CDATA[Kurnikova ChakmaJoya DewanMuhammad Asadullah]]></dc:creator>
-            <pubDate>Mon, 23 Feb 2026 00:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s foreign policy enters its post-election test]]></title>
-            <description><![CDATA[By Tasneem Tayeb]]></description>
-            <link>https://www.thedailystar.net/opinion/views/closer-look/news/bangladeshs-foreign-policy-enters-its-post-election-test-4112536</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/bangladeshs-foreign-policy-enters-its-post-election-test-4112536</guid>
-            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
-            <pubDate>Mon, 23 Feb 2026 00:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rein in mugging gangs]]></title>
@@ -102,6 +99,30 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tourism and roads won’t solve CHT’s deeper wounds]]></title>
+            <description><![CDATA[By Kurnikova ChakmaJoya DewanMuhammad Asadullah]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/tourism-and-roads-wont-solve-chts-deeper-wounds-4112526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tourism-and-roads-wont-solve-chts-deeper-wounds-4112526</guid>
+            <dc:creator><![CDATA[Kurnikova ChakmaJoya DewanMuhammad Asadullah]]></dc:creator>
+            <pubDate>Mon, 23 Feb 2026 00:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s foreign policy enters its post-election test]]></title>
+            <description><![CDATA[By Tasneem Tayeb]]></description>
+            <link>https://www.thedailystar.net/opinion/views/closer-look/news/bangladeshs-foreign-policy-enters-its-post-election-test-4112536</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/bangladeshs-foreign-policy-enters-its-post-election-test-4112536</guid>
+            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
+            <pubDate>Mon, 23 Feb 2026 00:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The International Crimes Tribunal’s questionable detention policy]]></title>
+            <description><![CDATA[By David Bergman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-international-crimes-tribunals-questionable-detention-policy-4111636</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-international-crimes-tribunals-questionable-detention-policy-4111636</guid>
+            <dc:creator><![CDATA[David Bergman]]></dc:creator>
+            <pubDate>Sun, 22 Feb 2026 01:43:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Will the real poor get the benefits of the family card?]]></title>
             <description><![CDATA[By Nawshad Ahmed]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/will-the-real-poor-get-the-benefits-the-family-card-4112531</link>
@@ -132,30 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/markets-abroad-balance-profit-and-festival-spirit-why-cant-we-4111631</guid>
             <dc:creator><![CDATA[Mahtab Uddin]]></dc:creator>
             <pubDate>Sun, 22 Feb 2026 01:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the scheduling fiasco of Ekushey book fair tells us]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/what-the-scheduling-fiasco-ekushey-book-fair-tells-us-4110956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/what-the-scheduling-fiasco-ekushey-book-fair-tells-us-4110956</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 21 Feb 2026 02:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A bizarre mission to restore the Madhupur Sal forest]]></title>
-            <description><![CDATA[By Philip Gain]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bizarre-mission-restore-the-madhupur-sal-forest-4110971</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bizarre-mission-restore-the-madhupur-sal-forest-4110971</guid>
-            <dc:creator><![CDATA[Philip Gain]]></dc:creator>
-            <pubDate>Sat, 21 Feb 2026 02:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reconciling hundi realities with LDC graduation goals]]></title>
-            <description><![CDATA[By Saba El Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/reconciling-hundi-realities-ldc-graduation-goals-4110961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/reconciling-hundi-realities-ldc-graduation-goals-4110961</guid>
-            <dc:creator><![CDATA[Saba El Kabir]]></dc:creator>
-            <pubDate>Sat, 21 Feb 2026 02:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
