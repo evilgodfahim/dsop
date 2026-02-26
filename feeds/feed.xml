@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 11:35:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 12:51:31 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Feb 2026 11:35:27 GMT</pubDate>
+        <pubDate>Thu, 26 Feb 2026 12:51:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Mansur’s abrupt dismissal is shocking]]></title>
+            <description><![CDATA[Ahsan H Mansur's dismissal and Mostaqur Rahman's appointment are controversial.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/mansurs-abrupt-dismissal-shocking-4115686</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/mansurs-abrupt-dismissal-shocking-4115686</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Economic priorities the new government should focus on]]></title>
-            <description><![CDATA[The crises of persistent inflationary pressure, sluggish private investment, and unemployment needs to be dealt with simultaneously, with careful policy planning.]]></description>
+            <description><![CDATA[By Sayema Haque Bidisha]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/economic-priorities-the-new-government-should-focus-4115191</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/economic-priorities-the-new-government-should-focus-4115191</guid>
             <dc:creator><![CDATA[Sayema Haque Bidisha]]></dc:creator>
@@ -63,14 +70,6 @@
             <pubDate>Wed, 25 Feb 2026 00:09:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Think twice before forcing a third language on school students]]></title>
-            <description><![CDATA[By Benzir Ahammed Shawon]]></description>
-            <link>https://www.thedailystar.net/opinion/news/think-twice-forcing-third-language-school-students-4114211</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/think-twice-forcing-third-language-school-students-4114211</guid>
-            <dc:creator><![CDATA[Benzir Ahammed Shawon]]></dc:creator>
-            <pubDate>Wed, 25 Feb 2026 00:06:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Make new Rangamati hospital building operational]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/make-new-rangamati-hospital-building-operational-4115181</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/make-new-rangamati-hospital-building-operational-4115181</guid>
@@ -99,6 +98,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/explore-ways-better-tackle-increasing-debt-obligations-4113266</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/explore-ways-better-tackle-increasing-debt-obligations-4113266</guid>
             <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jahanara’s case and the accountability gap in athlete protection]]></title>
+            <description><![CDATA[By Badrul Hassan]]></description>
+            <link>https://www.thedailystar.net/opinion/news/jahanaras-case-and-the-accountability-gap-athlete-protection-4114221</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/jahanaras-case-and-the-accountability-gap-athlete-protection-4114221</guid>
+            <dc:creator><![CDATA[Badrul Hassan]]></dc:creator>
+            <pubDate>Wed, 25 Feb 2026 00:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What the transport minister’s words really revealed]]></title>
@@ -147,14 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/armys-role-during-the-polls-and-interim-period-merits-nod-4112506</guid>
             <dc:creator><![CDATA[Tanim Ahmed]]></dc:creator>
             <pubDate>Mon, 23 Feb 2026 00:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tourism and roads won’t solve CHT’s deeper wounds]]></title>
-            <description><![CDATA[By Kurnikova ChakmaJoya DewanMuhammad Asadullah]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/tourism-and-roads-wont-solve-chts-deeper-wounds-4112526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tourism-and-roads-wont-solve-chts-deeper-wounds-4112526</guid>
-            <dc:creator><![CDATA[Kurnikova ChakmaJoya DewanMuhammad Asadullah]]></dc:creator>
-            <pubDate>Mon, 23 Feb 2026 00:36:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
