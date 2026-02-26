@@ -4,13 +4,28 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 01:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 04:10:53 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Feb 2026 01:27:02 GMT</pubDate>
+        <pubDate>Thu, 26 Feb 2026 04:10:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Economic priorities the new government should focus on]]></title>
+            <description><![CDATA[The newly elected BNP government has inherited an economy with diverse challenges.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/economic-priorities-the-new-government-should-focus-4115191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/economic-priorities-the-new-government-should-focus-4115191</guid>
+            <dc:creator><![CDATA[Sayema Haque Bidisha]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We are neglecting cooking gas danger at our own peril]]></title>
+            <description><![CDATA[By H.M. Nazmul Alam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-are-neglecting-cooking-gas-danger-our-own-peril-4115211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-are-neglecting-cooking-gas-danger-our-own-peril-4115211</guid>
+            <dc:creator><![CDATA[H.M. Nazmul Alam]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[We do not want any more police excesses]]></title>
-            <description><![CDATA[They give uneasy signals to the public]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/we-do-not-want-any-more-police-excesses-4114786</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-do-not-want-any-more-police-excesses-4114786</guid>
             <pubDate>Invalid Date</pubDate>
@@ -56,22 +71,6 @@
             <pubDate>Wed, 25 Feb 2026 11:36:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rethinking the Bangladesh-US trade deal following the legal blow]]></title>
-            <description><![CDATA[By M.G. Quibria]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/rethinking-the-bangladesh-us-trade-deal-following-the-legal-blow-4113326</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-the-bangladesh-us-trade-deal-following-the-legal-blow-4113326</guid>
-            <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deferring Bangladesh’s LDC graduation and the road ahead]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/news/deferring-bangladeshs-ldc-graduation-and-the-road-ahead-4113286</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/deferring-bangladeshs-ldc-graduation-and-the-road-ahead-4113286</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Meta’s unforgivable inaction]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/metas-unforgivable-inaction-4113821</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/metas-unforgivable-inaction-4113821</guid>
@@ -100,6 +99,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/road-safety-must-come-first-4112111</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/road-safety-must-come-first-4112111</guid>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When extortion is sanitised, rights become negotiable]]></title>
+            <description><![CDATA[By Abdullah A Dewan]]></description>
+            <link>https://www.thedailystar.net/opinion/news/when-extortion-sanitised-rights-become-negotiable-4113361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/when-extortion-sanitised-rights-become-negotiable-4113361</guid>
+            <dc:creator><![CDATA[Abdullah A Dewan]]></dc:creator>
+            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deferring Bangladesh’s LDC graduation and the road ahead]]></title>
+            <description><![CDATA[By Fahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/news/deferring-bangladeshs-ldc-graduation-and-the-road-ahead-4113286</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/deferring-bangladeshs-ldc-graduation-and-the-road-ahead-4113286</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh’s renewables drive must include women]]></title>
@@ -140,22 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-international-crimes-tribunals-questionable-detention-policy-4111636</guid>
             <dc:creator><![CDATA[David Bergman]]></dc:creator>
             <pubDate>Sun, 22 Feb 2026 01:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the real poor get the benefits of the family card?]]></title>
-            <description><![CDATA[By Nawshad Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/will-the-real-poor-get-the-benefits-the-family-card-4112531</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/will-the-real-poor-get-the-benefits-the-family-card-4112531</guid>
-            <dc:creator><![CDATA[Nawshad Ahmed]]></dc:creator>
-            <pubDate>Mon, 23 Feb 2026 00:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Modern-day slavery’ threatening our women migrants]]></title>
-            <description><![CDATA[By Md Abbas]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/modern-day-slavery-threatening-our-women-migrants-4111641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/modern-day-slavery-threatening-our-women-migrants-4111641</guid>
-            <dc:creator><![CDATA[Md Abbas]]></dc:creator>
-            <pubDate>Sun, 22 Feb 2026 01:46:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
