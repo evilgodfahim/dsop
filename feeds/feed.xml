@@ -1,19 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Star – Opinion (dummy feed)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[The Daily Star – Opinion]]></title>
+        <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Feb 2026 07:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 08:34:26 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Feb 2026 07:42:14 GMT</pubDate>
+        <pubDate>Fri, 27 Feb 2026 08:34:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://www.thedailystar.net</link>
-            <guid isPermaLink="true">https://www.thedailystar.net</guid>
-            <pubDate>Fri, 27 Feb 2026 07:42:14 GMT</pubDate>
+            <title><![CDATA[Column by Mahfuz Anam / A controversial decision]]></title>
+            <description><![CDATA[Critical decisions are usually judged by three things: their merit, method, and meaning or significance.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/controversial-decision-4116106</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/controversial-decision-4116106</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Fri, 27 Feb 2026 00:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mansur’s abrupt dismissal is shocking]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/mansurs-abrupt-dismissal-shocking-4115686</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/mansurs-abrupt-dismissal-shocking-4115686</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Bangladesh can turn canal excavation into an environmental win]]></title>
+            <description><![CDATA[By Ashraf DewanMo Hoque]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-bangladesh-can-turn-canal-excavation-environmental-win-4116161</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-bangladesh-can-turn-canal-excavation-environmental-win-4116161</guid>
+            <dc:creator><![CDATA[Ashraf DewanMo Hoque]]></dc:creator>
+            <pubDate>Fri, 27 Feb 2026 00:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Economic priorities the new government should focus on]]></title>
+            <description><![CDATA[By Sayema Haque Bidisha]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/economic-priorities-the-new-government-should-focus-4115191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/economic-priorities-the-new-government-should-focus-4115191</guid>
+            <dc:creator><![CDATA[Sayema Haque Bidisha]]></dc:creator>
+            <pubDate>Thu, 26 Feb 2026 00:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Security should not be a pretext for moral policing or erosion of liberties]]></title>
+            <description><![CDATA[By Tagabun Taharim Titun]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/security-should-not-be-pretext-moral-policing-or-erosion-liberties-4115196</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/security-should-not-be-pretext-moral-policing-or-erosion-liberties-4115196</guid>
+            <dc:creator><![CDATA[Tagabun Taharim Titun]]></dc:creator>
+            <pubDate>Thu, 26 Feb 2026 00:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka University deserves an elected VC]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/dhaka-university-deserves-elected-vc-4116131</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dhaka-university-deserves-elected-vc-4116131</guid>
+            <pubDate>Fri, 27 Feb 2026 00:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does a referendum mandate mean unlimited authority?]]></title>
+            <description><![CDATA[By Kazi ASM Nurul Huda]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/does-referendum-mandate-mean-unlimited-authority-4115201</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/does-referendum-mandate-mean-unlimited-authority-4115201</guid>
+            <dc:creator><![CDATA[Kazi ASM Nurul Huda]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We are neglecting cooking gas danger at our own peril]]></title>
+            <description><![CDATA[By H.M. Nazmul Alam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-are-neglecting-cooking-gas-danger-our-own-peril-4115211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-are-neglecting-cooking-gas-danger-our-own-peril-4115211</guid>
+            <dc:creator><![CDATA[H.M. Nazmul Alam]]></dc:creator>
+            <pubDate>Thu, 26 Feb 2026 00:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make new Rangamati hospital building operational]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/make-new-rangamati-hospital-building-operational-4115181</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/make-new-rangamati-hospital-building-operational-4115181</guid>
+            <pubDate>Thu, 26 Feb 2026 00:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We do not want any more police excesses]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/we-do-not-want-any-more-police-excesses-4114786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-do-not-want-any-more-police-excesses-4114786</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta’s unforgivable inaction]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/metas-unforgivable-inaction-4113821</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/metas-unforgivable-inaction-4113821</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Refrain from partisan acts]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/refrain-partisan-acts-4114201</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/refrain-partisan-acts-4114201</guid>
+            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rein in mugging gangs]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/rein-mugging-gangs-4112921</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rein-mugging-gangs-4112921</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make ICT policy a priority, not a side show]]></title>
+            <description><![CDATA[By Zarif Faiaz]]></description>
+            <link>https://www.thedailystar.net/opinion/news/make-ict-policy-priority-not-side-show-4114216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/make-ict-policy-priority-not-side-show-4114216</guid>
+            <dc:creator><![CDATA[Zarif Faiaz]]></dc:creator>
+            <pubDate>Wed, 25 Feb 2026 00:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Think twice before forcing a third language on school students]]></title>
+            <description><![CDATA[By Benzir Ahammed Shawon]]></description>
+            <link>https://www.thedailystar.net/opinion/news/think-twice-forcing-third-language-school-students-4114211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/think-twice-forcing-third-language-school-students-4114211</guid>
+            <dc:creator><![CDATA[Benzir Ahammed Shawon]]></dc:creator>
+            <pubDate>Wed, 25 Feb 2026 00:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jahanara’s case and the accountability gap in athlete protection]]></title>
+            <description><![CDATA[By Badrul Hassan]]></description>
+            <link>https://www.thedailystar.net/opinion/news/jahanaras-case-and-the-accountability-gap-athlete-protection-4114221</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/jahanaras-case-and-the-accountability-gap-athlete-protection-4114221</guid>
+            <dc:creator><![CDATA[Badrul Hassan]]></dc:creator>
+            <pubDate>Wed, 25 Feb 2026 00:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the transport minister’s words really revealed]]></title>
+            <description><![CDATA[By Nazbul H Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/news/what-the-transport-ministers-words-really-revealed-4114506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/what-the-transport-ministers-words-really-revealed-4114506</guid>
+            <dc:creator><![CDATA[Nazbul H Khan]]></dc:creator>
+            <pubDate>Wed, 25 Feb 2026 11:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking the Bangladesh-US trade deal following the legal blow]]></title>
+            <description><![CDATA[By M.G. Quibria]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/rethinking-the-bangladesh-us-trade-deal-following-the-legal-blow-4113326</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-the-bangladesh-us-trade-deal-following-the-legal-blow-4113326</guid>
+            <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
+            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When extortion is sanitised, rights become negotiable]]></title>
+            <description><![CDATA[By Abdullah A Dewan]]></description>
+            <link>https://www.thedailystar.net/opinion/news/when-extortion-sanitised-rights-become-negotiable-4113361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/when-extortion-sanitised-rights-become-negotiable-4113361</guid>
+            <dc:creator><![CDATA[Abdullah A Dewan]]></dc:creator>
+            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deferring Bangladesh’s LDC graduation and the road ahead]]></title>
+            <description><![CDATA[By Fahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/news/deferring-bangladeshs-ldc-graduation-and-the-road-ahead-4113286</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/deferring-bangladeshs-ldc-graduation-and-the-road-ahead-4113286</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
