@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 03:49:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 04:50:35 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 03:49:08 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 04:50:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Depoliticise institutions, not ideas]]></title>
@@ -14,6 +14,14 @@
             <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/depoliticise-institutions-not-ideas-4116666</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/depoliticise-institutions-not-ideas-4116666</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Restoring public confidence in the judiciary is a test for the government]]></title>
+            <description><![CDATA[By Md. Arifujjaman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/restoring-public-confidence-the-judiciary-test-the-government-4116686</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/restoring-public-confidence-the-judiciary-test-the-government-4116686</guid>
+            <dc:creator><![CDATA[Md. Arifujjaman]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -89,12 +97,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/refrain-partisan-acts-4114201</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/refrain-partisan-acts-4114201</guid>
             <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rein in mugging gangs]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/rein-mugging-gangs-4112921</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rein-mugging-gangs-4112921</guid>
-            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[We are neglecting cooking gas danger at our own peril]]></title>
