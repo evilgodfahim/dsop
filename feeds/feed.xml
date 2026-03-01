@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 05:47:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 06:38:22 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 05:47:04 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 06:38:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Central bank shake-up: Why is BNP undermining its reformist legacy?]]></title>
@@ -17,25 +17,39 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Khulna’s tremor should shake us into action]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/khulnas-tremor-should-shake-us-action-4117091</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/khulnas-tremor-should-shake-us-action-4117091</guid>
+            <title><![CDATA[What's in a word? The battle for cultural authority in Bangladesh]]></title>
+            <description><![CDATA[By Ahmed Ashfaque Shahbaz]]></description>
+            <link>https://www.thedailystar.net/opinion/news/whats-word-the-battle-cultural-authority-bangladesh-4117351</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/whats-word-the-battle-cultural-authority-bangladesh-4117351</guid>
+            <dc:creator><![CDATA[Ahmed Ashfaque Shahbaz]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Imperial maps, Pak-Afghan war, and a way forward]]></title>
             <description><![CDATA[By Asif Bin Ali]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/imperial-maps-pak-afghan-war-and-way-forward-4117356</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/imperial-maps-pak-afghan-war-and-way-forward-4117356</guid>
+            <link>https://www.thedailystar.net/opinion/news/imperial-maps-pak-afghan-war-and-way-forward-4117356</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/imperial-maps-pak-afghan-war-and-way-forward-4117356</guid>
             <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Expedite the CMCH burn unit project]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/expedite-the-cmch-burn-unit-project-4117341</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/expedite-the-cmch-burn-unit-project-4117341</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Madhabdi rape: Will justice prevail or be forgotten again?]]></title>
             <description><![CDATA[By H.M. Nazmul Alam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/madhabdi-rape-will-justice-prevail-or-be-forgotten-again-4117361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/madhabdi-rape-will-justice-prevail-or-be-forgotten-again-4117361</guid>
+            <link>https://www.thedailystar.net/opinion/news/madhabdi-rape-will-justice-prevail-or-be-forgotten-again-4117361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/madhabdi-rape-will-justice-prevail-or-be-forgotten-again-4117361</guid>
             <dc:creator><![CDATA[H.M. Nazmul Alam]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Khulna’s tremor should shake us into action]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/khulnas-tremor-should-shake-us-action-4117091</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/khulnas-tremor-should-shake-us-action-4117091</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -53,22 +67,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/leaders-beware-yes-men-4116681</guid>
             <dc:creator><![CDATA[Abu Afsarul Haider]]></dc:creator>
             <pubDate>Sat, 28 Feb 2026 01:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Restoring public confidence in the judiciary is a test for the government]]></title>
-            <description><![CDATA[By Md. Arifujjaman]]></description>
-            <link>https://www.thedailystar.net/opinion/news/restoring-public-confidence-the-judiciary-test-the-government-4116686</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/restoring-public-confidence-the-judiciary-test-the-government-4116686</guid>
-            <dc:creator><![CDATA[Md. Arifujjaman]]></dc:creator>
-            <pubDate>Sat, 28 Feb 2026 01:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who truly pays for the Ramadan price spike?]]></title>
-            <description><![CDATA[By Farah Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/news/who-truly-pays-the-ramadan-price-spike-4116671</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/who-truly-pays-the-ramadan-price-spike-4116671</guid>
-            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Sat, 28 Feb 2026 01:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boost TCB supply and distribution]]></title>
@@ -99,6 +97,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/we-do-not-want-any-more-police-excesses-4114786</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-do-not-want-any-more-police-excesses-4114786</guid>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Restoring public confidence in the judiciary is a test for the government]]></title>
+            <description><![CDATA[By Md. Arifujjaman]]></description>
+            <link>https://www.thedailystar.net/opinion/news/restoring-public-confidence-the-judiciary-test-the-government-4116686</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/restoring-public-confidence-the-judiciary-test-the-government-4116686</guid>
+            <dc:creator><![CDATA[Md. Arifujjaman]]></dc:creator>
+            <pubDate>Sat, 28 Feb 2026 01:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who truly pays for the Ramadan price spike?]]></title>
+            <description><![CDATA[By Farah Kabir]]></description>
+            <link>https://www.thedailystar.net/opinion/news/who-truly-pays-the-ramadan-price-spike-4116671</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/who-truly-pays-the-ramadan-price-spike-4116671</guid>
+            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
+            <pubDate>Sat, 28 Feb 2026 01:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / A controversial decision]]></title>
@@ -139,22 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/does-referendum-mandate-mean-unlimited-authority-4115201</guid>
             <dc:creator><![CDATA[Kazi ASM Nurul Huda]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We are neglecting cooking gas danger at our own peril]]></title>
-            <description><![CDATA[By H.M. Nazmul Alam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-are-neglecting-cooking-gas-danger-our-own-peril-4115211</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-are-neglecting-cooking-gas-danger-our-own-peril-4115211</guid>
-            <dc:creator><![CDATA[H.M. Nazmul Alam]]></dc:creator>
-            <pubDate>Thu, 26 Feb 2026 00:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate actions need less talk, more work]]></title>
-            <description><![CDATA[By Namira ShameemHossain Zillur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/climate-actions-need-less-talk-more-work-4114206</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/climate-actions-need-less-talk-more-work-4114206</guid>
-            <dc:creator><![CDATA[Namira ShameemHossain Zillur Rahman]]></dc:creator>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
