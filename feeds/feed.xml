@@ -4,16 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 04:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 05:47:04 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 04:17:12 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 05:47:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Central bank shake-up: Why is BNP undermining its reformist legacy?]]></title>
             <description><![CDATA[The removal of Bangladesh Bank Governor Ahsan H Mansur, widely credited with steadying an economy that was on the brink of potential collapse, has been described by many as nothing short of a blunder by the new government.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/central-bank-shake-why-bnp-undermining-its-reformist-legacy-4117346</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/central-bank-shake-why-bnp-undermining-its-reformist-legacy-4117346</guid>
+            <link>https://www.thedailystar.net/opinion/news/central-bank-shake-why-bnp-undermining-its-reformist-legacy-4117346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/central-bank-shake-why-bnp-undermining-its-reformist-legacy-4117346</guid>
             <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Khulna’s tremor should shake us into action]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/khulnas-tremor-should-shake-us-action-4117091</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/khulnas-tremor-should-shake-us-action-4117091</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Imperial maps, Pak-Afghan war, and a way forward]]></title>
+            <description><![CDATA[By Asif Bin Ali]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/imperial-maps-pak-afghan-war-and-way-forward-4117356</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/imperial-maps-pak-afghan-war-and-way-forward-4117356</guid>
+            <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -57,28 +71,6 @@
             <pubDate>Sat, 28 Feb 2026 01:10:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Education system must be built on proficiency, not pass rates]]></title>
-            <description><![CDATA[By Ananta Neelim]]></description>
-            <link>https://www.thedailystar.net/opinion/news/education-system-must-be-built-proficiency-not-pass-rates-4116146</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/education-system-must-be-built-proficiency-not-pass-rates-4116146</guid>
-            <dc:creator><![CDATA[Ananta Neelim]]></dc:creator>
-            <pubDate>Fri, 27 Feb 2026 00:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column by Mahfuz Anam / A controversial decision]]></title>
-            <description><![CDATA[By Mahfuz Anam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/controversial-decision-4116106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/controversial-decision-4116106</guid>
-            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Fri, 27 Feb 2026 00:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Khulna’s tremor should shake us into action]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/khulnas-tremor-should-shake-us-action-4117091</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/khulnas-tremor-should-shake-us-action-4117091</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Boost TCB supply and distribution]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/boost-tcb-supply-and-distribution-4116646</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/boost-tcb-supply-and-distribution-4116646</guid>
@@ -101,6 +93,28 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/make-new-rangamati-hospital-building-operational-4115181</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/make-new-rangamati-hospital-building-operational-4115181</guid>
             <pubDate>Thu, 26 Feb 2026 00:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We do not want any more police excesses]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/we-do-not-want-any-more-police-excesses-4114786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-do-not-want-any-more-police-excesses-4114786</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Column by Mahfuz Anam / A controversial decision]]></title>
+            <description><![CDATA[By Mahfuz Anam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/controversial-decision-4116106</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/controversial-decision-4116106</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Fri, 27 Feb 2026 00:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Economic priorities the new government should focus on]]></title>
+            <description><![CDATA[By Sayema Haque Bidisha]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/economic-priorities-the-new-government-should-focus-4115191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/economic-priorities-the-new-government-should-focus-4115191</guid>
+            <dc:creator><![CDATA[Sayema Haque Bidisha]]></dc:creator>
+            <pubDate>Thu, 26 Feb 2026 00:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Bangladesh can turn canal excavation into an environmental win]]></title>
@@ -141,22 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/climate-actions-need-less-talk-more-work-4114206</guid>
             <dc:creator><![CDATA[Namira ShameemHossain Zillur Rahman]]></dc:creator>
             <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make ICT policy a priority, not a side show]]></title>
-            <description><![CDATA[By Zarif Faiaz]]></description>
-            <link>https://www.thedailystar.net/opinion/news/make-ict-policy-priority-not-side-show-4114216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/make-ict-policy-priority-not-side-show-4114216</guid>
-            <dc:creator><![CDATA[Zarif Faiaz]]></dc:creator>
-            <pubDate>Wed, 25 Feb 2026 00:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Think twice before forcing a third language on school students]]></title>
-            <description><![CDATA[By Benzir Ahammed Shawon]]></description>
-            <link>https://www.thedailystar.net/opinion/news/think-twice-forcing-third-language-school-students-4114211</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/think-twice-forcing-third-language-school-students-4114211</guid>
-            <dc:creator><![CDATA[Benzir Ahammed Shawon]]></dc:creator>
-            <pubDate>Wed, 25 Feb 2026 00:06:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
