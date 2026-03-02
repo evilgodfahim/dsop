@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 12:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 13:56:29 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 12:41:30 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 13:56:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[A war in which all sides lose]]></title>
+            <description><![CDATA[Economy of most countries, especially small ones, will face major turmoil.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/war-which-all-sides-lose-4118856</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/war-which-all-sides-lose-4118856</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bangladesh’s statement on Iran: Measured words, high stakes]]></title>
-            <description><![CDATA[What the statement didn’t say is what really matters. It didn’t name the United States or Israel—the countries that launched the strikes without any provocation.]]></description>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-statement-iran-measured-words-high-stakes-4118631</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-statement-iran-measured-words-high-stakes-4118631</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
@@ -63,14 +70,6 @@
             <pubDate>Sun, 01 Mar 2026 01:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What's in a word? The battle for cultural authority in Bangladesh]]></title>
-            <description><![CDATA[By Ahmed Ashfaque Shahbaz]]></description>
-            <link>https://www.thedailystar.net/opinion/news/whats-word-the-battle-cultural-authority-bangladesh-4117351</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/whats-word-the-battle-cultural-authority-bangladesh-4117351</guid>
-            <dc:creator><![CDATA[Ahmed Ashfaque Shahbaz]]></dc:creator>
-            <pubDate>Sun, 01 Mar 2026 01:05:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rising student suicide rate is quite alarming]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/rising-student-suicide-rate-quite-alarming-4118196</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rising-student-suicide-rate-quite-alarming-4118196</guid>
@@ -99,6 +98,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/dhaka-university-deserves-elected-vc-4116131</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dhaka-university-deserves-elected-vc-4116131</guid>
             <pubDate>Fri, 27 Feb 2026 00:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Imperial maps, Pak-Afghan war, and a way forward]]></title>
+            <description><![CDATA[By Asif Bin Ali]]></description>
+            <link>https://www.thedailystar.net/opinion/news/imperial-maps-pak-afghan-war-and-way-forward-4117356</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/imperial-maps-pak-afghan-war-and-way-forward-4117356</guid>
+            <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
+            <pubDate>Sun, 01 Mar 2026 01:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Madhabdi rape: Will justice prevail or be forgotten again?]]></title>
@@ -147,14 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/who-truly-pays-the-ramadan-price-spike-4116671</guid>
             <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
             <pubDate>Sat, 28 Feb 2026 01:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column by Mahfuz Anam / A controversial decision]]></title>
-            <description><![CDATA[By Mahfuz Anam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/controversial-decision-4116106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/controversial-decision-4116106</guid>
-            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Fri, 27 Feb 2026 00:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
