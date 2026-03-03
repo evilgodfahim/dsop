@@ -4,17 +4,17 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 05:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 06:41:58 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 05:43:41 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 06:41:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Bangladesh Bank’s independence and the politics of transition]]></title>
-            <description><![CDATA[The recent change in the position of Bangladesh Bank governor has sparked much debate across the country. Many expected Dr Ahsan H Mansur to complete his full term, till August 2028.]]></description>
+            <description><![CDATA[Many expected Dr Ahsan H Mansur to complete his full term, till August 2028.]]></description>
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-banks-independence-and-the-politics-transition-4119176</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-banks-independence-and-the-politics-transition-4119176</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The real crisis at Bangladesh Bank: The mandate, not the résumé]]></title>
@@ -22,7 +22,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</guid>
             <dc:creator><![CDATA[Hossain Zillur RahmanSaba El Kabir]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When coercion becomes a governance mechanism]]></title>
@@ -30,7 +30,7 @@
             <link>https://www.thedailystar.net/opinion/views/closer-look/news/when-coercion-becomes-governance-mechanism-4119201</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/when-coercion-becomes-governance-mechanism-4119201</guid>
             <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A war in which all sides lose]]></title>
@@ -55,19 +55,17 @@
             <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Urgently address contraceptive crisis]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/urgently-address-contraceptive-crisis-4119161</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/urgently-address-contraceptive-crisis-4119161</guid>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[BNP’s health agenda faces major execution challenges]]></title>
             <description><![CDATA[By Shaikh Masudul Alam]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/bnps-health-agenda-faces-major-execution-challenges-4118241</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bnps-health-agenda-faces-major-execution-challenges-4118241</guid>
             <dc:creator><![CDATA[Shaikh Masudul Alam]]></dc:creator>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Khamenei’s death and the uncertain future of the Islamic Republic]]></title>
-            <description><![CDATA[By Asif Bin Ali]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/khameneis-death-and-the-uncertain-future-the-islamic-republic-4118256</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/khameneis-death-and-the-uncertain-future-the-islamic-republic-4118256</guid>
-            <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
             <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -99,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/boost-tcb-supply-and-distribution-4116646</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/boost-tcb-supply-and-distribution-4116646</guid>
             <pubDate>Sat, 28 Feb 2026 01:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Appointing a new Bangladesh Bank governor has never been so chaotic]]></title>
+            <description><![CDATA[By Birupaksha Paul]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/appointing-new-bangladesh-bank-governor-has-never-been-so-chaotic-4118276</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/appointing-new-bangladesh-bank-governor-has-never-been-so-chaotic-4118276</guid>
+            <dc:creator><![CDATA[Birupaksha Paul]]></dc:creator>
+            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Central bank shake-up: Why is BNP undermining its reformist legacy?]]></title>
@@ -147,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/leaders-beware-yes-men-4116681</guid>
             <dc:creator><![CDATA[Abu Afsarul Haider]]></dc:creator>
             <pubDate>Sat, 28 Feb 2026 01:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Education system must be built on proficiency, not pass rates]]></title>
-            <description><![CDATA[By Ananta Neelim]]></description>
-            <link>https://www.thedailystar.net/opinion/news/education-system-must-be-built-proficiency-not-pass-rates-4116146</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/education-system-must-be-built-proficiency-not-pass-rates-4116146</guid>
-            <dc:creator><![CDATA[Ananta Neelim]]></dc:creator>
-            <pubDate>Fri, 27 Feb 2026 00:21:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
