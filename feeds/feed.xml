@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 04:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 05:43:41 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 04:08:51 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 05:43:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Bangladesh Bank’s independence and the politics of transition]]></title>
@@ -14,6 +14,14 @@
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-banks-independence-and-the-politics-transition-4119176</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-banks-independence-and-the-politics-transition-4119176</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The real crisis at Bangladesh Bank: The mandate, not the résumé]]></title>
+            <description><![CDATA[By Hossain Zillur RahmanSaba El Kabir]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</guid>
+            <dc:creator><![CDATA[Hossain Zillur RahmanSaba El Kabir]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -63,14 +71,6 @@
             <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Appointing a new Bangladesh Bank governor has never been so chaotic]]></title>
-            <description><![CDATA[By Birupaksha Paul]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/appointing-new-bangladesh-bank-governor-has-never-been-so-chaotic-4118276</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/appointing-new-bangladesh-bank-governor-has-never-been-so-chaotic-4118276</guid>
-            <dc:creator><![CDATA[Birupaksha Paul]]></dc:creator>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rising student suicide rate is quite alarming]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/rising-student-suicide-rate-quite-alarming-4118196</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rising-student-suicide-rate-quite-alarming-4118196</guid>
@@ -99,6 +99,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/boost-tcb-supply-and-distribution-4116646</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/boost-tcb-supply-and-distribution-4116646</guid>
             <pubDate>Sat, 28 Feb 2026 01:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Central bank shake-up: Why is BNP undermining its reformist legacy?]]></title>
+            <description><![CDATA[By Kamal Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/news/central-bank-shake-why-bnp-undermining-its-reformist-legacy-4117346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/central-bank-shake-why-bnp-undermining-its-reformist-legacy-4117346</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Sun, 01 Mar 2026 01:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's in a word? The battle for cultural authority in Bangladesh]]></title>
@@ -147,14 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/education-system-must-be-built-proficiency-not-pass-rates-4116146</guid>
             <dc:creator><![CDATA[Ananta Neelim]]></dc:creator>
             <pubDate>Fri, 27 Feb 2026 00:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Restoring public confidence in the judiciary is a test for the government]]></title>
-            <description><![CDATA[By Md. Arifujjaman]]></description>
-            <link>https://www.thedailystar.net/opinion/news/restoring-public-confidence-the-judiciary-test-the-government-4116686</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/restoring-public-confidence-the-judiciary-test-the-government-4116686</guid>
-            <dc:creator><![CDATA[Md. Arifujjaman]]></dc:creator>
-            <pubDate>Sat, 28 Feb 2026 01:16:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
