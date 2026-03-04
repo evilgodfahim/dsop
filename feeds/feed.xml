@@ -4,13 +4,21 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Mar 2026 09:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 10:30:00 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Mar 2026 09:34:38 GMT</pubDate>
+        <pubDate>Wed, 04 Mar 2026 10:30:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Green of my motherland, red of my blood]]></title>
+            <description><![CDATA[As Bangladesh’s women prepared to face China at the AFC Women's Asian Cup, pride did not feel rhetorical.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/green-my-motherland-red-my-blood-4120556</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/green-my-motherland-red-my-blood-4120556</guid>
+            <dc:creator><![CDATA[Raiyan Binte Rafiq]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[From Suez to Hormuz: A stress test for Bangladesh’s export logistics]]></title>
-            <description><![CDATA[Bangladesh’s export success has never been just about competitive labour or entrepreneurial energy.]]></description>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/suez-hormuz-stress-test-bangladeshs-export-logistics-4120041</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/suez-hormuz-stress-test-bangladeshs-export-logistics-4120041</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
@@ -63,14 +71,6 @@
             <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When coercion becomes a governance mechanism]]></title>
-            <description><![CDATA[By Tasneem Tayeb]]></description>
-            <link>https://www.thedailystar.net/opinion/views/closer-look/news/when-coercion-becomes-governance-mechanism-4119201</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/when-coercion-becomes-governance-mechanism-4119201</guid>
-            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Urgently address contraceptive crisis]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/urgently-address-contraceptive-crisis-4119161</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/urgently-address-contraceptive-crisis-4119161</guid>
@@ -99,6 +99,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/expedite-the-cmch-burn-unit-project-4117341</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/expedite-the-cmch-burn-unit-project-4117341</guid>
             <pubDate>Sun, 01 Mar 2026 00:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s statement on Iran: Measured words, high stakes]]></title>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-statement-iran-measured-words-high-stakes-4118631</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-statement-iran-measured-words-high-stakes-4118631</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Can Family Card reset our social protection system?]]></title>
@@ -147,14 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/whats-word-the-battle-cultural-authority-bangladesh-4117351</guid>
             <dc:creator><![CDATA[Ahmed Ashfaque Shahbaz]]></dc:creator>
             <pubDate>Sun, 01 Mar 2026 01:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Imperial maps, Pak-Afghan war, and a way forward]]></title>
-            <description><![CDATA[By Asif Bin Ali]]></description>
-            <link>https://www.thedailystar.net/opinion/news/imperial-maps-pak-afghan-war-and-way-forward-4117356</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/imperial-maps-pak-afghan-war-and-way-forward-4117356</guid>
-            <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Sun, 01 Mar 2026 01:08:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
