@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Mar 2026 04:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 05:38:43 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Mar 2026 04:03:28 GMT</pubDate>
+        <pubDate>Wed, 04 Mar 2026 05:38:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[From Suez to Hormuz: A stress test for Bangladesh’s export logistics]]></title>
@@ -17,11 +17,27 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[When horror becomes routine]]></title>
+            <description><![CDATA[By Maisha Islam Monamee]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/when-horror-becomes-routine-4120046</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-horror-becomes-routine-4120046</guid>
+            <dc:creator><![CDATA[Maisha Islam Monamee]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Deferment or not, Bangladesh must prepare for LDC graduation]]></title>
             <description><![CDATA[By Sabbir Ahmad]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/deferment-or-not-bangladesh-must-prepare-ldc-graduation-4120051</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/deferment-or-not-bangladesh-must-prepare-ldc-graduation-4120051</guid>
             <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Loan waiver alone won’t protect potato farmers]]></title>
+            <description><![CDATA[By Mostafa Shabuj]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/loan-waiver-alone-wont-protect-potato-farmers-4120056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/loan-waiver-alone-wont-protect-potato-farmers-4120056</guid>
+            <dc:creator><![CDATA[Mostafa Shabuj]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -55,24 +71,16 @@
             <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A war in which all sides lose]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/war-which-all-sides-lose-4118856</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/war-which-all-sides-lose-4118856</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s statement on Iran: Measured words, high stakes]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-statement-iran-measured-words-high-stakes-4118631</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-statement-iran-measured-words-high-stakes-4118631</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Urgently address contraceptive crisis]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/urgently-address-contraceptive-crisis-4119161</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/urgently-address-contraceptive-crisis-4119161</guid>
             <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A war in which all sides lose]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/war-which-all-sides-lose-4118856</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/war-which-all-sides-lose-4118856</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Rising student suicide rate is quite alarming]]></title>
@@ -91,12 +99,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/expedite-the-cmch-burn-unit-project-4117341</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/expedite-the-cmch-burn-unit-project-4117341</guid>
             <pubDate>Sun, 01 Mar 2026 00:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Khulna’s tremor should shake us into action]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/khulnas-tremor-should-shake-us-action-4117091</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/khulnas-tremor-should-shake-us-action-4117091</guid>
-            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Can Family Card reset our social protection system?]]></title>
