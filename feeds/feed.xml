@@ -4,13 +4,37 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 01:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 04:06:48 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Mar 2026 01:27:30 GMT</pubDate>
+        <pubDate>Thu, 05 Mar 2026 04:06:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[What the government must prioritise to tackle power and energy challenges]]></title>
+            <description><![CDATA[Having taken office at a critical juncture for Bangladesh, the newly elected BNP government faces some pressing challenges.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-the-government-must-prioritise-tackle-power-and-energy-challenges-4120951</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-government-must-prioritise-tackle-power-and-energy-challenges-4120951</guid>
+            <dc:creator><![CDATA[Shafiqul Alam]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How garment makers can manage the Middle East logistics shock]]></title>
+            <description><![CDATA[By Mostafiz Uddin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/rmg-notes/news/how-garment-makers-can-manage-the-middle-east-logistics-shock-4120991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/rmg-notes/news/how-garment-makers-can-manage-the-middle-east-logistics-shock-4120991</guid>
+            <dc:creator><![CDATA[Mostafiz Uddin]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deregulation, yes, but we also need smart regulation]]></title>
+            <description><![CDATA[By Syed Akhtar Mahmood]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/deregulation-yes-we-also-need-smart-regulation-4120996</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/deregulation-yes-we-also-need-smart-regulation-4120996</guid>
+            <dc:creator><![CDATA[Syed Akhtar Mahmood]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Green of my motherland, red of my blood]]></title>
-            <description><![CDATA[As Bangladesh’s women prepared to face China at the AFC Women's Asian Cup, pride did not feel rhetorical.]]></description>
+            <description><![CDATA[By Raiyan Binte Rafiq]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/green-my-motherland-red-my-blood-4120556</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/green-my-motherland-red-my-blood-4120556</guid>
             <dc:creator><![CDATA[Raiyan Binte Rafiq]]></dc:creator>
@@ -55,22 +79,6 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bangladesh Bank’s independence and the politics of transition]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-banks-independence-and-the-politics-transition-4119176</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-banks-independence-and-the-politics-transition-4119176</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The real crisis at Bangladesh Bank: The mandate, not the résumé]]></title>
-            <description><![CDATA[By Hossain Zillur RahmanSaba El Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</guid>
-            <dc:creator><![CDATA[Hossain Zillur RahmanSaba El Kabir]]></dc:creator>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Urgently address contraceptive crisis]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/urgently-address-contraceptive-crisis-4119161</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/urgently-address-contraceptive-crisis-4119161</guid>
@@ -95,10 +103,20 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Expedite the CMCH burn unit project]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/expedite-the-cmch-burn-unit-project-4117341</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/expedite-the-cmch-burn-unit-project-4117341</guid>
-            <pubDate>Sun, 01 Mar 2026 00:55:00 GMT</pubDate>
+            <title><![CDATA[The real crisis at Bangladesh Bank: The mandate, not the résumé]]></title>
+            <description><![CDATA[By Hossain Zillur RahmanSaba El Kabir]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</guid>
+            <dc:creator><![CDATA[Hossain Zillur RahmanSaba El Kabir]]></dc:creator>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When coercion becomes a governance mechanism]]></title>
+            <description><![CDATA[By Tasneem Tayeb]]></description>
+            <link>https://www.thedailystar.net/opinion/views/closer-look/news/when-coercion-becomes-governance-mechanism-4119201</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/when-coercion-becomes-governance-mechanism-4119201</guid>
+            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh’s statement on Iran: Measured words, high stakes]]></title>
@@ -139,22 +157,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/appointing-new-bangladesh-bank-governor-has-never-been-so-chaotic-4118276</guid>
             <dc:creator><![CDATA[Birupaksha Paul]]></dc:creator>
             <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Central bank shake-up: Why is BNP undermining its reformist legacy?]]></title>
-            <description><![CDATA[By Kamal Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/news/central-bank-shake-why-bnp-undermining-its-reformist-legacy-4117346</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/central-bank-shake-why-bnp-undermining-its-reformist-legacy-4117346</guid>
-            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Sun, 01 Mar 2026 01:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's in a word? The battle for cultural authority in Bangladesh]]></title>
-            <description><![CDATA[By Ahmed Ashfaque Shahbaz]]></description>
-            <link>https://www.thedailystar.net/opinion/news/whats-word-the-battle-cultural-authority-bangladesh-4117351</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/whats-word-the-battle-cultural-authority-bangladesh-4117351</guid>
-            <dc:creator><![CDATA[Ahmed Ashfaque Shahbaz]]></dc:creator>
-            <pubDate>Sun, 01 Mar 2026 01:05:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
