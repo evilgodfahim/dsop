@@ -4,16 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 04:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 05:42:33 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Mar 2026 04:06:48 GMT</pubDate>
+        <pubDate>Thu, 05 Mar 2026 05:42:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What the government must prioritise to tackle power and energy challenges]]></title>
-            <description><![CDATA[Having taken office at a critical juncture for Bangladesh, the newly elected BNP government faces some pressing challenges.]]></description>
+            <description><![CDATA[Unless Bangladesh makes efforts to control power generation costs, price hikes alone will not significantly minimise the subsidy burden.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/what-the-government-must-prioritise-tackle-power-and-energy-challenges-4120951</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-government-must-prioritise-tackle-power-and-energy-challenges-4120951</guid>
             <dc:creator><![CDATA[Shafiqul Alam]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The cost of a comma: Documentation errors are the 'hidden tax' on Bangladesh’s exports]]></title>
+            <description><![CDATA[By Nahian RahmanFaiaz Al Lami]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-cost-comma-documentation-errors-are-the-hidden-tax-bangladeshs-exports-4120986</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-cost-comma-documentation-errors-are-the-hidden-tax-bangladeshs-exports-4120986</guid>
+            <dc:creator><![CDATA[Nahian RahmanFaiaz Al Lami]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -30,6 +38,12 @@
             <link>https://www.thedailystar.net/opinion/views/news/deregulation-yes-we-also-need-smart-regulation-4120996</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/deregulation-yes-we-also-need-smart-regulation-4120996</guid>
             <dc:creator><![CDATA[Syed Akhtar Mahmood]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Let the ACC work independently]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/let-the-acc-work-independently-4120691</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/let-the-acc-work-independently-4120691</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -55,22 +69,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/have-we-grown-desensitised-violence-against-women-and-children-4120046</guid>
             <dc:creator><![CDATA[Maisha Islam Monamee]]></dc:creator>
             <pubDate>Wed, 04 Mar 2026 00:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deferment or not, Bangladesh must prepare for LDC graduation]]></title>
-            <description><![CDATA[By Sabbir Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/deferment-or-not-bangladesh-must-prepare-ldc-graduation-4120051</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/deferment-or-not-bangladesh-must-prepare-ldc-graduation-4120051</guid>
-            <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
-            <pubDate>Wed, 04 Mar 2026 00:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Loan waiver alone won’t protect potato farmers]]></title>
-            <description><![CDATA[By Mostafa Shabuj]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/loan-waiver-alone-wont-protect-potato-farmers-4120056</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/loan-waiver-alone-wont-protect-potato-farmers-4120056</guid>
-            <dc:creator><![CDATA[Mostafa Shabuj]]></dc:creator>
-            <pubDate>Wed, 04 Mar 2026 00:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When will this monstrosity stop?]]></title>
@@ -101,6 +99,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/another-display-might-right-4117956</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/another-display-might-right-4117956</guid>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Loan waiver alone won’t protect potato farmers]]></title>
+            <description><![CDATA[By Mostafa Shabuj]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/loan-waiver-alone-wont-protect-potato-farmers-4120056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/loan-waiver-alone-wont-protect-potato-farmers-4120056</guid>
+            <dc:creator><![CDATA[Mostafa Shabuj]]></dc:creator>
+            <pubDate>Wed, 04 Mar 2026 00:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh Bank’s independence and the politics of transition]]></title>
+            <description><![CDATA[By Fahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-banks-independence-and-the-politics-transition-4119176</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-banks-independence-and-the-politics-transition-4119176</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The real crisis at Bangladesh Bank: The mandate, not the résumé]]></title>
@@ -140,22 +154,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/bnps-health-agenda-faces-major-execution-challenges-4118241</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bnps-health-agenda-faces-major-execution-challenges-4118241</guid>
             <dc:creator><![CDATA[Shaikh Masudul Alam]]></dc:creator>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Khamenei’s death and the uncertain future of the Islamic Republic]]></title>
-            <description><![CDATA[By Asif Bin Ali]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/khameneis-death-and-the-uncertain-future-the-islamic-republic-4118256</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/khameneis-death-and-the-uncertain-future-the-islamic-republic-4118256</guid>
-            <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Appointing a new Bangladesh Bank governor has never been so chaotic]]></title>
-            <description><![CDATA[By Birupaksha Paul]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/appointing-new-bangladesh-bank-governor-has-never-been-so-chaotic-4118276</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/appointing-new-bangladesh-bank-governor-has-never-been-so-chaotic-4118276</guid>
-            <dc:creator><![CDATA[Birupaksha Paul]]></dc:creator>
             <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
