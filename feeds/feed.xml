@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 06:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 07:34:38 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Mar 2026 06:39:00 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 07:34:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Fate of 133 ordinances: The 30-day test of the new parliament]]></title>
@@ -15,6 +15,14 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</guid>
             <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
             <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will artificial intelligence widen inequality?]]></title>
+            <description><![CDATA[By Owais Parray]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/will-artificial-intelligence-widen-inequality-4121846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/will-artificial-intelligence-widen-inequality-4121846</guid>
+            <dc:creator><![CDATA[Owais Parray]]></dc:creator>
+            <pubDate>Fri, 06 Mar 2026 01:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gangster imperialism and the threat to global peace and security]]></title>
@@ -91,12 +99,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/urgently-address-contraceptive-crisis-4119161</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/urgently-address-contraceptive-crisis-4119161</guid>
             <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A war in which all sides lose]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/war-which-all-sides-lose-4118856</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/war-which-all-sides-lose-4118856</guid>
-            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Deregulation, yes, but we also need smart regulation]]></title>
