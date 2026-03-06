@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 11:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 12:39:28 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Mar 2026 11:23:24 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 12:39:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Refrain from partisan appointments]]></title>
+            <description><![CDATA[To fight corruption, the government must ensure that oversight bodies remain depoliticised.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/refrain-partisan-appointments-4122216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/refrain-partisan-appointments-4122216</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fate of 133 ordinances: The 30-day test of the new parliament]]></title>
-            <description><![CDATA[When the interim government assumed office following the upheaval of July-August 2024, it took on a nation still trembling from shock.]]></description>
+            <description><![CDATA[By Zillur Rahman]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</guid>
             <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
@@ -63,14 +70,6 @@
             <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The cost of a comma: Documentation errors are the 'hidden tax' on Bangladesh’s exports]]></title>
-            <description><![CDATA[By Nahian RahmanFaiaz Al Lami]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-cost-comma-documentation-errors-are-the-hidden-tax-bangladeshs-exports-4120986</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-cost-comma-documentation-errors-are-the-hidden-tax-bangladeshs-exports-4120986</guid>
-            <dc:creator><![CDATA[Nahian RahmanFaiaz Al Lami]]></dc:creator>
-            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fix the systemic loopholes to curb gender-based violence]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-systemic-loopholes-curb-gender-based-violence-4121801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-systemic-loopholes-curb-gender-based-violence-4121801</guid>
@@ -99,6 +98,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/urgently-address-contraceptive-crisis-4119161</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/urgently-address-contraceptive-crisis-4119161</guid>
             <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How garment makers can manage the Middle East logistics shock]]></title>
+            <description><![CDATA[By Mostafiz Uddin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/rmg-notes/news/how-garment-makers-can-manage-the-middle-east-logistics-shock-4120991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/rmg-notes/news/how-garment-makers-can-manage-the-middle-east-logistics-shock-4120991</guid>
+            <dc:creator><![CDATA[Mostafiz Uddin]]></dc:creator>
+            <pubDate>Thu, 05 Mar 2026 00:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deregulation, yes, but we also need smart regulation]]></title>
@@ -147,14 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/loan-waiver-alone-wont-protect-potato-farmers-4120056</guid>
             <dc:creator><![CDATA[Mostafa Shabuj]]></dc:creator>
             <pubDate>Wed, 04 Mar 2026 00:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh Bank’s independence and the politics of transition]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-banks-independence-and-the-politics-transition-4119176</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-banks-independence-and-the-politics-transition-4119176</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
