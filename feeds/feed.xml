@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 04:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 05:40:24 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Mar 2026 04:04:36 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 05:40:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Fate of 133 ordinances: The 30-day test of the new parliament]]></title>
@@ -14,6 +14,22 @@
             <link>https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</guid>
             <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gangster imperialism and the threat to global peace and security]]></title>
+            <description><![CDATA[By Anu Muhammad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/gangster-imperialism-and-the-threat-global-peace-and-security-4121871</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/gangster-imperialism-and-the-threat-global-peace-and-security-4121871</guid>
+            <dc:creator><![CDATA[Anu Muhammad]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can the new government break Bangladesh's energy paradox?]]></title>
+            <description><![CDATA[By Dr Khondaker Golam Moazzem]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/can-the-new-government-break-bangladeshs-energy-paradox-4121881</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-the-new-government-break-bangladeshs-energy-paradox-4121881</guid>
+            <dc:creator><![CDATA[Dr Khondaker Golam Moazzem]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -55,24 +71,16 @@
             <pubDate>Thu, 05 Mar 2026 00:13:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Deregulation, yes, but we also need smart regulation]]></title>
-            <description><![CDATA[By Syed Akhtar Mahmood]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/deregulation-yes-we-also-need-smart-regulation-4120996</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/deregulation-yes-we-also-need-smart-regulation-4120996</guid>
-            <dc:creator><![CDATA[Syed Akhtar Mahmood]]></dc:creator>
-            <pubDate>Thu, 05 Mar 2026 00:16:00 GMT</pubDate>
+            <title><![CDATA[Recent Bangladesh Bank directives are concerning]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/recent-bangladesh-bank-directives-are-concerning-4120946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/recent-bangladesh-bank-directives-are-concerning-4120946</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Let the ACC work independently]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/let-the-acc-work-independently-4120691</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/let-the-acc-work-independently-4120691</guid>
             <pubDate>Thu, 05 Mar 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recent Bangladesh Bank directives are concerning]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/recent-bangladesh-bank-directives-are-concerning-4120946</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/recent-bangladesh-bank-directives-are-concerning-4120946</guid>
-            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When will this monstrosity stop?]]></title>
@@ -93,10 +101,12 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rising student suicide rate is quite alarming]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/rising-student-suicide-rate-quite-alarming-4118196</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rising-student-suicide-rate-quite-alarming-4118196</guid>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Green of my motherland, red of my blood]]></title>
+            <description><![CDATA[By Raiyan Binte Rafiq]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/green-my-motherland-red-my-blood-4120556</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/green-my-motherland-red-my-blood-4120556</guid>
+            <dc:creator><![CDATA[Raiyan Binte Rafiq]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[From Suez to Hormuz: A stress test for Bangladesh’s export logistics]]></title>
@@ -144,14 +154,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</guid>
             <dc:creator><![CDATA[Hossain Zillur RahmanSaba El Kabir]]></dc:creator>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When coercion becomes a governance mechanism]]></title>
-            <description><![CDATA[By Tasneem Tayeb]]></description>
-            <link>https://www.thedailystar.net/opinion/views/closer-look/news/when-coercion-becomes-governance-mechanism-4119201</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/when-coercion-becomes-governance-mechanism-4119201</guid>
-            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
             <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
