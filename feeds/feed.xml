@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 11:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 12:33:07 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 11:14:56 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 12:33:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Panic buying may only deepen fuel crisis]]></title>
+            <description><![CDATA[Govt must tighten oversight, citizens must stop hoarding]]></description>
+            <link>https://www.thedailystar.net/opinion/news/panic-buying-may-only-deepen-fuel-crisis-4122901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/panic-buying-may-only-deepen-fuel-crisis-4122901</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[When our indifference breaks our children]]></title>
-            <description><![CDATA[The posthumous Swadhinata Padak for Maherin Chowdhury, a teacher who died saving at least 20 students from the burning remains of Milestone School and College after it was hit by a fighter jet last year, brought back sad memories of losing children and teachers in a single tragic blow.]]></description>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
             <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/when-our-indifference-breaks-our-children-4122391</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/when-our-indifference-breaks-our-children-4122391</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
@@ -61,14 +68,6 @@
             <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Will artificial intelligence widen inequality?]]></title>
-            <description><![CDATA[By Owais Parray]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/will-artificial-intelligence-widen-inequality-4121846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/will-artificial-intelligence-widen-inequality-4121846</guid>
-            <dc:creator><![CDATA[Owais Parray]]></dc:creator>
-            <pubDate>Fri, 06 Mar 2026 01:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fix the systemic loopholes to curb gender-based violence]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-systemic-loopholes-curb-gender-based-violence-4121801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-systemic-loopholes-curb-gender-based-violence-4121801</guid>
@@ -97,6 +96,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/when-will-monstrosity-stop-4119741</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/when-will-monstrosity-stop-4119741</guid>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gangster imperialism and the threat to global peace and security]]></title>
+            <description><![CDATA[By Anu Muhammad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/gangster-imperialism-and-the-threat-global-peace-and-security-4121871</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/gangster-imperialism-and-the-threat-global-peace-and-security-4121871</guid>
+            <dc:creator><![CDATA[Anu Muhammad]]></dc:creator>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can the new government break Bangladesh's energy paradox?]]></title>
@@ -145,14 +152,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/deregulation-yes-we-also-need-smart-regulation-4120996</guid>
             <dc:creator><![CDATA[Syed Akhtar Mahmood]]></dc:creator>
             <pubDate>Thu, 05 Mar 2026 00:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Green of my motherland, red of my blood]]></title>
-            <description><![CDATA[By Raiyan Binte Rafiq]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/green-my-motherland-red-my-blood-4120556</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/green-my-motherland-red-my-blood-4120556</guid>
-            <dc:creator><![CDATA[Raiyan Binte Rafiq]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
         </item>
     </channel>
 </rss>
