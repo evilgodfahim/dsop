@@ -4,30 +4,43 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 05:38:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 06:35:03 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Mar 2026 05:38:40 GMT</pubDate>
+        <pubDate>Sun, 08 Mar 2026 06:35:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[International Women’s Day / The journey from presence to power]]></title>
+            <description><![CDATA[The Daily Star recently invited women candidates who participated in the 13th parliamentary election to share their thoughts about their campaigning experience, the challenges they each faced, and what inspired them despite all the hurdles.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-big-picture/news/the-journey-presence-power-4123211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-big-picture/news/the-journey-presence-power-4123211</guid>
+            <pubDate>Sun, 08 Mar 2026 00:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Panic buying may only deepen fuel crisis]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/panic-buying-may-only-deepen-fuel-crisis-4122901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/panic-buying-may-only-deepen-fuel-crisis-4122901</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Six years on, have we learned our lessons from Covid?]]></title>
-            <description><![CDATA[It has been six years since the first known cases of Covid-19 were reported in Bangladesh, on March 8, 2020.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/closer-look/news/six-years-have-we-learned-our-lessons-covid-4123266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/six-years-have-we-learned-our-lessons-covid-4123266</guid>
+            <description><![CDATA[By Tasneem Tayeb]]></description>
+            <link>https://www.thedailystar.net/opinion/news/six-years-have-we-learned-our-lessons-covid-4123266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/six-years-have-we-learned-our-lessons-covid-4123266</guid>
             <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Women must be allowed to lead, not just participate, in labour force]]></title>
             <description><![CDATA[By Max Tuñón]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/women-must-be-allowed-lead-not-just-participate-labour-force-4123276</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/women-must-be-allowed-lead-not-just-participate-labour-force-4123276</guid>
+            <link>https://www.thedailystar.net/opinion/news/women-must-be-allowed-lead-not-just-participate-labour-force-4123276</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/women-must-be-allowed-lead-not-just-participate-labour-force-4123276</guid>
             <dc:creator><![CDATA[Max Tuñón]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Panic buying may only deepen fuel crisis]]></title>
-            <link>https://www.thedailystar.net/opinion/news/panic-buying-may-only-deepen-fuel-crisis-4122901</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/panic-buying-may-only-deepen-fuel-crisis-4122901</guid>
+            <title><![CDATA[Gas explosions are rising, killing people and destroying families]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/gas-explosions-are-rising-killing-people-and-destroying-families-4123251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/gas-explosions-are-rising-killing-people-and-destroying-families-4123251</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -53,14 +66,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/let-history-breathe-4122401</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
             <pubDate>Sat, 07 Mar 2026 01:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We must collectively stop tolerating preventable deaths]]></title>
-            <description><![CDATA[By Sabbir Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-must-collectively-stop-tolerating-preventable-deaths-4122396</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-collectively-stop-tolerating-preventable-deaths-4122396</guid>
-            <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
-            <pubDate>Sat, 07 Mar 2026 01:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Refrain from partisan appointments]]></title>
@@ -93,10 +98,12 @@
             <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Let the ACC work independently]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/let-the-acc-work-independently-4120691</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/let-the-acc-work-independently-4120691</guid>
-            <pubDate>Thu, 05 Mar 2026 11:00:00 GMT</pubDate>
+            <title><![CDATA[Fate of 133 ordinances: The 30-day test of the new parliament]]></title>
+            <description><![CDATA[By Zillur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</guid>
+            <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will artificial intelligence widen inequality?]]></title>
@@ -145,14 +152,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-cost-comma-documentation-errors-are-the-hidden-tax-bangladeshs-exports-4120986</guid>
             <dc:creator><![CDATA[Nahian RahmanFaiaz Al Lami]]></dc:creator>
             <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How garment makers can manage the Middle East logistics shock]]></title>
-            <description><![CDATA[By Mostafiz Uddin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/rmg-notes/news/how-garment-makers-can-manage-the-middle-east-logistics-shock-4120991</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/rmg-notes/news/how-garment-makers-can-manage-the-middle-east-logistics-shock-4120991</guid>
-            <dc:creator><![CDATA[Mostafiz Uddin]]></dc:creator>
-            <pubDate>Thu, 05 Mar 2026 00:13:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
