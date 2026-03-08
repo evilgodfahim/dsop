@@ -4,13 +4,28 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 01:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 04:05:42 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Mar 2026 01:28:50 GMT</pubDate>
+        <pubDate>Sun, 08 Mar 2026 04:05:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Six years on, have we learned our lessons from Covid?]]></title>
+            <description><![CDATA[It has been six years since the first known cases of Covid-19 were reported in Bangladesh, on March 8, 2020.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/closer-look/news/six-years-have-we-learned-our-lessons-covid-4123266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/six-years-have-we-learned-our-lessons-covid-4123266</guid>
+            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Women must be allowed to lead, not just participate, in labour force]]></title>
+            <description><![CDATA[By Max Tuñón]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/women-must-be-allowed-lead-not-just-participate-labour-force-4123276</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/women-must-be-allowed-lead-not-just-participate-labour-force-4123276</guid>
+            <dc:creator><![CDATA[Max Tuñón]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Panic buying may only deepen fuel crisis]]></title>
-            <description><![CDATA[Govt must tighten oversight, citizens must stop hoarding]]></description>
             <link>https://www.thedailystar.net/opinion/news/panic-buying-may-only-deepen-fuel-crisis-4122901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/panic-buying-may-only-deepen-fuel-crisis-4122901</guid>
             <pubDate>Invalid Date</pubDate>
@@ -60,14 +75,6 @@
             <pubDate>Sat, 07 Mar 2026 01:09:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fate of 133 ordinances: The 30-day test of the new parliament]]></title>
-            <description><![CDATA[By Zillur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</guid>
-            <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fix the systemic loopholes to curb gender-based violence]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-systemic-loopholes-curb-gender-based-violence-4121801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-systemic-loopholes-curb-gender-based-violence-4121801</guid>
@@ -92,10 +99,12 @@
             <pubDate>Thu, 05 Mar 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When will this monstrosity stop?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/when-will-monstrosity-stop-4119741</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/when-will-monstrosity-stop-4119741</guid>
-            <pubDate>Invalid Date</pubDate>
+            <title><![CDATA[Will artificial intelligence widen inequality?]]></title>
+            <description><![CDATA[By Owais Parray]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/will-artificial-intelligence-widen-inequality-4121846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/will-artificial-intelligence-widen-inequality-4121846</guid>
+            <dc:creator><![CDATA[Owais Parray]]></dc:creator>
+            <pubDate>Fri, 06 Mar 2026 01:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gangster imperialism and the threat to global peace and security]]></title>
@@ -144,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/rmg-notes/news/how-garment-makers-can-manage-the-middle-east-logistics-shock-4120991</guid>
             <dc:creator><![CDATA[Mostafiz Uddin]]></dc:creator>
             <pubDate>Thu, 05 Mar 2026 00:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deregulation, yes, but we also need smart regulation]]></title>
-            <description><![CDATA[By Syed Akhtar Mahmood]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/deregulation-yes-we-also-need-smart-regulation-4120996</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/deregulation-yes-we-also-need-smart-regulation-4120996</guid>
-            <dc:creator><![CDATA[Syed Akhtar Mahmood]]></dc:creator>
-            <pubDate>Thu, 05 Mar 2026 00:16:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
