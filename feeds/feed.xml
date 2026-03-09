@@ -4,16 +4,25 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 16:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 17:42:10 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 16:51:53 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 17:42:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[War calls for judicious behaviour]]></title>
-            <description><![CDATA[The US-Israel war on Iran may not be on Bangladesh’s border, but it definitely is on our economic horizon.]]></description>
-            <link>https://www.thedailystar.net/opinion/news/war-calls-judicious-behaviour-4124411</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/war-calls-judicious-behaviour-4124411</guid>
-            <pubDate>Mon, 09 Mar 2026 16:51:53 GMT</pubDate>
+            <title><![CDATA[Nepal election: A lesson in honouring a people's uprising]]></title>
+            <description><![CDATA[Nepal's election results point to a landslide for rapper Balendra Shah, anticipated by a few in Nepal's political establishment.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/nepal-election-lesson-honouring-peoples-uprising-4124571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/nepal-election-lesson-honouring-peoples-uprising-4124571</guid>
+            <dc:creator><![CDATA[Aishwarya Sanjukta Roy Proma]]></dc:creator>
+            <pubDate>Mon, 09 Mar 2026 17:42:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social media echo chambers and the deepening of sociopolitical polarisations]]></title>
+            <description><![CDATA[By Saifur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/news/social-media-echo-chambers-and-the-deepening-sociopolitical-polarisations-4124426</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/social-media-echo-chambers-and-the-deepening-sociopolitical-polarisations-4124426</guid>
+            <dc:creator><![CDATA[Saifur Rahman]]></dc:creator>
+            <pubDate>Mon, 09 Mar 2026 17:42:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strengthening research in science and engineering in the post-LDC era]]></title>
@@ -22,6 +31,18 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/strengthening-research-science-and-engineering-the-post-ldc-era-4124076</guid>
             <dc:creator><![CDATA[A.S.M.A. Haseeb]]></dc:creator>
             <pubDate>Mon, 09 Mar 2026 00:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Female unemployment rate concerning]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/female-unemployment-rate-concerning-4124061</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/female-unemployment-rate-concerning-4124061</guid>
+            <pubDate>Mon, 09 Mar 2026 00:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[War calls for judicious behaviour]]></title>
+            <link>https://www.thedailystar.net/opinion/news/war-calls-judicious-behaviour-4124411</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/war-calls-judicious-behaviour-4124411</guid>
+            <pubDate>Mon, 09 Mar 2026 17:42:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keep politics out of school textbooks]]></title>
@@ -40,12 +61,6 @@
             <pubDate>Mon, 09 Mar 2026 00:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Female unemployment rate concerning]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/female-unemployment-rate-concerning-4124061</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/female-unemployment-rate-concerning-4124061</guid>
-            <pubDate>Mon, 09 Mar 2026 00:14:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Middle East shipping risk: The insurance chokepoint Bangladesh cannot ignore]]></title>
             <description><![CDATA[By Shafquat Rabbee]]></description>
             <link>https://www.thedailystar.net/opinion/news/middle-east-shipping-risk-the-insurance-chokepoint-bangladesh-cannot-ignore-4124101</link>
@@ -54,24 +69,10 @@
             <pubDate>Mon, 09 Mar 2026 00:25:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Global crises demand feminist lens on global governance]]></title>
-            <description><![CDATA[By Farah Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/global-crises-demand-feminist-lens-global-governance-4123781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/global-crises-demand-feminist-lens-global-governance-4123781</guid>
-            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Mon, 09 Mar 2026 16:51:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[International Women’s Day / The journey from presence to power]]></title>
-            <link>https://www.thedailystar.net/opinion/views/the-big-picture/news/the-journey-presence-power-4123211</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-big-picture/news/the-journey-presence-power-4123211</guid>
-            <pubDate>Sun, 08 Mar 2026 00:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Panic buying may only deepen fuel crisis]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/panic-buying-may-only-deepen-fuel-crisis-4122901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/panic-buying-may-only-deepen-fuel-crisis-4122901</guid>
-            <pubDate>Mon, 09 Mar 2026 16:51:53 GMT</pubDate>
+            <pubDate>Mon, 09 Mar 2026 17:42:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gas explosions are rising, killing people and destroying families]]></title>
@@ -83,7 +84,7 @@
             <title><![CDATA[Refrain from partisan appointments]]></title>
             <link>https://www.thedailystar.net/opinion/news/refrain-partisan-appointments-4122216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/refrain-partisan-appointments-4122216</guid>
-            <pubDate>Mon, 09 Mar 2026 16:51:53 GMT</pubDate>
+            <pubDate>Mon, 09 Mar 2026 17:42:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A school that has no toilet!]]></title>
@@ -96,6 +97,20 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-systemic-loopholes-curb-gender-based-violence-4121801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-systemic-loopholes-curb-gender-based-violence-4121801</guid>
             <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six years on, have we learnt our lessons from Covid?]]></title>
+            <description><![CDATA[By Tasneem Tayeb]]></description>
+            <link>https://www.thedailystar.net/opinion/news/six-years-have-we-learnt-our-lessons-covid-4123266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/six-years-have-we-learnt-our-lessons-covid-4123266</guid>
+            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
+            <pubDate>Sun, 08 Mar 2026 01:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[International Women’s Day / The journey from presence to power]]></title>
+            <link>https://www.thedailystar.net/opinion/views/the-big-picture/news/the-journey-presence-power-4123211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-big-picture/news/the-journey-presence-power-4123211</guid>
+            <pubDate>Sun, 08 Mar 2026 00:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Women must lead, not just participate, in the labour force]]></title>
@@ -136,22 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-collectively-stop-tolerating-preventable-deaths-4122396</guid>
             <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
             <pubDate>Sat, 07 Mar 2026 01:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fate of 133 ordinances: The 30-day test of the new parliament]]></title>
-            <description><![CDATA[By Zillur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</guid>
-            <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will artificial intelligence widen inequality?]]></title>
-            <description><![CDATA[By Owais Parray]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/will-artificial-intelligence-widen-inequality-4121846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/will-artificial-intelligence-widen-inequality-4121846</guid>
-            <dc:creator><![CDATA[Owais Parray]]></dc:creator>
-            <pubDate>Fri, 06 Mar 2026 01:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
