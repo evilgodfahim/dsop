@@ -4,13 +4,21 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 09:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 10:33:24 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Mar 2026 09:37:44 GMT</pubDate>
+        <pubDate>Tue, 10 Mar 2026 10:33:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[A war in the Gulf, an empty wallet in a Bangladeshi village]]></title>
+            <description><![CDATA[How women bear the brunt when remittance flow shrinks]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/war-the-gulf-empty-wallet-bangladeshi-village-4125356</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/war-the-gulf-empty-wallet-bangladeshi-village-4125356</guid>
+            <dc:creator><![CDATA[Tasnuba Sinha]]></dc:creator>
+            <pubDate>Tue, 10 Mar 2026 10:33:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Symbolic progress can only take women’s empowerment so far]]></title>
-            <description><![CDATA[Observed for over a century, the International Women’s Day (IWD) is more than just a celebration; it is about recognising women’s accomplishments and reflecting on progress towards achieving gender equality.]]></description>
+            <description><![CDATA[By Fahmida Khatun]]></description>
             <link>https://www.thedailystar.net/opinion/news/symbolic-progress-can-only-take-womens-empowerment-so-far-4124951</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/symbolic-progress-can-only-take-womens-empowerment-so-far-4124951</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
@@ -52,21 +60,13 @@
             <link>https://www.thedailystar.net/opinion/news/nepal-election-lesson-honouring-peoples-uprising-4124571</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/nepal-election-lesson-honouring-peoples-uprising-4124571</guid>
             <dc:creator><![CDATA[Aishwarya Sanjukta Roy Proma]]></dc:creator>
-            <pubDate>Tue, 10 Mar 2026 09:37:44 GMT</pubDate>
+            <pubDate>Tue, 10 Mar 2026 10:33:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Appoint information commissioners immediately]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/appoint-information-commissioners-immediately-4124946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/appoint-information-commissioners-immediately-4124946</guid>
             <pubDate>Tue, 10 Mar 2026 00:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strengthening research in science and engineering in the post-LDC era]]></title>
-            <description><![CDATA[By A.S.M.A. Haseeb]]></description>
-            <link>https://www.thedailystar.net/opinion/news/strengthening-research-science-and-engineering-the-post-ldc-era-4124076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/strengthening-research-science-and-engineering-the-post-ldc-era-4124076</guid>
-            <dc:creator><![CDATA[A.S.M.A. Haseeb]]></dc:creator>
-            <pubDate>Mon, 09 Mar 2026 00:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[War calls for judicious behaviour]]></title>
@@ -78,7 +78,7 @@
             <title><![CDATA[Panic buying may only deepen fuel crisis]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/panic-buying-may-only-deepen-fuel-crisis-4122901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/panic-buying-may-only-deepen-fuel-crisis-4122901</guid>
-            <pubDate>Tue, 10 Mar 2026 09:37:44 GMT</pubDate>
+            <pubDate>Tue, 10 Mar 2026 10:33:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Female unemployment rate concerning]]></title>
@@ -96,7 +96,15 @@
             <title><![CDATA[Refrain from partisan appointments]]></title>
             <link>https://www.thedailystar.net/opinion/news/refrain-partisan-appointments-4122216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/refrain-partisan-appointments-4122216</guid>
-            <pubDate>Tue, 10 Mar 2026 09:37:44 GMT</pubDate>
+            <pubDate>Tue, 10 Mar 2026 10:33:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keep politics out of school textbooks]]></title>
+            <description><![CDATA[By Wasim Bin Habib]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/keep-politics-out-school-textbooks-4124066</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/keep-politics-out-school-textbooks-4124066</guid>
+            <dc:creator><![CDATA[Wasim Bin Habib]]></dc:creator>
+            <pubDate>Mon, 09 Mar 2026 00:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Balancing the scales for women begins with being seen]]></title>
@@ -120,7 +128,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/global-crises-demand-feminist-lens-global-governance-4123781</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/global-crises-demand-feminist-lens-global-governance-4123781</guid>
             <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Tue, 10 Mar 2026 09:37:44 GMT</pubDate>
+            <pubDate>Tue, 10 Mar 2026 10:33:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Six years on, have we learnt our lessons from Covid?]]></title>
@@ -143,14 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/women-must-lead-not-just-participate-the-labour-force-4123276</guid>
             <dc:creator><![CDATA[Max Tuñón]]></dc:creator>
             <pubDate>Sun, 08 Mar 2026 01:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When our indifference breaks our children]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/when-our-indifference-breaks-our-children-4122391</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/when-our-indifference-breaks-our-children-4122391</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 07 Mar 2026 01:16:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
