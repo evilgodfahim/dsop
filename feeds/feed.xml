@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 05:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 06:40:06 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Mar 2026 05:41:05 GMT</pubDate>
+        <pubDate>Tue, 10 Mar 2026 06:40:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Symbolic progress can only take women’s empowerment so far]]></title>
@@ -14,7 +14,7 @@
             <link>https://www.thedailystar.net/opinion/news/symbolic-progress-can-only-take-womens-empowerment-so-far-4124951</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/symbolic-progress-can-only-take-womens-empowerment-so-far-4124951</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 10 Mar 2026 05:41:05 GMT</pubDate>
+            <pubDate>Tue, 10 Mar 2026 00:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why public service reform should be our next big leap]]></title>
@@ -22,7 +22,7 @@
             <link>https://www.thedailystar.net/opinion/news/why-public-service-reform-should-be-our-next-big-leap-4124956</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/why-public-service-reform-should-be-our-next-big-leap-4124956</guid>
             <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
-            <pubDate>Tue, 10 Mar 2026 05:41:05 GMT</pubDate>
+            <pubDate>Tue, 10 Mar 2026 00:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The duty to rebuild]]></title>
@@ -30,13 +30,13 @@
             <link>https://www.thedailystar.net/opinion/news/the-duty-rebuild-4124961</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-duty-rebuild-4124961</guid>
             <dc:creator><![CDATA[Bobby Hajjaj]]></dc:creator>
-            <pubDate>Tue, 10 Mar 2026 05:41:05 GMT</pubDate>
+            <pubDate>Tue, 10 Mar 2026 00:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fix the system that fails abuse survivors]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-system-fails-abuse-survivors-4124941</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-system-fails-abuse-survivors-4124941</guid>
-            <pubDate>Tue, 10 Mar 2026 05:41:05 GMT</pubDate>
+            <pubDate>Tue, 10 Mar 2026 00:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Social media echo chambers and the deepening of sociopolitical polarisations]]></title>
@@ -52,7 +52,13 @@
             <link>https://www.thedailystar.net/opinion/news/nepal-election-lesson-honouring-peoples-uprising-4124571</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/nepal-election-lesson-honouring-peoples-uprising-4124571</guid>
             <dc:creator><![CDATA[Aishwarya Sanjukta Roy Proma]]></dc:creator>
-            <pubDate>Tue, 10 Mar 2026 05:41:05 GMT</pubDate>
+            <pubDate>Tue, 10 Mar 2026 06:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Appoint information commissioners immediately]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/appoint-information-commissioners-immediately-4124946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/appoint-information-commissioners-immediately-4124946</guid>
+            <pubDate>Tue, 10 Mar 2026 00:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strengthening research in science and engineering in the post-LDC era]]></title>
@@ -61,12 +67,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/strengthening-research-science-and-engineering-the-post-ldc-era-4124076</guid>
             <dc:creator><![CDATA[A.S.M.A. Haseeb]]></dc:creator>
             <pubDate>Mon, 09 Mar 2026 00:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Female unemployment rate concerning]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/female-unemployment-rate-concerning-4124061</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/female-unemployment-rate-concerning-4124061</guid>
-            <pubDate>Mon, 09 Mar 2026 00:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[War calls for judicious behaviour]]></title>
@@ -78,7 +78,13 @@
             <title><![CDATA[Panic buying may only deepen fuel crisis]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/panic-buying-may-only-deepen-fuel-crisis-4122901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/panic-buying-may-only-deepen-fuel-crisis-4122901</guid>
-            <pubDate>Tue, 10 Mar 2026 05:41:05 GMT</pubDate>
+            <pubDate>Tue, 10 Mar 2026 06:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Female unemployment rate concerning]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/female-unemployment-rate-concerning-4124061</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/female-unemployment-rate-concerning-4124061</guid>
+            <pubDate>Mon, 09 Mar 2026 00:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gas explosions are rising, killing people and destroying families]]></title>
@@ -90,13 +96,7 @@
             <title><![CDATA[Refrain from partisan appointments]]></title>
             <link>https://www.thedailystar.net/opinion/news/refrain-partisan-appointments-4122216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/refrain-partisan-appointments-4122216</guid>
-            <pubDate>Tue, 10 Mar 2026 05:41:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A school that has no toilet!]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/school-has-no-toilet-4122386</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/school-has-no-toilet-4122386</guid>
-            <pubDate>Sat, 07 Mar 2026 01:09:00 GMT</pubDate>
+            <pubDate>Tue, 10 Mar 2026 06:40:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Balancing the scales for women begins with being seen]]></title>
@@ -120,7 +120,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/global-crises-demand-feminist-lens-global-governance-4123781</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/global-crises-demand-feminist-lens-global-governance-4123781</guid>
             <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Tue, 10 Mar 2026 05:41:05 GMT</pubDate>
+            <pubDate>Tue, 10 Mar 2026 06:40:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Six years on, have we learnt our lessons from Covid?]]></title>
