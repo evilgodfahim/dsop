@@ -4,39 +4,45 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 05:43:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 06:43:26 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 05:43:11 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 06:43:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Jungle Salimpur and a warning on strategic land management]]></title>
-            <description><![CDATA[The massive joint-forces operation launched this week in Jungle Salimpur, Chattogram, did more than expose a criminal stronghold;]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/jungle-salimpur-and-warning-strategic-land-management-4125801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/jungle-salimpur-and-warning-strategic-land-management-4125801</guid>
+            <description><![CDATA[The massive joint-forces operation launched this week in Jungle Salimpur, Chattogram, did more than expose a criminal stronghold]]></description>
+            <link>https://www.thedailystar.net/opinion/news/jungle-salimpur-and-warning-strategic-land-management-4125801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/jungle-salimpur-and-warning-strategic-land-management-4125801</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Wed, 11 Mar 2026 05:43:11 GMT</pubDate>
+            <pubDate>Wed, 11 Mar 2026 00:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Without media integrity, elections mean little for democracy]]></title>
             <description><![CDATA[By Susan VizeAsif Bin Ali]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/without-media-integrity-elections-mean-little-democracy-4125811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/without-media-integrity-elections-mean-little-democracy-4125811</guid>
+            <link>https://www.thedailystar.net/opinion/news/without-media-integrity-elections-mean-little-democracy-4125811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/without-media-integrity-elections-mean-little-democracy-4125811</guid>
             <dc:creator><![CDATA[Susan VizeAsif Bin Ali]]></dc:creator>
-            <pubDate>Wed, 11 Mar 2026 05:43:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran’s new leader ‍and Trump’s mixed messaging: Can anyone really win the war?]]></title>
-            <description><![CDATA[By Ramisa Rob]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/irans-new-leader-and-trumps-mixed-messaging-can-anyone-really-win-the-war-4125816</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/irans-new-leader-and-trumps-mixed-messaging-can-anyone-really-win-the-war-4125816</guid>
-            <dc:creator><![CDATA[Ramisa Rob]]></dc:creator>
-            <pubDate>Wed, 11 Mar 2026 05:43:11 GMT</pubDate>
+            <pubDate>Wed, 11 Mar 2026 00:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End this meaningless war without delay]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/end-meaningless-war-without-delay-4125456</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-meaningless-war-without-delay-4125456</guid>
-            <pubDate>Wed, 11 Mar 2026 05:43:11 GMT</pubDate>
+            <pubDate>Wed, 11 Mar 2026 06:43:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHRC ordinance must pass without delay]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/nhrc-ordinance-must-pass-without-delay-4125791</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/nhrc-ordinance-must-pass-without-delay-4125791</guid>
+            <pubDate>Wed, 11 Mar 2026 00:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran’s new leader ‍and Trump’s mixed messaging: Can anyone really win the war?]]></title>
+            <description><![CDATA[By Ramisa Rob]]></description>
+            <link>https://www.thedailystar.net/slow-reads/news/irans-new-leader-and-trumps-mixed-messaging-can-anyone-really-win-the-war-4125816</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/news/irans-new-leader-and-trumps-mixed-messaging-can-anyone-really-win-the-war-4125816</guid>
+            <dc:creator><![CDATA[Ramisa Rob]]></dc:creator>
+            <pubDate>Wed, 11 Mar 2026 00:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A war in the Gulf, an empty wallet in a Bangladeshi village]]></title>
@@ -44,7 +50,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/war-the-gulf-empty-wallet-bangladeshi-village-4125356</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/war-the-gulf-empty-wallet-bangladeshi-village-4125356</guid>
             <dc:creator><![CDATA[Tasnuba Sinha]]></dc:creator>
-            <pubDate>Wed, 11 Mar 2026 05:43:11 GMT</pubDate>
+            <pubDate>Wed, 11 Mar 2026 06:43:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Symbolic progress can only take women’s empowerment so far]]></title>
@@ -61,14 +67,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/why-public-service-reform-should-be-our-next-big-leap-4124956</guid>
             <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
             <pubDate>Tue, 10 Mar 2026 00:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The duty to rebuild]]></title>
-            <description><![CDATA[By Bobby Hajjaj]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-duty-rebuild-4124961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-duty-rebuild-4124961</guid>
-            <dc:creator><![CDATA[Bobby Hajjaj]]></dc:creator>
-            <pubDate>Tue, 10 Mar 2026 00:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fix the system that fails abuse survivors]]></title>
@@ -92,13 +90,21 @@
             <title><![CDATA[Panic buying may only deepen fuel crisis]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/panic-buying-may-only-deepen-fuel-crisis-4122901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/panic-buying-may-only-deepen-fuel-crisis-4122901</guid>
-            <pubDate>Wed, 11 Mar 2026 05:43:11 GMT</pubDate>
+            <pubDate>Wed, 11 Mar 2026 06:43:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Female unemployment rate concerning]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/female-unemployment-rate-concerning-4124061</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/female-unemployment-rate-concerning-4124061</guid>
             <pubDate>Mon, 09 Mar 2026 00:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The duty to rebuild]]></title>
+            <description><![CDATA[By Bobby Hajjaj]]></description>
+            <link>https://www.thedailystar.net/opinion/news/the-duty-rebuild-4124961</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-duty-rebuild-4124961</guid>
+            <dc:creator><![CDATA[Bobby Hajjaj]]></dc:creator>
+            <pubDate>Tue, 10 Mar 2026 00:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Social media echo chambers and the deepening of sociopolitical polarisations]]></title>
@@ -146,15 +152,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/global-crises-demand-feminist-lens-global-governance-4123781</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/global-crises-demand-feminist-lens-global-governance-4123781</guid>
             <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Wed, 11 Mar 2026 05:43:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Six years on, have we learnt our lessons from Covid?]]></title>
-            <description><![CDATA[By Tasneem Tayeb]]></description>
-            <link>https://www.thedailystar.net/opinion/news/six-years-have-we-learnt-our-lessons-covid-4123266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/six-years-have-we-learnt-our-lessons-covid-4123266</guid>
-            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
-            <pubDate>Sun, 08 Mar 2026 01:35:00 GMT</pubDate>
+            <pubDate>Wed, 11 Mar 2026 06:43:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
