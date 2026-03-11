@@ -4,13 +4,21 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 06:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 07:39:21 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 06:43:26 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 07:39:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Will disability rights be finally delivered?]]></title>
+            <description><![CDATA[According to the World Health Organization (WHO) Health Equity Report 2023, some 16 percent of the global population experiences a disability.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/will-disability-rights-be-finally-delivered-4125806</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-disability-rights-be-finally-delivered-4125806</guid>
+            <dc:creator><![CDATA[Ayon Debnath]]></dc:creator>
+            <pubDate>Wed, 11 Mar 2026 00:19:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jungle Salimpur and a warning on strategic land management]]></title>
-            <description><![CDATA[The massive joint-forces operation launched this week in Jungle Salimpur, Chattogram, did more than expose a criminal stronghold]]></description>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
             <link>https://www.thedailystar.net/opinion/news/jungle-salimpur-and-warning-strategic-land-management-4125801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/jungle-salimpur-and-warning-strategic-land-management-4125801</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
@@ -28,7 +36,7 @@
             <title><![CDATA[End this meaningless war without delay]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/end-meaningless-war-without-delay-4125456</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-meaningless-war-without-delay-4125456</guid>
-            <pubDate>Wed, 11 Mar 2026 06:43:26 GMT</pubDate>
+            <pubDate>Wed, 11 Mar 2026 07:39:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NHRC ordinance must pass without delay]]></title>
@@ -50,7 +58,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/war-the-gulf-empty-wallet-bangladeshi-village-4125356</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/war-the-gulf-empty-wallet-bangladeshi-village-4125356</guid>
             <dc:creator><![CDATA[Tasnuba Sinha]]></dc:creator>
-            <pubDate>Wed, 11 Mar 2026 06:43:26 GMT</pubDate>
+            <pubDate>Wed, 11 Mar 2026 07:39:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Symbolic progress can only take women’s empowerment so far]]></title>
@@ -59,14 +67,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/symbolic-progress-can-only-take-womens-empowerment-so-far-4124951</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
             <pubDate>Tue, 10 Mar 2026 00:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why public service reform should be our next big leap]]></title>
-            <description><![CDATA[By Ashfaq Zaman]]></description>
-            <link>https://www.thedailystar.net/opinion/news/why-public-service-reform-should-be-our-next-big-leap-4124956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/why-public-service-reform-should-be-our-next-big-leap-4124956</guid>
-            <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
-            <pubDate>Tue, 10 Mar 2026 00:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fix the system that fails abuse survivors]]></title>
@@ -90,7 +90,7 @@
             <title><![CDATA[Panic buying may only deepen fuel crisis]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/panic-buying-may-only-deepen-fuel-crisis-4122901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/panic-buying-may-only-deepen-fuel-crisis-4122901</guid>
-            <pubDate>Wed, 11 Mar 2026 06:43:26 GMT</pubDate>
+            <pubDate>Wed, 11 Mar 2026 07:39:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Female unemployment rate concerning]]></title>
@@ -113,6 +113,14 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/social-media-echo-chambers-and-the-deepening-sociopolitical-polarisations-4124426</guid>
             <dc:creator><![CDATA[Saifur Rahman]]></dc:creator>
             <pubDate>Mon, 09 Mar 2026 12:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why public service reform should be our next big leap]]></title>
+            <description><![CDATA[By Ashfaq Zaman]]></description>
+            <link>https://www.thedailystar.net/opinion/news/why-public-service-reform-should-be-our-next-big-leap-4124956</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/why-public-service-reform-should-be-our-next-big-leap-4124956</guid>
+            <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
+            <pubDate>Tue, 10 Mar 2026 00:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strengthening research in science and engineering in the post-LDC era]]></title>
@@ -145,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/middle-east-shipping-risk-the-insurance-chokepoint-bangladesh-cannot-ignore-4124101</guid>
             <dc:creator><![CDATA[Shafquat Rabbee]]></dc:creator>
             <pubDate>Mon, 09 Mar 2026 00:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Global crises demand feminist lens on global governance]]></title>
-            <description><![CDATA[By Farah Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/global-crises-demand-feminist-lens-global-governance-4123781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/global-crises-demand-feminist-lens-global-governance-4123781</guid>
-            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Wed, 11 Mar 2026 06:43:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
