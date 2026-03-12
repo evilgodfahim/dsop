@@ -4,29 +4,61 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 01:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 05:44:53 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Mar 2026 01:23:09 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 05:44:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[A youth-quake Jatiya Sangsad must break with the past]]></title>
+            <description><![CDATA[The 13th Jatiya Sangsad, which goes into its maiden session today, is in many ways a first for the country.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/youth-quake-jatiya-sangsad-must-break-the-past-4126731</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/youth-quake-jatiya-sangsad-must-break-the-past-4126731</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Thu, 12 Mar 2026 05:44:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Washington’s Iran gamble is already backfiring]]></title>
+            <description><![CDATA[By Md Kawsar Uddin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/washingtons-iran-gamble-already-backfiring-4126736</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/washingtons-iran-gamble-already-backfiring-4126736</guid>
+            <dc:creator><![CDATA[Md Kawsar Uddin]]></dc:creator>
+            <pubDate>Thu, 12 Mar 2026 05:44:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The energy crisis is not in our control, but our response is']]></title>
+            <description><![CDATA[By Naznin Tithi]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-energy-crisis-not-our-control-our-response-4126741</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-energy-crisis-not-our-control-our-response-4126741</guid>
+            <dc:creator><![CDATA[Naznin Tithi]]></dc:creator>
+            <pubDate>Thu, 12 Mar 2026 05:44:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can we use private healthcare to improve health literacy?]]></title>
+            <description><![CDATA[By Md Shafaat Ali Choyon]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/can-we-use-private-healthcare-improve-health-literacy-4126746</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-we-use-private-healthcare-improve-health-literacy-4126746</guid>
+            <dc:creator><![CDATA[Md Shafaat Ali Choyon]]></dc:creator>
+            <pubDate>Thu, 12 Mar 2026 05:44:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ending child abuse is imperative. Can the new government rise to the challenge?]]></title>
-            <description><![CDATA[All forms of violence against children are preventable. What has been missing is consistent political will. The newly elected government has the mandate and the moral responsibility to lead.]]></description>
+            <description><![CDATA[By Laila Khondkar]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/ending-child-abuse-imperative-can-the-new-government-rise-the-challenge-4126216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ending-child-abuse-imperative-can-the-new-government-rise-the-challenge-4126216</guid>
             <dc:creator><![CDATA[Laila Khondkar]]></dc:creator>
-            <pubDate>Thu, 12 Mar 2026 01:23:09 GMT</pubDate>
+            <pubDate>Thu, 12 Mar 2026 05:44:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Family Card launch signals a positive start]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/family-card-launch-signals-positive-start-4126316</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/family-card-launch-signals-positive-start-4126316</guid>
-            <pubDate>Thu, 12 Mar 2026 01:23:09 GMT</pubDate>
+            <pubDate>Thu, 12 Mar 2026 05:44:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Empowering NHRC is a must for Bangladesh]]></title>
             <link>https://www.thedailystar.net/opinion/views/news/empowering-nhrc-must-bangladesh-4126166</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/empowering-nhrc-must-bangladesh-4126166</guid>
-            <pubDate>Thu, 12 Mar 2026 01:23:09 GMT</pubDate>
+            <pubDate>Thu, 12 Mar 2026 05:44:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will disability rights be finally delivered?]]></title>
@@ -37,32 +69,16 @@
             <pubDate>Wed, 11 Mar 2026 00:19:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jungle Salimpur and a warning on strategic land management]]></title>
-            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/news/jungle-salimpur-and-warning-strategic-land-management-4125801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/jungle-salimpur-and-warning-strategic-land-management-4125801</guid>
-            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Wed, 11 Mar 2026 00:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Without media integrity, elections mean little for democracy]]></title>
-            <description><![CDATA[By Susan VizeAsif Bin Ali]]></description>
-            <link>https://www.thedailystar.net/opinion/news/without-media-integrity-elections-mean-little-democracy-4125811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/without-media-integrity-elections-mean-little-democracy-4125811</guid>
-            <dc:creator><![CDATA[Susan VizeAsif Bin Ali]]></dc:creator>
-            <pubDate>Wed, 11 Mar 2026 00:22:00 GMT</pubDate>
+            <title><![CDATA[NHRC ordinance must pass without delay]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/nhrc-ordinance-must-pass-without-delay-4125791</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/nhrc-ordinance-must-pass-without-delay-4125791</guid>
+            <pubDate>Wed, 11 Mar 2026 00:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End this meaningless war without delay]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/end-meaningless-war-without-delay-4125456</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-meaningless-war-without-delay-4125456</guid>
-            <pubDate>Thu, 12 Mar 2026 01:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHRC ordinance must pass without delay]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/nhrc-ordinance-must-pass-without-delay-4125791</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/nhrc-ordinance-must-pass-without-delay-4125791</guid>
-            <pubDate>Wed, 11 Mar 2026 00:12:00 GMT</pubDate>
+            <pubDate>Thu, 12 Mar 2026 05:44:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fix the system that fails abuse survivors]]></title>
@@ -83,16 +99,20 @@
             <pubDate>Mon, 09 Mar 2026 12:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Panic buying may only deepen fuel crisis]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/panic-buying-may-only-deepen-fuel-crisis-4122901</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/panic-buying-may-only-deepen-fuel-crisis-4122901</guid>
-            <pubDate>Thu, 12 Mar 2026 01:23:09 GMT</pubDate>
+            <title><![CDATA[Jungle Salimpur and a warning on strategic land management]]></title>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/news/jungle-salimpur-and-warning-strategic-land-management-4125801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/jungle-salimpur-and-warning-strategic-land-management-4125801</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Wed, 11 Mar 2026 00:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Female unemployment rate concerning]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/female-unemployment-rate-concerning-4124061</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/female-unemployment-rate-concerning-4124061</guid>
-            <pubDate>Mon, 09 Mar 2026 00:14:00 GMT</pubDate>
+            <title><![CDATA[Iran’s new leader ‍and Trump’s mixed messaging: Can anyone really win the war?]]></title>
+            <description><![CDATA[By Ramisa Rob]]></description>
+            <link>https://www.thedailystar.net/slow-reads/news/irans-new-leader-and-trumps-mixed-messaging-can-anyone-really-win-the-war-4125816</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/news/irans-new-leader-and-trumps-mixed-messaging-can-anyone-really-win-the-war-4125816</guid>
+            <dc:creator><![CDATA[Ramisa Rob]]></dc:creator>
+            <pubDate>Wed, 11 Mar 2026 00:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A war in the Gulf, an empty wallet in a Bangladeshi village]]></title>
@@ -100,7 +120,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/war-the-gulf-empty-wallet-bangladeshi-village-4125356</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/war-the-gulf-empty-wallet-bangladeshi-village-4125356</guid>
             <dc:creator><![CDATA[Tasnuba Sinha]]></dc:creator>
-            <pubDate>Thu, 12 Mar 2026 01:23:09 GMT</pubDate>
+            <pubDate>Thu, 12 Mar 2026 05:44:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Symbolic progress can only take women’s empowerment so far]]></title>
@@ -116,7 +136,7 @@
             <link>https://www.thedailystar.net/opinion/news/nepal-election-lesson-honouring-peoples-uprising-4124571</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/nepal-election-lesson-honouring-peoples-uprising-4124571</guid>
             <dc:creator><![CDATA[Aishwarya Sanjukta Roy Proma]]></dc:creator>
-            <pubDate>Thu, 12 Mar 2026 01:23:09 GMT</pubDate>
+            <pubDate>Thu, 12 Mar 2026 05:44:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The duty to rebuild]]></title>
@@ -133,22 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/social-media-echo-chambers-and-the-deepening-sociopolitical-polarisations-4124426</guid>
             <dc:creator><![CDATA[Saifur Rahman]]></dc:creator>
             <pubDate>Mon, 09 Mar 2026 12:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why public service reform should be our next big leap]]></title>
-            <description><![CDATA[By Ashfaq Zaman]]></description>
-            <link>https://www.thedailystar.net/opinion/news/why-public-service-reform-should-be-our-next-big-leap-4124956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/why-public-service-reform-should-be-our-next-big-leap-4124956</guid>
-            <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
-            <pubDate>Tue, 10 Mar 2026 00:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strengthening research in science and engineering in the post-LDC era]]></title>
-            <description><![CDATA[By A.S.M.A. Haseeb]]></description>
-            <link>https://www.thedailystar.net/opinion/news/strengthening-research-science-and-engineering-the-post-ldc-era-4124076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/strengthening-research-science-and-engineering-the-post-ldc-era-4124076</guid>
-            <dc:creator><![CDATA[A.S.M.A. Haseeb]]></dc:creator>
-            <pubDate>Mon, 09 Mar 2026 00:20:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
