@@ -4,13 +4,21 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 17:43:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 18:43:46 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Mar 2026 17:43:57 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 18:43:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Column by Mahfuz Anam / The challenges before the prime minister]]></title>
+            <description><![CDATA[The new dispensation—new election, new parliament, new leadership at the helm of the country, and new possibility of accountable governance—can truly be called a product of public will.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/the-challenges-the-prime-minister-4127396</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/the-challenges-the-prime-minister-4127396</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Thu, 12 Mar 2026 18:43:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A youth-quake Jatiya Sangsad must break with the past]]></title>
-            <description><![CDATA[The 13th Jatiya Sangsad, which goes into its maiden session today, is in many ways a first for the country.]]></description>
+            <description><![CDATA[By Kamal Ahmed]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/youth-quake-jatiya-sangsad-must-break-the-past-4126731</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/youth-quake-jatiya-sangsad-must-break-the-past-4126731</guid>
             <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
@@ -46,27 +54,19 @@
             <link>https://www.thedailystar.net/opinion/views/news/ending-child-abuse-imperative-can-the-new-government-rise-the-challenge-4126216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ending-child-abuse-imperative-can-the-new-government-rise-the-challenge-4126216</guid>
             <dc:creator><![CDATA[Laila Khondkar]]></dc:creator>
-            <pubDate>Thu, 12 Mar 2026 17:43:57 GMT</pubDate>
+            <pubDate>Thu, 12 Mar 2026 18:43:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Family Card launch signals a positive start]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/family-card-launch-signals-positive-start-4126316</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/family-card-launch-signals-positive-start-4126316</guid>
-            <pubDate>Thu, 12 Mar 2026 17:43:57 GMT</pubDate>
+            <pubDate>Thu, 12 Mar 2026 18:43:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Empowering NHRC is a must for Bangladesh]]></title>
             <link>https://www.thedailystar.net/opinion/views/news/empowering-nhrc-must-bangladesh-4126166</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/empowering-nhrc-must-bangladesh-4126166</guid>
-            <pubDate>Thu, 12 Mar 2026 17:43:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will disability rights be finally delivered?]]></title>
-            <description><![CDATA[By Ayon Debnath]]></description>
-            <link>https://www.thedailystar.net/opinion/news/will-disability-rights-be-finally-delivered-4125806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-disability-rights-be-finally-delivered-4125806</guid>
-            <dc:creator><![CDATA[Ayon Debnath]]></dc:creator>
-            <pubDate>Wed, 11 Mar 2026 00:19:00 GMT</pubDate>
+            <pubDate>Thu, 12 Mar 2026 18:43:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Educational governance mustn’t regress]]></title>
@@ -84,7 +84,7 @@
             <title><![CDATA[End this meaningless war without delay]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/end-meaningless-war-without-delay-4125456</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-meaningless-war-without-delay-4125456</guid>
-            <pubDate>Thu, 12 Mar 2026 17:43:57 GMT</pubDate>
+            <pubDate>Thu, 12 Mar 2026 18:43:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fix the system that fails abuse survivors]]></title>
@@ -97,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/appoint-information-commissioners-immediately-4124946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/appoint-information-commissioners-immediately-4124946</guid>
             <pubDate>Tue, 10 Mar 2026 00:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Without media integrity, elections mean little for democracy]]></title>
+            <description><![CDATA[By Susan VizeAsif Bin Ali]]></description>
+            <link>https://www.thedailystar.net/opinion/news/without-media-integrity-elections-mean-little-democracy-4125811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/without-media-integrity-elections-mean-little-democracy-4125811</guid>
+            <dc:creator><![CDATA[Susan VizeAsif Bin Ali]]></dc:creator>
+            <pubDate>Wed, 11 Mar 2026 00:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jungle Salimpur and a warning on strategic land management]]></title>
@@ -120,7 +128,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/war-the-gulf-empty-wallet-bangladeshi-village-4125356</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/war-the-gulf-empty-wallet-bangladeshi-village-4125356</guid>
             <dc:creator><![CDATA[Tasnuba Sinha]]></dc:creator>
-            <pubDate>Thu, 12 Mar 2026 17:43:57 GMT</pubDate>
+            <pubDate>Thu, 12 Mar 2026 18:43:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Symbolic progress can only take women’s empowerment so far]]></title>
@@ -136,7 +144,7 @@
             <link>https://www.thedailystar.net/opinion/news/nepal-election-lesson-honouring-peoples-uprising-4124571</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/nepal-election-lesson-honouring-peoples-uprising-4124571</guid>
             <dc:creator><![CDATA[Aishwarya Sanjukta Roy Proma]]></dc:creator>
-            <pubDate>Thu, 12 Mar 2026 17:43:57 GMT</pubDate>
+            <pubDate>Thu, 12 Mar 2026 18:43:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The duty to rebuild]]></title>
@@ -145,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-duty-rebuild-4124961</guid>
             <dc:creator><![CDATA[Bobby Hajjaj]]></dc:creator>
             <pubDate>Tue, 10 Mar 2026 00:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Social media echo chambers and the deepening of sociopolitical polarisations]]></title>
-            <description><![CDATA[By Saifur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/news/social-media-echo-chambers-and-the-deepening-sociopolitical-polarisations-4124426</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/social-media-echo-chambers-and-the-deepening-sociopolitical-polarisations-4124426</guid>
-            <dc:creator><![CDATA[Saifur Rahman]]></dc:creator>
-            <pubDate>Mon, 09 Mar 2026 12:38:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
