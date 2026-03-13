@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 01:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 04:06:40 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Mar 2026 01:27:08 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 04:06:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / The challenges before the prime minister]]></title>
@@ -14,7 +14,15 @@
             <link>https://www.thedailystar.net/opinion/views/the-third-view/news/the-challenges-the-prime-minister-4127396</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/the-challenges-the-prime-minister-4127396</guid>
             <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Fri, 13 Mar 2026 01:27:08 GMT</pubDate>
+            <pubDate>Fri, 13 Mar 2026 04:06:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Banning groundwater irrigation in the Barind Tract is not the answer]]></title>
+            <description><![CDATA[By Mohammad Shamsudduha]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/banning-groundwater-irrigation-the-barind-tract-not-the-answer-4127506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/banning-groundwater-irrigation-the-barind-tract-not-the-answer-4127506</guid>
+            <dc:creator><![CDATA[Mohammad Shamsudduha]]></dc:creator>
+            <pubDate>Fri, 13 Mar 2026 04:06:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A youth-quake Jatiya Sangsad must break with the past]]></title>
@@ -31,6 +39,12 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/washingtons-iran-gamble-already-backfiring-4126736</guid>
             <dc:creator><![CDATA[Md Kawsar Uddin]]></dc:creator>
             <pubDate>Thu, 12 Mar 2026 00:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parliament revives after a long pause]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/parliament-revives-after-long-pause-4127411</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/parliament-revives-after-long-pause-4127411</guid>
+            <pubDate>Fri, 13 Mar 2026 04:06:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['The energy crisis is not in our control, but our response is']]></title>
@@ -54,25 +68,19 @@
             <link>https://www.thedailystar.net/opinion/views/news/ending-child-abuse-imperative-can-the-new-government-rise-the-challenge-4126216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ending-child-abuse-imperative-can-the-new-government-rise-the-challenge-4126216</guid>
             <dc:creator><![CDATA[Laila Khondkar]]></dc:creator>
-            <pubDate>Fri, 13 Mar 2026 01:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Family Card launch signals a positive start]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/family-card-launch-signals-positive-start-4126316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/family-card-launch-signals-positive-start-4126316</guid>
-            <pubDate>Fri, 13 Mar 2026 01:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Empowering NHRC is a must for Bangladesh]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/empowering-nhrc-must-bangladesh-4126166</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/empowering-nhrc-must-bangladesh-4126166</guid>
-            <pubDate>Fri, 13 Mar 2026 01:27:08 GMT</pubDate>
+            <pubDate>Fri, 13 Mar 2026 04:06:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Educational governance mustn’t regress]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/educational-governance-mustnt-regress-4126726</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/educational-governance-mustnt-regress-4126726</guid>
             <pubDate>Thu, 12 Mar 2026 00:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Family Card launch signals a positive start]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/family-card-launch-signals-positive-start-4126316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/family-card-launch-signals-positive-start-4126316</guid>
+            <pubDate>Fri, 13 Mar 2026 04:06:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NHRC ordinance must pass without delay]]></title>
@@ -84,7 +92,7 @@
             <title><![CDATA[End this meaningless war without delay]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/end-meaningless-war-without-delay-4125456</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-meaningless-war-without-delay-4125456</guid>
-            <pubDate>Fri, 13 Mar 2026 01:27:08 GMT</pubDate>
+            <pubDate>Fri, 13 Mar 2026 04:06:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fix the system that fails abuse survivors]]></title>
@@ -93,10 +101,12 @@
             <pubDate>Tue, 10 Mar 2026 00:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Appoint information commissioners immediately]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/appoint-information-commissioners-immediately-4124946</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/appoint-information-commissioners-immediately-4124946</guid>
-            <pubDate>Tue, 10 Mar 2026 00:13:00 GMT</pubDate>
+            <title><![CDATA[Will disability rights be finally delivered?]]></title>
+            <description><![CDATA[By Ayon Debnath]]></description>
+            <link>https://www.thedailystar.net/opinion/news/will-disability-rights-be-finally-delivered-4125806</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-disability-rights-be-finally-delivered-4125806</guid>
+            <dc:creator><![CDATA[Ayon Debnath]]></dc:creator>
+            <pubDate>Wed, 11 Mar 2026 00:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Without media integrity, elections mean little for democracy]]></title>
@@ -128,7 +138,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/war-the-gulf-empty-wallet-bangladeshi-village-4125356</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/war-the-gulf-empty-wallet-bangladeshi-village-4125356</guid>
             <dc:creator><![CDATA[Tasnuba Sinha]]></dc:creator>
-            <pubDate>Fri, 13 Mar 2026 01:27:08 GMT</pubDate>
+            <pubDate>Fri, 13 Mar 2026 04:06:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Symbolic progress can only take women’s empowerment so far]]></title>
@@ -144,15 +154,7 @@
             <link>https://www.thedailystar.net/opinion/news/nepal-election-lesson-honouring-peoples-uprising-4124571</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/nepal-election-lesson-honouring-peoples-uprising-4124571</guid>
             <dc:creator><![CDATA[Aishwarya Sanjukta Roy Proma]]></dc:creator>
-            <pubDate>Fri, 13 Mar 2026 01:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The duty to rebuild]]></title>
-            <description><![CDATA[By Bobby Hajjaj]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-duty-rebuild-4124961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-duty-rebuild-4124961</guid>
-            <dc:creator><![CDATA[Bobby Hajjaj]]></dc:creator>
-            <pubDate>Tue, 10 Mar 2026 00:29:00 GMT</pubDate>
+            <pubDate>Fri, 13 Mar 2026 04:06:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
