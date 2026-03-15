@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 11:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 12:38:24 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Mar 2026 11:21:18 GMT</pubDate>
+        <pubDate>Sun, 15 Mar 2026 12:38:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Strictly monitor edible oil prices and supply]]></title>
+            <description><![CDATA[Exploitative practices by suppliers must be checked]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/strictly-monitor-edible-oil-prices-and-supply-4129346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/strictly-monitor-edible-oil-prices-and-supply-4129346</guid>
+            <pubDate>Sun, 15 Mar 2026 12:38:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rethinking 'Bangu' culture: Perpetual self-denigration will take us nowhere]]></title>
-            <description><![CDATA[There is a difference between constructive criticism and internalised stereotypes resulting in reflexive self-denigration.]]></description>
+            <description><![CDATA[By Mohammad Taqi Yasir]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/rethinking-bangu-culture-perpetual-self-denigration-will-take-us-nowhere-4129241</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-bangu-culture-perpetual-self-denigration-will-take-us-nowhere-4129241</guid>
             <dc:creator><![CDATA[Mohammad Taqi Yasir]]></dc:creator>
-            <pubDate>Sun, 15 Mar 2026 11:21:18 GMT</pubDate>
+            <pubDate>Sun, 15 Mar 2026 12:38:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop landfill fires, open waste burning]]></title>
@@ -34,7 +41,7 @@
             <title><![CDATA[Clumsy execution of fuel rationing is causing crises]]></title>
             <link>https://www.thedailystar.net/opinion/news/clumsy-execution-fuel-rationing-causing-crises-4128531</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/clumsy-execution-fuel-rationing-causing-crises-4128531</guid>
-            <pubDate>Sun, 15 Mar 2026 11:21:18 GMT</pubDate>
+            <pubDate>Sun, 15 Mar 2026 12:38:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We need education reforms that actually work]]></title>
@@ -61,14 +68,6 @@
             <pubDate>Sun, 15 Mar 2026 00:41:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The unfinished promise to Bangladesh’s women]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-unfinished-promise-bangladeshs-women-4128111</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-unfinished-promise-bangladeshs-women-4128111</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 14 Mar 2026 02:15:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hospital buildings must not lie idle]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/hospital-buildings-must-not-lie-idle-4128106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/hospital-buildings-must-not-lie-idle-4128106</guid>
@@ -78,13 +77,13 @@
             <title><![CDATA[Trade probe against Bangladesh is baffling]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/trade-probe-against-bangladesh-baffling-4127901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/trade-probe-against-bangladesh-baffling-4127901</guid>
-            <pubDate>Sun, 15 Mar 2026 11:21:18 GMT</pubDate>
+            <pubDate>Sun, 15 Mar 2026 12:38:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Parliament revives after a long pause]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/parliament-revives-after-long-pause-4127411</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/parliament-revives-after-long-pause-4127411</guid>
-            <pubDate>Sun, 15 Mar 2026 11:21:18 GMT</pubDate>
+            <pubDate>Sun, 15 Mar 2026 12:38:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Help stranded umrah pilgrims return home]]></title>
@@ -97,6 +96,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/educational-governance-mustnt-regress-4126726</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/educational-governance-mustnt-regress-4126726</guid>
             <pubDate>Thu, 12 Mar 2026 00:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Bangladesh’s vegetable exports fail long before take-off]]></title>
+            <description><![CDATA[By Tahmeed Rifa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-bangladeshs-vegetable-exports-fail-long-take-4128121</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladeshs-vegetable-exports-fail-long-take-4128121</guid>
+            <dc:creator><![CDATA[Tahmeed Rifa]]></dc:creator>
+            <pubDate>Sat, 14 Mar 2026 02:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From population control to policy by numbers]]></title>
@@ -145,14 +152,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/washingtons-iran-gamble-already-backfiring-4126736</guid>
             <dc:creator><![CDATA[Md Kawsar Uddin]]></dc:creator>
             <pubDate>Thu, 12 Mar 2026 00:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['The energy crisis is not in our control, but our response is']]></title>
-            <description><![CDATA[By Naznin Tithi]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-energy-crisis-not-our-control-our-response-4126741</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-energy-crisis-not-our-control-our-response-4126741</guid>
-            <dc:creator><![CDATA[Naznin Tithi]]></dc:creator>
-            <pubDate>Thu, 12 Mar 2026 00:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
