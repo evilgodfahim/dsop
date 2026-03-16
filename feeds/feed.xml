@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 06:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 08:04:38 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Mar 2026 06:16:26 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 08:04:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[July charter and constitutional reform: Will we waste a generational opportunity?]]></title>
@@ -14,7 +14,15 @@
             <link>https://www.thedailystar.net/opinion/news/july-charter-and-constitutional-reform-will-we-waste-generational-opportunity-4129676</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/july-charter-and-constitutional-reform-will-we-waste-generational-opportunity-4129676</guid>
             <dc:creator><![CDATA[Sharif BhuiyanM. A. MatinSharif BhuiyanAsif M. Shahan]]></dc:creator>
-            <pubDate>Mon, 16 Mar 2026 06:16:26 GMT</pubDate>
+            <pubDate>Mon, 16 Mar 2026 00:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Bangladesh needs a brand reset]]></title>
+            <description><![CDATA[By Mostafiz Uddin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/rmg-notes/news/why-bangladesh-needs-brand-reset-4129686</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/rmg-notes/news/why-bangladesh-needs-brand-reset-4129686</guid>
+            <dc:creator><![CDATA[Mostafiz Uddin]]></dc:creator>
+            <pubDate>Mon, 16 Mar 2026 00:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A risky moment to liberalise capital exit]]></title>
@@ -30,19 +38,19 @@
             <link>https://www.thedailystar.net/opinion/news/the-burqa-and-the-bomb-disturbing-war-narrative-4129636</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-burqa-and-the-bomb-disturbing-war-narrative-4129636</guid>
             <dc:creator><![CDATA[OBAIDUL HAMID]]></dc:creator>
-            <pubDate>Mon, 16 Mar 2026 06:16:26 GMT</pubDate>
+            <pubDate>Mon, 16 Mar 2026 00:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strictly monitor edible oil prices and supply]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/strictly-monitor-edible-oil-prices-and-supply-4129346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/strictly-monitor-edible-oil-prices-and-supply-4129346</guid>
-            <pubDate>Mon, 16 Mar 2026 06:16:26 GMT</pubDate>
+            <pubDate>Mon, 16 Mar 2026 08:04:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Continued neglect of potato farmers]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/continued-neglect-potato-farmers-4129586</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/continued-neglect-potato-farmers-4129586</guid>
-            <pubDate>Mon, 16 Mar 2026 06:16:26 GMT</pubDate>
+            <pubDate>Mon, 16 Mar 2026 00:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rethinking 'Bangu' culture: Perpetual self-denigration will take us nowhere]]></title>
@@ -50,7 +58,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/rethinking-bangu-culture-perpetual-self-denigration-will-take-us-nowhere-4129241</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-bangu-culture-perpetual-self-denigration-will-take-us-nowhere-4129241</guid>
             <dc:creator><![CDATA[Mohammad Taqi Yasir]]></dc:creator>
-            <pubDate>Mon, 16 Mar 2026 06:16:26 GMT</pubDate>
+            <pubDate>Mon, 16 Mar 2026 08:04:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop landfill fires, open waste burning]]></title>
@@ -59,18 +67,10 @@
             <pubDate>Sun, 15 Mar 2026 00:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How tobacco companies target schoolchildren]]></title>
-            <description><![CDATA[By Mohammad Ihtesham Hassan]]></description>
-            <link>https://www.thedailystar.net/opinion/news/how-tobacco-companies-target-schoolchildren-4128786</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/how-tobacco-companies-target-schoolchildren-4128786</guid>
-            <dc:creator><![CDATA[Mohammad Ihtesham Hassan]]></dc:creator>
-            <pubDate>Sun, 15 Mar 2026 00:35:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Clumsy execution of fuel rationing is causing crises]]></title>
             <link>https://www.thedailystar.net/opinion/news/clumsy-execution-fuel-rationing-causing-crises-4128531</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/clumsy-execution-fuel-rationing-causing-crises-4128531</guid>
-            <pubDate>Mon, 16 Mar 2026 06:16:26 GMT</pubDate>
+            <pubDate>Mon, 16 Mar 2026 08:04:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hospital buildings must not lie idle]]></title>
@@ -82,19 +82,27 @@
             <title><![CDATA[Trade probe against Bangladesh is baffling]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/trade-probe-against-bangladesh-baffling-4127901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/trade-probe-against-bangladesh-baffling-4127901</guid>
-            <pubDate>Mon, 16 Mar 2026 06:16:26 GMT</pubDate>
+            <pubDate>Mon, 16 Mar 2026 08:04:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Parliament revives after a long pause]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/parliament-revives-after-long-pause-4127411</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/parliament-revives-after-long-pause-4127411</guid>
-            <pubDate>Mon, 16 Mar 2026 06:16:26 GMT</pubDate>
+            <pubDate>Mon, 16 Mar 2026 08:04:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Help stranded umrah pilgrims return home]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/help-stranded-umrah-pilgrims-return-home-4127436</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/help-stranded-umrah-pilgrims-return-home-4127436</guid>
             <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How tobacco companies target schoolchildren]]></title>
+            <description><![CDATA[By Mohammad Ihtesham Hassan]]></description>
+            <link>https://www.thedailystar.net/opinion/news/how-tobacco-companies-target-schoolchildren-4128786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/how-tobacco-companies-target-schoolchildren-4128786</guid>
+            <dc:creator><![CDATA[Mohammad Ihtesham Hassan]]></dc:creator>
+            <pubDate>Sun, 15 Mar 2026 00:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why the government must prioritise RTI]]></title>
@@ -143,14 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-rivers-are-dying-and-so-its-future-4128131</guid>
             <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
             <pubDate>Sat, 14 Mar 2026 02:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column by Mahfuz Anam / The challenges before the prime minister]]></title>
-            <description><![CDATA[By Mahfuz Anam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/the-challenges-the-prime-minister-4127396</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/the-challenges-the-prime-minister-4127396</guid>
-            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
