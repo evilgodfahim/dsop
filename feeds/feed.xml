@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 05:58:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 07:05:30 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 05:58:47 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 07:05:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Too many holidays are bad for any growth economy]]></title>
@@ -14,7 +14,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/too-many-holidays-are-bad-any-growth-economy-4131301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/too-many-holidays-are-bad-any-growth-economy-4131301</guid>
             <dc:creator><![CDATA[Mamun Rashid]]></dc:creator>
-            <pubDate>Wed, 18 Mar 2026 05:58:47 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 00:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will Family Card actually lift the poor or sink the economy?]]></title>
@@ -22,13 +22,21 @@
             <link>https://www.thedailystar.net/opinion/views/news/will-family-card-actually-lift-the-poor-or-sink-the-economy-4131306</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/will-family-card-actually-lift-the-poor-or-sink-the-economy-4131306</guid>
             <dc:creator><![CDATA[Md Deen Islam]]></dc:creator>
-            <pubDate>Wed, 18 Mar 2026 05:58:47 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 00:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We must restore momentum in environmental governance]]></title>
+            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-must-restore-momentum-environmental-governance-4131311</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-restore-momentum-environmental-governance-4131311</guid>
+            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
+            <pubDate>Wed, 18 Mar 2026 00:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Time to build an accountable Biman]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/time-build-accountable-biman-4131021</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/time-build-accountable-biman-4131021</guid>
-            <pubDate>Wed, 18 Mar 2026 05:58:47 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 07:05:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh never had a Habermas, but it desperately needs one]]></title>
@@ -50,7 +58,7 @@
             <title><![CDATA[Why reintroduce school admission exams?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/why-reintroduce-school-admission-exams-4131266</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-reintroduce-school-admission-exams-4131266</guid>
-            <pubDate>Wed, 18 Mar 2026 05:58:47 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Bangladesh needs a balanced energy security strategy]]></title>
@@ -61,18 +69,10 @@
             <pubDate>Tue, 17 Mar 2026 00:41:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Piety, protest, and the search for a sacred public life]]></title>
-            <description><![CDATA[By Maruf Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/piety-protest-and-the-search-sacred-public-life-4130356</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/piety-protest-and-the-search-sacred-public-life-4130356</guid>
-            <dc:creator><![CDATA[Maruf Ahmed]]></dc:creator>
-            <pubDate>Tue, 17 Mar 2026 00:49:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Canal-digging drive must resist partisan influences]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/canal-digging-drive-must-resist-partisan-influences-4130151</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/canal-digging-drive-must-resist-partisan-influences-4130151</guid>
-            <pubDate>Wed, 18 Mar 2026 05:58:47 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 07:05:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[False cases must not undermine justice]]></title>
@@ -90,7 +90,7 @@
             <title><![CDATA[Strictly monitor edible oil prices and supply]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/strictly-monitor-edible-oil-prices-and-supply-4129346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/strictly-monitor-edible-oil-prices-and-supply-4129346</guid>
-            <pubDate>Wed, 18 Mar 2026 05:58:47 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 07:05:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop landfill fires, open waste burning]]></title>
@@ -99,12 +99,20 @@
             <pubDate>Sun, 15 Mar 2026 00:28:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Building energy resilience in an age of global shocks]]></title>
+            <description><![CDATA[By Tasneem Tayeb]]></description>
+            <link>https://www.thedailystar.net/opinion/views/closer-look/news/building-energy-resilience-age-global-shocks-4130141</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/building-energy-resilience-age-global-shocks-4130141</guid>
+            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
+            <pubDate>Wed, 18 Mar 2026 07:05:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The multiplier effect of investing in women]]></title>
             <description><![CDATA[By Anjum Khalidi]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/the-multiplier-effect-investing-women-4130046</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-multiplier-effect-investing-women-4130046</guid>
             <dc:creator><![CDATA[Anjum Khalidi]]></dc:creator>
-            <pubDate>Wed, 18 Mar 2026 05:58:47 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 07:05:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[July charter and constitutional reform: Will we waste a generational opportunity?]]></title>
@@ -144,15 +152,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/rethinking-bangu-culture-perpetual-self-denigration-will-take-us-nowhere-4129241</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-bangu-culture-perpetual-self-denigration-will-take-us-nowhere-4129241</guid>
             <dc:creator><![CDATA[Mohammad Taqi Yasir]]></dc:creator>
-            <pubDate>Wed, 18 Mar 2026 05:58:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Continued use of post-bail ‘shown arrested’ cases risks repeating past abuses]]></title>
-            <description><![CDATA[By David Bergman]]></description>
-            <link>https://www.thedailystar.net/opinion/news/continued-use-post-bail-shown-arrested-cases-risks-repeating-past-abuses-4128791</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/continued-use-post-bail-shown-arrested-cases-risks-repeating-past-abuses-4128791</guid>
-            <dc:creator><![CDATA[David Bergman]]></dc:creator>
-            <pubDate>Sun, 15 Mar 2026 00:37:00 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 07:05:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
