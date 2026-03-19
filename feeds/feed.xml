@@ -4,16 +4,39 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 01:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 04:17:32 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Mar 2026 01:45:59 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 04:17:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Reflections on the moral crisis of modern leadership]]></title>
+            <description><![CDATA[“A fish rots from the head”—this ancient proverb reminds us that when leadership loses its moral compass, the entire system begins to decay.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/reflections-the-moral-crisis-modern-leadership-4132056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/reflections-the-moral-crisis-modern-leadership-4132056</guid>
+            <dc:creator><![CDATA[Rubaiul Murshed]]></dc:creator>
+            <pubDate>Thu, 19 Mar 2026 04:17:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The cost of politicising VC appointment]]></title>
+            <description><![CDATA[By Arafat Rahaman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-cost-politicising-vc-appointment-4132061</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-cost-politicising-vc-appointment-4132061</guid>
+            <dc:creator><![CDATA[Arafat Rahaman]]></dc:creator>
+            <pubDate>Thu, 19 Mar 2026 04:17:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strait of Hormuz crisis shows why a renewable transition is urgent]]></title>
+            <description><![CDATA[By Bareesh ChowdhuryAmanullah Porag]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/strait-hormuz-crisis-shows-why-renewable-transition-urgent-4132071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/strait-hormuz-crisis-shows-why-renewable-transition-urgent-4132071</guid>
+            <dc:creator><![CDATA[Bareesh ChowdhuryAmanullah Porag]]></dc:creator>
+            <pubDate>Thu, 19 Mar 2026 04:17:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Partisan selection of VCs is concerning]]></title>
-            <description><![CDATA[Public universities need merit-based leadership]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/partisan-selection-vcs-concerning-4131871</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/partisan-selection-vcs-concerning-4131871</guid>
-            <pubDate>Thu, 19 Mar 2026 01:45:59 GMT</pubDate>
+            <pubDate>Thu, 19 Mar 2026 04:17:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Too many holidays are bad for any growth economy]]></title>
@@ -43,23 +66,7 @@
             <title><![CDATA[Time to build an accountable Biman]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/time-build-accountable-biman-4131021</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/time-build-accountable-biman-4131021</guid>
-            <pubDate>Thu, 19 Mar 2026 01:45:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh never had a Habermas, but it desperately needs one]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/opinion/news/bangladesh-never-had-habermas-it-desperately-needs-one-4130376</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladesh-never-had-habermas-it-desperately-needs-one-4130376</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Tue, 17 Mar 2026 00:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stories from a delayed flight: Migrant anxieties amid the Middle East conflict]]></title>
-            <description><![CDATA[By Shariful Hasan]]></description>
-            <link>https://www.thedailystar.net/opinion/news/stories-delayed-flight-migrant-anxieties-amid-the-middle-east-conflict-4130361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/stories-delayed-flight-migrant-anxieties-amid-the-middle-east-conflict-4130361</guid>
-            <dc:creator><![CDATA[Shariful Hasan]]></dc:creator>
-            <pubDate>Tue, 17 Mar 2026 00:56:00 GMT</pubDate>
+            <pubDate>Thu, 19 Mar 2026 04:17:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why reintroduce school admission exams?]]></title>
@@ -71,7 +78,7 @@
             <title><![CDATA[Canal-digging drive must resist partisan influences]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/canal-digging-drive-must-resist-partisan-influences-4130151</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/canal-digging-drive-must-resist-partisan-influences-4130151</guid>
-            <pubDate>Thu, 19 Mar 2026 01:45:59 GMT</pubDate>
+            <pubDate>Thu, 19 Mar 2026 04:17:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[False cases must not undermine justice]]></title>
@@ -89,13 +96,15 @@
             <title><![CDATA[Strictly monitor edible oil prices and supply]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/strictly-monitor-edible-oil-prices-and-supply-4129346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/strictly-monitor-edible-oil-prices-and-supply-4129346</guid>
-            <pubDate>Thu, 19 Mar 2026 01:45:59 GMT</pubDate>
+            <pubDate>Thu, 19 Mar 2026 04:17:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stop landfill fires, open waste burning]]></title>
-            <link>https://www.thedailystar.net/opinion/news/stop-landfill-fires-open-waste-burning-4128771</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/stop-landfill-fires-open-waste-burning-4128771</guid>
-            <pubDate>Sun, 15 Mar 2026 00:28:00 GMT</pubDate>
+            <title><![CDATA[Why Bangladesh needs a balanced energy security strategy]]></title>
+            <description><![CDATA[By Fahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/news/why-bangladesh-needs-balanced-energy-security-strategy-4130351</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/why-bangladesh-needs-balanced-energy-security-strategy-4130351</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 17 Mar 2026 00:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Piety, protest, and the search for a sacred public life]]></title>
@@ -106,12 +115,20 @@
             <pubDate>Tue, 17 Mar 2026 00:49:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bangladesh never had a Habermas, but it desperately needs one]]></title>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
+            <link>https://www.thedailystar.net/opinion/news/bangladesh-never-had-habermas-it-desperately-needs-one-4130376</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladesh-never-had-habermas-it-desperately-needs-one-4130376</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Tue, 17 Mar 2026 00:59:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Building energy resilience in an age of global shocks]]></title>
             <description><![CDATA[By Tasneem Tayeb]]></description>
             <link>https://www.thedailystar.net/opinion/views/closer-look/news/building-energy-resilience-age-global-shocks-4130141</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/building-energy-resilience-age-global-shocks-4130141</guid>
             <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
-            <pubDate>Thu, 19 Mar 2026 01:45:59 GMT</pubDate>
+            <pubDate>Thu, 19 Mar 2026 04:17:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The multiplier effect of investing in women]]></title>
@@ -119,7 +136,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-multiplier-effect-investing-women-4130046</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-multiplier-effect-investing-women-4130046</guid>
             <dc:creator><![CDATA[Anjum Khalidi]]></dc:creator>
-            <pubDate>Thu, 19 Mar 2026 01:45:59 GMT</pubDate>
+            <pubDate>Thu, 19 Mar 2026 04:17:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[July charter and constitutional reform: Will we waste a generational opportunity?]]></title>
@@ -136,22 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/rmg-notes/news/why-bangladesh-needs-brand-reset-4129686</guid>
             <dc:creator><![CDATA[Mostafiz Uddin]]></dc:creator>
             <pubDate>Mon, 16 Mar 2026 00:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The burqa and the bomb: A disturbing war narrative]]></title>
-            <description><![CDATA[By OBAIDUL HAMID]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-burqa-and-the-bomb-disturbing-war-narrative-4129636</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-burqa-and-the-bomb-disturbing-war-narrative-4129636</guid>
-            <dc:creator><![CDATA[OBAIDUL HAMID]]></dc:creator>
-            <pubDate>Mon, 16 Mar 2026 00:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A risky moment to liberalise capital exit]]></title>
-            <description><![CDATA[By Sharif Mazumder]]></description>
-            <link>https://www.thedailystar.net/opinion/news/risky-moment-liberalise-capital-exit-4129601</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/risky-moment-liberalise-capital-exit-4129601</guid>
-            <dc:creator><![CDATA[Sharif Mazumder]]></dc:creator>
-            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
