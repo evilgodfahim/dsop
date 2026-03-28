@@ -4,16 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 01:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 04:13:48 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 01:42:29 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 04:13:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The surcharge of Eid-time tragedies]]></title>
+            <description><![CDATA[In Samuel Beckett’s play Waiting for Godot, a character with supposed authority intensifies the absurdity by quantifying emotion.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-surcharge-eid-time-tragedies-4137031</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-surcharge-eid-time-tragedies-4137031</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 04:13:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A war we did not start is coming for our rice fields]]></title>
+            <description><![CDATA[By Md Kawsar Uddin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/war-we-did-not-start-coming-our-rice-fields-4137051</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/war-we-did-not-start-coming-our-rice-fields-4137051</guid>
+            <dc:creator><![CDATA[Md Kawsar Uddin]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 04:13:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Recurrent road tragedies must stop]]></title>
-            <description><![CDATA[High casualties during Eid holidays reflect systemic failure]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/recurrent-road-tragedies-must-stop-4136856</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/recurrent-road-tragedies-must-stop-4136856</guid>
-            <pubDate>Sat, 28 Mar 2026 01:42:29 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 04:13:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building ‘strategic capacity’ in fossil fuels isn't the answer to our energy crisis]]></title>
@@ -27,7 +42,7 @@
             <title><![CDATA[A tragedy rooted in systemic failure]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/tragedy-rooted-systemic-failure-4136116</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/tragedy-rooted-systemic-failure-4136116</guid>
-            <pubDate>Sat, 28 Mar 2026 01:42:29 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 04:13:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to read Supreme Court’s review judgment on caretaker government]]></title>
@@ -38,6 +53,12 @@
             <pubDate>Fri, 27 Mar 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[ICU beds shouldn’t be a matter of luck]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/icu-beds-shouldnt-be-matter-luck-4137021</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/icu-beds-shouldnt-be-matter-luck-4137021</guid>
+            <pubDate>Sat, 28 Mar 2026 04:13:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How East Pakistan became Bangladesh in global media]]></title>
             <description><![CDATA[By Asif Bin Ali]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/how-east-pakistan-became-bangladesh-global-media-4136291</link>
@@ -46,12 +67,10 @@
             <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[America’s belated word on 1971, and Bangladesh’s unfinished task]]></title>
-            <description><![CDATA[By Khan Khalid Adnan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/americas-belated-word-1971-and-bangladeshs-unfinished-task-4136016</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/americas-belated-word-1971-and-bangladeshs-unfinished-task-4136016</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 01:42:29 GMT</pubDate>
+            <title><![CDATA[End sexual harassment in newsrooms]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/end-sexual-harassment-newsrooms-4136266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-sexual-harassment-newsrooms-4136266</guid>
+            <pubDate>Fri, 27 Mar 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The day we became independent]]></title>
@@ -60,24 +79,10 @@
             <pubDate>Thu, 26 Mar 2026 08:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Independence Day 2026 / The unfinished truth of 1971: Genocide, mass rape, and justice]]></title>
-            <description><![CDATA[By MA Hasan]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-unfinished-truth-1971-genocide-mass-rape-and-justice-4135531</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-unfinished-truth-1971-genocide-mass-rape-and-justice-4135531</guid>
-            <dc:creator><![CDATA[MA Hasan]]></dc:creator>
-            <pubDate>Thu, 26 Mar 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[End sexual harassment in newsrooms]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/end-sexual-harassment-newsrooms-4136266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-sexual-harassment-newsrooms-4136266</guid>
-            <pubDate>Fri, 27 Mar 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rein in errant clinics and diagnostic centres]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/rein-errant-clinics-and-diagnostic-centres-4135366</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rein-errant-clinics-and-diagnostic-centres-4135366</guid>
-            <pubDate>Sat, 28 Mar 2026 01:42:29 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 04:13:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Independence and its discontents: For whom was 1971?]]></title>
@@ -92,10 +97,20 @@
             <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Another Eid, another train tragedy]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/another-eid-another-train-tragedy-4134471</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/another-eid-another-train-tragedy-4134471</guid>
-            <pubDate>Sat, 28 Mar 2026 01:42:29 GMT</pubDate>
+            <title><![CDATA[Independence Day 2026 / The unfinished truth of 1971: Genocide, mass rape, and justice]]></title>
+            <description><![CDATA[By MA Hasan]]></description>
+            <link>https://www.thedailystar.net/opinion/news/the-unfinished-truth-1971-genocide-mass-rape-and-justice-4135531</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-unfinished-truth-1971-genocide-mass-rape-and-justice-4135531</guid>
+            <dc:creator><![CDATA[MA Hasan]]></dc:creator>
+            <pubDate>Thu, 26 Mar 2026 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When 1971 enters the feed]]></title>
+            <description><![CDATA[By Khairul Hassan Jahin]]></description>
+            <link>https://www.thedailystar.net/opinion/news/when-1971-enters-the-feed-4135536</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/when-1971-enters-the-feed-4135536</guid>
+            <dc:creator><![CDATA[Khairul Hassan Jahin]]></dc:creator>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How much more credibility can the US afford to lose?]]></title>
@@ -135,22 +150,6 @@
             <link>https://www.thedailystar.net/opinion/news/reflections-the-moral-crisis-modern-leadership-4132056</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/reflections-the-moral-crisis-modern-leadership-4132056</guid>
             <dc:creator><![CDATA[Rubaiul Murshed]]></dc:creator>
-            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The cost of politicising VC appointment]]></title>
-            <description><![CDATA[By Arafat Rahaman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-cost-politicising-vc-appointment-4132061</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-cost-politicising-vc-appointment-4132061</guid>
-            <dc:creator><![CDATA[Arafat Rahaman]]></dc:creator>
-            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strait of Hormuz crisis shows why a renewable transition is urgent]]></title>
-            <description><![CDATA[By Bareesh ChowdhuryAmanullah Porag]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/strait-hormuz-crisis-shows-why-renewable-transition-urgent-4132071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/strait-hormuz-crisis-shows-why-renewable-transition-urgent-4132071</guid>
-            <dc:creator><![CDATA[Bareesh ChowdhuryAmanullah Porag]]></dc:creator>
             <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
