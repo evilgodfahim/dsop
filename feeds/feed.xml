@@ -4,16 +4,29 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 01:55:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 04:41:01 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 01:55:24 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 04:41:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[An election mandate, an economic blueprint, and a war]]></title>
+            <description><![CDATA[The BNP government has inherited a country at an unusual inflexion point, with a strong electoral mandate, a technically credible reform roadmap, and an international community broadly aligned on what needs to be done.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/election-mandate-economic-blueprint-and-war-4138601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/election-mandate-economic-blueprint-and-war-4138601</guid>
+            <dc:creator><![CDATA[KAS Murshid]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 04:41:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Policies must align financial services with farming cycles']]></title>
+            <link>https://www.thedailystar.net/opinion/interviews/news/policies-must-align-financial-services-farming-cycles-4138616</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/policies-must-align-financial-services-farming-cycles-4138616</guid>
+            <pubDate>Mon, 30 Mar 2026 04:41:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[An inspiring case of women's empowerment]]></title>
-            <description><![CDATA[Nepal’s appointment of 33 women ministers sets example for South Asia]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/inspiring-case-womens-empowerment-4138461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/inspiring-case-womens-empowerment-4138461</guid>
-            <pubDate>Mon, 30 Mar 2026 01:55:24 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 04:41:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chattogram port can no longer delay green transition]]></title>
@@ -40,12 +53,24 @@
             <pubDate>Sun, 29 Mar 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Compensation for victims is a right, not a privilege]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/compensation-victims-right-not-privilege-4138596</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/compensation-victims-right-not-privilege-4138596</guid>
+            <pubDate>Mon, 30 Mar 2026 04:41:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Can digitising justice break the cycle of impunity?]]></title>
             <description><![CDATA[By Benzir Ahammed Shawon]]></description>
             <link>https://www.thedailystar.net/opinion/news/can-digitising-justice-break-the-cycle-impunity-4137876</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/can-digitising-justice-break-the-cycle-impunity-4137876</guid>
             <dc:creator><![CDATA[Benzir Ahammed Shawon]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 01:55:24 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 04:41:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Youth joblessness is hindering progress]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/youth-joblessness-hindering-progress-4137601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/youth-joblessness-hindering-progress-4137601</guid>
+            <pubDate>Mon, 30 Mar 2026 04:41:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Early action is a must to curb mosquito spread]]></title>
@@ -54,24 +79,10 @@
             <pubDate>Sun, 29 Mar 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Youth joblessness is hindering progress]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/youth-joblessness-hindering-progress-4137601</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/youth-joblessness-hindering-progress-4137601</guid>
-            <pubDate>Mon, 30 Mar 2026 01:55:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The surcharge of Eid-time tragedies]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-surcharge-eid-time-tragedies-4137031</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-surcharge-eid-time-tragedies-4137031</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 28 Mar 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Recurrent road tragedies must stop]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/recurrent-road-tragedies-must-stop-4136856</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/recurrent-road-tragedies-must-stop-4136856</guid>
-            <pubDate>Mon, 30 Mar 2026 01:55:24 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 04:41:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ICU beds shouldn’t be a matter of luck]]></title>
@@ -86,16 +97,12 @@
             <pubDate>Fri, 27 Mar 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A tragedy rooted in systemic failure]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/tragedy-rooted-systemic-failure-4136116</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/tragedy-rooted-systemic-failure-4136116</guid>
-            <pubDate>Mon, 30 Mar 2026 01:55:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The day we became independent]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/the-day-we-became-independent-4135521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-day-we-became-independent-4135521</guid>
-            <pubDate>Thu, 26 Mar 2026 08:00:00 GMT</pubDate>
+            <title><![CDATA[How e-Health Cards can improve patient care in Bangladesh]]></title>
+            <description><![CDATA[By Syed Abdul Hamid]]></description>
+            <link>https://www.thedailystar.net/opinion/news/how-e-health-cards-can-improve-patient-care-bangladesh-4137056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/how-e-health-cards-can-improve-patient-care-bangladesh-4137056</guid>
+            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A war we did not start is coming for our rice fields]]></title>
@@ -127,7 +134,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/americas-belated-word-1971-and-bangladeshs-unfinished-task-4136016</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/americas-belated-word-1971-and-bangladeshs-unfinished-task-4136016</guid>
             <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 01:55:24 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 04:41:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to read Supreme Court’s review judgment on caretaker government]]></title>
@@ -144,14 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-east-pakistan-became-bangladesh-global-media-4136291</guid>
             <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
             <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Independence Day 2026 / The unfinished truth of 1971: Genocide, mass rape, and justice]]></title>
-            <description><![CDATA[By MA Hasan]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-unfinished-truth-1971-genocide-mass-rape-and-justice-4135531</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-unfinished-truth-1971-genocide-mass-rape-and-justice-4135531</guid>
-            <dc:creator><![CDATA[MA Hasan]]></dc:creator>
-            <pubDate>Thu, 26 Mar 2026 10:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
