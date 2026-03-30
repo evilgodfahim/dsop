@@ -4,17 +4,25 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 10:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 11:51:35 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 10:11:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 11:51:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[A room I forgot to claim]]></title>
+            <description><![CDATA[Virginia Woolf once wrote that women need a room of their own in order to be able to create; I see now that I never demanded mine.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/room-i-forgot-claim-4139196</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/room-i-forgot-claim-4139196</guid>
+            <dc:creator><![CDATA[Raffat Binte Rashid]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 11:51:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cheap labour no longer enough as LDC graduation meets Middle East turmoil]]></title>
-            <description><![CDATA[While Bangladesh offers the lowest wages ($115–$135 monthly) in the region, we suffer from the longest lead times—around 90-120 days on average—which is a major competitive disadvantage.]]></description>
+            <description><![CDATA[By Dipa Das]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/cheap-labour-no-longer-enough-ldc-graduation-meets-middle-east-turmoil-4139096</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/cheap-labour-no-longer-enough-ldc-graduation-meets-middle-east-turmoil-4139096</guid>
             <dc:creator><![CDATA[Dipa Das]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 10:11:00 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 11:51:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An election manifesto, an economic blueprint, and a war]]></title>
@@ -22,7 +30,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/election-manifesto-economic-blueprint-and-war-4138601</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/election-manifesto-economic-blueprint-and-war-4138601</guid>
             <dc:creator><![CDATA[KAS Murshid]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 10:11:00 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 11:51:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[To grow its digital economy, Bangladesh needs better legal remedies for online shoppers]]></title>
@@ -30,13 +38,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/grow-its-digital-economy-bangladesh-needs-better-legal-remedies-online-shoppers-4138611</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/grow-its-digital-economy-bangladesh-needs-better-legal-remedies-online-shoppers-4138611</guid>
             <dc:creator><![CDATA[Nafiur Rahman Naypurno]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 10:11:00 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 11:51:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Policies must align financial services with farming cycles']]></title>
             <link>https://www.thedailystar.net/opinion/interviews/news/policies-must-align-financial-services-farming-cycles-4138616</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/policies-must-align-financial-services-farming-cycles-4138616</guid>
-            <pubDate>Mon, 30 Mar 2026 10:11:00 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 11:51:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A rebuttal to the rebuttal: ‘Evidence, not assumptions, should guide education reform’]]></title>
@@ -44,13 +52,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/rebuttal-the-rebuttal-evidence-not-assumptions-should-guide-education-reform-4138621</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rebuttal-the-rebuttal-evidence-not-assumptions-should-guide-education-reform-4138621</guid>
             <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 10:11:00 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 11:51:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An inspiring case of women's empowerment]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/inspiring-case-womens-empowerment-4138461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/inspiring-case-womens-empowerment-4138461</guid>
-            <pubDate>Mon, 30 Mar 2026 10:11:00 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 11:51:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chattogram port can no longer delay green transition]]></title>
@@ -61,24 +69,16 @@
             <pubDate>Sun, 29 Mar 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Unmasking the systemic crisis behind our deadly roads]]></title>
-            <description><![CDATA[By Mahtab Uddin]]></description>
-            <link>https://www.thedailystar.net/opinion/news/unmasking-the-systemic-crisis-behind-our-deadly-roads-4137881</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/unmasking-the-systemic-crisis-behind-our-deadly-roads-4137881</guid>
-            <dc:creator><![CDATA[Mahtab Uddin]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Compensation for victims is a right, not a privilege]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/compensation-victims-right-not-privilege-4138596</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/compensation-victims-right-not-privilege-4138596</guid>
-            <pubDate>Mon, 30 Mar 2026 10:11:00 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 11:51:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Youth joblessness is hindering progress]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/youth-joblessness-hindering-progress-4137601</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/youth-joblessness-hindering-progress-4137601</guid>
-            <pubDate>Mon, 30 Mar 2026 10:11:00 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 11:51:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Early action is a must to curb mosquito spread]]></title>
@@ -90,7 +90,7 @@
             <title><![CDATA[Recurrent road tragedies must stop]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/recurrent-road-tragedies-must-stop-4136856</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/recurrent-road-tragedies-must-stop-4136856</guid>
-            <pubDate>Mon, 30 Mar 2026 10:11:00 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 11:51:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ICU beds shouldn’t be a matter of luck]]></title>
@@ -99,12 +99,20 @@
             <pubDate>Sat, 28 Mar 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Our LDC graduation strategy needs revision, regardless of deferral outcome]]></title>
+            <description><![CDATA[By Badrul HassanZahidul HassanKhandaker Lutful Khaled]]></description>
+            <link>https://www.thedailystar.net/opinion/news/our-ldc-graduation-strategy-needs-revision-regardless-deferral-outcome-4137886</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/our-ldc-graduation-strategy-needs-revision-regardless-deferral-outcome-4137886</guid>
+            <dc:creator><![CDATA[Badrul HassanZahidul HassanKhandaker Lutful Khaled]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Can digitising justice break the cycle of impunity?]]></title>
             <description><![CDATA[By Benzir Ahammed Shawon]]></description>
             <link>https://www.thedailystar.net/opinion/news/can-digitising-justice-break-the-cycle-impunity-4137876</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/can-digitising-justice-break-the-cycle-impunity-4137876</guid>
             <dc:creator><![CDATA[Benzir Ahammed Shawon]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 10:11:00 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 11:51:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The surcharge of Eid-time tragedies]]></title>
@@ -145,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/building-strategic-capacity-fossil-fuels-isnt-the-answer-our-energy-crisis-4136271</guid>
             <dc:creator><![CDATA[Khondaker Golam Moazzem]]></dc:creator>
             <pubDate>Fri, 27 Mar 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America’s belated word on 1971, and Bangladesh’s unfinished task]]></title>
-            <description><![CDATA[By Khan Khalid Adnan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/americas-belated-word-1971-and-bangladeshs-unfinished-task-4136016</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/americas-belated-word-1971-and-bangladeshs-unfinished-task-4136016</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 10:11:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
