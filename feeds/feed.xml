@@ -4,16 +4,23 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 01:59:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 04:50:27 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 01:59:35 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 04:50:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[When wars far away hit home: Bangladesh must act now]]></title>
+            <description><![CDATA[There is a dangerous tendency in Dhaka’s policy circles to treat conflicts in distant theatres as someone else’s problem. The war involving Iran is the latest test of that complacency—and Bangladesh cannot afford to fail it.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/when-wars-far-away-hit-home-bangladesh-must-act-now-4140336</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-wars-far-away-hit-home-bangladesh-must-act-now-4140336</guid>
+            <dc:creator><![CDATA[Mir Ahmad Bin Quasem]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 04:50:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bangladesh in the crossfire of a distant war]]></title>
-            <description><![CDATA[Economic recovery package must for affected low-income countries]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/bangladesh-the-crossfire-distant-war-4140111</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bangladesh-the-crossfire-distant-war-4140111</guid>
-            <pubDate>Wed, 01 Apr 2026 01:59:35 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 04:50:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Bangladesh can manage fuel shocks for economic stability]]></title>
@@ -29,7 +36,7 @@
             <link>https://www.thedailystar.net/opinion/news/the-case-database-can-transform-our-madrasa-workforce-4139521</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-case-database-can-transform-our-madrasa-workforce-4139521</guid>
             <dc:creator><![CDATA[Md Mahmudul Hasan]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 01:59:35 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 04:50:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A mandate for reform is not a blank cheque]]></title>
@@ -38,6 +45,12 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/mandate-reform-not-blank-cheque-4139556</guid>
             <dc:creator><![CDATA[Kazi ASM Nurul Huda]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rein in political violence now]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/rein-political-violence-now-4140281</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rein-political-violence-now-4140281</guid>
+            <pubDate>Wed, 01 Apr 2026 04:50:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An alarming record of trade misinvoicing]]></title>
@@ -49,23 +62,7 @@
             <title><![CDATA[Measles vaccination being hobbled by neglect]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/measles-vaccination-being-hobbled-neglect-4139251</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/measles-vaccination-being-hobbled-neglect-4139251</guid>
-            <pubDate>Wed, 01 Apr 2026 01:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The ‘game’ of migration: A deadly illusion Bangladesh must confront urgently]]></title>
-            <description><![CDATA[By Aparajita Debnath]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-game-migration-deadly-illusion-bangladesh-must-confront-urgently-4139541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-game-migration-deadly-illusion-bangladesh-must-confront-urgently-4139541</guid>
-            <dc:creator><![CDATA[Aparajita Debnath]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A room I forgot to claim]]></title>
-            <description><![CDATA[By Raffat Binte Rashid]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/room-i-forgot-claim-4139196</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/room-i-forgot-claim-4139196</guid>
-            <dc:creator><![CDATA[Raffat Binte Rashid]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 01:59:35 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 04:50:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Compensation for victims is a right, not a privilege]]></title>
@@ -77,13 +74,13 @@
             <title><![CDATA[An inspiring case of women's empowerment]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/inspiring-case-womens-empowerment-4138461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/inspiring-case-womens-empowerment-4138461</guid>
-            <pubDate>Wed, 01 Apr 2026 01:59:35 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 04:50:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Youth joblessness is hindering progress]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/youth-joblessness-hindering-progress-4137601</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/youth-joblessness-hindering-progress-4137601</guid>
-            <pubDate>Wed, 01 Apr 2026 01:59:35 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 04:50:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Early action is a must to curb mosquito spread]]></title>
@@ -95,7 +92,23 @@
             <title><![CDATA[Recurrent road tragedies must stop]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/recurrent-road-tragedies-must-stop-4136856</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/recurrent-road-tragedies-must-stop-4136856</guid>
-            <pubDate>Wed, 01 Apr 2026 01:59:35 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 04:50:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A room I forgot to claim]]></title>
+            <description><![CDATA[By Raffat Binte Rashid]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/room-i-forgot-claim-4139196</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/room-i-forgot-claim-4139196</guid>
+            <dc:creator><![CDATA[Raffat Binte Rashid]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 04:50:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cheap labour no longer enough as LDC graduation meets Middle East turmoil]]></title>
+            <description><![CDATA[By Dipa Das]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/cheap-labour-no-longer-enough-ldc-graduation-meets-middle-east-turmoil-4139096</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/cheap-labour-no-longer-enough-ldc-graduation-meets-middle-east-turmoil-4139096</guid>
+            <dc:creator><![CDATA[Dipa Das]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 04:50:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An election manifesto, an economic blueprint, and a war]]></title>
@@ -111,7 +124,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/grow-its-digital-economy-bangladesh-needs-better-legal-remedies-online-shoppers-4138611</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/grow-its-digital-economy-bangladesh-needs-better-legal-remedies-online-shoppers-4138611</guid>
             <dc:creator><![CDATA[Nafiur Rahman Naypurno]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 01:59:35 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 04:50:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A rebuttal to the rebuttal: ‘Evidence, not assumptions, should guide education reform’]]></title>
@@ -136,22 +149,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/unmasking-the-systemic-crisis-behind-our-deadly-roads-4137881</guid>
             <dc:creator><![CDATA[Mahtab Uddin]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our LDC graduation strategy needs revision, regardless of deferral outcome]]></title>
-            <description><![CDATA[By Badrul HassanZahidul HassanKhandaker Lutful Khaled]]></description>
-            <link>https://www.thedailystar.net/opinion/news/our-ldc-graduation-strategy-needs-revision-regardless-deferral-outcome-4137886</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/our-ldc-graduation-strategy-needs-revision-regardless-deferral-outcome-4137886</guid>
-            <dc:creator><![CDATA[Badrul HassanZahidul HassanKhandaker Lutful Khaled]]></dc:creator>
-            <pubDate>Sun, 29 Mar 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can digitising justice break the cycle of impunity?]]></title>
-            <description><![CDATA[By Benzir Ahammed Shawon]]></description>
-            <link>https://www.thedailystar.net/opinion/news/can-digitising-justice-break-the-cycle-impunity-4137876</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/can-digitising-justice-break-the-cycle-impunity-4137876</guid>
-            <dc:creator><![CDATA[Benzir Ahammed Shawon]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 01:59:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
