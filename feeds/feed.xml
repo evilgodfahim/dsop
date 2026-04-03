@@ -4,16 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 01:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 04:25:26 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 01:49:34 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 04:25:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Renewables are a natural hedge against fossil fuel shocks]]></title>
+            <description><![CDATA[Like the rest of the world, Bangladesh is currently grappling with the geopolitics-led energy supply disruption, described by the International Energy Agency (IEA) as the biggest ever threat to energy security.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/renewables-are-natural-hedge-against-fossil-fuel-shocks-4142081</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/renewables-are-natural-hedge-against-fossil-fuel-shocks-4142081</guid>
+            <dc:creator><![CDATA[Shafiqul Alam]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 04:25:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Delayed compensation offers little relief to injured road crash victims']]></title>
+            <description><![CDATA[By Naznin Tithi]]></description>
+            <link>https://www.thedailystar.net/opinion/interviews/news/delayed-compensation-offers-little-relief-injured-road-crash-victims-4142091</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/delayed-compensation-offers-little-relief-injured-road-crash-victims-4142091</guid>
+            <dc:creator><![CDATA[Naznin Tithi]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 04:25:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dhaka’s footpath dilemma must be solved for good]]></title>
-            <description><![CDATA[While reclaiming pavements, govt must ensure vendors’ livelihoods are protected.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/dhakas-footpath-dilemma-must-be-solved-good-4141876</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dhakas-footpath-dilemma-must-be-solved-good-4141876</guid>
-            <pubDate>Fri, 03 Apr 2026 01:49:34 GMT</pubDate>
+            <pubDate>Fri, 03 Apr 2026 04:25:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2026-27 budget must stabilise economy amid mounting pressures]]></title>
@@ -29,7 +44,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-rural-healthcare-failing-persons-disabilities-4141286</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-rural-healthcare-failing-persons-disabilities-4141286</guid>
             <dc:creator><![CDATA[Md. Al-Mamun Marufa Alam]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 01:49:34 GMT</pubDate>
+            <pubDate>Fri, 03 Apr 2026 04:25:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Time to strategise the long-term cost of energy stability]]></title>
@@ -51,23 +66,7 @@
             <title><![CDATA[A crisis born of delay and neglect]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/crisis-born-delay-and-neglect-4140986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/crisis-born-delay-and-neglect-4140986</guid>
-            <pubDate>Fri, 03 Apr 2026 01:49:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amid an energy crisis, it's time to dim wasteful commercial lighting]]></title>
-            <description><![CDATA[By Samira TasnimRafad Asgar]]></description>
-            <link>https://www.thedailystar.net/opinion/news/amid-energy-crisis-its-time-dim-wasteful-commercial-lighting-4140306</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/amid-energy-crisis-its-time-dim-wasteful-commercial-lighting-4140306</guid>
-            <dc:creator><![CDATA[Samira TasnimRafad Asgar]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 01:49:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Proper budget utilisation is key to reforming the health sector]]></title>
-            <description><![CDATA[By Syed Abdul Hamid]]></description>
-            <link>https://www.thedailystar.net/opinion/news/proper-budget-utilisation-key-reforming-the-health-sector-4140351</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/proper-budget-utilisation-key-reforming-the-health-sector-4140351</guid>
-            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 11:00:00 GMT</pubDate>
+            <pubDate>Fri, 03 Apr 2026 04:25:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End the silence around marital violence]]></title>
@@ -85,7 +84,7 @@
             <title><![CDATA[Bangladesh in the crossfire of a distant war]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/bangladesh-the-crossfire-distant-war-4140111</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bangladesh-the-crossfire-distant-war-4140111</guid>
-            <pubDate>Fri, 03 Apr 2026 01:49:34 GMT</pubDate>
+            <pubDate>Fri, 03 Apr 2026 04:25:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An alarming record of trade misinvoicing]]></title>
@@ -97,7 +96,23 @@
             <title><![CDATA[Measles vaccination being hobbled by neglect]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/measles-vaccination-being-hobbled-neglect-4139251</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/measles-vaccination-being-hobbled-neglect-4139251</guid>
-            <pubDate>Fri, 03 Apr 2026 01:49:34 GMT</pubDate>
+            <pubDate>Fri, 03 Apr 2026 04:25:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Proper budget utilisation is key to reforming the health sector]]></title>
+            <description><![CDATA[By Syed Abdul Hamid]]></description>
+            <link>https://www.thedailystar.net/opinion/news/proper-budget-utilisation-key-reforming-the-health-sector-4140351</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/proper-budget-utilisation-key-reforming-the-health-sector-4140351</guid>
+            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Preserve Supreme Court ordinances for judicial autonomy]]></title>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
+            <link>https://www.thedailystar.net/opinion/news/preserve-supreme-court-ordinances-judicial-autonomy-4140291</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/preserve-supreme-court-ordinances-judicial-autonomy-4140291</guid>
+            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When wars far away hit home: Bangladesh must act now]]></title>
@@ -121,7 +136,7 @@
             <link>https://www.thedailystar.net/opinion/news/the-case-database-can-transform-our-madrasa-workforce-4139521</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-case-database-can-transform-our-madrasa-workforce-4139521</guid>
             <dc:creator><![CDATA[Md Mahmudul Hasan]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 01:49:34 GMT</pubDate>
+            <pubDate>Fri, 03 Apr 2026 04:25:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A mandate for reform is not a blank cheque]]></title>
@@ -138,22 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-game-migration-deadly-illusion-bangladesh-must-confront-urgently-4139541</guid>
             <dc:creator><![CDATA[Aparajita Debnath]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A room I forgot to claim]]></title>
-            <description><![CDATA[By Raffat Binte Rashid]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/room-i-forgot-claim-4139196</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/room-i-forgot-claim-4139196</guid>
-            <dc:creator><![CDATA[Raffat Binte Rashid]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 01:49:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cheap labour no longer enough as LDC graduation meets Middle East turmoil]]></title>
-            <description><![CDATA[By Dipa Das]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/cheap-labour-no-longer-enough-ldc-graduation-meets-middle-east-turmoil-4139096</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/cheap-labour-no-longer-enough-ldc-graduation-meets-middle-east-turmoil-4139096</guid>
-            <dc:creator><![CDATA[Dipa Das]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 01:49:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
