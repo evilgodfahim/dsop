@@ -4,16 +4,16 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 04:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 05:52:52 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Apr 2026 04:11:40 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 05:52:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Austerity measures are a necessary move]]></title>
             <description><![CDATA[We must navigate this difficult time with careful balance.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/austerity-measures-are-necessary-move-4142611</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/austerity-measures-are-necessary-move-4142611</guid>
-            <pubDate>Sat, 04 Apr 2026 04:11:40 GMT</pubDate>
+            <pubDate>Sat, 04 Apr 2026 05:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A tribute to our songbird Dalia Nausheen]]></title>
@@ -21,7 +21,15 @@
             <link>https://www.thedailystar.net/opinion/views/news/tribute-our-songbird-dalia-nausheen-4142781</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tribute-our-songbird-dalia-nausheen-4142781</guid>
             <dc:creator><![CDATA[Sadya Afreen Mallick]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 04:11:40 GMT</pubDate>
+            <pubDate>Sat, 04 Apr 2026 05:52:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How forest loss, water crisis and inequality collide]]></title>
+            <description><![CDATA[By Pavel Partha]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-forest-loss-water-crisis-and-inequality-collide-4142786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-forest-loss-water-crisis-and-inequality-collide-4142786</guid>
+            <dc:creator><![CDATA[Pavel Partha]]></dc:creator>
+            <pubDate>Sat, 04 Apr 2026 05:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Renewables are a natural hedge against fossil fuel shocks]]></title>
@@ -37,7 +45,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/fuel-queues-measles-confusion-lessons-our-policymakers-4142086</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fuel-queues-measles-confusion-lessons-our-policymakers-4142086</guid>
             <dc:creator><![CDATA[Ananta Neelim]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 04:11:40 GMT</pubDate>
+            <pubDate>Sat, 04 Apr 2026 05:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Delayed compensation offers little relief to injured road crash victims']]></title>
@@ -59,15 +67,7 @@
             <title><![CDATA[Dhaka’s footpath dilemma must be solved for good]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dhakas-footpath-dilemma-must-be-solved-good-4141876</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dhakas-footpath-dilemma-must-be-solved-good-4141876</guid>
-            <pubDate>Sat, 04 Apr 2026 04:11:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026-27 budget must stabilise economy amid mounting pressures]]></title>
-            <description><![CDATA[By Selim Raihan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/2026-27-budget-must-stabilise-economy-amid-mounting-pressures-4141251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/2026-27-budget-must-stabilise-economy-amid-mounting-pressures-4141251</guid>
-            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 08:00:00 GMT</pubDate>
+            <pubDate>Sat, 04 Apr 2026 05:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Business as usual no cure for mosquitoes]]></title>
@@ -85,7 +85,7 @@
             <title><![CDATA[A crisis born of delay and neglect]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/crisis-born-delay-and-neglect-4140986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/crisis-born-delay-and-neglect-4140986</guid>
-            <pubDate>Sat, 04 Apr 2026 04:11:40 GMT</pubDate>
+            <pubDate>Sat, 04 Apr 2026 05:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rein in political violence now]]></title>
@@ -97,7 +97,15 @@
             <title><![CDATA[Bangladesh in the crossfire of a distant war]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/bangladesh-the-crossfire-distant-war-4140111</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bangladesh-the-crossfire-distant-war-4140111</guid>
-            <pubDate>Sat, 04 Apr 2026 04:11:40 GMT</pubDate>
+            <pubDate>Sat, 04 Apr 2026 05:52:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2026-27 budget must stabilise economy amid mounting pressures]]></title>
+            <description><![CDATA[By Selim Raihan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/2026-27-budget-must-stabilise-economy-amid-mounting-pressures-4141251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/2026-27-budget-must-stabilise-economy-amid-mounting-pressures-4141251</guid>
+            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 08:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why rural healthcare is failing persons with disabilities]]></title>
@@ -105,7 +113,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-rural-healthcare-failing-persons-disabilities-4141286</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-rural-healthcare-failing-persons-disabilities-4141286</guid>
             <dc:creator><![CDATA[Md. Al-Mamun Marufa Alam]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 04:11:40 GMT</pubDate>
+            <pubDate>Sat, 04 Apr 2026 05:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Time to strategise the long-term cost of energy stability]]></title>
@@ -129,7 +137,7 @@
             <link>https://www.thedailystar.net/opinion/news/amid-energy-crisis-its-time-dim-wasteful-commercial-lighting-4140306</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/amid-energy-crisis-its-time-dim-wasteful-commercial-lighting-4140306</guid>
             <dc:creator><![CDATA[Samira TasnimRafad Asgar]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 04:11:40 GMT</pubDate>
+            <pubDate>Sat, 04 Apr 2026 05:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Proper budget utilisation is key to reforming the health sector]]></title>
@@ -146,14 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/preserve-supreme-court-ordinances-judicial-autonomy-4140291</guid>
             <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When wars far away hit home: Bangladesh must act now]]></title>
-            <description><![CDATA[By Mir Ahmad Bin Quasem]]></description>
-            <link>https://www.thedailystar.net/opinion/news/when-wars-far-away-hit-home-bangladesh-must-act-now-4140336</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/when-wars-far-away-hit-home-bangladesh-must-act-now-4140336</guid>
-            <dc:creator><![CDATA[Mir Ahmad Bin Quasem]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
