@@ -4,16 +4,23 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 01:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 04:33:21 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Apr 2026 01:54:15 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 04:33:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Times are changing, so too must the way the state communicates]]></title>
+            <description><![CDATA[Communication is now one of the most decisive forces governing the state in Bangladesh. Policymaking, administrative control, and conventional political management remain as necessary as ever, but they are no longer enough on their own. Today, a rumour can spread faster than an official instruction.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/times-are-changing-so-too-must-the-way-the-state-communicates-4143571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/times-are-changing-so-too-must-the-way-the-state-communicates-4143571</guid>
+            <dc:creator><![CDATA[S.M. Rezwan-Ul-Alam]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2026 04:33:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Business as usual for BNP?]]></title>
-            <description><![CDATA[Ordinances promoting good governance cannot be abandoned]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/business-usual-bnp-4143281</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/business-usual-bnp-4143281</guid>
-            <pubDate>Sun, 05 Apr 2026 01:54:15 GMT</pubDate>
+            <pubDate>Sun, 05 Apr 2026 04:33:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How forest loss, water crisis and inequality collide]]></title>
@@ -40,34 +47,24 @@
             <pubDate>Sat, 04 Apr 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vaccination drive mustn’t falter]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/vaccination-drive-mustnt-falter-4143566</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/vaccination-drive-mustnt-falter-4143566</guid>
+            <pubDate>Sun, 05 Apr 2026 04:33:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Maternal vaccination can close the immunity gap for newborns]]></title>
             <description><![CDATA[By Aniqa Tasnim HossainRidwana Maher MannaShams El Arifeen]]></description>
             <link>https://www.thedailystar.net/opinion/news/maternal-vaccination-can-close-the-immunity-gap-newborns-4142796</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/maternal-vaccination-can-close-the-immunity-gap-newborns-4142796</guid>
             <dc:creator><![CDATA[Aniqa Tasnim HossainRidwana Maher MannaShams El Arifeen]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 01:54:15 GMT</pubDate>
+            <pubDate>Sun, 05 Apr 2026 04:33:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Austerity measures are a necessary move]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/austerity-measures-are-necessary-move-4142611</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/austerity-measures-are-necessary-move-4142611</guid>
-            <pubDate>Sun, 05 Apr 2026 01:54:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Renewables are a natural hedge against fossil fuel shocks]]></title>
-            <description><![CDATA[By Shafiqul Alam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/renewables-are-natural-hedge-against-fossil-fuel-shocks-4142081</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/renewables-are-natural-hedge-against-fossil-fuel-shocks-4142081</guid>
-            <dc:creator><![CDATA[Shafiqul Alam]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From fuel queues to measles confusion: Lessons for our policymakers]]></title>
-            <description><![CDATA[By Ananta Neelim]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/fuel-queues-measles-confusion-lessons-our-policymakers-4142086</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fuel-queues-measles-confusion-lessons-our-policymakers-4142086</guid>
-            <dc:creator><![CDATA[Ananta Neelim]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 01:54:15 GMT</pubDate>
+            <pubDate>Sun, 05 Apr 2026 04:33:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arrest Faridpur gang rape perpetrators]]></title>
@@ -85,7 +82,7 @@
             <title><![CDATA[Dhaka’s footpath dilemma must be solved for good]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dhakas-footpath-dilemma-must-be-solved-good-4141876</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dhakas-footpath-dilemma-must-be-solved-good-4141876</guid>
-            <pubDate>Sun, 05 Apr 2026 01:54:15 GMT</pubDate>
+            <pubDate>Sun, 05 Apr 2026 04:33:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End the silence around marital violence]]></title>
@@ -97,7 +94,23 @@
             <title><![CDATA[A crisis born of delay and neglect]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/crisis-born-delay-and-neglect-4140986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/crisis-born-delay-and-neglect-4140986</guid>
-            <pubDate>Sun, 05 Apr 2026 01:54:15 GMT</pubDate>
+            <pubDate>Sun, 05 Apr 2026 04:33:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From fuel queues to measles confusion: Lessons for our policymakers]]></title>
+            <description><![CDATA[By Ananta Neelim]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/fuel-queues-measles-confusion-lessons-our-policymakers-4142086</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fuel-queues-measles-confusion-lessons-our-policymakers-4142086</guid>
+            <dc:creator><![CDATA[Ananta Neelim]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2026 04:33:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Measles outbreak: Did Bangladesh ignore the warning signs?]]></title>
+            <description><![CDATA[By Nahid Akhter Jahan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/measles-outbreak-did-bangladesh-ignore-the-warning-signs-4142096</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/measles-outbreak-did-bangladesh-ignore-the-warning-signs-4142096</guid>
+            <dc:creator><![CDATA[Nahid Akhter Jahan]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2026-27 budget must stabilise economy amid mounting pressures]]></title>
@@ -113,7 +126,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-rural-healthcare-failing-persons-disabilities-4141286</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-rural-healthcare-failing-persons-disabilities-4141286</guid>
             <dc:creator><![CDATA[Md. Al-Mamun Marufa Alam]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 01:54:15 GMT</pubDate>
+            <pubDate>Sun, 05 Apr 2026 04:33:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Time to strategise the long-term cost of energy stability]]></title>
@@ -137,23 +150,7 @@
             <link>https://www.thedailystar.net/opinion/news/amid-energy-crisis-its-time-dim-wasteful-commercial-lighting-4140306</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/amid-energy-crisis-its-time-dim-wasteful-commercial-lighting-4140306</guid>
             <dc:creator><![CDATA[Samira TasnimRafad Asgar]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 01:54:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Proper budget utilisation is key to reforming the health sector]]></title>
-            <description><![CDATA[By Syed Abdul Hamid]]></description>
-            <link>https://www.thedailystar.net/opinion/news/proper-budget-utilisation-key-reforming-the-health-sector-4140351</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/proper-budget-utilisation-key-reforming-the-health-sector-4140351</guid>
-            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Preserve Supreme Court ordinances for judicial autonomy]]></title>
-            <description><![CDATA[By Khan Khalid Adnan]]></description>
-            <link>https://www.thedailystar.net/opinion/news/preserve-supreme-court-ordinances-judicial-autonomy-4140291</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/preserve-supreme-court-ordinances-judicial-autonomy-4140291</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
+            <pubDate>Sun, 05 Apr 2026 04:33:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
