@@ -4,23 +4,39 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 04:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 06:16:13 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 04:29:08 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 06:16:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Energy, ports, and logistics: Rethinking Bangladesh’s supply chain]]></title>
+            <description><![CDATA[Persistent tensions in the Middle East, the resultant disruptions in key shipping routes, and the volatility in fuel access and prices are once again reminding the world of a hard truth: that energy security is no longer just about supply but also about having durable systems and structures in place.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/energy-ports-and-logistics-rethinking-bangladeshs-supply-chain-4145351</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/energy-ports-and-logistics-rethinking-bangladeshs-supply-chain-4145351</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 06:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the Ganges water treaty needs a climate-ready reset]]></title>
+            <description><![CDATA[By Zillur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-the-ganges-water-treaty-needs-climate-ready-reset-4145356</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-the-ganges-water-treaty-needs-climate-ready-reset-4145356</guid>
+            <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 06:16:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[For Rohingya camps, measles control requires tailored interventions]]></title>
-            <description><![CDATA[Bangladesh is once again facing a public health threat that is both familiar and preventable. Since early January 2026, the country has seen a surge in measles cases, with thousands of suspected infections and a rising number of deaths.]]></description>
+            <description><![CDATA[By Md Nuruzzaman Khan]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/rohingya-camps-measles-control-requires-tailored-interventions-4145361</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rohingya-camps-measles-control-requires-tailored-interventions-4145361</guid>
             <dc:creator><![CDATA[Md Nuruzzaman Khan]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 04:29:08 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 06:16:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Early closure will hurt business]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/early-closure-will-hurt-business-4145036</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/early-closure-will-hurt-business-4145036</guid>
-            <pubDate>Tue, 07 Apr 2026 04:29:08 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 06:16:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rethinking counterterrorism beyond crackdowns]]></title>
@@ -28,7 +44,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/rethinking-counterterrorism-beyond-crackdowns-4145006</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-counterterrorism-beyond-crackdowns-4145006</guid>
             <dc:creator><![CDATA[Nousheen Sharmila RituMuhammad AsadullahNazmul Arifeen]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 04:29:08 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 06:16:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When reform becomes more power, less accountability]]></title>
@@ -50,23 +66,7 @@
             <title><![CDATA[Ensure justice for wildlife cruelty]]></title>
             <link>https://www.thedailystar.net/opinion/views/news/ensure-justice-wildlife-cruelty-4145346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ensure-justice-wildlife-cruelty-4145346</guid>
-            <pubDate>Tue, 07 Apr 2026 04:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How 'middle powers' are leaving the Global South behind]]></title>
-            <description><![CDATA[By Dan Gay]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-middle-powers-are-leaving-the-global-south-behind-4144556</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-middle-powers-are-leaving-the-global-south-behind-4144556</guid>
-            <dc:creator><![CDATA[Dan Gay]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 04:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Repealing Supreme Court ordinances may return courts to political captivity]]></title>
-            <description><![CDATA[By Khan Khalid Adnan]]></description>
-            <link>https://www.thedailystar.net/opinion/news/repealing-supreme-court-ordinances-may-return-courts-political-captivity-4144521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/repealing-supreme-court-ordinances-may-return-courts-political-captivity-4144521</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2026 11:00:00 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 06:16:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Protect Narsingdi’s rivers]]></title>
@@ -78,7 +78,7 @@
             <title><![CDATA[Yet another tragic fire at a factory]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/yet-another-tragic-fire-factory-4144171</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/yet-another-tragic-fire-factory-4144171</guid>
-            <pubDate>Tue, 07 Apr 2026 04:29:08 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 06:16:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vaccination drive mustn’t falter]]></title>
@@ -90,13 +90,29 @@
             <title><![CDATA[Business as usual for BNP?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/business-usual-bnp-4143281</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/business-usual-bnp-4143281</guid>
-            <pubDate>Tue, 07 Apr 2026 04:29:08 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 06:16:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arrest Faridpur gang rape perpetrators]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/arrest-faridpur-gang-rape-perpetrators-4142756</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/arrest-faridpur-gang-rape-perpetrators-4142756</guid>
             <pubDate>Sat, 04 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Repealing Supreme Court ordinances may return courts to political captivity]]></title>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
+            <link>https://www.thedailystar.net/opinion/news/repealing-supreme-court-ordinances-may-return-courts-political-captivity-4144521</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/repealing-supreme-court-ordinances-may-return-courts-political-captivity-4144521</guid>
+            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EU's changing apparel market and Bangladesh's export challenges]]></title>
+            <description><![CDATA[By Mostafiz Uddin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/rmg-notes/news/eus-changing-apparel-market-and-bangladeshs-export-challenges-4143591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/rmg-notes/news/eus-changing-apparel-market-and-bangladeshs-export-challenges-4143591</guid>
+            <dc:creator><![CDATA[Mostafiz Uddin]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 06:16:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Times are changing, so too must the way the state communicates]]></title>
@@ -136,23 +152,7 @@
             <link>https://www.thedailystar.net/opinion/news/maternal-vaccination-can-close-the-immunity-gap-newborns-4142796</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/maternal-vaccination-can-close-the-immunity-gap-newborns-4142796</guid>
             <dc:creator><![CDATA[Aniqa Tasnim HossainRidwana Maher MannaShams El Arifeen]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 04:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Austerity and the crisis of fuel, confidence and coordination]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/austerity-and-the-crisis-fuel-confidence-and-coordination-4142771</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/austerity-and-the-crisis-fuel-confidence-and-coordination-4142771</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Renewables are a natural hedge against fossil fuel shocks]]></title>
-            <description><![CDATA[By Shafiqul Alam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/renewables-are-natural-hedge-against-fossil-fuel-shocks-4142081</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/renewables-are-natural-hedge-against-fossil-fuel-shocks-4142081</guid>
-            <dc:creator><![CDATA[Shafiqul Alam]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 09:00:00 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 06:16:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
