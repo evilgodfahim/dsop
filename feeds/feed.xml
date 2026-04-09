@@ -4,13 +4,21 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 18:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 19:59:58 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 18:02:18 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 19:59:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Column by Mahfuz Anam / Were we close to a nuclear catastrophe?]]></title>
+            <description><![CDATA[US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu expected Iran to crumble when they launched the surprise attack on February 28 while negotiations were going on, killing the latter’s supreme leader and several others.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/were-we-close-nuclear-catastrophe-4147981</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/were-we-close-nuclear-catastrophe-4147981</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 19:59:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The High Court has spoken: Repeal cannot undo judicial independence]]></title>
-            <description><![CDATA[With regard to the preservation of our judicial autonomy, the real question was never whether Bangladesh would aspire to achieve it, but whether the state was prepared to surrender the administrative levers through which the courts are quietly managed.]]></description>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
             <link>https://www.thedailystar.net/opinion/news/the-high-court-has-spoken-repeal-cannot-undo-judicial-independence-4147076</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-high-court-has-spoken-repeal-cannot-undo-judicial-independence-4147076</guid>
             <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
@@ -30,7 +38,7 @@
             <link>https://www.thedailystar.net/opinion/news/strategic-roadmap-dhakas-solid-waste-management-4147151</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/strategic-roadmap-dhakas-solid-waste-management-4147151</guid>
             <dc:creator><![CDATA[Nawshad Ahmed]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 18:02:18 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 19:59:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran war and the long shadow of oil colonialism]]></title>
@@ -54,7 +62,7 @@
             <link>https://www.thedailystar.net/opinion/news/will-the-promise-judicial-independence-elude-us-again-4146181</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-the-promise-judicial-independence-elude-us-again-4146181</guid>
             <dc:creator><![CDATA[Shamim A. Zahedy]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 18:02:18 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 19:59:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh must adapt as AI transforms diplomacy and state power]]></title>
@@ -65,18 +73,10 @@
             <pubDate>Wed, 08 Apr 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lifting ban on vaping is not the reform Bangladesh needs]]></title>
-            <description><![CDATA[By Mohammad Ihtesham Hassan]]></description>
-            <link>https://www.thedailystar.net/opinion/news/lifting-ban-vaping-not-the-reform-bangladesh-needs-4146171</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/lifting-ban-vaping-not-the-reform-bangladesh-needs-4146171</guid>
-            <dc:creator><![CDATA[Mohammad Ihtesham Hassan]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bangladesh economy caught in the crossfire]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/bangladesh-economy-caught-the-crossfire-4147726</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bangladesh-economy-caught-the-crossfire-4147726</guid>
-            <pubDate>Thu, 09 Apr 2026 18:02:18 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 19:59:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keep BCB away from political influence]]></title>
@@ -88,13 +88,13 @@
             <title><![CDATA[US-Iran ceasefire brings a much-needed relief]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/us-iran-ceasefire-brings-much-needed-relief-4146806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/us-iran-ceasefire-brings-much-needed-relief-4146806</guid>
-            <pubDate>Thu, 09 Apr 2026 18:02:18 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 19:59:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End cronyism in the banking sector]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/end-cronyism-the-banking-sector-4145806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-cronyism-the-banking-sector-4145806</guid>
-            <pubDate>Thu, 09 Apr 2026 18:02:18 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 19:59:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An investigation long overdue]]></title>
@@ -132,7 +132,7 @@
             <link>https://www.thedailystar.net/opinion/news/how-hoarding-and-panic-buying-are-deepening-the-fuel-crisis-4145366</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/how-hoarding-and-panic-buying-are-deepening-the-fuel-crisis-4145366</guid>
             <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 18:02:18 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 19:59:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ensure justice for wildlife cruelty]]></title>
@@ -146,7 +146,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/rethinking-counterterrorism-beyond-crackdowns-4145006</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-counterterrorism-beyond-crackdowns-4145006</guid>
             <dc:creator><![CDATA[Nousheen Sharmila RituMuhammad AsadullahNazmul Arifeen]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 18:02:18 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 19:59:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When reform becomes more power, less accountability]]></title>
