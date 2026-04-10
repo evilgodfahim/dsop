@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 11:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 12:56:21 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 11:42:13 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 12:56:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[ICT ruling in Abu Sayed case marks a vital step to justice for July killings]]></title>
+            <description><![CDATA[Abu Sayed’s killing on July 16, 2024, as he stood with his arms outstretched before a marauding group of cops, became a turning point that transformed the movement from one of quota reform to a revolt against state repression and eventually ousted Sheikh Hasina’s autocratic regime.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/ict-ruling-abu-sayed-case-marks-vital-step-justice-july-killings-4148426</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ict-ruling-abu-sayed-case-marks-vital-step-justice-july-killings-4148426</guid>
+            <pubDate>Fri, 10 Apr 2026 12:56:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Column by Mahfuz Anam / Were we close to a nuclear catastrophe?]]></title>
-            <description><![CDATA[US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu expected Iran to crumble when they launched the surprise attack on February 28 while negotiations were going on, killing the latter’s supreme leader and several others.]]></description>
+            <description><![CDATA[By Mahfuz Anam]]></description>
             <link>https://www.thedailystar.net/opinion/views/the-third-view/news/were-we-close-nuclear-catastrophe-4147981</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/were-we-close-nuclear-catastrophe-4147981</guid>
             <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
@@ -22,7 +29,7 @@
             <link>https://www.thedailystar.net/shout/interview/news/we-must-vaccinate-95-percent-the-children-curb-measles-outbreak-4148001</link>
             <guid isPermaLink="true">https://www.thedailystar.net/shout/interview/news/we-must-vaccinate-95-percent-the-children-curb-measles-outbreak-4148001</guid>
             <dc:creator><![CDATA[Naznin Tithi]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 11:42:13 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 12:56:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Decoding Pakistan’s diplomatic win in Iran-US ceasefire]]></title>
@@ -30,7 +37,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/decoding-pakistans-diplomatic-win-iran-us-ceasefire-4148046</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/decoding-pakistans-diplomatic-win-iran-us-ceasefire-4148046</guid>
             <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 11:42:13 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 12:56:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The High Court has spoken: Repeal cannot undo judicial independence]]></title>
@@ -54,27 +61,19 @@
             <link>https://www.thedailystar.net/opinion/news/strategic-roadmap-dhakas-solid-waste-management-4147151</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/strategic-roadmap-dhakas-solid-waste-management-4147151</guid>
             <dc:creator><![CDATA[Nawshad Ahmed]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 11:42:13 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 12:56:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The ICU crisis at RMCH is unacceptable]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/the-icu-crisis-rmch-unacceptable-4147976</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-icu-crisis-rmch-unacceptable-4147976</guid>
-            <pubDate>Fri, 10 Apr 2026 11:42:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran war and the long shadow of oil colonialism]]></title>
-            <description><![CDATA[By Geof Wood]]></description>
-            <link>https://www.thedailystar.net/opinion/views/letters-the-uk/news/iran-war-and-the-long-shadow-oil-colonialism-4147146</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/letters-the-uk/news/iran-war-and-the-long-shadow-oil-colonialism-4147146</guid>
-            <dc:creator><![CDATA[Geof Wood]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 09:00:00 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 12:56:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh economy caught in the crossfire]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/bangladesh-economy-caught-the-crossfire-4147726</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bangladesh-economy-caught-the-crossfire-4147726</guid>
-            <pubDate>Fri, 10 Apr 2026 11:42:13 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 12:56:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keep BCB away from political influence]]></title>
@@ -86,13 +85,13 @@
             <title><![CDATA[US-Iran ceasefire brings a much-needed relief]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/us-iran-ceasefire-brings-much-needed-relief-4146806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/us-iran-ceasefire-brings-much-needed-relief-4146806</guid>
-            <pubDate>Fri, 10 Apr 2026 11:42:13 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 12:56:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End cronyism in the banking sector]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/end-cronyism-the-banking-sector-4145806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-cronyism-the-banking-sector-4145806</guid>
-            <pubDate>Fri, 10 Apr 2026 11:42:13 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 12:56:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An investigation long overdue]]></title>
@@ -101,12 +100,20 @@
             <pubDate>Wed, 08 Apr 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Will the Iran war create a new world order?]]></title>
+            <description><![CDATA[By Syed Raiyan Amir]]></description>
+            <link>https://www.thedailystar.net/opinion/news/will-the-iran-war-create-new-world-order-4146176</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-the-iran-war-create-new-world-order-4146176</guid>
+            <dc:creator><![CDATA[Syed Raiyan Amir]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Will the promise of judicial independence elude us again?]]></title>
             <description><![CDATA[By Shamim A. Zahedy]]></description>
             <link>https://www.thedailystar.net/opinion/news/will-the-promise-judicial-independence-elude-us-again-4146181</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-the-promise-judicial-independence-elude-us-again-4146181</guid>
             <dc:creator><![CDATA[Shamim A. Zahedy]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 11:42:13 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 12:56:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh must adapt as AI transforms diplomacy and state power]]></title>
@@ -147,14 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/rohingya-camps-measles-control-requires-tailored-interventions-4145361</guid>
             <dc:creator><![CDATA[Md Nuruzzaman Khan]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How hoarding and panic buying are deepening the fuel crisis]]></title>
-            <description><![CDATA[By Sabbir Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/news/how-hoarding-and-panic-buying-are-deepening-the-fuel-crisis-4145366</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/how-hoarding-and-panic-buying-are-deepening-the-fuel-crisis-4145366</guid>
-            <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 11:42:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
