@@ -4,17 +4,33 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 06:56:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 07:47:27 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 06:56:22 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 07:47:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Climate change demands a new approach to protecting haor farming]]></title>
+            <description><![CDATA[Every year, farmers in the haor wait anxiously for the harvest season. A flash of lightning in the sky or a cover of dark clouds can send waves of panic through them during March and April.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/climate-change-demands-new-approach-protecting-haor-farming-4148786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/climate-change-demands-new-approach-protecting-haor-farming-4148786</guid>
+            <dc:creator><![CDATA[Kashmir Reza]]></dc:creator>
+            <pubDate>Sat, 11 Apr 2026 07:47:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maritime skills development is key to expanding Bangladesh’s blue economy]]></title>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/maritime-skills-development-key-expanding-bangladeshs-blue-economy-4148776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/maritime-skills-development-key-expanding-bangladeshs-blue-economy-4148776</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Sat, 11 Apr 2026 07:47:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Blended learning in an energy crisis: Innovation or institutional amnesia?]]></title>
-            <description><![CDATA[“My classroom has four ceiling fans, but if we are to attend online classes from home, we will need 50 fans.”]]></description>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
             <link>https://www.thedailystar.net/opinion/news/blended-learning-energy-crisis-innovation-or-institutional-amnesia-4148766</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/blended-learning-energy-crisis-innovation-or-institutional-amnesia-4148766</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 06:56:22 GMT</pubDate>
+            <pubDate>Sat, 11 Apr 2026 07:47:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Removing vendors won’t fix Dhaka’s streets]]></title>
@@ -22,13 +38,13 @@
             <link>https://www.thedailystar.net/opinion/news/removing-vendors-wont-fix-dhakas-streets-4148771</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/removing-vendors-wont-fix-dhakas-streets-4148771</guid>
             <dc:creator><![CDATA[Nazmun Naher]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 06:56:22 GMT</pubDate>
+            <pubDate>Sat, 11 Apr 2026 07:47:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ICT ruling in Abu Sayed case marks a vital step to justice for July killings]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/ict-ruling-abu-sayed-case-marks-vital-step-justice-july-killings-4148426</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ict-ruling-abu-sayed-case-marks-vital-step-justice-july-killings-4148426</guid>
-            <pubDate>Sat, 11 Apr 2026 06:56:22 GMT</pubDate>
+            <pubDate>Sat, 11 Apr 2026 07:47:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / Were we close to a nuclear catastrophe?]]></title>
@@ -52,21 +68,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/decoding-pakistans-diplomatic-win-iran-us-ceasefire-4148046</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/decoding-pakistans-diplomatic-win-iran-us-ceasefire-4148046</guid>
             <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 06:56:22 GMT</pubDate>
+            <pubDate>Sat, 11 Apr 2026 07:47:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Piloting hybrid classes a good move]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/piloting-hybrid-classes-good-move-4148761</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/piloting-hybrid-classes-good-move-4148761</guid>
-            <pubDate>Sat, 11 Apr 2026 06:56:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The High Court has spoken: Repeal cannot undo judicial independence]]></title>
-            <description><![CDATA[By Khan Khalid Adnan]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-high-court-has-spoken-repeal-cannot-undo-judicial-independence-4147076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-high-court-has-spoken-repeal-cannot-undo-judicial-independence-4147076</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 08:00:00 GMT</pubDate>
+            <pubDate>Sat, 11 Apr 2026 07:47:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The ICU crisis at RMCH is unacceptable]]></title>
@@ -78,7 +86,7 @@
             <title><![CDATA[Bangladesh economy caught in the crossfire]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/bangladesh-economy-caught-the-crossfire-4147726</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bangladesh-economy-caught-the-crossfire-4147726</guid>
-            <pubDate>Sat, 11 Apr 2026 06:56:22 GMT</pubDate>
+            <pubDate>Sat, 11 Apr 2026 07:47:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keep BCB away from political influence]]></title>
@@ -90,13 +98,15 @@
             <title><![CDATA[US-Iran ceasefire brings a much-needed relief]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/us-iran-ceasefire-brings-much-needed-relief-4146806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/us-iran-ceasefire-brings-much-needed-relief-4146806</guid>
-            <pubDate>Sat, 11 Apr 2026 06:56:22 GMT</pubDate>
+            <pubDate>Sat, 11 Apr 2026 07:47:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[End cronyism in the banking sector]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/end-cronyism-the-banking-sector-4145806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-cronyism-the-banking-sector-4145806</guid>
-            <pubDate>Sat, 11 Apr 2026 06:56:22 GMT</pubDate>
+            <title><![CDATA[Hasty diagnosis is derailing autism care]]></title>
+            <description><![CDATA[By Imdadul Haque Talukdar]]></description>
+            <link>https://www.thedailystar.net/opinion/news/hasty-diagnosis-derailing-autism-care-4147131</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/hasty-diagnosis-derailing-autism-care-4147131</guid>
+            <dc:creator><![CDATA[Imdadul Haque Talukdar]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A strategic roadmap for Dhaka's solid waste management]]></title>
@@ -104,7 +114,7 @@
             <link>https://www.thedailystar.net/opinion/news/strategic-roadmap-dhakas-solid-waste-management-4147151</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/strategic-roadmap-dhakas-solid-waste-management-4147151</guid>
             <dc:creator><![CDATA[Nawshad Ahmed]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 06:56:22 GMT</pubDate>
+            <pubDate>Sat, 11 Apr 2026 07:47:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran war and the long shadow of oil colonialism]]></title>
@@ -128,7 +138,7 @@
             <link>https://www.thedailystar.net/opinion/news/will-the-promise-judicial-independence-elude-us-again-4146181</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-the-promise-judicial-independence-elude-us-again-4146181</guid>
             <dc:creator><![CDATA[Shamim A. Zahedy]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 06:56:22 GMT</pubDate>
+            <pubDate>Sat, 11 Apr 2026 07:47:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh must adapt as AI transforms diplomacy and state power]]></title>
@@ -145,14 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/lifting-ban-vaping-not-the-reform-bangladesh-needs-4146171</guid>
             <dc:creator><![CDATA[Mohammad Ihtesham Hassan]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Energy, ports, and logistics: Rethinking Bangladesh’s supply chain]]></title>
-            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/news/energy-ports-and-logistics-rethinking-bangladeshs-supply-chain-4145351</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/energy-ports-and-logistics-rethinking-bangladeshs-supply-chain-4145351</guid>
-            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 11:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
