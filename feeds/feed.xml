@@ -4,17 +4,25 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 04:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 06:21:23 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 04:49:17 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 06:21:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Fuel crisis is a chance to rethink our cities]]></title>
+            <description><![CDATA[While the fragile ceasefire and ongoing talks amid the Iran-US war offer some hope, the war has already driven up fuel costs and strained supply. For Bangladesh, this means rising prices, fiscal pressure, and a deepening energy crisis.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/fuel-crisis-chance-rethink-our-cities-4149376</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/fuel-crisis-chance-rethink-our-cities-4149376</guid>
+            <dc:creator><![CDATA[Debra Efroymson]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 06:21:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A preventable outbreak in a system that did not act in time]]></title>
-            <description><![CDATA[In March alone, amid a sudden measles outbreak, some 229 patients died at Rajshahi Medical College Hospital (RMCH) awaiting ICU beds. Ninety-one of the deceased were children. Many died on waiting lists, never receiving the treatment they needed, and the numbers are still rising.]]></description>
+            <description><![CDATA[By Tasneem Tayeb]]></description>
             <link>https://www.thedailystar.net/opinion/views/closer-look/news/preventable-outbreak-system-did-not-act-time-4149371</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/preventable-outbreak-system-did-not-act-time-4149371</guid>
             <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 04:49:17 GMT</pubDate>
+            <pubDate>Sun, 12 Apr 2026 06:21:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change demands a new approach to protecting haor farming]]></title>
@@ -22,7 +30,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/climate-change-demands-new-approach-protecting-haor-farming-4148786</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/climate-change-demands-new-approach-protecting-haor-farming-4148786</guid>
             <dc:creator><![CDATA[Kashmir Reza]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 04:49:17 GMT</pubDate>
+            <pubDate>Sun, 12 Apr 2026 06:21:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maritime skills development is key to expanding Bangladesh’s blue economy]]></title>
@@ -52,27 +60,19 @@
             <title><![CDATA[Ordinances lapsed, reforms missed]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/ordinances-lapsed-reforms-missed-4149366</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ordinances-lapsed-reforms-missed-4149366</guid>
-            <pubDate>Sun, 12 Apr 2026 04:49:17 GMT</pubDate>
+            <pubDate>Sun, 12 Apr 2026 06:21:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ICT ruling in Abu Sayed case marks a vital step to justice for July killings]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/ict-ruling-abu-sayed-case-marks-vital-step-justice-july-killings-4148426</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ict-ruling-abu-sayed-case-marks-vital-step-justice-july-killings-4148426</guid>
-            <pubDate>Sun, 12 Apr 2026 04:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column by Mahfuz Anam / Were we close to a nuclear catastrophe?]]></title>
-            <description><![CDATA[By Mahfuz Anam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/were-we-close-nuclear-catastrophe-4147981</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/were-we-close-nuclear-catastrophe-4147981</guid>
-            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 12 Apr 2026 06:21:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Govt must take mob violence by the horns]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/govt-must-take-mob-violence-the-horns-4149106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/govt-must-take-mob-violence-the-horns-4149106</guid>
-            <pubDate>Sun, 12 Apr 2026 04:49:17 GMT</pubDate>
+            <pubDate>Sun, 12 Apr 2026 06:21:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Piloting hybrid classes a good move]]></title>
@@ -90,7 +90,7 @@
             <title><![CDATA[Bangladesh economy caught in the crossfire]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/bangladesh-economy-caught-the-crossfire-4147726</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bangladesh-economy-caught-the-crossfire-4147726</guid>
-            <pubDate>Sun, 12 Apr 2026 04:49:17 GMT</pubDate>
+            <pubDate>Sun, 12 Apr 2026 06:21:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keep BCB away from political influence]]></title>
@@ -99,12 +99,20 @@
             <pubDate>Thu, 09 Apr 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Column by Mahfuz Anam / Were we close to a nuclear catastrophe?]]></title>
+            <description><![CDATA[By Mahfuz Anam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/were-we-close-nuclear-catastrophe-4147981</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/were-we-close-nuclear-catastrophe-4147981</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Decoding Pakistan’s diplomatic win in Iran-US ceasefire]]></title>
             <description><![CDATA[By Asif Bin Ali]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/decoding-pakistans-diplomatic-win-iran-us-ceasefire-4148046</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/decoding-pakistans-diplomatic-win-iran-us-ceasefire-4148046</guid>
             <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 04:49:17 GMT</pubDate>
+            <pubDate>Sun, 12 Apr 2026 06:21:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The High Court has spoken: Repeal cannot undo judicial independence]]></title>
@@ -128,7 +136,7 @@
             <link>https://www.thedailystar.net/opinion/news/strategic-roadmap-dhakas-solid-waste-management-4147151</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/strategic-roadmap-dhakas-solid-waste-management-4147151</guid>
             <dc:creator><![CDATA[Nawshad Ahmed]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 04:49:17 GMT</pubDate>
+            <pubDate>Sun, 12 Apr 2026 06:21:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran war and the long shadow of oil colonialism]]></title>
@@ -145,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-the-iran-war-create-new-world-order-4146176</guid>
             <dc:creator><![CDATA[Syed Raiyan Amir]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the promise of judicial independence elude us again?]]></title>
-            <description><![CDATA[By Shamim A. Zahedy]]></description>
-            <link>https://www.thedailystar.net/opinion/news/will-the-promise-judicial-independence-elude-us-again-4146181</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-the-promise-judicial-independence-elude-us-again-4146181</guid>
-            <dc:creator><![CDATA[Shamim A. Zahedy]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 04:49:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
