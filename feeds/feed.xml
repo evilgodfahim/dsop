@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 13:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 15:11:15 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Apr 2026 13:11:14 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 15:11:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Keep soldiers and politics apart]]></title>
+            <description><![CDATA[PM has made it clear that the military belongs to no individual, no family, no party.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/keep-soldiers-and-politics-apart-4150836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/keep-soldiers-and-politics-apart-4150836</guid>
+            <pubDate>Mon, 13 Apr 2026 15:11:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fix the financing gap for women entrepreneurs]]></title>
-            <description><![CDATA[Imagine a woman in Dhaka who has spent three years building a small textile business.]]></description>
+            <description><![CDATA[By Tafhimur Rahman]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/fix-the-financing-gap-women-entrepreneurs-4150291</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fix-the-financing-gap-women-entrepreneurs-4150291</guid>
             <dc:creator><![CDATA[Tafhimur Rahman]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 13:11:14 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 15:11:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why a benevolent dictatorship will not succeed in Bangladesh]]></title>
@@ -22,7 +29,7 @@
             <link>https://www.thedailystar.net/opinion/news/why-benevolent-dictatorship-will-not-succeed-bangladesh-4150296</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/why-benevolent-dictatorship-will-not-succeed-bangladesh-4150296</guid>
             <dc:creator><![CDATA[Mir Aftabuddin Ahmed]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 13:11:14 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 15:11:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From censorship to chaos, we must steer clear of the extremes of social media]]></title>
@@ -30,7 +37,7 @@
             <link>https://www.thedailystar.net/opinion/news/censorship-chaos-we-must-steer-clear-the-extremes-social-media-4150306</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/censorship-chaos-we-must-steer-clear-the-extremes-social-media-4150306</guid>
             <dc:creator><![CDATA[Md Yeasinur Rahman]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 13:11:14 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 15:11:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who should pay for Islamic Banks' bad investments?]]></title>
@@ -38,7 +45,7 @@
             <link>https://www.thedailystar.net/opinion/news/who-should-pay-islamic-banks-bad-investments-4150281</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/who-should-pay-islamic-banks-bad-investments-4150281</guid>
             <dc:creator><![CDATA[Mezbah Uddin Ahmed]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 13:11:14 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Clearing our roads of unfit vehicles can save energy dollars]]></title>
@@ -54,7 +61,7 @@
             <link>https://www.thedailystar.net/opinion/news/brain-circulation-not-brain-drain-new-model-overseas-phd-funding-4149396</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/brain-circulation-not-brain-drain-new-model-overseas-phd-funding-4149396</guid>
             <dc:creator><![CDATA[Mo HoqueAshraf Dewan]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 13:11:14 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 15:11:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fuel crisis is a chance to rethink our cities]]></title>
@@ -65,24 +72,16 @@
             <pubDate>Sun, 12 Apr 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A preventable outbreak in a system that did not act in time]]></title>
-            <description><![CDATA[By Tasneem Tayeb]]></description>
-            <link>https://www.thedailystar.net/opinion/views/closer-look/news/preventable-outbreak-system-did-not-act-time-4149371</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/preventable-outbreak-system-did-not-act-time-4149371</guid>
-            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Defaulters must not be rewarded]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/defaulters-must-not-be-rewarded-4149961</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/defaulters-must-not-be-rewarded-4149961</guid>
-            <pubDate>Mon, 13 Apr 2026 13:11:14 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 15:11:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Children’s hospitals must not lie idle]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/childrens-hospitals-must-not-lie-idle-4150276</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/childrens-hospitals-must-not-lie-idle-4150276</guid>
-            <pubDate>Mon, 13 Apr 2026 13:11:14 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 15:11:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ordinances lapsed, reforms missed]]></title>
@@ -94,7 +93,7 @@
             <title><![CDATA[Govt must take mob violence by the horns]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/govt-must-take-mob-violence-the-horns-4149106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/govt-must-take-mob-violence-the-horns-4149106</guid>
-            <pubDate>Mon, 13 Apr 2026 13:11:14 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 15:11:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Piloting hybrid classes a good move]]></title>
@@ -103,12 +102,20 @@
             <pubDate>Sat, 11 Apr 2026 05:05:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A preventable outbreak in a system that did not act in time]]></title>
+            <description><![CDATA[By Tasneem Tayeb]]></description>
+            <link>https://www.thedailystar.net/opinion/views/closer-look/news/preventable-outbreak-system-did-not-act-time-4149371</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/preventable-outbreak-system-did-not-act-time-4149371</guid>
+            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 09:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Climate change demands a new approach to protecting haor farming]]></title>
             <description><![CDATA[By Kashmir Reza]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/climate-change-demands-new-approach-protecting-haor-farming-4148786</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/climate-change-demands-new-approach-protecting-haor-farming-4148786</guid>
             <dc:creator><![CDATA[Kashmir Reza]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 13:11:14 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 15:11:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maritime skills development is key to expanding Bangladesh’s blue economy]]></title>
@@ -148,15 +155,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/decoding-pakistans-diplomatic-win-iran-us-ceasefire-4148046</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/decoding-pakistans-diplomatic-win-iran-us-ceasefire-4148046</guid>
             <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 13:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The High Court has spoken: Repeal cannot undo judicial independence]]></title>
-            <description><![CDATA[By Khan Khalid Adnan]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-high-court-has-spoken-repeal-cannot-undo-judicial-independence-4147076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-high-court-has-spoken-repeal-cannot-undo-judicial-independence-4147076</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 08:00:00 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 15:11:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
