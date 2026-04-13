@@ -4,13 +4,29 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 02:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 05:35:10 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Apr 2026 02:04:01 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 05:35:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Who should pay for Islamic Banks' bad investments?]]></title>
+            <description><![CDATA[While Islamic banking’s significant market share and systemic importance within the banking system are often highlighted as notable achievements, a troubling reality undermines this success: a substantial portion of investments in several Islamic banks are non-performing.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/who-should-pay-islamic-banks-bad-investments-4150281</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/who-should-pay-islamic-banks-bad-investments-4150281</guid>
+            <dc:creator><![CDATA[Mezbah Uddin Ahmed]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 05:35:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fix the financing gap for women entrepreneurs]]></title>
+            <description><![CDATA[By Tafhimur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/fix-the-financing-gap-women-entrepreneurs-4150291</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fix-the-financing-gap-women-entrepreneurs-4150291</guid>
+            <dc:creator><![CDATA[Tafhimur Rahman]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 05:35:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Clearing our roads of unfit vehicles can save energy dollars]]></title>
-            <description><![CDATA[The war in Iran has sent shockwaves through global oil markets and triggered a severe worldwide energy crisis, amid which Bangladesh’s vulnerabilities have been starkly exposed.]]></description>
+            <description><![CDATA[By Mahtab Uddin]]></description>
             <link>https://www.thedailystar.net/opinion/news/clearing-our-roads-unfit-vehicles-can-save-energy-dollars-4149386</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/clearing-our-roads-unfit-vehicles-can-save-energy-dollars-4149386</guid>
             <dc:creator><![CDATA[Mahtab Uddin]]></dc:creator>
@@ -22,7 +38,7 @@
             <link>https://www.thedailystar.net/opinion/news/brain-circulation-not-brain-drain-new-model-overseas-phd-funding-4149396</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/brain-circulation-not-brain-drain-new-model-overseas-phd-funding-4149396</guid>
             <dc:creator><![CDATA[Mo HoqueAshraf Dewan]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 02:04:01 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 05:35:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fuel crisis is a chance to rethink our cities]]></title>
@@ -46,7 +62,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/climate-change-demands-new-approach-protecting-haor-farming-4148786</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/climate-change-demands-new-approach-protecting-haor-farming-4148786</guid>
             <dc:creator><![CDATA[Kashmir Reza]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 02:04:01 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 05:35:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maritime skills development is key to expanding Bangladesh’s blue economy]]></title>
@@ -57,26 +73,10 @@
             <pubDate>Sat, 11 Apr 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blended learning in an energy crisis: Innovation or institutional amnesia?]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/news/blended-learning-energy-crisis-innovation-or-institutional-amnesia-4148766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/blended-learning-energy-crisis-innovation-or-institutional-amnesia-4148766</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Removing vendors won’t fix Dhaka’s streets]]></title>
-            <description><![CDATA[By Nazmun Naher]]></description>
-            <link>https://www.thedailystar.net/opinion/news/removing-vendors-wont-fix-dhakas-streets-4148771</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/removing-vendors-wont-fix-dhakas-streets-4148771</guid>
-            <dc:creator><![CDATA[Nazmun Naher]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Defaulters must not be rewarded]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/defaulters-must-not-be-rewarded-4149961</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/defaulters-must-not-be-rewarded-4149961</guid>
-            <pubDate>Mon, 13 Apr 2026 02:04:01 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 05:35:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ordinances lapsed, reforms missed]]></title>
@@ -88,7 +88,7 @@
             <title><![CDATA[Govt must take mob violence by the horns]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/govt-must-take-mob-violence-the-horns-4149106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/govt-must-take-mob-violence-the-horns-4149106</guid>
-            <pubDate>Mon, 13 Apr 2026 02:04:01 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 05:35:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Piloting hybrid classes a good move]]></title>
@@ -100,7 +100,23 @@
             <title><![CDATA[ICT ruling in Abu Sayed case marks a vital step to justice for July killings]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/ict-ruling-abu-sayed-case-marks-vital-step-justice-july-killings-4148426</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ict-ruling-abu-sayed-case-marks-vital-step-justice-july-killings-4148426</guid>
-            <pubDate>Mon, 13 Apr 2026 02:04:01 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 05:35:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Removing vendors won’t fix Dhaka’s streets]]></title>
+            <description><![CDATA[By Nazmun Naher]]></description>
+            <link>https://www.thedailystar.net/opinion/news/removing-vendors-wont-fix-dhakas-streets-4148771</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/removing-vendors-wont-fix-dhakas-streets-4148771</guid>
+            <dc:creator><![CDATA[Nazmun Naher]]></dc:creator>
+            <pubDate>Sat, 11 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Column by Mahfuz Anam / Were we close to a nuclear catastrophe?]]></title>
+            <description><![CDATA[By Mahfuz Anam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/were-we-close-nuclear-catastrophe-4147981</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/were-we-close-nuclear-catastrophe-4147981</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Decoding Pakistan’s diplomatic win in Iran-US ceasefire]]></title>
@@ -108,7 +124,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/decoding-pakistans-diplomatic-win-iran-us-ceasefire-4148046</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/decoding-pakistans-diplomatic-win-iran-us-ceasefire-4148046</guid>
             <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 02:04:01 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 05:35:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The High Court has spoken: Repeal cannot undo judicial independence]]></title>
@@ -132,7 +148,7 @@
             <link>https://www.thedailystar.net/opinion/news/strategic-roadmap-dhakas-solid-waste-management-4147151</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/strategic-roadmap-dhakas-solid-waste-management-4147151</guid>
             <dc:creator><![CDATA[Nawshad Ahmed]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 02:04:01 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 05:35:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran war and the long shadow of oil colonialism]]></title>
@@ -141,22 +157,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/letters-the-uk/news/iran-war-and-the-long-shadow-oil-colonialism-4147146</guid>
             <dc:creator><![CDATA[Geof Wood]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the Iran war create a new world order?]]></title>
-            <description><![CDATA[By Syed Raiyan Amir]]></description>
-            <link>https://www.thedailystar.net/opinion/news/will-the-iran-war-create-new-world-order-4146176</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-the-iran-war-create-new-world-order-4146176</guid>
-            <dc:creator><![CDATA[Syed Raiyan Amir]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the promise of judicial independence elude us again?]]></title>
-            <description><![CDATA[By Shamim A. Zahedy]]></description>
-            <link>https://www.thedailystar.net/opinion/news/will-the-promise-judicial-independence-elude-us-again-4146181</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-the-promise-judicial-independence-elude-us-again-4146181</guid>
-            <dc:creator><![CDATA[Shamim A. Zahedy]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 02:04:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
