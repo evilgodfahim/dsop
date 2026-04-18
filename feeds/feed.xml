@@ -4,16 +4,28 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 04:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 06:09:52 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 04:27:36 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 06:09:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[‘We still hope a solution on the reforms will arise out of parliament’]]></title>
+            <description><![CDATA[I think the current government has ruined all possibilities for reform, but we still hope that a solution will arise out of parliament.]]></description>
+            <link>https://www.thedailystar.net/opinion/interviews/news/we-still-hope-solution-the-reforms-will-arise-out-parliament-4154041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/we-still-hope-solution-the-reforms-will-arise-out-parliament-4154041</guid>
+            <pubDate>Sat, 18 Apr 2026 06:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cox’s Bazar at the crossroads of beauty without design]]></title>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/coxs-bazar-the-crossroads-beauty-without-design-4154026</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/coxs-bazar-the-crossroads-beauty-without-design-4154026</guid>
+            <pubDate>Sat, 18 Apr 2026 06:09:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fix our ailing healthcare facilities]]></title>
-            <description><![CDATA[MPs’ concerns must lead to concrete health sector reforms]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/fix-our-ailing-healthcare-facilities-4153821</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-our-ailing-healthcare-facilities-4153821</guid>
-            <pubDate>Sat, 18 Apr 2026 04:27:36 GMT</pubDate>
+            <pubDate>Sat, 18 Apr 2026 06:09:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reinstating a weaker NHRC is a dangerous regression]]></title>
@@ -22,6 +34,12 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/reinstating-weaker-nhrc-dangerous-regression-4153421</guid>
             <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From degrees to jobs: Rethinking higher education in Bangladesh]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/degrees-jobs-rethinking-higher-education-bangladesh-4154046</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/degrees-jobs-rethinking-higher-education-bangladesh-4154046</guid>
+            <pubDate>Sat, 18 Apr 2026 06:09:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Even if dormant, the RTI Act’s promise remains powerful]]></title>
@@ -43,35 +61,19 @@
             <title><![CDATA[Secure cooking fuel for Bhasan Char residents urgently]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/secure-cooking-fuel-bhasan-char-residents-urgently-4154016</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/secure-cooking-fuel-bhasan-char-residents-urgently-4154016</guid>
-            <pubDate>Sat, 18 Apr 2026 04:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The many lives of Asha Bhosle’s voice]]></title>
-            <description><![CDATA[By Raffat Binte Rashid]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-many-lives-asha-bhosles-voice-4153436</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-many-lives-asha-bhosles-voice-4153436</guid>
-            <dc:creator><![CDATA[Raffat Binte Rashid]]></dc:creator>
-            <pubDate>Fri, 17 Apr 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fix the accountability gap in the NBFI sector]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-accountability-gap-the-nbfi-sector-4153041</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-accountability-gap-the-nbfi-sector-4153041</guid>
-            <pubDate>Sat, 18 Apr 2026 04:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BCB’s cycle of political interference and dysfunction]]></title>
-            <description><![CDATA[By Bishwajit Roy]]></description>
-            <link>https://www.thedailystar.net/opinion/news/bcbs-cycle-political-interference-and-dysfunction-4152496</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bcbs-cycle-political-interference-and-dysfunction-4152496</guid>
-            <dc:creator><![CDATA[Bishwajit Roy]]></dc:creator>
-            <pubDate>Sat, 18 Apr 2026 04:27:36 GMT</pubDate>
+            <pubDate>Sat, 18 Apr 2026 06:09:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Protect low-income families from measles-induced poverty]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/protect-low-income-families-measles-induced-poverty-4153416</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-low-income-families-measles-induced-poverty-4153416</guid>
-            <pubDate>Sat, 18 Apr 2026 04:27:36 GMT</pubDate>
+            <pubDate>Sat, 18 Apr 2026 06:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fix the accountability gap in the NBFI sector]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-accountability-gap-the-nbfi-sector-4153041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-accountability-gap-the-nbfi-sector-4153041</guid>
+            <pubDate>Sat, 18 Apr 2026 06:09:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A promising scheme, but can it avoid past pitfalls?]]></title>
@@ -83,7 +85,7 @@
             <title><![CDATA[Keep soldiers and politics apart]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/keep-soldiers-and-politics-apart-4150836</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/keep-soldiers-and-politics-apart-4150836</guid>
-            <pubDate>Sat, 18 Apr 2026 04:27:36 GMT</pubDate>
+            <pubDate>Sat, 18 Apr 2026 06:09:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bring Kushtia pir’s killers to justice]]></title>
@@ -92,10 +94,20 @@
             <pubDate>Tue, 14 Apr 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Defaulters must not be rewarded]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/defaulters-must-not-be-rewarded-4149961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/defaulters-must-not-be-rewarded-4149961</guid>
-            <pubDate>Sat, 18 Apr 2026 04:27:36 GMT</pubDate>
+            <title><![CDATA[Primary school admission tests would be a misguided step]]></title>
+            <description><![CDATA[By Tamanna Akther Shanta]]></description>
+            <link>https://www.thedailystar.net/opinion/news/primary-school-admission-tests-would-be-misguided-step-4152491</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/primary-school-admission-tests-would-be-misguided-step-4152491</guid>
+            <dc:creator><![CDATA[Tamanna Akther Shanta]]></dc:creator>
+            <pubDate>Sat, 18 Apr 2026 06:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BCB’s cycle of political interference and dysfunction]]></title>
+            <description><![CDATA[By Bishwajit Roy]]></description>
+            <link>https://www.thedailystar.net/opinion/news/bcbs-cycle-political-interference-and-dysfunction-4152496</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bcbs-cycle-political-interference-and-dysfunction-4152496</guid>
+            <dc:creator><![CDATA[Bishwajit Roy]]></dc:creator>
+            <pubDate>Sat, 18 Apr 2026 06:09:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[March of the microfascists]]></title>
@@ -119,7 +131,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/if-the-second-us-iran-dialogue-too-fails-what-comes-next-4152071</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/if-the-second-us-iran-dialogue-too-fails-what-comes-next-4152071</guid>
             <dc:creator><![CDATA[Syed Raiyan Amir]]></dc:creator>
-            <pubDate>Sat, 18 Apr 2026 04:27:36 GMT</pubDate>
+            <pubDate>Sat, 18 Apr 2026 06:09:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Even if deferred, Bangladesh must prepare for eventual LDC graduation]]></title>
@@ -136,22 +148,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/why-bnp-reneging-its-own-commitments-judicial-independence-4151231</guid>
             <dc:creator><![CDATA[Sharif Bhuiyan]]></dc:creator>
             <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is the government allowing rehabilitation of seasoned bank looters?]]></title>
-            <description><![CDATA[By Birupaksha Paul]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-the-government-allowing-rehabilitation-seasoned-bank-looters-4151236</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-the-government-allowing-rehabilitation-seasoned-bank-looters-4151236</guid>
-            <dc:creator><![CDATA[Birupaksha Paul]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ration cuts without work rights may worsen the Rohingya plight]]></title>
-            <description><![CDATA[By Mohammed Zonaid]]></description>
-            <link>https://www.thedailystar.net/opinion/news/ration-cuts-without-work-rights-may-worsen-the-rohingya-plight-4151221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/ration-cuts-without-work-rights-may-worsen-the-rohingya-plight-4151221</guid>
-            <dc:creator><![CDATA[Mohammed Zonaid]]></dc:creator>
-            <pubDate>Sat, 18 Apr 2026 04:27:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
