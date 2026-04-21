@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 02:00:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 04:52:52 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 02:00:20 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 04:52:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How geopolitics is redrawing the Global South’s economy]]></title>
@@ -14,13 +14,21 @@
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/how-geopolitics-redrawing-the-global-souths-economy-4156516</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/how-geopolitics-redrawing-the-global-souths-economy-4156516</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 02:00:20 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 04:52:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[West Bengal poll politics tests the limits of Dhaka-Delhi reset process]]></title>
+            <description><![CDATA[By Shakeel Anwar]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/west-bengal-poll-politics-tests-the-limits-dhaka-delhi-reset-process-4156526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/west-bengal-poll-politics-tests-the-limits-dhaka-delhi-reset-process-4156526</guid>
+            <dc:creator><![CDATA[Shakeel Anwar]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 04:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Protect youth from irregular migration]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/protect-youth-irregular-migration-4156126</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-youth-irregular-migration-4156126</guid>
-            <pubDate>Tue, 21 Apr 2026 02:00:20 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 04:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The case for a National Security Council that is truly fit for purpose]]></title>
@@ -28,7 +36,7 @@
             <link>https://www.thedailystar.net/opinion/news/the-case-national-security-council-truly-fit-purpose-4155656</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-case-national-security-council-truly-fit-purpose-4155656</guid>
             <dc:creator><![CDATA[Md Manzur Qader]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 02:00:20 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 04:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When mobile journalism crosses the line into public shaming]]></title>
@@ -47,6 +55,12 @@
             <pubDate>Mon, 20 Apr 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Delayed testing is hampering measles treatment]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/delayed-testing-hampering-measles-treatment-4156511</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/delayed-testing-hampering-measles-treatment-4156511</guid>
+            <pubDate>Tue, 21 Apr 2026 04:52:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Are teachers failing, or is the system failing them?]]></title>
             <description><![CDATA[By Manzoor Ahmed]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/are-teachers-failing-or-the-system-failing-them-4155661</link>
@@ -58,15 +72,7 @@
             <title><![CDATA[The price of subsidised delay]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/the-price-subsidised-delay-4155331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-price-subsidised-delay-4155331</guid>
-            <pubDate>Tue, 21 Apr 2026 02:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Registration-based fuel rationing can ease long lines at filling stations]]></title>
-            <description><![CDATA[By AKM Lutfur RahmanNafis Ehsas Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/registration-based-fuel-rationing-can-ease-long-lines-filling-stations-4154786</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/registration-based-fuel-rationing-can-ease-long-lines-filling-stations-4154786</guid>
-            <dc:creator><![CDATA[AKM Lutfur RahmanNafis Ehsas Chowdhury]]></dc:creator>
-            <pubDate>Sun, 19 Apr 2026 12:00:00 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 04:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop abusing cyber security ordinance]]></title>
@@ -78,7 +84,7 @@
             <title><![CDATA[Rohingyas' plight is getting harder to address with shrinking funds]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/rohingyas-plight-getting-harder-address-shrinking-funds-4154491</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rohingyas-plight-getting-harder-address-shrinking-funds-4154491</guid>
-            <pubDate>Tue, 21 Apr 2026 02:00:20 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 04:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Streamlining hawker markets is a must]]></title>
@@ -93,10 +99,12 @@
             <pubDate>Sat, 18 Apr 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fix our ailing healthcare facilities]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/fix-our-ailing-healthcare-facilities-4153821</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-our-ailing-healthcare-facilities-4153821</guid>
-            <pubDate>Tue, 21 Apr 2026 02:00:20 GMT</pubDate>
+            <title><![CDATA[As mob violence persists, we must confront the roots of impunity]]></title>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/mob-violence-persists-we-must-confront-the-roots-impunity-4154781</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/mob-violence-persists-we-must-confront-the-roots-impunity-4154781</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's holding women back from riding bicycles?]]></title>
@@ -104,7 +112,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/whats-holding-women-back-riding-bicycles-4154776</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/whats-holding-women-back-riding-bicycles-4154776</guid>
             <dc:creator><![CDATA[Nazma Sultana]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 02:00:20 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 04:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Back, again, to the cycle of broken promises?]]></title>
@@ -128,7 +136,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-fiscal-burden-interest-free-car-loans-bureaucrats-4154036</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-fiscal-burden-interest-free-car-loans-bureaucrats-4154036</guid>
             <dc:creator><![CDATA[Tashzid Reza]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 02:00:20 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 04:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cox’s Bazar at the crossroads of beauty without design]]></title>
@@ -145,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/reinstating-weaker-nhrc-dangerous-regression-4153421</guid>
             <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Even if dormant, the RTI Act’s promise remains powerful]]></title>
-            <description><![CDATA[By Shamsul BariRuhi Naz]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/even-if-dormant-the-rti-acts-promise-remains-powerful-4153426</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/even-if-dormant-the-rti-acts-promise-remains-powerful-4153426</guid>
-            <dc:creator><![CDATA[Shamsul BariRuhi Naz]]></dc:creator>
-            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
