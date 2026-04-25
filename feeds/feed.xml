@@ -4,16 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 01:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 04:32:19 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 01:52:50 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 04:32:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Uneven heat: How Bangladesh’s power cuts draw a map of inequality]]></title>
+            <description><![CDATA[Bangladesh’s power shortage has increased recently, placing additional strain on an already stretched national grid.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/uneven-heat-how-bangladeshs-power-cuts-draw-map-inequality-4159836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/uneven-heat-how-bangladeshs-power-cuts-draw-map-inequality-4159836</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 04:32:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reimagining sustainability from the ground up]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/reimagining-sustainability-the-ground-4159846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/reimagining-sustainability-the-ground-4159846</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 04:32:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ensure justice for Rana Plaza victims]]></title>
-            <description><![CDATA[Rehabilitate, compensate the survivors properly.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/ensure-justice-rana-plaza-victims-4159651</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-justice-rana-plaza-victims-4159651</guid>
-            <pubDate>Sat, 25 Apr 2026 01:52:50 GMT</pubDate>
+            <pubDate>Sat, 25 Apr 2026 04:32:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam: 35th anniversary of The Daily Star / When independent newspapers burn, so does democracy]]></title>
@@ -29,7 +44,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/climate-change-demands-smarter-approach-healthcare-4159146</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/climate-change-demands-smarter-approach-healthcare-4159146</guid>
             <dc:creator><![CDATA[Catherine Breen KamkongAhmed Jamsheed Mohamed]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 01:52:50 GMT</pubDate>
+            <pubDate>Sat, 25 Apr 2026 04:32:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Interview / ‘Even BNP is not beyond ICT’s reach if it commits crimes against humanity’]]></title>
@@ -43,7 +58,7 @@
             <title><![CDATA[Fuel scarcity, unequal cuts deepen power crisis]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/fuel-scarcity-unequal-cuts-deepen-power-crisis-4158976</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fuel-scarcity-unequal-cuts-deepen-power-crisis-4158976</guid>
-            <pubDate>Sat, 25 Apr 2026 01:52:50 GMT</pubDate>
+            <pubDate>Sat, 25 Apr 2026 04:32:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ecocide is hard to litigate, but we must still demand accountability]]></title>
@@ -52,14 +67,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/ecocide-hard-litigate-we-must-still-demand-accountability-4158211</guid>
             <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking canal dredging to improve flood management]]></title>
-            <description><![CDATA[By Md. Abdullah Al Baky]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/rethinking-canal-dredging-improve-flood-management-4158206</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-canal-dredging-improve-flood-management-4158206</guid>
-            <dc:creator><![CDATA[Md. Abdullah Al Baky]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[First light of justice, at last]]></title>
@@ -71,7 +78,7 @@
             <title><![CDATA[Why must MPs get offices in upazila parishads?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/why-must-mps-get-offices-upazila-parishads-4157936</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-must-mps-get-offices-upazila-parishads-4157936</guid>
-            <pubDate>Sat, 25 Apr 2026 01:52:50 GMT</pubDate>
+            <pubDate>Sat, 25 Apr 2026 04:32:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A puzzling policy turnaround]]></title>
@@ -92,10 +99,12 @@
             <pubDate>Tue, 21 Apr 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Protect youth from irregular migration]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/protect-youth-irregular-migration-4156126</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-youth-irregular-migration-4156126</guid>
-            <pubDate>Sat, 25 Apr 2026 01:52:50 GMT</pubDate>
+            <title><![CDATA[Rethinking canal dredging to improve flood management]]></title>
+            <description><![CDATA[By Md. Abdullah Al Baky]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/rethinking-canal-dredging-improve-flood-management-4158206</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-canal-dredging-improve-flood-management-4158206</guid>
+            <dc:creator><![CDATA[Md. Abdullah Al Baky]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Global buyers must share the cost in RMG’s green transition]]></title>
@@ -119,7 +128,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/nutritional-literacy-can-reduce-healthcare-costs-bangladesh-4157361</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/nutritional-literacy-can-reduce-healthcare-costs-bangladesh-4157361</guid>
             <dc:creator><![CDATA[Mohammad Saharin Hossain]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 01:52:50 GMT</pubDate>
+            <pubDate>Sat, 25 Apr 2026 04:32:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How poor governance broke Bangladesh's immunisation model]]></title>
@@ -135,7 +144,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/fifty-seats-women-who-will-they-really-represent-4156521</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fifty-seats-women-who-will-they-really-represent-4156521</guid>
             <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 01:52:50 GMT</pubDate>
+            <pubDate>Sat, 25 Apr 2026 04:32:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Creativity and Innovation Day /  Why Bangladesh is losing the innovation race]]></title>
@@ -143,15 +152,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-bangladesh-losing-the-innovation-race-4156536</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladesh-losing-the-innovation-race-4156536</guid>
             <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 01:52:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[West Bengal poll politics tests the limits of Dhaka-Delhi reset process]]></title>
-            <description><![CDATA[By Shakeel Anwar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/west-bengal-poll-politics-tests-the-limits-dhaka-delhi-reset-process-4156526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/west-bengal-poll-politics-tests-the-limits-dhaka-delhi-reset-process-4156526</guid>
-            <dc:creator><![CDATA[Shakeel Anwar]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 09:00:00 GMT</pubDate>
+            <pubDate>Sat, 25 Apr 2026 04:32:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
