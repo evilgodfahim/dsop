@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 05:32:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 07:20:21 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 05:32:57 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 07:20:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Energy crisis: Global problem, local failure]]></title>
@@ -14,13 +14,23 @@
             <link>https://www.thedailystar.net/opinion/views/news/energy-crisis-global-problem-local-failure-4160551</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/energy-crisis-global-problem-local-failure-4160551</guid>
             <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2026 05:32:57 GMT</pubDate>
+            <pubDate>Sun, 26 Apr 2026 07:20:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Digital cards and the reality of poverty in Bangladesh]]></title>
+            <description><![CDATA[By Md Rakibul Hasan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/digital-cards-and-the-reality-poverty-bangladesh-4160556</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/digital-cards-and-the-reality-poverty-bangladesh-4160556</guid>
+            <dc:creator><![CDATA[Md Rakibul Hasan]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 07:20:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Bangladesh can give its women migrants a real edge]]></title>
+            <description><![CDATA[By Mohibbullah Al Maruf]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/how-bangladesh-can-give-its-women-migrants-real-edge-4160566</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-bangladesh-can-give-its-women-migrants-real-edge-4160566</guid>
-            <pubDate>Sun, 26 Apr 2026 05:32:57 GMT</pubDate>
+            <dc:creator><![CDATA[Mohibbullah Al Maruf]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 07:20:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can playing a historic speech justify repeated bail denials?]]></title>
@@ -28,13 +38,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/can-playing-historic-speech-justify-repeated-bail-denials-4160571</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-playing-historic-speech-justify-repeated-bail-denials-4160571</guid>
             <dc:creator><![CDATA[Arafat Rahaman]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2026 05:32:57 GMT</pubDate>
+            <pubDate>Sun, 26 Apr 2026 07:20:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[For how long will traffickers go free?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/how-long-will-traffickers-go-free-4160321</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-long-will-traffickers-go-free-4160321</guid>
-            <pubDate>Sun, 26 Apr 2026 05:32:57 GMT</pubDate>
+            <pubDate>Sun, 26 Apr 2026 07:20:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The PMO needs a policy and programme coordination cell]]></title>
@@ -42,7 +52,7 @@
             <link>https://www.thedailystar.net/opinion/news/the-pmo-needs-policy-and-programme-coordination-cell-4159841</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-pmo-needs-policy-and-programme-coordination-cell-4159841</guid>
             <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2026 05:32:57 GMT</pubDate>
+            <pubDate>Sun, 26 Apr 2026 07:20:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Uneven heat: How Bangladesh’s power cuts draw a map of inequality]]></title>
@@ -61,12 +71,10 @@
             <pubDate>Sat, 25 Apr 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The silent exclusion built into Bangladesh’s ID system]]></title>
-            <description><![CDATA[By Priya Ahsan Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-silent-exclusion-built-bangladeshs-id-system-4159876</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-silent-exclusion-built-bangladeshs-id-system-4159876</guid>
-            <dc:creator><![CDATA[Priya Ahsan Chowdhury]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 11:00:00 GMT</pubDate>
+            <title><![CDATA[Measles response is clearly not enough]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/measles-response-clearly-not-enough-4160536</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/measles-response-clearly-not-enough-4160536</guid>
+            <pubDate>Sun, 26 Apr 2026 07:20:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Make hiring process for BMU super-specialised hospital transparent]]></title>
@@ -78,7 +86,7 @@
             <title><![CDATA[Ensure justice for Rana Plaza victims]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/ensure-justice-rana-plaza-victims-4159651</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-justice-rana-plaza-victims-4159651</guid>
-            <pubDate>Sun, 26 Apr 2026 05:32:57 GMT</pubDate>
+            <pubDate>Sun, 26 Apr 2026 07:20:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[First light of justice, at last]]></title>
@@ -90,13 +98,15 @@
             <title><![CDATA[Fuel scarcity, unequal cuts deepen power crisis]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/fuel-scarcity-unequal-cuts-deepen-power-crisis-4158976</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fuel-scarcity-unequal-cuts-deepen-power-crisis-4158976</guid>
-            <pubDate>Sun, 26 Apr 2026 05:32:57 GMT</pubDate>
+            <pubDate>Sun, 26 Apr 2026 07:20:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why must MPs get offices in upazila parishads?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/why-must-mps-get-offices-upazila-parishads-4157936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-must-mps-get-offices-upazila-parishads-4157936</guid>
-            <pubDate>Sun, 26 Apr 2026 05:32:57 GMT</pubDate>
+            <title><![CDATA[Column by Mahfuz Anam: 35th anniversary of The Daily Star / When independent newspapers burn, so does democracy]]></title>
+            <description><![CDATA[By Mahfuz Anam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/when-independent-newspapers-burn-so-does-democracy-4159136</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/when-independent-newspapers-burn-so-does-democracy-4159136</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change demands a smarter approach to healthcare]]></title>
@@ -104,7 +114,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/climate-change-demands-smarter-approach-healthcare-4159146</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/climate-change-demands-smarter-approach-healthcare-4159146</guid>
             <dc:creator><![CDATA[Catherine Breen KamkongAhmed Jamsheed Mohamed]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2026 05:32:57 GMT</pubDate>
+            <pubDate>Sun, 26 Apr 2026 07:20:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to grow more rice without draining the land]]></title>
@@ -145,14 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-cartoon-becomes-crime-again-4157366</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
             <pubDate>Wed, 22 Apr 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nutritional literacy can reduce healthcare costs in Bangladesh]]></title>
-            <description><![CDATA[By Mohammad Saharin Hossain]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/nutritional-literacy-can-reduce-healthcare-costs-bangladesh-4157361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/nutritional-literacy-can-reduce-healthcare-costs-bangladesh-4157361</guid>
-            <dc:creator><![CDATA[Mohammad Saharin Hossain]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2026 05:32:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
