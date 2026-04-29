@@ -4,16 +4,23 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 23:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 02:24:55 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 23:49:07 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 02:24:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Energy crisis demands strict budget discipline now]]></title>
+            <description><![CDATA[The ongoing geopolitical tensions involving the US, Israel, and Iran have again exposed how vulnerable the international energy markets are to conflicts and strategic rivalries.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/energy-crisis-demands-strict-budget-discipline-now-4163206</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/energy-crisis-demands-strict-budget-discipline-now-4163206</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 02:24:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bid to reclaim defunct SIBL rings alarm bells]]></title>
-            <description><![CDATA[Such a risky move must be firmly rejected.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/bid-reclaim-defunct-sibl-rings-alarm-bells-4162946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bid-reclaim-defunct-sibl-rings-alarm-bells-4162946</guid>
-            <pubDate>Tue, 28 Apr 2026 23:49:07 GMT</pubDate>
+            <pubDate>Wed, 29 Apr 2026 02:24:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What fuel loading at Rooppur means for our energy future]]></title>
@@ -64,14 +71,6 @@
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The moral calculus of footpath evictions in Dhaka]]></title>
-            <description><![CDATA[By Adnan Zillur Morshed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-grudging-urbanist/news/the-moral-calculus-footpath-evictions-dhaka-4161381</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-grudging-urbanist/news/the-moral-calculus-footpath-evictions-dhaka-4161381</guid>
-            <dc:creator><![CDATA[Adnan Zillur Morshed]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Remove ageing buses from roads]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/remove-ageing-buses-roads-4162291</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/remove-ageing-buses-roads-4162291</guid>
@@ -81,7 +80,7 @@
             <title><![CDATA[Don’t let investigation delays derail justice for July uprising]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-investigation-delays-derail-justice-july-uprising-4161991</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-investigation-delays-derail-justice-july-uprising-4161991</guid>
-            <pubDate>Tue, 28 Apr 2026 23:49:07 GMT</pubDate>
+            <pubDate>Wed, 29 Apr 2026 02:24:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How long will the National Public Library stay closed to the public?]]></title>
@@ -93,13 +92,21 @@
             <title><![CDATA[Rid Geneva Camp of drug trade]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/rid-geneva-camp-drug-trade-4161126</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rid-geneva-camp-drug-trade-4161126</guid>
-            <pubDate>Tue, 28 Apr 2026 23:49:07 GMT</pubDate>
+            <pubDate>Wed, 29 Apr 2026 02:24:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Measles response is clearly not enough]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/measles-response-clearly-not-enough-4160536</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/measles-response-clearly-not-enough-4160536</guid>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The moral calculus of footpath evictions in Dhaka]]></title>
+            <description><![CDATA[By Adnan Zillur Morshed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-grudging-urbanist/news/the-moral-calculus-footpath-evictions-dhaka-4161381</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-grudging-urbanist/news/the-moral-calculus-footpath-evictions-dhaka-4161381</guid>
+            <dc:creator><![CDATA[Adnan Zillur Morshed]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Energy crisis: Global problem, local failure]]></title>
@@ -131,7 +138,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/digital-cards-and-the-reality-poverty-bangladesh-4160556</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/digital-cards-and-the-reality-poverty-bangladesh-4160556</guid>
             <dc:creator><![CDATA[Md Rakibul Hasan]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 23:49:07 GMT</pubDate>
+            <pubDate>Wed, 29 Apr 2026 02:24:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The silent exclusion built into Bangladesh’s ID system]]></title>
@@ -148,14 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/uneven-heat-how-bangladeshs-power-cuts-draw-map-inequality-4159836</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
             <pubDate>Sat, 25 Apr 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The PMO needs a policy and programme coordination cell]]></title>
-            <description><![CDATA[By Ashfaq Zaman]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-pmo-needs-policy-and-programme-coordination-cell-4159841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-pmo-needs-policy-and-programme-coordination-cell-4159841</guid>
-            <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 23:49:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
