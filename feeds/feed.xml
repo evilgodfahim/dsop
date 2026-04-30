@@ -4,16 +4,23 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 23:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 02:25:35 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2026 23:49:25 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 02:25:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[More lanes or trains? Rethinking the Dhaka-Chattogram corridor]]></title>
+            <description><![CDATA[Every day, thousands of trucks carry containers, raw materials, and export goods along the Dhaka-Chattogram highway, alongside rising passenger traffic.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/more-lanes-or-trains-rethinking-the-dhaka-chattogram-corridor-4164296</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/more-lanes-or-trains-rethinking-the-dhaka-chattogram-corridor-4164296</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 02:25:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Take steps to save haor harvest urgently]]></title>
-            <description><![CDATA[Govt must protect farmers’ rights, check dyke construction anomalies]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/take-steps-save-haor-harvest-urgently-4163941</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/take-steps-save-haor-harvest-urgently-4163941</guid>
-            <pubDate>Wed, 29 Apr 2026 23:49:25 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 02:25:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Energy crisis demands strict budget discipline now]]></title>
@@ -45,13 +52,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-capacity-competence-disconnect-bangladeshs-power-sector-4163236</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-capacity-competence-disconnect-bangladeshs-power-sector-4163236</guid>
             <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 23:49:25 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 02:25:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bid to reclaim defunct SIBL rings alarm bells]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/bid-reclaim-defunct-sibl-rings-alarm-bells-4162946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bid-reclaim-defunct-sibl-rings-alarm-bells-4162946</guid>
-            <pubDate>Wed, 29 Apr 2026 23:49:25 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 02:25:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What fuel loading at Rooppur means for our energy future]]></title>
@@ -60,14 +67,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-fuel-loading-rooppur-means-our-energy-future-4162316</guid>
             <dc:creator><![CDATA[Md. Shafiqul Islam]]></dc:creator>
             <pubDate>Tue, 28 Apr 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A roadmap to boost foreign direct investment in Bangladesh]]></title>
-            <description><![CDATA[By Owais ParrayKiyoshi Adachi]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/roadmap-boost-foreign-direct-investment-bangladesh-4162346</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/roadmap-boost-foreign-direct-investment-bangladesh-4162346</guid>
-            <dc:creator><![CDATA[Owais ParrayKiyoshi Adachi]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Safeguard women migrant workers’ rights]]></title>
@@ -85,7 +84,7 @@
             <title><![CDATA[Don’t let investigation delays derail justice for July uprising]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-investigation-delays-derail-justice-july-uprising-4161991</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-investigation-delays-derail-justice-july-uprising-4161991</guid>
-            <pubDate>Wed, 29 Apr 2026 23:49:25 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 02:25:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How long will the National Public Library stay closed to the public?]]></title>
@@ -97,7 +96,7 @@
             <title><![CDATA[Rid Geneva Camp of drug trade]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/rid-geneva-camp-drug-trade-4161126</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rid-geneva-camp-drug-trade-4161126</guid>
-            <pubDate>Wed, 29 Apr 2026 23:49:25 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 02:25:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tribute / Remembering Raghu Rai and the light he left behind]]></title>
@@ -106,6 +105,14 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/remembering-raghu-rai-and-the-light-he-left-behind-4162421</guid>
             <dc:creator><![CDATA[Amirul Rajiv]]></dc:creator>
             <pubDate>Tue, 28 Apr 2026 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A roadmap to boost foreign direct investment in Bangladesh]]></title>
+            <description><![CDATA[By Owais ParrayKiyoshi Adachi]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/roadmap-boost-foreign-direct-investment-bangladesh-4162346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/roadmap-boost-foreign-direct-investment-bangladesh-4162346</guid>
+            <dc:creator><![CDATA[Owais ParrayKiyoshi Adachi]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh, the IMF-World Bank nexus, and the political economy of reform]]></title>
@@ -137,7 +144,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/scaling-renewables-we-must-first-make-the-grid-flexible-4161391</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/scaling-renewables-we-must-first-make-the-grid-flexible-4161391</guid>
             <dc:creator><![CDATA[Shahriar Ahmed Chowdhury]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 23:49:25 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 02:25:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The moral calculus of footpath evictions in Dhaka]]></title>
@@ -146,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-grudging-urbanist/news/the-moral-calculus-footpath-evictions-dhaka-4161381</guid>
             <dc:creator><![CDATA[Adnan Zillur Morshed]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Energy crisis: Global problem, local failure]]></title>
-            <description><![CDATA[By Kallol Mustafa]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/energy-crisis-global-problem-local-failure-4160551</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/energy-crisis-global-problem-local-failure-4160551</guid>
-            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2026 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
