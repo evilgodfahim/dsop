@@ -4,16 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 02:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 05:43:12 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 May 2026 02:14:22 GMT</pubDate>
+        <pubDate>Sat, 09 May 2026 05:43:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Mohammadpur and the reality of urban crimes in Dhaka]]></title>
+            <description><![CDATA[There is something quite catchy and seductive in the way Mohammadpur is branded as the “City of God.” The phrase is loaded with a Brazilian flavour, conjuring cinematic memories of gang fights in narrow alleys, muggers on motorcycles, the prevalence of narcotics among frightened residents, territorial youth gangs, occasional police raids, and political protection.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/mohammadpur-and-the-reality-urban-crimes-dhaka-4170956</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/mohammadpur-and-the-reality-urban-crimes-dhaka-4170956</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 05:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[West Bengal's saffron turn and the new reality facing Dhaka]]></title>
+            <description><![CDATA[By Shahab Enam Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/west-bengals-saffron-turn-and-the-new-reality-facing-dhaka-4170966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/west-bengals-saffron-turn-and-the-new-reality-facing-dhaka-4170966</guid>
+            <dc:creator><![CDATA[Shahab Enam Khan]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 05:43:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Address learning gaps at primary level]]></title>
-            <description><![CDATA[Without foundational skills, students cannot thrive in secondary education.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/address-learning-gaps-primary-level-4170756</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-learning-gaps-primary-level-4170756</guid>
-            <pubDate>Sat, 09 May 2026 02:14:22 GMT</pubDate>
+            <pubDate>Sat, 09 May 2026 05:43:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why is the judiciary failing to check arbitrary detention?]]></title>
@@ -40,34 +55,18 @@
             <pubDate>Fri, 08 May 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A reform long overdue]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/reform-long-overdue-4170951</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reform-long-overdue-4170951</guid>
+            <pubDate>Sat, 09 May 2026 05:43:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How did the BJP gain a stronghold in West Bengal?]]></title>
             <description><![CDATA[By Zillur Rahman]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/how-did-the-bjp-gain-stronghold-west-bengal-4170306</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-did-the-bjp-gain-stronghold-west-bengal-4170306</guid>
             <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
-            <pubDate>Sat, 09 May 2026 02:14:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This recurring road carnage has to stop]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/recurring-road-carnage-has-stop-4170006</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/recurring-road-carnage-has-stop-4170006</guid>
-            <pubDate>Sat, 09 May 2026 02:14:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The auto-rickshaw dilemma: Last-mile lifeline or grid-draining liability?]]></title>
-            <description><![CDATA[By Sabbir Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-auto-rickshaw-dilemma-last-mile-lifeline-or-grid-draining-liability-4169971</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-auto-rickshaw-dilemma-last-mile-lifeline-or-grid-draining-liability-4169971</guid>
-            <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
-            <pubDate>Sat, 09 May 2026 02:14:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Political shift in West Bengal and its regional ripples]]></title>
-            <description><![CDATA[By Kamal Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/political-shift-west-bengal-and-its-regional-ripples-4169396</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/political-shift-west-bengal-and-its-regional-ripples-4169396</guid>
-            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Thu, 07 May 2026 09:00:00 GMT</pubDate>
+            <pubDate>Sat, 09 May 2026 05:43:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Address urea supply concerns urgently]]></title>
@@ -76,10 +75,16 @@
             <pubDate>Fri, 08 May 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[This recurring road carnage has to stop]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/recurring-road-carnage-has-stop-4170006</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/recurring-road-carnage-has-stop-4170006</guid>
+            <pubDate>Sat, 09 May 2026 05:43:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fix the testing gap, contain measles]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-testing-gap-contain-measles-4169141</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-testing-gap-contain-measles-4169141</guid>
-            <pubDate>Sat, 09 May 2026 02:14:22 GMT</pubDate>
+            <pubDate>Sat, 09 May 2026 05:43:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Press freedom should not be elusive]]></title>
@@ -91,13 +96,15 @@
             <title><![CDATA[Restore NHRC’s functionality]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/restore-nhrcs-functionality-4168291</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/restore-nhrcs-functionality-4168291</guid>
-            <pubDate>Sat, 09 May 2026 02:14:22 GMT</pubDate>
+            <pubDate>Sat, 09 May 2026 05:43:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Improve health services in the hills]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/improve-health-services-the-hills-4168556</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/improve-health-services-the-hills-4168556</guid>
-            <pubDate>Wed, 06 May 2026 11:00:00 GMT</pubDate>
+            <title><![CDATA[Rethinking healthcare for children in the CHT]]></title>
+            <description><![CDATA[By Sumit Banik]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/rethinking-healthcare-children-the-cht-4169416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-healthcare-children-the-cht-4169416</guid>
+            <dc:creator><![CDATA[Sumit Banik]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rethinking Rooppur in the age of solar energy]]></title>
@@ -105,7 +112,15 @@
             <link>https://www.thedailystar.net/opinion/views/news/rethinking-rooppur-the-age-solar-energy-4169451</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-rooppur-the-age-solar-energy-4169451</guid>
             <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
-            <pubDate>Sat, 09 May 2026 02:14:22 GMT</pubDate>
+            <pubDate>Sat, 09 May 2026 05:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Political shift in West Bengal and its regional ripples]]></title>
+            <description><![CDATA[By Kamal Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/political-shift-west-bengal-and-its-regional-ripples-4169396</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/political-shift-west-bengal-and-its-regional-ripples-4169396</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What the Bangladesh-Japan trade agreement means for our bio-cultural resources]]></title>
@@ -138,22 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-bjps-win-west-bengal-means-bangladesh-4168566</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
             <pubDate>Wed, 06 May 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crocodiles, snakes, and India’s sovereignty anxiety]]></title>
-            <description><![CDATA[By H.M. Nazmul Alam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/crocodiles-snakes-and-indias-sovereignty-anxiety-4168261</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/crocodiles-snakes-and-indias-sovereignty-anxiety-4168261</guid>
-            <dc:creator><![CDATA[H.M. Nazmul Alam]]></dc:creator>
-            <pubDate>Sat, 09 May 2026 02:14:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farmers of the haors are dying of despair]]></title>
-            <description><![CDATA[By Aasha Mehreen Amin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/no-strings-attached/news/farmers-the-haors-are-dying-despair-4167681</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/no-strings-attached/news/farmers-the-haors-are-dying-despair-4167681</guid>
-            <dc:creator><![CDATA[Aasha Mehreen Amin]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 08:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
