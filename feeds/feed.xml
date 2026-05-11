@@ -4,13 +4,37 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 02:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 06:32:55 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 02:34:58 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 06:32:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Why Bangladesh-India relations keep resetting without settling]]></title>
+            <description><![CDATA[In a repeat of past experiences, India’s ties with Bangladesh, its immediate neighbour and strategic partner, are now entering another phase of recalibration.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-bangladesh-india-relations-keep-resetting-without-settling-4172606</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladesh-india-relations-keep-resetting-without-settling-4172606</guid>
+            <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 06:32:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Online child safety needs age assurance, not age policing]]></title>
+            <description><![CDATA[By Khan Khalid AdnanAzfar Adib]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/online-child-safety-needs-age-assurance-not-age-policing-4172616</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/online-child-safety-needs-age-assurance-not-age-policing-4172616</guid>
+            <dc:creator><![CDATA[Khan Khalid AdnanAzfar Adib]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 06:32:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Good teaching still matters, but it’s no longer enough]]></title>
+            <description><![CDATA[By Syed Saad Andaleeb]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/good-teaching-still-matters-its-no-longer-enough-4172626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/good-teaching-still-matters-its-no-longer-enough-4172626</guid>
+            <dc:creator><![CDATA[Syed Saad Andaleeb]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 06:32:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Freight belongs on rail, but how can we make it work in practice?]]></title>
-            <description><![CDATA[In a previous article, I argued that Bangladesh must rethink its reliance on a road-based transport system along the Dhaka-Chattogram corridor and move towards a more energy-efficient model.]]></description>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/freight-belongs-rail-how-can-we-make-it-work-practice-4171676</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/freight-belongs-rail-how-can-we-make-it-work-practice-4171676</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
@@ -36,57 +60,31 @@
             <link>https://www.thedailystar.net/opinion/views/news/credit-isnt-enough-farmers-need-assets-build-income-4171681</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/credit-isnt-enough-farmers-need-assets-build-income-4171681</guid>
             <dc:creator><![CDATA[Saba El Kabir]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 02:34:58 GMT</pubDate>
+            <pubDate>Mon, 11 May 2026 06:32:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to solve the street vendor crisis sustainably]]></title>
-            <description><![CDATA[By Md Rakibul Hasan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-solve-the-street-vendor-crisis-sustainably-4171691</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-solve-the-street-vendor-crisis-sustainably-4171691</guid>
-            <dc:creator><![CDATA[Md Rakibul Hasan]]></dc:creator>
-            <pubDate>Sun, 10 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mohammadpur and the reality of urban crimes in Dhaka]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/mohammadpur-and-the-reality-urban-crimes-dhaka-4170956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/mohammadpur-and-the-reality-urban-crimes-dhaka-4170956</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 09 May 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How policy gaps exclude the visually impaired from work]]></title>
-            <description><![CDATA[By Md. Iqbal Hossain]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-policy-gaps-exclude-the-visually-impaired-work-4170961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-policy-gaps-exclude-the-visually-impaired-work-4170961</guid>
-            <dc:creator><![CDATA[Md. Iqbal Hossain]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 02:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[West Bengal's saffron turn and the new reality facing Dhaka]]></title>
-            <description><![CDATA[By Shahab Enam Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/west-bengals-saffron-turn-and-the-new-reality-facing-dhaka-4170966</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/west-bengals-saffron-turn-and-the-new-reality-facing-dhaka-4170966</guid>
-            <dc:creator><![CDATA[Shahab Enam Khan]]></dc:creator>
-            <pubDate>Sat, 09 May 2026 11:00:00 GMT</pubDate>
+            <title><![CDATA[Save Dhaka from recurring waterlogging]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/save-dhaka-recurring-waterlogging-4172601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/save-dhaka-recurring-waterlogging-4172601</guid>
+            <pubDate>Mon, 11 May 2026 06:32:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop trafficking of youths into war]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/stop-trafficking-youths-war-4172271</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/stop-trafficking-youths-war-4172271</guid>
-            <pubDate>Mon, 11 May 2026 02:34:58 GMT</pubDate>
+            <pubDate>Mon, 11 May 2026 06:32:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A free press cannot exist without editorial autonomy]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/free-press-cannot-exist-without-editorial-autonomy-4171421</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/free-press-cannot-exist-without-editorial-autonomy-4171421</guid>
-            <pubDate>Mon, 11 May 2026 02:34:58 GMT</pubDate>
+            <pubDate>Mon, 11 May 2026 06:32:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Address learning gaps at primary level]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/address-learning-gaps-primary-level-4170756</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-learning-gaps-primary-level-4170756</guid>
-            <pubDate>Mon, 11 May 2026 02:34:58 GMT</pubDate>
+            <pubDate>Mon, 11 May 2026 06:32:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A reform long overdue]]></title>
@@ -101,12 +99,44 @@
             <pubDate>Fri, 08 May 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to solve the street vendor crisis sustainably]]></title>
+            <description><![CDATA[By Md Rakibul Hasan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-solve-the-street-vendor-crisis-sustainably-4171691</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-solve-the-street-vendor-crisis-sustainably-4171691</guid>
+            <dc:creator><![CDATA[Md Rakibul Hasan]]></dc:creator>
+            <pubDate>Sun, 10 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How policy gaps exclude the visually impaired from work]]></title>
+            <description><![CDATA[By Md. Iqbal Hossain]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-policy-gaps-exclude-the-visually-impaired-work-4170961</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-policy-gaps-exclude-the-visually-impaired-work-4170961</guid>
+            <dc:creator><![CDATA[Md. Iqbal Hossain]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 06:32:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Who profits from Bangladesh’s heritage?]]></title>
             <description><![CDATA[By Namia Akhtar]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/who-profits-bangladeshs-heritage-4170971</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/who-profits-bangladeshs-heritage-4170971</guid>
             <dc:creator><![CDATA[Namia Akhtar]]></dc:creator>
             <pubDate>Sat, 09 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[West Bengal's saffron turn and the new reality facing Dhaka]]></title>
+            <description><![CDATA[By Shahab Enam Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/west-bengals-saffron-turn-and-the-new-reality-facing-dhaka-4170966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/west-bengals-saffron-turn-and-the-new-reality-facing-dhaka-4170966</guid>
+            <dc:creator><![CDATA[Shahab Enam Khan]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mohammadpur and the reality of urban crimes in Dhaka]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/mohammadpur-and-the-reality-urban-crimes-dhaka-4170956</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/mohammadpur-and-the-reality-urban-crimes-dhaka-4170956</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why is the judiciary failing to check arbitrary detention?]]></title>
@@ -123,38 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-make-thalassaemia-treatment-widely-accessible-4170266</guid>
             <dc:creator><![CDATA[Manzur Morshed]]></dc:creator>
             <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why our education reform keeps missing the mark]]></title>
-            <description><![CDATA[By Manzoor Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-our-education-reform-keeps-missing-the-mark-4170301</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-our-education-reform-keeps-missing-the-mark-4170301</guid>
-            <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
-            <pubDate>Fri, 08 May 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How did the BJP gain a stronghold in West Bengal?]]></title>
-            <description><![CDATA[By Zillur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-did-the-bjp-gain-stronghold-west-bengal-4170306</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-did-the-bjp-gain-stronghold-west-bengal-4170306</guid>
-            <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 02:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The auto-rickshaw dilemma: Last-mile lifeline or grid-draining liability?]]></title>
-            <description><![CDATA[By Sabbir Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-auto-rickshaw-dilemma-last-mile-lifeline-or-grid-draining-liability-4169971</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-auto-rickshaw-dilemma-last-mile-lifeline-or-grid-draining-liability-4169971</guid>
-            <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 02:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking healthcare for children in the CHT]]></title>
-            <description><![CDATA[By Sumit Banik]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/rethinking-healthcare-children-the-cht-4169416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-healthcare-children-the-cht-4169416</guid>
-            <dc:creator><![CDATA[Sumit Banik]]></dc:creator>
-            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
