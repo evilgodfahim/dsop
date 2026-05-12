@@ -4,17 +4,33 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 May 2026 00:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 04:32:50 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 12 May 2026 00:03:43 GMT</pubDate>
+        <pubDate>Tue, 12 May 2026 04:32:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Before another education reset, let schools catch up first]]></title>
+            <description><![CDATA[Bangladesh’s education system is once again on the brink of a major change.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/another-education-reset-let-schools-catch-first-4173571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/another-education-reset-let-schools-catch-first-4173571</guid>
+            <dc:creator><![CDATA[Rifat Hossain Digonto]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 04:32:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why Bangladesh-India relations keep resetting without settling]]></title>
-            <description><![CDATA[In a repeat of past experiences, India’s ties with Bangladesh, its immediate neighbour and strategic partner, are now entering another phase of recalibration.]]></description>
+            <description><![CDATA[By Zillur Rahman]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/why-bangladesh-india-relations-keep-resetting-without-settling-4172606</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladesh-india-relations-keep-resetting-without-settling-4172606</guid>
             <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
             <pubDate>Mon, 11 May 2026 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s youth unemployment crisis is turning migration into a deadly gamble]]></title>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-youth-unemployment-crisis-turning-migration-deadly-gamble-4173591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-youth-unemployment-crisis-turning-migration-deadly-gamble-4173591</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 04:32:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bridging the financing gap in Bangladesh’s renewable energy transition]]></title>
@@ -22,7 +38,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/bridging-the-financing-gap-bangladeshs-renewable-energy-transition-4172611</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bridging-the-financing-gap-bangladeshs-renewable-energy-transition-4172611</guid>
             <dc:creator><![CDATA[Md Razib]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 00:03:43 GMT</pubDate>
+            <pubDate>Tue, 12 May 2026 04:32:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Online child safety needs age assurance, not age policing]]></title>
@@ -57,30 +73,16 @@
             <pubDate>Sun, 10 May 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Khulna city needs its bus service back]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/khulna-city-needs-its-bus-service-back-4171671</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/khulna-city-needs-its-bus-service-back-4171671</guid>
-            <pubDate>Sun, 10 May 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Credit isn’t enough – farmers need assets to build income]]></title>
-            <description><![CDATA[By Saba El Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/credit-isnt-enough-farmers-need-assets-build-income-4171681</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/credit-isnt-enough-farmers-need-assets-build-income-4171681</guid>
-            <dc:creator><![CDATA[Saba El Kabir]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 00:03:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lapses in measles deaths reporting are unacceptable]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/lapses-measles-deaths-reporting-are-unacceptable-4173066</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/lapses-measles-deaths-reporting-are-unacceptable-4173066</guid>
-            <pubDate>Tue, 12 May 2026 00:03:43 GMT</pubDate>
+            <pubDate>Tue, 12 May 2026 04:32:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop trafficking of youths into war]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/stop-trafficking-youths-war-4172271</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/stop-trafficking-youths-war-4172271</guid>
-            <pubDate>Tue, 12 May 2026 00:03:43 GMT</pubDate>
+            <pubDate>Tue, 12 May 2026 04:32:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Save Dhaka from recurring waterlogging]]></title>
@@ -89,16 +91,16 @@
             <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Khulna city needs its bus service back]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/khulna-city-needs-its-bus-service-back-4171671</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/khulna-city-needs-its-bus-service-back-4171671</guid>
+            <pubDate>Sun, 10 May 2026 10:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A free press cannot exist without editorial autonomy]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/free-press-cannot-exist-without-editorial-autonomy-4171421</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/free-press-cannot-exist-without-editorial-autonomy-4171421</guid>
-            <pubDate>Tue, 12 May 2026 00:03:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Address learning gaps at primary level]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/address-learning-gaps-primary-level-4170756</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-learning-gaps-primary-level-4170756</guid>
-            <pubDate>Tue, 12 May 2026 00:03:43 GMT</pubDate>
+            <pubDate>Tue, 12 May 2026 04:32:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When AI enters the intimate sphere]]></title>
@@ -106,7 +108,15 @@
             <link>https://www.thedailystar.net/opinion/views/news/when-ai-enters-the-intimate-sphere-4172161</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-ai-enters-the-intimate-sphere-4172161</guid>
             <dc:creator><![CDATA[Arifur Rahaman]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 00:03:43 GMT</pubDate>
+            <pubDate>Tue, 12 May 2026 04:32:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Credit isn’t enough – farmers need assets to build income]]></title>
+            <description><![CDATA[By Saba El Kabir]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/credit-isnt-enough-farmers-need-assets-build-income-4171681</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/credit-isnt-enough-farmers-need-assets-build-income-4171681</guid>
+            <dc:creator><![CDATA[Saba El Kabir]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 04:32:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to solve the street vendor crisis sustainably]]></title>
@@ -122,7 +132,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/how-policy-gaps-exclude-the-visually-impaired-work-4170961</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-policy-gaps-exclude-the-visually-impaired-work-4170961</guid>
             <dc:creator><![CDATA[Md. Iqbal Hossain]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 00:03:43 GMT</pubDate>
+            <pubDate>Tue, 12 May 2026 04:32:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who profits from Bangladesh’s heritage?]]></title>
@@ -147,14 +157,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/mohammadpur-and-the-reality-urban-crimes-dhaka-4170956</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
             <pubDate>Sat, 09 May 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is the judiciary failing to check arbitrary detention?]]></title>
-            <description><![CDATA[By Nafiul Alam Shupto]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-the-judiciary-failing-check-arbitrary-detention-4170261</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-the-judiciary-failing-check-arbitrary-detention-4170261</guid>
-            <dc:creator><![CDATA[Nafiul Alam Shupto]]></dc:creator>
-            <pubDate>Fri, 08 May 2026 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
