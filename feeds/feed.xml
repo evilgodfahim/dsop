@@ -4,16 +4,23 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 17:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 19:39:03 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 17:44:48 GMT</pubDate>
+        <pubDate>Thu, 14 May 2026 19:39:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Column by Mahfuz Anam / The PM says police don’t belong to any party. Can we establish this in practice?]]></title>
+            <description><![CDATA[The prime minister’s quote that I use as the headline of this column is music to our ears, constituting the most vital policy directive that this country needs to take.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/the-pm-says-police-dont-belong-any-party-can-we-establish-practice-4175991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/the-pm-says-police-dont-belong-any-party-can-we-establish-practice-4175991</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 19:39:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Padma Barrage must have clear rationale]]></title>
-            <description><![CDATA[Extensive feasibility studies must be conducted before launching megaprojects like the Padma Barrage.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/padma-barrage-must-have-clear-rationale-4175761</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/padma-barrage-must-have-clear-rationale-4175761</guid>
-            <pubDate>Thu, 14 May 2026 17:44:48 GMT</pubDate>
+            <pubDate>Thu, 14 May 2026 19:39:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Disconnected trade systems are eroding the gains of digitisation]]></title>
@@ -29,7 +36,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/merge-investment-agencies-yes-first-fix-the-system-around-them-4175191</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/merge-investment-agencies-yes-first-fix-the-system-around-them-4175191</guid>
             <dc:creator><![CDATA[S M Sabbir Hussain]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 17:44:48 GMT</pubDate>
+            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Measles outbreak and the politics of convenience]]></title>
@@ -64,36 +71,28 @@
             <pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The banking sector’s dangerous free fall while defaulters thrive]]></title>
-            <description><![CDATA[By Md Main Uddin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-banking-sectors-dangerous-free-fall-while-defaulters-thrive-4174361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-banking-sectors-dangerous-free-fall-while-defaulters-thrive-4174361</guid>
-            <dc:creator><![CDATA[Md Main Uddin]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[End extortion in Dhaka’s waste trade]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/end-extortion-dhakas-waste-trade-4175176</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-extortion-dhakas-waste-trade-4175176</guid>
-            <pubDate>Thu, 14 May 2026 17:44:48 GMT</pubDate>
+            <pubDate>Thu, 14 May 2026 19:39:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop the rape of our children]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/stop-the-rape-our-children-4174811</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/stop-the-rape-our-children-4174811</guid>
-            <pubDate>Thu, 14 May 2026 17:44:48 GMT</pubDate>
+            <pubDate>Thu, 14 May 2026 19:39:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don’t hand back the keys to ex-owners of failed banks]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-hand-back-the-keys-ex-owners-failed-banks-4174046</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-hand-back-the-keys-ex-owners-failed-banks-4174046</guid>
-            <pubDate>Thu, 14 May 2026 17:44:48 GMT</pubDate>
+            <pubDate>Thu, 14 May 2026 19:39:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop objectifying women on Facebook]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/stop-objectifying-women-facebook-4174331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/stop-objectifying-women-facebook-4174331</guid>
-            <pubDate>Thu, 14 May 2026 17:44:48 GMT</pubDate>
+            <pubDate>Thu, 14 May 2026 19:39:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End the culture of extortion in slums]]></title>
@@ -102,12 +101,20 @@
             <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why are lightning strikes claiming so many farmers' lives?]]></title>
+            <description><![CDATA[By AL Sharia]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-are-lightning-strikes-claiming-so-many-farmers-lives-4174376</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-lightning-strikes-claiming-so-many-farmers-lives-4174376</guid>
+            <dc:creator><![CDATA[AL Sharia]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The case for one social card to replace them all]]></title>
             <description><![CDATA[By Md Rakibul Hasan]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/the-case-one-social-card-replace-them-all-4173941</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-case-one-social-card-replace-them-all-4173941</guid>
             <dc:creator><![CDATA[Md Rakibul Hasan]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 17:44:48 GMT</pubDate>
+            <pubDate>Thu, 14 May 2026 19:39:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Before another education reset, let schools catch up first]]></title>
@@ -131,7 +138,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/how-israel-using-women-and-children-weapons-war-gaza-4172951</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-israel-using-women-and-children-weapons-war-gaza-4172951</guid>
             <dc:creator><![CDATA[Violeta Nuñez Rodríguez]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 17:44:48 GMT</pubDate>
+            <pubDate>Thu, 14 May 2026 19:39:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[International Nurses Day /  For nurses, respect must go beyond words]]></title>
@@ -148,14 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-youth-unemployment-crisis-turning-migration-deadly-gamble-4173591</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
             <pubDate>Tue, 12 May 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bridging the financing gap in Bangladesh’s renewable energy transition]]></title>
-            <description><![CDATA[By Md Razib]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bridging-the-financing-gap-bangladeshs-renewable-energy-transition-4172611</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bridging-the-financing-gap-bangladeshs-renewable-energy-transition-4172611</guid>
-            <dc:creator><![CDATA[Md Razib]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 17:44:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
