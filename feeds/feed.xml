@@ -4,16 +4,39 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 02:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 05:48:40 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 May 2026 02:25:34 GMT</pubDate>
+        <pubDate>Sat, 16 May 2026 05:48:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The economy of premium education and parental anxiety]]></title>
+            <description><![CDATA[A recent post by a colleague who had to pay Tk 2.5 lakh as an admission fee for his child at a reputed English medium school made me reflect on an anomaly that we have gotten used to.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-economy-premium-education-and-parental-anxiety-4176701</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-economy-premium-education-and-parental-anxiety-4176701</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 05:48:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why stakeholders matter in reimagining urban healthcare governance]]></title>
+            <description><![CDATA[By Noor Mohammad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-stakeholders-matter-reimagining-urban-healthcare-governance-4176716</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-stakeholders-matter-reimagining-urban-healthcare-governance-4176716</guid>
+            <dc:creator><![CDATA[Noor Mohammad]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 05:48:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The sachet trap: Why the "Mini-Pack" is a macro-disaster for Bangladesh]]></title>
+            <description><![CDATA[By Farah Mahboob]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-sachet-trap-why-the-mini-pack-macro-disaster-bangladesh-4176721</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-sachet-trap-why-the-mini-pack-macro-disaster-bangladesh-4176721</guid>
+            <dc:creator><![CDATA[Farah Mahboob]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 05:48:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Childhood must not be trapped in screens]]></title>
-            <description><![CDATA[Dhaka's children need playgrounds to reduce their screen time.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/childhood-must-not-be-trapped-screens-4176491</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/childhood-must-not-be-trapped-screens-4176491</guid>
-            <pubDate>Sat, 16 May 2026 02:25:34 GMT</pubDate>
+            <pubDate>Sat, 16 May 2026 05:48:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / The PM says police don’t belong to any party. Can we establish this in practice?]]></title>
@@ -43,23 +66,7 @@
             <title><![CDATA[Padma Barrage must have clear rationale]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/padma-barrage-must-have-clear-rationale-4175761</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/padma-barrage-must-have-clear-rationale-4175761</guid>
-            <pubDate>Sat, 16 May 2026 02:25:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Disconnected trade systems are eroding the gains of digitisation]]></title>
-            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/disconnected-trade-systems-are-eroding-the-gains-digitisation-4175181</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/disconnected-trade-systems-are-eroding-the-gains-digitisation-4175181</guid>
-            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Merge investment agencies, yes, but first fix the system around them]]></title>
-            <description><![CDATA[By S M Sabbir Hussain]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/merge-investment-agencies-yes-first-fix-the-system-around-them-4175191</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/merge-investment-agencies-yes-first-fix-the-system-around-them-4175191</guid>
-            <dc:creator><![CDATA[S M Sabbir Hussain]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+            <pubDate>Sat, 16 May 2026 05:48:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Govt must heed Fitch's warning]]></title>
@@ -71,31 +78,41 @@
             <title><![CDATA[End extortion in Dhaka’s waste trade]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/end-extortion-dhakas-waste-trade-4175176</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-extortion-dhakas-waste-trade-4175176</guid>
-            <pubDate>Sat, 16 May 2026 02:25:34 GMT</pubDate>
+            <pubDate>Sat, 16 May 2026 05:48:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop the rape of our children]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/stop-the-rape-our-children-4174811</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/stop-the-rape-our-children-4174811</guid>
-            <pubDate>Sat, 16 May 2026 02:25:34 GMT</pubDate>
+            <pubDate>Sat, 16 May 2026 05:48:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don’t hand back the keys to ex-owners of failed banks]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-hand-back-the-keys-ex-owners-failed-banks-4174046</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-hand-back-the-keys-ex-owners-failed-banks-4174046</guid>
-            <pubDate>Sat, 16 May 2026 02:25:34 GMT</pubDate>
+            <pubDate>Sat, 16 May 2026 05:48:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop objectifying women on Facebook]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/stop-objectifying-women-facebook-4174331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/stop-objectifying-women-facebook-4174331</guid>
-            <pubDate>Sat, 16 May 2026 02:25:34 GMT</pubDate>
+            <pubDate>Sat, 16 May 2026 05:48:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[End the culture of extortion in slums]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/end-the-culture-extortion-slums-4173551</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-the-culture-extortion-slums-4173551</guid>
-            <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[The elite’s blind spot is deepening our education crisis]]></title>
+            <description><![CDATA[By Naomi Hossain]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-elites-blind-spot-deepening-our-education-crisis-4175216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-elites-blind-spot-deepening-our-education-crisis-4175216</guid>
+            <dc:creator><![CDATA[Naomi Hossain]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Disconnected trade systems are eroding the gains of digitisation]]></title>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/disconnected-trade-systems-are-eroding-the-gains-digitisation-4175181</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/disconnected-trade-systems-are-eroding-the-gains-digitisation-4175181</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Measles outbreak and the politics of convenience]]></title>
@@ -136,22 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-lightning-strikes-claiming-so-many-farmers-lives-4174376</guid>
             <dc:creator><![CDATA[AL Sharia]]></dc:creator>
             <pubDate>Wed, 13 May 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The case for one social card to replace them all]]></title>
-            <description><![CDATA[By Md Rakibul Hasan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-case-one-social-card-replace-them-all-4173941</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-case-one-social-card-replace-them-all-4173941</guid>
-            <dc:creator><![CDATA[Md Rakibul Hasan]]></dc:creator>
-            <pubDate>Sat, 16 May 2026 02:25:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Before another education reset, let schools catch up first]]></title>
-            <description><![CDATA[By Rifat Hossain Digonto]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/another-education-reset-let-schools-catch-first-4173571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/another-education-reset-let-schools-catch-first-4173571</guid>
-            <dc:creator><![CDATA[Rifat Hossain Digonto]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
