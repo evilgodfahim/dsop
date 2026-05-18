@@ -4,16 +4,39 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 02:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 06:50:50 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 May 2026 02:42:56 GMT</pubDate>
+        <pubDate>Mon, 18 May 2026 06:50:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Plastic waste, reverse logistics, and Bangladesh’s textile opportunity]]></title>
+            <description><![CDATA[Bangladesh’s garment industry stands at a critical turning point.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/plastic-waste-reverse-logistics-and-bangladeshs-textile-opportunity-4178201</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/plastic-waste-reverse-logistics-and-bangladeshs-textile-opportunity-4178201</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 06:50:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Bangladesh should have a planetarium in every division]]></title>
+            <description><![CDATA[By Md Shahnawaz Khan Chandan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-bangladesh-should-have-planetarium-every-division-4178211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladesh-should-have-planetarium-every-division-4178211</guid>
+            <dc:creator><![CDATA[Md Shahnawaz Khan Chandan]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 06:50:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interactive Cares and the recurring crisis of trust in our startups]]></title>
+            <description><![CDATA[By Tafhimur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/interactive-cares-and-the-recurring-crisis-trust-our-startups-4178221</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/interactive-cares-and-the-recurring-crisis-trust-our-startups-4178221</guid>
+            <dc:creator><![CDATA[Tafhimur Rahman]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 06:50:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why impose higher bills on consumers?]]></title>
-            <description><![CDATA[Power distribution companies must cut their costs first.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/why-impose-higher-bills-consumers-4177811</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-impose-higher-bills-consumers-4177811</guid>
-            <pubDate>Mon, 18 May 2026 02:42:56 GMT</pubDate>
+            <pubDate>Mon, 18 May 2026 06:50:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh needs to move up in global value chains through industrial upgrading]]></title>
@@ -40,36 +63,10 @@
             <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The economy of premium education and parental anxiety]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-economy-premium-education-and-parental-anxiety-4176701</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-economy-premium-education-and-parental-anxiety-4176701</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 16 May 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smooth information flow can make development sustainable]]></title>
-            <description><![CDATA[By Md. Sahadat Hosain]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/smooth-information-flow-can-make-development-sustainable-4176706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/smooth-information-flow-can-make-development-sustainable-4176706</guid>
-            <dc:creator><![CDATA[Md. Sahadat Hosain]]></dc:creator>
-            <pubDate>Sat, 16 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why stakeholders matter in reimagining urban healthcare governance]]></title>
-            <description><![CDATA[By Noor Mohammad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-stakeholders-matter-reimagining-urban-healthcare-governance-4176716</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-stakeholders-matter-reimagining-urban-healthcare-governance-4176716</guid>
-            <dc:creator><![CDATA[Noor Mohammad]]></dc:creator>
-            <pubDate>Sat, 16 May 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The sachet trap: The hidden cost of mini packs]]></title>
-            <description><![CDATA[By Farah Mahboob]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-sachet-trap-the-hidden-cost-mini-packs-4176721</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-sachet-trap-the-hidden-cost-mini-packs-4176721</guid>
-            <dc:creator><![CDATA[Farah Mahboob]]></dc:creator>
-            <pubDate>Sat, 16 May 2026 11:00:00 GMT</pubDate>
+            <title><![CDATA[Hypertension demands a louder response]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/hypertension-demands-louder-response-4178191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/hypertension-demands-louder-response-4178191</guid>
+            <pubDate>Mon, 18 May 2026 06:50:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Where can women find safety?]]></title>
@@ -81,25 +78,57 @@
             <title><![CDATA[Govt must protect Sufi shrines]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/govt-must-protect-sufi-shrines-4177101</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/govt-must-protect-sufi-shrines-4177101</guid>
-            <pubDate>Mon, 18 May 2026 02:42:56 GMT</pubDate>
+            <pubDate>Mon, 18 May 2026 06:50:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Childhood must not be trapped in screens]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/childhood-must-not-be-trapped-screens-4176491</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/childhood-must-not-be-trapped-screens-4176491</guid>
-            <pubDate>Mon, 18 May 2026 02:42:56 GMT</pubDate>
+            <pubDate>Mon, 18 May 2026 06:50:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Attacks on law enforcers concerning]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/attacks-law-enforcers-concerning-4176696</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/attacks-law-enforcers-concerning-4176696</guid>
-            <pubDate>Mon, 18 May 2026 02:42:56 GMT</pubDate>
+            <pubDate>Mon, 18 May 2026 06:50:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Govt must heed Fitch's warning]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/govt-must-heed-fitchs-warning-4175986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/govt-must-heed-fitchs-warning-4175986</guid>
             <pubDate>Fri, 15 May 2026 01:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Smooth information flow can make development sustainable]]></title>
+            <description><![CDATA[By Md. Sahadat Hosain]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/smooth-information-flow-can-make-development-sustainable-4176706</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/smooth-information-flow-can-make-development-sustainable-4176706</guid>
+            <dc:creator><![CDATA[Md. Sahadat Hosain]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The sachet trap: The hidden cost of mini packs]]></title>
+            <description><![CDATA[By Farah Mahboob]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-sachet-trap-the-hidden-cost-mini-packs-4176721</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-sachet-trap-the-hidden-cost-mini-packs-4176721</guid>
+            <dc:creator><![CDATA[Farah Mahboob]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why stakeholders matter in reimagining urban healthcare governance]]></title>
+            <description><![CDATA[By Noor Mohammad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-stakeholders-matter-reimagining-urban-healthcare-governance-4176716</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-stakeholders-matter-reimagining-urban-healthcare-governance-4176716</guid>
+            <dc:creator><![CDATA[Noor Mohammad]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The economy of premium education and parental anxiety]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-economy-premium-education-and-parental-anxiety-4176701</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-economy-premium-education-and-parental-anxiety-4176701</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / The PM says police don’t belong to any party. Can we establish this in practice?]]></title>
@@ -124,38 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/time-fix-the-foundations-islamic-banking-bangladesh-4175996</guid>
             <dc:creator><![CDATA[Mezbah Uddin Ahmed]]></dc:creator>
             <pubDate>Fri, 15 May 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Merge investment agencies, yes, but first fix the system around them]]></title>
-            <description><![CDATA[By S M Sabbir Hussain]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/merge-investment-agencies-yes-first-fix-the-system-around-them-4175191</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/merge-investment-agencies-yes-first-fix-the-system-around-them-4175191</guid>
-            <dc:creator><![CDATA[S M Sabbir Hussain]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The elite’s blind spot is deepening our education crisis]]></title>
-            <description><![CDATA[By Naomi Hossain]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-elites-blind-spot-deepening-our-education-crisis-4175216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-elites-blind-spot-deepening-our-education-crisis-4175216</guid>
-            <dc:creator><![CDATA[Naomi Hossain]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Disconnected trade systems are eroding the gains of digitisation]]></title>
-            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/disconnected-trade-systems-are-eroding-the-gains-digitisation-4175181</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/disconnected-trade-systems-are-eroding-the-gains-digitisation-4175181</guid>
-            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Measles outbreak and the politics of convenience]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/measles-outbreak-and-the-politics-convenience-4175196</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/measles-outbreak-and-the-politics-convenience-4175196</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
