@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 May 2026 04:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 08:21:13 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 May 2026 04:01:33 GMT</pubDate>
+        <pubDate>Tue, 19 May 2026 08:21:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Fitch’s negative outlook and how we can navigate the storm ahead]]></title>
@@ -14,7 +14,31 @@
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/fitchs-negative-outlook-and-how-we-can-navigate-the-storm-ahead-4179011</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/fitchs-negative-outlook-and-how-we-can-navigate-the-storm-ahead-4179011</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 04:01:33 GMT</pubDate>
+            <pubDate>Tue, 19 May 2026 08:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How aid dependency is undermining coastal Bangladesh’s water security]]></title>
+            <description><![CDATA[By Md Ayatullah Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-aid-dependency-undermining-coastal-bangladeshs-water-security-4179016</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-aid-dependency-undermining-coastal-bangladeshs-water-security-4179016</guid>
+            <dc:creator><![CDATA[Md Ayatullah Khan]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 08:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka should confront the Arakan Army’s abduction of fishermen]]></title>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/dhaka-should-confront-the-arakan-armys-abduction-fishermen-4179026</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dhaka-should-confront-the-arakan-armys-abduction-fishermen-4179026</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 08:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As a super El Niño looms, Is Bangladesh ready for the shock?]]></title>
+            <description><![CDATA[By Rajib Kumar Saha]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/super-el-nino-looms-bangladesh-ready-the-shock-4179041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/super-el-nino-looms-bangladesh-ready-the-shock-4179041</guid>
+            <dc:creator><![CDATA[Rajib Kumar Saha]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 08:21:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Plastic waste, reverse logistics, and Bangladesh’s textile opportunity]]></title>
@@ -30,7 +54,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/empowering-cmsmes-can-strengthen-our-economic-foundation-4178206</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/empowering-cmsmes-can-strengthen-our-economic-foundation-4178206</guid>
             <dc:creator><![CDATA[Md Rakibul Hasan]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 04:01:33 GMT</pubDate>
+            <pubDate>Tue, 19 May 2026 08:21:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Bangladesh should have a planetarium in every division]]></title>
@@ -49,32 +73,22 @@
             <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why impose higher bills on consumers?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/why-impose-higher-bills-consumers-4177811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-impose-higher-bills-consumers-4177811</guid>
-            <pubDate>Tue, 19 May 2026 04:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh needs to move up in global value chains through industrial upgrading]]></title>
-            <description><![CDATA[By Selim Raihan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-move-global-value-chains-through-industrial-upgrading-4177356</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-move-global-value-chains-through-industrial-upgrading-4177356</guid>
-            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
-            <pubDate>Sun, 17 May 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s 'cooling-off' period requirement is a barrier to women’s political participation]]></title>
-            <description><![CDATA[By Monira Sharmin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-cooling-period-requirement-barrier-womens-political-participation-4177361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-cooling-period-requirement-barrier-womens-political-participation-4177361</guid>
-            <dc:creator><![CDATA[Monira Sharmin]]></dc:creator>
-            <pubDate>Sun, 17 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Draft laws on NHRC and enforced disappearances fall short]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/draft-laws-nhrc-and-enforced-disappearances-fall-short-4178576</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/draft-laws-nhrc-and-enforced-disappearances-fall-short-4178576</guid>
-            <pubDate>Tue, 19 May 2026 04:01:33 GMT</pubDate>
+            <pubDate>Tue, 19 May 2026 08:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt must recognise women farmers properly]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/govt-must-recognise-women-farmers-properly-4179006</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/govt-must-recognise-women-farmers-properly-4179006</guid>
+            <pubDate>Tue, 19 May 2026 08:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why impose higher bills on consumers?]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/why-impose-higher-bills-consumers-4177811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-impose-higher-bills-consumers-4177811</guid>
+            <pubDate>Tue, 19 May 2026 08:21:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hypertension demands a louder response]]></title>
@@ -89,16 +103,20 @@
             <pubDate>Sun, 17 May 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Govt must protect Sufi shrines]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/govt-must-protect-sufi-shrines-4177101</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/govt-must-protect-sufi-shrines-4177101</guid>
-            <pubDate>Tue, 19 May 2026 04:01:33 GMT</pubDate>
+            <title><![CDATA[Bangladesh’s 'cooling-off' period requirement is a barrier to women’s political participation]]></title>
+            <description><![CDATA[By Monira Sharmin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-cooling-period-requirement-barrier-womens-political-participation-4177361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-cooling-period-requirement-barrier-womens-political-participation-4177361</guid>
+            <dc:creator><![CDATA[Monira Sharmin]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Childhood must not be trapped in screens]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/childhood-must-not-be-trapped-screens-4176491</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/childhood-must-not-be-trapped-screens-4176491</guid>
-            <pubDate>Tue, 19 May 2026 04:01:33 GMT</pubDate>
+            <title><![CDATA[Local Government reform demands election overhaul]]></title>
+            <description><![CDATA[By Ferdous Arfina Osman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/local-government-reform-demands-election-overhaul-4177366</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/local-government-reform-demands-election-overhaul-4177366</guid>
+            <dc:creator><![CDATA[Ferdous Arfina Osman]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Even during a measles outbreak, a man’s pointing finger finds a woman]]></title>
@@ -106,7 +124,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/even-during-measles-outbreak-mans-pointing-finger-finds-woman-4177076</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/even-during-measles-outbreak-mans-pointing-finger-finds-woman-4177076</guid>
             <dc:creator><![CDATA[Tagabun Taharim Titun]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 04:01:33 GMT</pubDate>
+            <pubDate>Tue, 19 May 2026 08:21:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Smooth information flow can make development sustainable]]></title>
@@ -139,22 +157,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-economy-premium-education-and-parental-anxiety-4176701</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
             <pubDate>Sat, 16 May 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column by Mahfuz Anam / The PM says police don’t belong to any party. Can we establish this in practice?]]></title>
-            <description><![CDATA[By Mahfuz Anam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/the-pm-says-police-dont-belong-any-party-can-we-establish-practice-4175991</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/the-pm-says-police-dont-belong-any-party-can-we-establish-practice-4175991</guid>
-            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A paralysed Information Commission is undermining citizens’ right to know]]></title>
-            <description><![CDATA[By Shamsul BariRuhi Naz]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/paralysed-information-commission-undermining-citizens-right-know-4176001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/paralysed-information-commission-undermining-citizens-right-know-4176001</guid>
-            <dc:creator><![CDATA[Shamsul BariRuhi Naz]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 11:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
