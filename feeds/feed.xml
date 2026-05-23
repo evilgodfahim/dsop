@@ -4,16 +4,23 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 May 2026 23:59:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 03:50:51 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 May 2026 23:59:52 GMT</pubDate>
+        <pubDate>Sat, 23 May 2026 03:50:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The economics behind education choices in Bangladesh]]></title>
+            <description><![CDATA[I am sitting in a hotel room in Islamabad, reading a recent Bonik Barta report that makes a compelling argument:]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-economics-behind-education-choices-bangladesh-4182236</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-economics-behind-education-choices-bangladesh-4182236</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 03:50:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Children’s safety must be a priority]]></title>
-            <description><![CDATA[Justice must be delivered in all child rape and murder cases]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/childrens-safety-must-be-priority-4182076</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/childrens-safety-must-be-priority-4182076</guid>
-            <pubDate>Fri, 22 May 2026 23:59:52 GMT</pubDate>
+            <pubDate>Sat, 23 May 2026 03:50:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pakistan whitewash and what it says about Bangladesh's Test cricket journey]]></title>
@@ -29,7 +36,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/how-long-will-healthcare-remain-burden-citizens-4181651</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-long-will-healthcare-remain-burden-citizens-4181651</guid>
             <dc:creator><![CDATA[Sumit Banik]]></dc:creator>
-            <pubDate>Fri, 22 May 2026 23:59:52 GMT</pubDate>
+            <pubDate>Sat, 23 May 2026 03:50:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The rabies crisis demands a science-based response, not panic]]></title>
@@ -51,21 +58,13 @@
             <title><![CDATA[New pay scale comes with fiscal strain]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/new-pay-scale-comes-fiscal-strain-4181276</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/new-pay-scale-comes-fiscal-strain-4181276</guid>
-            <pubDate>Fri, 22 May 2026 23:59:52 GMT</pubDate>
+            <pubDate>Sat, 23 May 2026 03:50:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why dissolve the SC secretariat?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/why-dissolve-the-sc-secretariat-4180366</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-dissolve-the-sc-secretariat-4180366</guid>
-            <pubDate>Fri, 22 May 2026 23:59:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Insurers must pay claims properly to regain trust]]></title>
-            <description><![CDATA[By M Kabir Hassan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/insurers-must-pay-claims-properly-regain-trust-4179641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/insurers-must-pay-claims-properly-regain-trust-4179641</guid>
-            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
-            <pubDate>Wed, 20 May 2026 11:00:00 GMT</pubDate>
+            <pubDate>Sat, 23 May 2026 03:50:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An alarming surge in brutal killings]]></title>
@@ -89,13 +88,21 @@
             <title><![CDATA[Rab’s rebranding is not the answer]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/rabs-rebranding-not-the-answer-4179486</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rabs-rebranding-not-the-answer-4179486</guid>
-            <pubDate>Fri, 22 May 2026 23:59:52 GMT</pubDate>
+            <pubDate>Sat, 23 May 2026 03:50:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Draft laws on NHRC and enforced disappearances fall short]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/draft-laws-nhrc-and-enforced-disappearances-fall-short-4178576</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/draft-laws-nhrc-and-enforced-disappearances-fall-short-4178576</guid>
-            <pubDate>Fri, 22 May 2026 23:59:52 GMT</pubDate>
+            <pubDate>Sat, 23 May 2026 03:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Insurers must pay claims properly to regain trust]]></title>
+            <description><![CDATA[By M Kabir Hassan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/insurers-must-pay-claims-properly-regain-trust-4179641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/insurers-must-pay-claims-properly-regain-trust-4179641</guid>
+            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Another child is brutally murdered. How long will we allow that?]]></title>
@@ -111,7 +118,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-the-drive-arsenic-safe-drinking-water-losing-momentum-4179646</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-the-drive-arsenic-safe-drinking-water-losing-momentum-4179646</guid>
             <dc:creator><![CDATA[Mo HoqueAshraf Dewan]]></dc:creator>
-            <pubDate>Fri, 22 May 2026 23:59:52 GMT</pubDate>
+            <pubDate>Sat, 23 May 2026 03:50:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The measles outbreak highlights why Vitamin A is essential]]></title>
@@ -127,7 +134,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/tea-workers-day-over-century-mulluke-cholo-how-much-has-changed-tea-workers-4179661</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tea-workers-day-over-century-mulluke-cholo-how-much-has-changed-tea-workers-4179661</guid>
             <dc:creator><![CDATA[Mintu Deshwara]]></dc:creator>
-            <pubDate>Fri, 22 May 2026 23:59:52 GMT</pubDate>
+            <pubDate>Sat, 23 May 2026 03:50:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How aid dependency is undermining coastal Bangladesh’s water security]]></title>
@@ -135,7 +142,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/how-aid-dependency-undermining-coastal-bangladeshs-water-security-4179016</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-aid-dependency-undermining-coastal-bangladeshs-water-security-4179016</guid>
             <dc:creator><![CDATA[Md Ayatullah Khan]]></dc:creator>
-            <pubDate>Fri, 22 May 2026 23:59:52 GMT</pubDate>
+            <pubDate>Sat, 23 May 2026 03:50:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[As a super El Niño looms, Is Bangladesh ready for the shock?]]></title>
@@ -144,14 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/super-el-nino-looms-bangladesh-ready-the-shock-4179041</guid>
             <dc:creator><![CDATA[Rajib Kumar Saha]]></dc:creator>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fitch’s negative outlook and how we can navigate the storm ahead]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/fitchs-negative-outlook-and-how-we-can-navigate-the-storm-ahead-4179011</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/fitchs-negative-outlook-and-how-we-can-navigate-the-storm-ahead-4179011</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
