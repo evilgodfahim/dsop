@@ -4,13 +4,21 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 09:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 11:10:37 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 24 May 2026 09:16:54 GMT</pubDate>
+        <pubDate>Sun, 24 May 2026 11:10:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[We need to rethink how we respond to haor floods]]></title>
+            <description><![CDATA[In the haor basin, floods have a way of sneaking up on you.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-need-rethink-how-we-respond-haor-floods-4183496</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-rethink-how-we-respond-haor-floods-4183496</guid>
+            <dc:creator><![CDATA[Altaf Russell]]></dc:creator>
+            <pubDate>Sun, 24 May 2026 11:10:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why 'exemplary punishment' will not end the rape epidemic]]></title>
-            <description><![CDATA[The media is, once again, saturated with graphic details of the horrific rape and murder of an eight-year-old child.]]></description>
+            <description><![CDATA[By Shuprova Tasneem]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/why-exemplary-punishment-will-not-end-the-rape-epidemic-4182951</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-exemplary-punishment-will-not-end-the-rape-epidemic-4182951</guid>
             <dc:creator><![CDATA[Shuprova Tasneem]]></dc:creator>
@@ -22,7 +30,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/time-nation-branding-through-smart-storytelling-4182961</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-nation-branding-through-smart-storytelling-4182961</guid>
             <dc:creator><![CDATA[Aftab Hossain]]></dc:creator>
-            <pubDate>Sun, 24 May 2026 09:16:54 GMT</pubDate>
+            <pubDate>Sun, 24 May 2026 11:10:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[127th Birth Anniversary of Kazi Nazrul Islam /  Kazi Nazrul Islam: Rebellion, Revolution, Relevance]]></title>
@@ -30,7 +38,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/kazi-nazrul-islam-rebellion-revolution-relevance-4182966</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/kazi-nazrul-islam-rebellion-revolution-relevance-4182966</guid>
             <dc:creator><![CDATA[Azfar Hussain]]></dc:creator>
-            <pubDate>Sun, 24 May 2026 09:16:54 GMT</pubDate>
+            <pubDate>Sun, 24 May 2026 11:10:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stimulus in a supply-constrained economy]]></title>
@@ -38,13 +46,13 @@
             <link>https://www.thedailystar.net/business/news/stimulus-supply-constrained-economy-4182846</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/stimulus-supply-constrained-economy-4182846</guid>
             <dc:creator><![CDATA[Zahid Hussain]]></dc:creator>
-            <pubDate>Sun, 24 May 2026 09:16:54 GMT</pubDate>
+            <pubDate>Sun, 24 May 2026 11:10:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eid exodus amid fears of traffic chaos]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/eid-exodus-amid-fears-traffic-chaos-4182706</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/eid-exodus-amid-fears-traffic-chaos-4182706</guid>
-            <pubDate>Sun, 24 May 2026 09:16:54 GMT</pubDate>
+            <pubDate>Sun, 24 May 2026 11:10:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The economics behind education choices in Bangladesh]]></title>
@@ -66,13 +74,13 @@
             <title><![CDATA[Who will defend our forests?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/who-will-defend-our-forests-4182946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/who-will-defend-our-forests-4182946</guid>
-            <pubDate>Sun, 24 May 2026 09:16:54 GMT</pubDate>
+            <pubDate>Sun, 24 May 2026 11:10:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Address the rot in our infrastructure sector]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/address-the-rot-our-infrastructure-sector-4182231</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-the-rot-our-infrastructure-sector-4182231</guid>
-            <pubDate>Sun, 24 May 2026 09:16:54 GMT</pubDate>
+            <pubDate>Sun, 24 May 2026 11:10:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An alarming surge in brutal killings]]></title>
@@ -84,19 +92,13 @@
             <title><![CDATA[Children’s safety must be a priority]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/childrens-safety-must-be-priority-4182076</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/childrens-safety-must-be-priority-4182076</guid>
-            <pubDate>Sun, 24 May 2026 09:16:54 GMT</pubDate>
+            <pubDate>Sun, 24 May 2026 11:10:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New pay scale comes with fiscal strain]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/new-pay-scale-comes-fiscal-strain-4181276</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/new-pay-scale-comes-fiscal-strain-4181276</guid>
-            <pubDate>Sun, 24 May 2026 09:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do we need more medical colleges?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/do-we-need-more-medical-colleges-4180726</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/do-we-need-more-medical-colleges-4180726</guid>
-            <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
+            <pubDate>Sun, 24 May 2026 11:10:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pakistan whitewash and what it says about Bangladesh's Test cricket journey]]></title>
@@ -112,7 +114,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/how-long-will-healthcare-remain-burden-citizens-4181651</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-long-will-healthcare-remain-burden-citizens-4181651</guid>
             <dc:creator><![CDATA[Sumit Banik]]></dc:creator>
-            <pubDate>Sun, 24 May 2026 09:16:54 GMT</pubDate>
+            <pubDate>Sun, 24 May 2026 11:10:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The rabies crisis demands a science-based response, not panic]]></title>
