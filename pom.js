@@ -3,8 +3,8 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const RSS = require("rss");
 
-const feedURL = "https://www.sciencemag.org/rss/current.xml";
-const baseURL = "https://www.sciencemag.org";
+const feedURL = "https://feeds.science.org/rss/science.xml";
+const baseURL = "https://www.science.org";
 const flareSolverrURL = process.env.FLARESOLVERR_URL || "http://localhost:8191";
 
 fs.mkdirSync("./feeds", { recursive: true });
