@@ -18,19 +18,7 @@ function parseItemDate(raw) {
   return new Date();
 }
 
-// ===== DIRECT FETCH =====
-async function fetchDirect(url) {
-  console.log(`Fetching ${url} directly...`);
-  const response = await axios.get(url, {
-    headers: { "User-Agent": "Mozilla/5.0 (compatible; RSSBot/1.0)" },
-    timeout: 30000,
-  });
-  return typeof response.data === "string"
-    ? response.data
-    : String(response.data);
-}
-
-// ===== FLARESOLVERR FALLBACK =====
+// ===== FLARESOLVERR =====
 async function fetchWithFlareSolverr(url) {
   console.log(`Fetching ${url} via FlareSolverr...`);
   const response = await axios.post(
@@ -45,20 +33,10 @@ async function fetchWithFlareSolverr(url) {
   throw new Error("FlareSolverr did not return a solution");
 }
 
-// ===== FETCH WITH FALLBACK =====
-async function fetchFeed(url) {
-  try {
-    return await fetchDirect(url);
-  } catch (err) {
-    console.warn(`⚠️  Direct fetch failed (${err.message}) — trying FlareSolverr`);
-    return await fetchWithFlareSolverr(url);
-  }
-}
-
 // ===== MAIN =====
 async function generateRSS() {
   try {
-    const xmlContent = await fetchFeed(feedURL);
+    const xmlContent = await fetchWithFlareSolverr(feedURL);
 
     // xmlMode: true — critical for correct RSS/XML parsing
     const $ = cheerio.load(xmlContent, { xmlMode: true });
@@ -143,7 +121,7 @@ async function generateRSS() {
       feed.item(entry);
     });
 
-    fs.writeFileSync("./feeds/feed.xml", feed.xml({ indent: true }));
+    fs.writeFileSync("./feeds/feed1.xml", feed.xml({ indent: true }));
     console.log(`✅ RSS generated with ${items.length} items.`);
   } catch (err) {
     console.error("❌ Error generating RSS:", err.message);
@@ -162,7 +140,7 @@ async function generateRSS() {
       description: "An error occurred during feed fetch/parse.",
       date: new Date(),
     });
-    fs.writeFileSync("./feeds/feed.xml", feed.xml({ indent: true }));
+    fs.writeFileSync("./feeds/feed1.xml", feed.xml({ indent: true }));
   }
 }
 
