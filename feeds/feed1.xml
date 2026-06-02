@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Science Magazine (error fallback)]]></title>
+        <description><![CDATA[Feed generation failed — placeholder only]]></description>
+        <link>https://www.sciencemag.org</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 02 Jun 2026 12:38:42 GMT</lastBuildDate>
+        <atom:link href="https://www.sciencemag.org/rss/current.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 02 Jun 2026 12:38:42 GMT</pubDate>
+        <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during feed fetch/parse.]]></description>
+            <link>https://www.sciencemag.org</link>
+            <guid isPermaLink="true">https://www.sciencemag.org</guid>
+            <pubDate>Tue, 02 Jun 2026 12:38:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
