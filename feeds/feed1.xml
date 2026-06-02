@@ -2,11 +2,11 @@
     <channel>
         <title><![CDATA[Science]]></title>
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
-        <link>https://www.sciencemag.org</link>
+        <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2026 16:40:36 GMT</lastBuildDate>
-        <atom:link href="https://www.sciencemag.org/rss/current.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Jun 2026 16:40:36 GMT</pubDate>
+        <lastBuildDate>Tue, 02 Jun 2026 17:09:24 GMT</lastBuildDate>
+        <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 02 Jun 2026 17:09:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Strain-resilient intrinsically stretchable electrochemical biointerfaces | Science]]></title>
