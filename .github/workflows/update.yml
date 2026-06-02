@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     services:
       flaresolverr:
         image: ghcr.io/flaresolverr/flaresolverr:latest
@@ -17,7 +17,7 @@ jobs:
         env:
           LOG_LEVEL: info
           CAPTCHA_SOLVER: none
-    
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -42,8 +42,13 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Generate RSS
+      - name: Generate RSS (main)
         run: npm start
+        env:
+          FLARESOLVERR_URL: http://localhost:8191
+
+      - name: Generate RSS (pom)
+        run: node pom.js
         env:
           FLARESOLVERR_URL: http://localhost:8191
 
@@ -51,10 +56,20 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          CHANGED=0
           if [ -f feeds/feed.xml ]; then
             git add feeds/feed.xml
+            CHANGED=1
+          else
+            echo "⚠️ feeds/feed.xml not found. Skipping."
+          fi
+          if [ -f feeds/feed1.xml ]; then
+            git add feeds/feed1.xml
+            CHANGED=1
+          else
+            echo "⚠️ feeds/feed1.xml not found. Skipping."
+          fi
+          if [ "$CHANGED" -eq 1 ]; then
             git commit -m "Auto-update RSS feed [skip ci]" || echo "No changes to commit"
             git push
-          else
-            echo "⚠️ feeds/feed.xml not found. Skipping commit."
           fi
