@@ -1,19 +1,222 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Science Magazine (error fallback)]]></title>
-        <description><![CDATA[Feed generation failed — placeholder only]]></description>
+        <title><![CDATA[Science]]></title>
+        <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.sciencemag.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2026 12:38:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 16:40:36 GMT</lastBuildDate>
         <atom:link href="https://www.sciencemag.org/rss/current.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Jun 2026 12:38:42 GMT</pubDate>
+        <pubDate>Tue, 02 Jun 2026 16:40:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during feed fetch/parse.]]></description>
-            <link>https://www.sciencemag.org</link>
-            <guid isPermaLink="true">https://www.sciencemag.org</guid>
-            <pubDate>Tue, 02 Jun 2026 12:38:42 GMT</pubDate>
+            <title><![CDATA[Strain-resilient intrinsically stretchable electrochemical biointerfaces | Science]]></title>
+            <description><![CDATA[Stretchable bioelectronics promise seamless integration with dynamic tissues, yet their electrochemical performance often collapses under strain owing to cracking, interlayer delamination, and signal distortion. We introduce an intrinsically stretchable ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aed1630</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aed1630</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Importance of elephants for dung beetle biodiversity and ecosystem functions | Science]]></title>
+            <description><![CDATA[Ecologists theorize that removing highly connected species from ecological networks will trigger waves of coextinction, but empirical evidence is scant. We show that elephants are central to a generalized network of interactions between dung beetles and ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aeb7062</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeb7062</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pan-cancer spatial atlas of tertiary lymphoid structures | Science]]></title>
+            <description><![CDATA[Tertiary lymphoid structures (TLSs) are critical regulators of antitumor immunity, yet their spatial organization, maturation, and clinical relevance remain incompletely defined across cancers. We analyzed spatial transcriptomics spanning 12 cancer types ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.adz2742</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adz2742</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Visualizing a lung neutrophil-platelet immunothrombosis cascade during sepsis in mice | Science]]></title>
+            <description><![CDATA[Sepsis is an immune paradox in which host defense is necessary for survival but also contributes to organ damage and death. We defined an immunothrombosis cascade of neutrophil and platelets in the lung microcirculation of Escherichia coli–septic mice. ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.adv0377</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adv0377</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Selective autophagy fine-tunes plant immunity to promote cell survival during viral infection | Science]]></title>
+            <description><![CDATA[RNA viruses co-opt host endomembranes to form replication complexes, often triggering cellular stress and immune responses. Here, we show that Arabidopsis thaliana activates selective autophagy to respond to viruses targeting mitochondria, chloroplasts, ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.adu9554</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adu9554</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stabilizing in-transition phases of superlattices through shape control of silver nanocrystals | Science]]></title>
+            <description><![CDATA[In nanoscale assemblies, observations of structures in the transition pathways between high-symmetry lattices are rare because of the inherent instability of the intermediate phases. We report that silver nanocrystals with shapes similar to truncated ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.ady6472</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ady6472</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Upper-mantle earthquakes beneath East Antarctica | Science]]></title>
+            <description><![CDATA[Intraplate intermediate-depth earthquakes (IDEs) occur at depths >70 kilometers, which is well below the brittle‒ductile transition in Earth’s crust, and their origins are difficult to reconcile with traditional plate tectonics. We applied a deep-...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aea9895</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea9895</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Other Journals | Science]]></title>
+            <description><![CDATA[Editors’ selections from the current scientific literature]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei9225</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei9225</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Science Journals | Science]]></title>
+            <description><![CDATA[Highlights from the Science family of journals]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei9224</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei9224</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maternal work and children’s development: A review | Science]]></title>
+            <description><![CDATA[Causal inference studies suggest minimal impacts of mothers’ work on development from early childhood to adolescence]]></description>
+            <link>https://www.science.org/doi/10.1126/science.adt7494</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adt7494</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Old scientific art inspires generations | Science]]></title>
+            <description><![CDATA[HomeScienceVol. 392, No. 6801Old scientific art inspires generationsBack To Vol. 392, No. 6801 Full accessLetterPast as Prologue Share on Old scientific art inspires generationsRagupathy KannanAuthors Info & AffiliationsScience28 May 2026Vol 392, Issue 6801p. 927DOI: 10.1126/science.aeh5443 PREVIOUS ARTICLEVolatile food trade policy threatens biodiversityPreviousNEXT ARTICLEMaternal work and chil…]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aeh5443</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh5443</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Volatile food trade policy threatens biodiversity | Science]]></title>
+            <description><![CDATA[International trade has benefited food security and biodiversity by leveraging the comparative advantages of countries (1), but the role of international trade stability in safeguarding ecosystems is often overlooked. Volatile food trade policies such as trade bans in response to the COVID-19 pandemic (2), export restrictions related to the Russia’s invasion of Ukraine (3), and import tariffs imposed by the Trump administration (4) have reshaped the food supply chain, leading to cascading effects on biodiversity loss through agricultural production (5), land use change (6), and natural resource use (7). Prioritizing trade policy stability and clarifying its connection to biodiversity conservation can offer a pathway toward improving both food security and ecological resilience.]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aeh4080</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh4080</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking invertebrate welfare in science | Science]]></title>
+            <description><![CDATA[HomeScienceVol. 392, No. 6801Rethinking invertebrate welfare in scienceBack To Vol. 392, No. 6801 Full accessLetter Share on Rethinking invertebrate welfare in scienceYuling Liang, Yunbo Song, [...] , Meng Chen, Xinying Zhang, [...] , Yizhou Wang, Jinle Lin, Weiqian Zhou, Jinhang Zhang, Wenzhi Wang, [...] , Lam Theresia Sri Andriani, Mingrong Liang, Shamshad Ahmed Khan, and Claudio Carere+10 auth…]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aeh3585</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh3585</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Galileo's Fame: Science, Credibility, and Memory in the Seventeenth Century | Science]]></title>
+            <description><![CDATA[HomeScienceVol. 392, No. 6801Galileo's Fame: Science, Credibility, and Memory in the Seventeenth CenturyBack To Vol. 392, No. 6801 Full accessBooks et al.Podcast Share on Galileo's Fame: Science, Credibility, and Memory in the Seventeenth CenturyScience28 May 2026Vol 392, Issue 6801p. 925DOI: 10.1126/science.aei4055 PREVIOUS ARTICLEAn uncommon introduction to chemistryPreviousNEXT ARTICLERethinki…]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei4055</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei4055</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An uncommon introduction to chemistry | Science]]></title>
+            <description><![CDATA[Infectious enthusiasm for the chemicals of everyday life pervades a nanoscientist’s moving narrative]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aeg5513</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeg5513</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Arctic community on the climate front lines | Science]]></title>
+            <description><![CDATA[The harsh realities of global warming are becoming difficult to ignore in Norway’s Longyearbyen]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aeh0733</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh0733</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Silent interference | Science]]></title>
+            <description><![CDATA[Human-generated electromagnetic noise has long-lasting effects on flight orientation in bats]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei2381</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei2381</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Closing the loop on lithium refining | Science]]></title>
+            <description><![CDATA[An aqueous process for lithium hardrock refining is economically and environmentally attractive]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei1181</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei1181</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting home in the dark | Science]]></title>
+            <description><![CDATA[Two mechanisms, independent of daylight, may enable pigeons to navigate using Earth’s magnetic field]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aeh9507</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh9507</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The hidden consequences of elephant extinction | Science]]></title>
+            <description><![CDATA[The absence of African elephants impairs the ecological role of dung beetles]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei2362</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei2362</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia’s erosion of peer review | Science]]></title>
+            <description><![CDATA[Throughout the world, peer review serves as the cornerstone of the scientific enterprise, providing rigorous quality control and building the confidence that underpins progress for both science and society. Without such a robust process, scientists and ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei8900</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei8900</guid>
+            <pubDate>Thu, 28 May 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Surveys capture the pulsing of mantle plumes—a potential cause of mass extinctions]]></title>
+            <description><![CDATA[Seismic imaging and drilling cruises bolster a controversial explanation for ancient surges in warming]]></description>
+            <link>https://www.science.org/content/article/surveys-capture-pulsing-mantle-plumes-potential-cause-mass-extinctions</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/surveys-capture-pulsing-mantle-plumes-potential-cause-mass-extinctions</guid>
+            <pubDate>Wed, 27 May 2026 17:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can fast, nimble clinical trials deliver a drug for the new Ebola outbreak?]]></title>
+            <description><![CDATA[Past outbreaks spawned clever strategies for testing antivirals and antibodies, but researchers will still face major challenges on the ground]]></description>
+            <link>https://www.science.org/content/article/can-fast-nimble-clinical-trials-deliver-drug-halt-new-ebola-outbreak</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/can-fast-nimble-clinical-trials-deliver-drug-halt-new-ebola-outbreak</guid>
+            <pubDate>Tue, 26 May 2026 20:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Have astronomers spotted an exploding primordial star?]]></title>
+            <description><![CDATA[Puzzling JWST observation could instead be one of the universe's first galaxies—or something more mundane]]></description>
+            <link>https://www.science.org/content/article/have-astronomers-spotted-exploding-primordial-star</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/have-astronomers-spotted-exploding-primordial-star</guid>
+            <pubDate>Thu, 21 May 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. researchers face new restrictions on publishing with foreign collaborators]]></title>
+            <description><![CDATA[NIH, NASA grantees are confused and concerned amid agencies’ piecemeal communication]]></description>
+            <link>https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators</guid>
+            <pubDate>Wed, 20 May 2026 21:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Not alive, but not dead: disembodied human brains used for drug testing]]></title>
+            <description><![CDATA[By restoring some functions to intact brains from deceased donors, the startup Bexorg hopes to create a better drug development test bed for neurodegenerative diseases]]></description>
+            <link>https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing</guid>
+            <pubDate>Wed, 20 May 2026 16:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chinese postdocs in U.S. hit with a wave of prosecutions and deportations]]></title>
+            <description><![CDATA[The U.S. government has recently convicted multiple postdocs for improper shipments of biological materials. Some see a replay of the 2018 China Initiative]]></description>
+            <link>https://www.science.org/content/article/chinese-postdocs-u-s-hit-wave-prosecutions-and-deportations</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/chinese-postdocs-u-s-hit-wave-prosecutions-and-deportations</guid>
+            <pubDate>Tue, 12 May 2026 21:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stopping phase reveals abrupt arrest of large strike-slip earthquakes | Science]]></title>
+            <description><![CDATA[Earthquake magnitude is controlled by where and when rupture propagation stops. However, rupture arrest has rarely been directly observed in near-field seismic records of natural earthquakes. Here, we present systematic near-field observations of ground-...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aef3733</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aef3733</guid>
+            <pubDate>Thu, 23 Apr 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A high-throughput selection system for fast-acting covalent protein drugs | Science]]></title>
+            <description><![CDATA[Covalent protein drugs offer therapeutic potential but are limited by slow target engagement and the absence of high-throughput selection platforms. Rapid covalent binding requires coordinated optimization of affinity, stability, and warhead geometry, ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.adv3081</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adv3081</guid>
+            <pubDate>Thu, 02 Apr 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unstructured transcription factor interactions enable emergent specificity | Science]]></title>
+            <description><![CDATA[How intrinsically disordered regions (IDRs) shape chromatin binding and nuclear organization of transcription factors (TFs) remains unclear. We used proximity-assisted photoactivation (PAPA), a single-molecule protein-protein interaction sensor, to ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aeb6487</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeb6487</guid>
+            <pubDate>Thu, 19 Mar 2026 13:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
