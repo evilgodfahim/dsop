@@ -4,16 +4,39 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 03 Jun 2026 00:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 05:58:23 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 03 Jun 2026 00:25:44 GMT</pubDate>
+        <pubDate>Wed, 03 Jun 2026 05:58:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[As the budget nears, a word of caution on money printing]]></title>
+            <description><![CDATA[Money-printing, or monetary expansion, is often described in a way that makes it sound as if the government runs a printing press.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-budget-nears-word-caution-money-printing-4189101</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-budget-nears-word-caution-money-printing-4189101</guid>
+            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 05:58:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Bicycle Day / An ode to the humble bicycle]]></title>
+            <description><![CDATA[By Debra Efroymson]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/ode-the-humble-bicycle-4189111</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ode-the-humble-bicycle-4189111</guid>
+            <dc:creator><![CDATA[Debra Efroymson]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 05:58:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[State minister’s DU remarks and the bigger crisis in higher education]]></title>
+            <description><![CDATA[By Syed Saad Andaleeb]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/state-ministers-du-remarks-and-the-bigger-crisis-higher-education-4189121</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/state-ministers-du-remarks-and-the-bigger-crisis-higher-education-4189121</guid>
+            <dc:creator><![CDATA[Syed Saad Andaleeb]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 05:58:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[India’s push-in attempts risk derailing thawing ties]]></title>
-            <description><![CDATA[Established procedures must be followed to manage border crossings]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/indias-push-attempts-risk-derailing-thawing-ties-4188921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/indias-push-attempts-risk-derailing-thawing-ties-4188921</guid>
-            <pubDate>Wed, 03 Jun 2026 00:25:44 GMT</pubDate>
+            <pubDate>Wed, 03 Jun 2026 05:58:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What the FY2027 budget must prioritise]]></title>
@@ -29,7 +52,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/securing-the-future-our-women-athletes-4188426</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/securing-the-future-our-women-athletes-4188426</guid>
             <dc:creator><![CDATA[Shafiq R Bhuiyan]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 00:25:44 GMT</pubDate>
+            <pubDate>Wed, 03 Jun 2026 05:58:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beyond one cancelled film screening]]></title>
@@ -48,38 +71,22 @@
             <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Employ better strategies to stop lynching]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/employ-better-strategies-stop-lynching-4188096</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/employ-better-strategies-stop-lynching-4188096</guid>
-            <pubDate>Wed, 03 Jun 2026 00:25:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why millions in training funds haven't solved unemployment in Bangladesh]]></title>
-            <description><![CDATA[By Manzoor Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/news/why-millions-training-funds-havent-solved-unemployment-bangladesh-4187486</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/why-millions-training-funds-havent-solved-unemployment-bangladesh-4187486</guid>
-            <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[100 days of BNP government: Not a verdict, but a possibility]]></title>
-            <description><![CDATA[By Zillur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/100-days-bnp-government-not-verdict-possibility-4187476</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/100-days-bnp-government-not-verdict-possibility-4187476</guid>
-            <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Can we ever have safe travels?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/can-we-ever-have-safe-travels-4188411</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/can-we-ever-have-safe-travels-4188411</guid>
             <pubDate>Tue, 02 Jun 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Employ better strategies to stop lynching]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/employ-better-strategies-stop-lynching-4188096</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/employ-better-strategies-stop-lynching-4188096</guid>
+            <pubDate>Wed, 03 Jun 2026 05:58:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Repair broken hospital inspection system]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/repair-broken-hospital-inspection-system-4187366</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/repair-broken-hospital-inspection-system-4187366</guid>
-            <pubDate>Wed, 03 Jun 2026 00:25:44 GMT</pubDate>
+            <pubDate>Wed, 03 Jun 2026 05:58:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Passenger services in trains must improve]]></title>
@@ -94,18 +101,28 @@
             <pubDate>Tue, 26 May 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Economic stimulus is necessary, but caution must be exercised]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/economic-stimulus-necessary-caution-must-be-exercised-4183576</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/economic-stimulus-necessary-caution-must-be-exercised-4183576</guid>
-            <pubDate>Wed, 03 Jun 2026 00:25:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The corporate sector in Bangladesh needs a cultural reset]]></title>
             <description><![CDATA[By Soud Bin Faisal]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/the-corporate-sector-bangladesh-needs-cultural-reset-4187481</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-corporate-sector-bangladesh-needs-cultural-reset-4187481</guid>
             <dc:creator><![CDATA[Soud Bin Faisal]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 00:25:44 GMT</pubDate>
+            <pubDate>Wed, 03 Jun 2026 05:58:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[100 days of BNP government: Not a verdict, but a possibility]]></title>
+            <description><![CDATA[By Zillur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/100-days-bnp-government-not-verdict-possibility-4187476</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/100-days-bnp-government-not-verdict-possibility-4187476</guid>
+            <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why millions in training funds haven't solved unemployment in Bangladesh]]></title>
+            <description><![CDATA[By Manzoor Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/news/why-millions-training-funds-havent-solved-unemployment-bangladesh-4187486</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/why-millions-training-funds-havent-solved-unemployment-bangladesh-4187486</guid>
+            <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Qurbani, hajj, and the economy Bangladesh is failing to manage]]></title>
@@ -113,7 +130,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/qurbani-hajj-and-the-economy-bangladesh-failing-manage-4184516</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/qurbani-hajj-and-the-economy-bangladesh-failing-manage-4184516</guid>
             <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 00:25:44 GMT</pubDate>
+            <pubDate>Wed, 03 Jun 2026 05:58:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New textbooks again? We must go for real reform]]></title>
@@ -138,22 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/could-budget-set-the-groundwork-trillion-dollar-economy-4184556</guid>
             <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The justice system must adapt to the changing nature of digital evidence]]></title>
-            <description><![CDATA[By Ira Mehezabin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-justice-system-must-adapt-the-changing-nature-digital-evidence-4183846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-justice-system-must-adapt-the-changing-nature-digital-evidence-4183846</guid>
-            <dc:creator><![CDATA[Ira Mehezabin]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 00:25:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We need to confront sexual violence both online and offline]]></title>
-            <description><![CDATA[By Md Aktaruzzaman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-need-confront-sexual-violence-both-online-and-offline-4183856</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-confront-sexual-violence-both-online-and-offline-4183856</guid>
-            <dc:creator><![CDATA[Md Aktaruzzaman]]></dc:creator>
-            <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
