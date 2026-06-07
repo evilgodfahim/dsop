@@ -4,13 +4,37 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Jun 2026 23:58:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2026 04:06:42 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Jun 2026 23:58:22 GMT</pubDate>
+        <pubDate>Sun, 07 Jun 2026 04:06:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Enough is enough. Time to take strong action against child sexual abuse]]></title>
+            <description><![CDATA[Following the rape and murder of eight-year-old Ramisa Akter in Dhaka’s Pallabi area, Prime Minister Tarique Rahman visited the home of the victim, offering condolences and pledging swift justice.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/enough-enough-time-take-strong-action-against-child-sexual-abuse-4192241</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/enough-enough-time-take-strong-action-against-child-sexual-abuse-4192241</guid>
+            <dc:creator><![CDATA[Mohammad Nurunnabi]]></dc:creator>
+            <pubDate>Sun, 07 Jun 2026 04:06:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Bangladesh’s copyright law keep up with AI?]]></title>
+            <description><![CDATA[By Samiul Huq]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/can-bangladeshs-copyright-law-keep-ai-4192246</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-bangladeshs-copyright-law-keep-ai-4192246</guid>
+            <dc:creator><![CDATA[Samiul Huq]]></dc:creator>
+            <pubDate>Sun, 07 Jun 2026 04:06:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How should we read Bangladesh’s UNGA presidency against global and domestic realities?]]></title>
+            <description><![CDATA[By Alauddin Mohammad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-should-we-read-bangladeshs-unga-presidency-against-global-and-domestic-realities-4192281</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-should-we-read-bangladeshs-unga-presidency-against-global-and-domestic-realities-4192281</guid>
+            <dc:creator><![CDATA[Alauddin Mohammad]]></dc:creator>
+            <pubDate>Sun, 07 Jun 2026 04:06:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[From a shrine pond to a Mirpur flat: We keep mourning what we fail to protect]]></title>
-            <description><![CDATA[Instead of framing the issue as a debate on tradition versus modernity, we need to ask whether we are capable of caring for what we claim to value. If the crocodile was heritage, why was it not managed responsibly? If the child’s safety mattered, why was the danger not addressed earlier? If the shrine was sacred, why was its ecology left to improvisation?]]></description>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
             <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/shrine-pond-mirpur-flat-we-keep-mourning-what-we-fail-protect-4191486</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/shrine-pond-mirpur-flat-we-keep-mourning-what-we-fail-protect-4191486</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
@@ -42,49 +66,25 @@
             <title><![CDATA[A tragedy born of negligence]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/tragedy-born-negligence-4191301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/tragedy-born-negligence-4191301</guid>
-            <pubDate>Sat, 06 Jun 2026 23:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Electricity price hikes: Why is BNP reverting to failed power policies?]]></title>
-            <description><![CDATA[By Kallol Mustafa]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/electricity-price-hikes-why-bnp-reverting-failed-power-policies-4190851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/electricity-price-hikes-why-bnp-reverting-failed-power-policies-4190851</guid>
-            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Environment Day / Time to address the unequal burden of environmental change]]></title>
-            <description><![CDATA[By Nazmun Naher]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/time-address-the-unequal-burden-environmental-change-4190856</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-address-the-unequal-burden-environmental-change-4190856</guid>
-            <dc:creator><![CDATA[Nazmun Naher]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Environment Day / How BNP can make its 25 crore tree plantation project work]]></title>
-            <description><![CDATA[By Haseeb Md. Irfanullah]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-bnp-can-make-its-25-crore-tree-plantation-project-work-4190861</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-bnp-can-make-its-25-crore-tree-plantation-project-work-4190861</guid>
-            <dc:creator><![CDATA[Haseeb Md. Irfanullah]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 11:00:00 GMT</pubDate>
+            <pubDate>Sun, 07 Jun 2026 04:06:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Address the risks of AI-enabled identity fraud]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/address-the-risks-ai-enabled-identity-fraud-4190846</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-the-risks-ai-enabled-identity-fraud-4190846</guid>
-            <pubDate>Sat, 06 Jun 2026 23:58:22 GMT</pubDate>
+            <pubDate>Sun, 07 Jun 2026 04:06:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don't burden citizens with higher power tariffs]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-burden-citizens-higher-power-tariffs-4190626</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-burden-citizens-higher-power-tariffs-4190626</guid>
-            <pubDate>Sat, 06 Jun 2026 23:58:22 GMT</pubDate>
+            <pubDate>Sun, 07 Jun 2026 04:06:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No time for complacency]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/no-time-complacency-4189791</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/no-time-complacency-4189791</guid>
-            <pubDate>Sat, 06 Jun 2026 23:58:22 GMT</pubDate>
+            <pubDate>Sun, 07 Jun 2026 04:06:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We cannot fight dengue without data]]></title>
@@ -96,7 +96,7 @@
             <title><![CDATA[India’s push-in attempts risk derailing thawing ties]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/indias-push-attempts-risk-derailing-thawing-ties-4188921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/indias-push-attempts-risk-derailing-thawing-ties-4188921</guid>
-            <pubDate>Sat, 06 Jun 2026 23:58:22 GMT</pubDate>
+            <pubDate>Sun, 07 Jun 2026 04:06:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The budget must rebuild social protection for a changing economy]]></title>
@@ -120,7 +120,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/ipemis-and-the-future-primary-education-4190151</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ipemis-and-the-future-primary-education-4190151</guid>
             <dc:creator><![CDATA[Monira Jahan]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 23:58:22 GMT</pubDate>
+            <pubDate>Sun, 07 Jun 2026 04:06:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deadly spillovers from Myanmar's civil war can no longer be ignored]]></title>
