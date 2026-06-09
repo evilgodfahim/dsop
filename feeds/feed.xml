@@ -4,13 +4,29 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Jun 2026 23:59:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 04:02:55 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 08 Jun 2026 23:59:48 GMT</pubDate>
+        <pubDate>Tue, 09 Jun 2026 04:02:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[How the FY2026-27 budget can bridge Bangladesh's climate finance gap]]></title>
+            <description><![CDATA[Bangladesh’s development trajectory has increasingly been shaped by climate change impacts, putting growing pressure on how public finance is allocated and utilised to deliver sustainable outcomes.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-the-fy2026-27-budget-can-bridge-bangladeshs-climate-finance-gap-4194056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-the-fy2026-27-budget-can-bridge-bangladeshs-climate-finance-gap-4194056</guid>
+            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 04:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ramisa, Asiya, and the unfinished duty of the state]]></title>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/ramisa-asiya-and-the-unfinished-duty-the-state-4194071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ramisa-asiya-and-the-unfinished-duty-the-state-4194071</guid>
+            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 04:02:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[True sustainability for ports means going beyond green]]></title>
-            <description><![CDATA[Ports are key gateways of trade and economic growth around the world, and they are increasingly embracing the idea of going green.]]></description>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
             <link>https://www.thedailystar.net/opinion/news/true-sustainability-ports-means-going-beyond-green-4193096</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/true-sustainability-ports-means-going-beyond-green-4193096</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
@@ -57,14 +73,6 @@
             <pubDate>Sun, 07 Jun 2026 08:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How should we read Bangladesh’s UNGA presidency against global and domestic realities?]]></title>
-            <description><![CDATA[By Alauddin Mohammad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-should-we-read-bangladeshs-unga-presidency-against-global-and-domestic-realities-4192281</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-should-we-read-bangladeshs-unga-presidency-against-global-and-domestic-realities-4192281</guid>
-            <dc:creator><![CDATA[Alauddin Mohammad]]></dc:creator>
-            <pubDate>Sun, 07 Jun 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tackle the rat infestation in Dhaka]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/tackle-the-rat-infestation-dhaka-4193071</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/tackle-the-rat-infestation-dhaka-4193071</guid>
@@ -80,7 +88,7 @@
             <title><![CDATA[India must rein in internal pressure on push-ins]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/india-must-rein-internal-pressure-push-ins-4191966</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/india-must-rein-internal-pressure-push-ins-4191966</guid>
-            <pubDate>Mon, 08 Jun 2026 23:59:48 GMT</pubDate>
+            <pubDate>Tue, 09 Jun 2026 04:02:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don’t let history crumble]]></title>
@@ -92,13 +100,15 @@
             <title><![CDATA[A tragedy born of negligence]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/tragedy-born-negligence-4191301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/tragedy-born-negligence-4191301</guid>
-            <pubDate>Mon, 08 Jun 2026 23:59:48 GMT</pubDate>
+            <pubDate>Tue, 09 Jun 2026 04:02:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Address the risks of AI-enabled identity fraud]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/address-the-risks-ai-enabled-identity-fraud-4190846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-the-risks-ai-enabled-identity-fraud-4190846</guid>
-            <pubDate>Mon, 08 Jun 2026 23:59:48 GMT</pubDate>
+            <title><![CDATA[How should we read Bangladesh’s UNGA presidency against global and domestic realities?]]></title>
+            <description><![CDATA[By Alauddin Mohammad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-should-we-read-bangladeshs-unga-presidency-against-global-and-domestic-realities-4192281</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-should-we-read-bangladeshs-unga-presidency-against-global-and-domestic-realities-4192281</guid>
+            <dc:creator><![CDATA[Alauddin Mohammad]]></dc:creator>
+            <pubDate>Sun, 07 Jun 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From a shrine pond to a Mirpur flat: We keep mourning what we fail to protect]]></title>
@@ -130,7 +140,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/what-the-mirpur-tragedy-reveals-about-elderly-care-bangladesh-4189746</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-mirpur-tragedy-reveals-about-elderly-care-bangladesh-4189746</guid>
             <dc:creator><![CDATA[Aisha Siddika]]></dc:creator>
-            <pubDate>Mon, 08 Jun 2026 23:59:48 GMT</pubDate>
+            <pubDate>Tue, 09 Jun 2026 04:02:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The budget must rebuild social protection for a changing economy]]></title>
@@ -147,14 +157,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/justifying-border-killings-has-the-home-minister-conceded-the-indian-narrative-4190161</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IPEMIS and the future of primary education]]></title>
-            <description><![CDATA[By Monira Jahan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/ipemis-and-the-future-primary-education-4190151</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ipemis-and-the-future-primary-education-4190151</guid>
-            <dc:creator><![CDATA[Monira Jahan]]></dc:creator>
-            <pubDate>Mon, 08 Jun 2026 23:59:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
