@@ -4,17 +4,10 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2026 11:54:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 14:34:48 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Jun 2026 11:54:38 GMT</pubDate>
+        <pubDate>Tue, 09 Jun 2026 14:34:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Amid a flood of AI advances, astrophysicists are questioning the soul of their field]]></title>
-            <description><![CDATA[Researchers see enormous power in new tools—but also the potential end of astrophysics as a human endeavor]]></description>
-            <link>https://www.science.org/content/article/amid-flood-ai-advances-astrophysicists-are-questioning-soul-their-field</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/amid-flood-ai-advances-astrophysicists-are-questioning-soul-their-field</guid>
-            <pubDate>Thu, 04 Jun 2026 19:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Memory reactivation underlies experience-dependent adaptive regulation of sleep | Science]]></title>
             <description><![CDATA[Recent memories are consolidated during sleep by spontaneous reactivation. However, whether and how memory reactivation affects sleep dynamics remain unclear. By tracking and modulating memory activity during sleep in mice, we revealed that negative ...]]></description>
