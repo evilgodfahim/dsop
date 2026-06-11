@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 07:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 12:05:24 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jun 2026 07:28:13 GMT</pubDate>
+        <pubDate>Thu, 11 Jun 2026 12:05:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Will the budget deliver on the uprising’s promise of equality?]]></title>
@@ -14,7 +14,15 @@
             <link>https://www.thedailystar.net/opinion/views/news/will-the-budget-deliver-the-uprisings-promise-equality-4195781</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/will-the-budget-deliver-the-uprisings-promise-equality-4195781</guid>
             <dc:creator><![CDATA[Altaf Parvez]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 07:28:13 GMT</pubDate>
+            <pubDate>Thu, 11 Jun 2026 12:05:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the six newborns' deaths bring any change in our health sector?]]></title>
+            <description><![CDATA[By Ashish Barua]]></description>
+            <link>https://www.thedailystar.net/opinion/news/will-the-six-newborns-deaths-bring-any-change-our-health-sector-4195831</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-the-six-newborns-deaths-bring-any-change-our-health-sector-4195831</guid>
+            <dc:creator><![CDATA[Ashish Barua]]></dc:creator>
+            <pubDate>Thu, 11 Jun 2026 12:05:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Raising tobacco taxes is in Bangladesh’s own interest]]></title>
@@ -22,21 +30,21 @@
             <link>https://www.thedailystar.net/opinion/views/news/raising-tobacco-taxes-bangladeshs-own-interest-4195791</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/raising-tobacco-taxes-bangladeshs-own-interest-4195791</guid>
             <dc:creator><![CDATA[Ahmed Jamsheed Mohamed]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 07:28:13 GMT</pubDate>
+            <pubDate>Thu, 11 Jun 2026 12:05:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘A strong Bangladesh needs social cohesion and a shared vision beyond politics’]]></title>
             <description><![CDATA[By Porimol Palma]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/strong-bangladesh-needs-social-cohesion-and-shared-vision-beyond-politics-4195806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/strong-bangladesh-needs-social-cohesion-and-shared-vision-beyond-politics-4195806</guid>
+            <link>https://www.thedailystar.net/opinion/interviews/news/strong-bangladesh-needs-social-cohesion-and-shared-vision-beyond-politics-4195806</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/strong-bangladesh-needs-social-cohesion-and-shared-vision-beyond-politics-4195806</guid>
             <dc:creator><![CDATA[Porimol Palma]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 07:28:13 GMT</pubDate>
+            <pubDate>Thu, 11 Jun 2026 12:05:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BNP must reconsider its approach to reserved seats]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/bnp-must-reconsider-its-approach-reserved-seats-4195431</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bnp-must-reconsider-its-approach-reserved-seats-4195431</guid>
-            <pubDate>Thu, 11 Jun 2026 07:28:13 GMT</pubDate>
+            <pubDate>Thu, 11 Jun 2026 12:05:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh's capital market must not remain an untapped growth engine]]></title>
@@ -63,12 +71,10 @@
             <pubDate>Wed, 10 Jun 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How long will the untimely death of children be met with silence?]]></title>
-            <description><![CDATA[By Sifat Afrin Shams]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-long-will-the-untimely-death-children-be-met-silence-4194936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-long-will-the-untimely-death-children-be-met-silence-4194936</guid>
-            <dc:creator><![CDATA[Sifat Afrin Shams]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 11:00:00 GMT</pubDate>
+            <title><![CDATA[Failure to clean up Dhaka's air is costing lives]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/failure-clean-dhakas-air-costing-lives-4195761</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/failure-clean-dhakas-air-costing-lives-4195761</guid>
+            <pubDate>Thu, 11 Jun 2026 12:05:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Let nature reclaim its space]]></title>
@@ -80,7 +86,7 @@
             <title><![CDATA[Islami Bank must not be a battleground]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/islami-bank-must-not-be-battleground-4194551</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/islami-bank-must-not-be-battleground-4194551</guid>
-            <pubDate>Thu, 11 Jun 2026 07:28:13 GMT</pubDate>
+            <pubDate>Thu, 11 Jun 2026 12:05:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tackle the rat infestation in Dhaka]]></title>
@@ -95,10 +101,12 @@
             <pubDate>Sun, 07 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[India must rein in internal pressure on push-ins]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/india-must-rein-internal-pressure-push-ins-4191966</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/india-must-rein-internal-pressure-push-ins-4191966</guid>
-            <pubDate>Thu, 11 Jun 2026 07:28:13 GMT</pubDate>
+            <title><![CDATA[How the FY2026-27 budget can bridge Bangladesh's climate finance gap]]></title>
+            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-the-fy2026-27-budget-can-bridge-bangladeshs-climate-finance-gap-4194056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-the-fy2026-27-budget-can-bridge-bangladeshs-climate-finance-gap-4194056</guid>
+            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 08:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Restoring faith in the justice system is key to ending mob violence]]></title>
@@ -147,14 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/true-sustainability-ports-means-going-beyond-green-4193096</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
             <pubDate>Mon, 08 Jun 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reimagining Bangladesh’s digital identity ecosystem]]></title>
-            <description><![CDATA[By T.I.M. Nurul Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/reimagining-bangladeshs-digital-identity-ecosystem-4193161</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/reimagining-bangladeshs-digital-identity-ecosystem-4193161</guid>
-            <dc:creator><![CDATA[T.I.M. Nurul Kabir]]></dc:creator>
-            <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
