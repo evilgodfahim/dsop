@@ -4,9 +4,9 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 12:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 16:46:58 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jun 2026 12:05:26 GMT</pubDate>
+        <pubDate>Thu, 11 Jun 2026 16:46:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Amid a flood of AI advances, astrophysicists are questioning the soul of their field]]></title>
@@ -90,13 +90,6 @@
             <description><![CDATA[Strengthened US oversight of dual-use research may face growing jurisdictional limits while imposing costs on domestic science]]></description>
             <link>https://www.science.org/doi/10.1126/science.aee2479</link>
             <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aee2479</guid>
-            <pubDate>Thu, 04 Jun 2026 13:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aquavoltaics knowledge gaps undercut benefits | Science]]></title>
-            <description><![CDATA[Aquavoltaics systems, which integrate floating photovoltaics with aquaculture, are increasingly promoted as a synergistic solution for global energy and food security (1). Although this dual-use model can increase power efficiency and water quality (2), rapid industrial expansion is outpacing scientific understanding. To ensure sustainable development, aquavoltaics managers need more data about the effects of the systems, and policy-makers must establish standards and governance that adhere to scientific evidence.]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aeh2751</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh2751</guid>
             <pubDate>Thu, 04 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
