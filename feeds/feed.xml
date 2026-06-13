@@ -4,22 +4,45 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Jun 2026 02:46:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2026 06:54:09 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 13 Jun 2026 02:46:23 GMT</pubDate>
+        <pubDate>Sat, 13 Jun 2026 06:54:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Will this be the budget that transforms education?]]></title>
+            <description><![CDATA[The proposed budget for FY2026-27 indicates a welcome shift in language to back up the government’s electoral promise to gradually increase public investment in education.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/will-be-the-budget-transforms-education-4197396</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-be-the-budget-transforms-education-4197396</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 13 Jun 2026 06:54:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A budget of promises, pressures, and unanswered questions]]></title>
+            <description><![CDATA[By Selim Raihan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/budget-promises-pressures-and-unanswered-questions-4197386</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/budget-promises-pressures-and-unanswered-questions-4197386</guid>
+            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
+            <pubDate>Sat, 13 Jun 2026 06:54:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Air pollution: What Beijing got right that Dhaka still hasn't]]></title>
+            <description><![CDATA[By Nazma Sultana]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/air-pollution-what-beijing-got-right-dhaka-still-hasnt-4197401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/air-pollution-what-beijing-got-right-dhaka-still-hasnt-4197401</guid>
+            <dc:creator><![CDATA[Nazma Sultana]]></dc:creator>
+            <pubDate>Sat, 13 Jun 2026 06:54:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Education, health budgets must see real outcomes]]></title>
-            <description><![CDATA[The government must focus on implementation, efficient spending]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/education-health-budgets-must-see-real-outcomes-4197216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/education-health-budgets-must-see-real-outcomes-4197216</guid>
-            <pubDate>Sat, 13 Jun 2026 02:46:23 GMT</pubDate>
+            <pubDate>Sat, 13 Jun 2026 06:54:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Proper implementation of the budget is key]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/proper-implementation-the-budget-key-4196601</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/proper-implementation-the-budget-key-4196601</guid>
-            <pubDate>Sat, 13 Jun 2026 02:46:23 GMT</pubDate>
+            <pubDate>Sat, 13 Jun 2026 06:54:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A budget built on recovery and reform, but can it deliver?]]></title>
@@ -38,36 +61,10 @@
             <pubDate>Fri, 12 Jun 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World Day Against Child Labour /  We cannot achieve development while children remain at work]]></title>
-            <description><![CDATA[By Laila Khondkar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-cannot-achieve-development-while-children-remain-work-4196706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-cannot-achieve-development-while-children-remain-work-4196706</guid>
-            <dc:creator><![CDATA[Laila Khondkar]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the budget deliver on the uprising’s promise of equality?]]></title>
-            <description><![CDATA[By Altaf Parvez]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/will-the-budget-deliver-the-uprisings-promise-equality-4195781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/will-the-budget-deliver-the-uprisings-promise-equality-4195781</guid>
-            <dc:creator><![CDATA[Altaf Parvez]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the six newborns' deaths bring any change in our health sector?]]></title>
-            <description><![CDATA[By Ashish Barua]]></description>
-            <link>https://www.thedailystar.net/opinion/news/will-the-six-newborns-deaths-bring-any-change-our-health-sector-4195831</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-the-six-newborns-deaths-bring-any-change-our-health-sector-4195831</guid>
-            <dc:creator><![CDATA[Ashish Barua]]></dc:creator>
-            <pubDate>Sat, 13 Jun 2026 02:46:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raising tobacco taxes is in Bangladesh’s own interest]]></title>
-            <description><![CDATA[By Ahmed Jamsheed Mohamed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/raising-tobacco-taxes-bangladeshs-own-interest-4195791</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/raising-tobacco-taxes-bangladeshs-own-interest-4195791</guid>
-            <dc:creator><![CDATA[Ahmed Jamsheed Mohamed]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 10:00:00 GMT</pubDate>
+            <title><![CDATA[Address the gaps in family planning services]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/address-the-gaps-family-planning-services-4197381</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-the-gaps-family-planning-services-4197381</guid>
+            <pubDate>Sat, 13 Jun 2026 06:54:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Failure to clean up Dhaka's air is costing lives]]></title>
@@ -79,7 +76,7 @@
             <title><![CDATA[BNP must reconsider its approach to reserved seats]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/bnp-must-reconsider-its-approach-reserved-seats-4195431</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bnp-must-reconsider-its-approach-reserved-seats-4195431</guid>
-            <pubDate>Sat, 13 Jun 2026 02:46:23 GMT</pubDate>
+            <pubDate>Sat, 13 Jun 2026 06:54:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Let nature reclaim its space]]></title>
@@ -91,13 +88,37 @@
             <title><![CDATA[Islami Bank must not be a battleground]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/islami-bank-must-not-be-battleground-4194551</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/islami-bank-must-not-be-battleground-4194551</guid>
-            <pubDate>Sat, 13 Jun 2026 02:46:23 GMT</pubDate>
+            <pubDate>Sat, 13 Jun 2026 06:54:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tackle the rat infestation in Dhaka]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/tackle-the-rat-infestation-dhaka-4193071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/tackle-the-rat-infestation-dhaka-4193071</guid>
-            <pubDate>Mon, 08 Jun 2026 10:00:00 GMT</pubDate>
+            <title><![CDATA[Compensation must not trump probe]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/compensation-must-not-trump-probe-4192796</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/compensation-must-not-trump-probe-4192796</guid>
+            <pubDate>Sat, 13 Jun 2026 06:54:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In the era of AI, who gets to live longer?]]></title>
+            <description><![CDATA[By Sabbir Ahmad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-era-ai-who-gets-live-longer-4196341</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-era-ai-who-gets-live-longer-4196341</guid>
+            <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
+            <pubDate>Sat, 13 Jun 2026 06:54:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raising tobacco taxes is in Bangladesh’s own interest]]></title>
+            <description><![CDATA[By Ahmed Jamsheed Mohamed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/raising-tobacco-taxes-bangladeshs-own-interest-4195791</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/raising-tobacco-taxes-bangladeshs-own-interest-4195791</guid>
+            <dc:creator><![CDATA[Ahmed Jamsheed Mohamed]]></dc:creator>
+            <pubDate>Thu, 11 Jun 2026 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the budget deliver on the uprising’s promise of equality?]]></title>
+            <description><![CDATA[By Altaf Parvez]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/will-the-budget-deliver-the-uprisings-promise-equality-4195781</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/will-the-budget-deliver-the-uprisings-promise-equality-4195781</guid>
+            <dc:creator><![CDATA[Altaf Parvez]]></dc:creator>
+            <pubDate>Thu, 11 Jun 2026 08:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh's capital market must not remain an untapped growth engine]]></title>
@@ -130,30 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-long-will-the-untimely-death-children-be-met-silence-4194936</guid>
             <dc:creator><![CDATA[Sifat Afrin Shams]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the FY2026-27 budget can bridge Bangladesh's climate finance gap]]></title>
-            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-the-fy2026-27-budget-can-bridge-bangladeshs-climate-finance-gap-4194056</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-the-fy2026-27-budget-can-bridge-bangladeshs-climate-finance-gap-4194056</guid>
-            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Restoring faith in the justice system is key to ending mob violence]]></title>
-            <description><![CDATA[By Aparajita Debnath]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/restoring-faith-the-justice-system-key-ending-mob-violence-4194066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/restoring-faith-the-justice-system-key-ending-mob-violence-4194066</guid>
-            <dc:creator><![CDATA[Aparajita Debnath]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ramisa, Asiya, and the unfinished duty of the state]]></title>
-            <description><![CDATA[By Khan Khalid Adnan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/ramisa-asiya-and-the-unfinished-duty-the-state-4194071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ramisa-asiya-and-the-unfinished-duty-the-state-4194071</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
