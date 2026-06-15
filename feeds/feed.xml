@@ -4,16 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jun 2026 23:01:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 03:31:51 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Jun 2026 23:01:56 GMT</pubDate>
+        <pubDate>Mon, 15 Jun 2026 03:31:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[How the FY27 budget reinforces an unequal tax structure]]></title>
+            <description><![CDATA[One of the most serious weaknesses in Bangladesh’s economy is that its tax collection, relative to the economy size, remains among the lowest in the world; the country ranks only slightly above war-ravaged Yemen and Sudan.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-the-fy27-budget-reinforces-unequal-tax-structure-4198776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-the-fy27-budget-reinforces-unequal-tax-structure-4198776</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Mon, 15 Jun 2026 03:31:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A record health budget, but the challenge, as always, is execution]]></title>
+            <description><![CDATA[By Syed Abdul Hamid]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/record-health-budget-the-challenge-always-execution-4198816</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/record-health-budget-the-challenge-always-execution-4198816</guid>
+            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
+            <pubDate>Mon, 15 Jun 2026 03:31:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Social safety should prioritise the poor only]]></title>
-            <description><![CDATA[Govt must remove pensions and subsidies from the social safety net budget]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/social-safety-should-prioritise-the-poor-only-4198591</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/social-safety-should-prioritise-the-poor-only-4198591</guid>
-            <pubDate>Sun, 14 Jun 2026 23:01:56 GMT</pubDate>
+            <pubDate>Mon, 15 Jun 2026 03:31:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What the 57th border talks refused to say about BSF killings and push-ins]]></title>
@@ -51,23 +66,7 @@
             <title><![CDATA[Is no one safe from police excesses?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/no-one-safe-police-excesses-4197756</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/no-one-safe-police-excesses-4197756</guid>
-            <pubDate>Sun, 14 Jun 2026 23:01:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will this be the budget that transforms education?]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/news/will-be-the-budget-transforms-education-4197396</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-be-the-budget-transforms-education-4197396</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 13 Jun 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A budget of promises, pressures, and unanswered questions]]></title>
-            <description><![CDATA[By Selim Raihan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/budget-promises-pressures-and-unanswered-questions-4197386</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/budget-promises-pressures-and-unanswered-questions-4197386</guid>
-            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
-            <pubDate>Sat, 13 Jun 2026 09:00:00 GMT</pubDate>
+            <pubDate>Mon, 15 Jun 2026 03:31:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We need to keep talking about the persistent atrocities in Gaza]]></title>
@@ -85,13 +84,13 @@
             <title><![CDATA[Education, health budgets must see real outcomes]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/education-health-budgets-must-see-real-outcomes-4197216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/education-health-budgets-must-see-real-outcomes-4197216</guid>
-            <pubDate>Sun, 14 Jun 2026 23:01:56 GMT</pubDate>
+            <pubDate>Mon, 15 Jun 2026 03:31:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Proper implementation of the budget is key]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/proper-implementation-the-budget-key-4196601</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/proper-implementation-the-budget-key-4196601</guid>
-            <pubDate>Sun, 14 Jun 2026 23:01:56 GMT</pubDate>
+            <pubDate>Mon, 15 Jun 2026 03:31:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Failure to clean up Dhaka's air is costing lives]]></title>
@@ -100,12 +99,28 @@
             <pubDate>Thu, 11 Jun 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[As El Niño looms, Bangladesh must brace for extreme heat]]></title>
+            <description><![CDATA[By Ejaj Ahmad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/el-nino-looms-bangladesh-must-brace-extreme-heat-4197391</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/el-nino-looms-bangladesh-must-brace-extreme-heat-4197391</guid>
+            <dc:creator><![CDATA[Ejaj Ahmad]]></dc:creator>
+            <pubDate>Mon, 15 Jun 2026 03:31:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Air pollution: What Beijing got right that Dhaka still hasn't]]></title>
             <description><![CDATA[By Nazma Sultana]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/air-pollution-what-beijing-got-right-dhaka-still-hasnt-4197401</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/air-pollution-what-beijing-got-right-dhaka-still-hasnt-4197401</guid>
             <dc:creator><![CDATA[Nazma Sultana]]></dc:creator>
             <pubDate>Sat, 13 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will this be the budget that transforms education?]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/news/will-be-the-budget-transforms-education-4197396</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-be-the-budget-transforms-education-4197396</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 13 Jun 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A budget built on recovery and reform, but can it deliver?]]></title>
@@ -137,23 +152,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-era-ai-who-gets-live-longer-4196341</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-era-ai-who-gets-live-longer-4196341</guid>
             <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
-            <pubDate>Sun, 14 Jun 2026 23:01:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raising tobacco taxes is in Bangladesh’s own interest]]></title>
-            <description><![CDATA[By Ahmed Jamsheed Mohamed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/raising-tobacco-taxes-bangladeshs-own-interest-4195791</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/raising-tobacco-taxes-bangladeshs-own-interest-4195791</guid>
-            <dc:creator><![CDATA[Ahmed Jamsheed Mohamed]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the budget deliver on the uprising’s promise of equality?]]></title>
-            <description><![CDATA[By Altaf Parvez]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/will-the-budget-deliver-the-uprisings-promise-equality-4195781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/will-the-budget-deliver-the-uprisings-promise-equality-4195781</guid>
-            <dc:creator><![CDATA[Altaf Parvez]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 08:00:00 GMT</pubDate>
+            <pubDate>Mon, 15 Jun 2026 03:31:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
