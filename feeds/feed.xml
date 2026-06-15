@@ -4,17 +4,26 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jun 2026 09:54:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 15:40:07 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 15 Jun 2026 09:54:51 GMT</pubDate>
+        <pubDate>Mon, 15 Jun 2026 15:40:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Hormuz reopening is in everyone's interest]]></title>
+            <description><![CDATA[Govt must move to build an energy economy less exposed to shocks
+
+Energy security, LNG imports, US-Iran agreement]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/hormuz-reopening-everyones-interest-4199411</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/hormuz-reopening-everyones-interest-4199411</guid>
+            <pubDate>Mon, 15 Jun 2026 15:40:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How toxic digital spaces are grooming angry young men]]></title>
-            <description><![CDATA[How does a university student go from watching entertainment to endorsing violence?]]></description>
+            <description><![CDATA[By Md Shihab Hossain]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/how-toxic-digital-spaces-are-grooming-angry-young-men-4199216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-toxic-digital-spaces-are-grooming-angry-young-men-4199216</guid>
             <dc:creator><![CDATA[Md Shihab Hossain]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 09:54:51 GMT</pubDate>
+            <pubDate>Mon, 15 Jun 2026 15:40:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How the proposed budget reinforces an unequal tax structure]]></title>
@@ -22,19 +31,19 @@
             <link>https://www.thedailystar.net/opinion/news/how-the-proposed-budget-reinforces-unequal-tax-structure-4198776</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/how-the-proposed-budget-reinforces-unequal-tax-structure-4198776</guid>
             <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 09:54:51 GMT</pubDate>
+            <pubDate>Mon, 15 Jun 2026 08:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Social safety should prioritise the poor only]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/social-safety-should-prioritise-the-poor-only-4198591</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/social-safety-should-prioritise-the-poor-only-4198591</guid>
-            <pubDate>Mon, 15 Jun 2026 09:54:51 GMT</pubDate>
+            <pubDate>Mon, 15 Jun 2026 15:40:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why are female students under curfew?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/why-are-female-students-under-curfew-4198761</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-are-female-students-under-curfew-4198761</guid>
-            <pubDate>Mon, 15 Jun 2026 09:54:51 GMT</pubDate>
+            <title><![CDATA[Why are female students under night curfew?]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/why-are-female-students-under-night-curfew-4198761</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-are-female-students-under-night-curfew-4198761</guid>
+            <pubDate>Mon, 15 Jun 2026 15:40:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Before adding a third language, fix students' foundational learning crisis]]></title>
@@ -42,7 +51,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/adding-third-language-fix-students-foundational-learning-crisis-4198801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/adding-third-language-fix-students-foundational-learning-crisis-4198801</guid>
             <dc:creator><![CDATA[Ananta Neelim]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 09:54:51 GMT</pubDate>
+            <pubDate>Mon, 15 Jun 2026 15:40:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A record health budget, but the challenge, as always, is execution]]></title>
@@ -50,7 +59,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/record-health-budget-the-challenge-always-execution-4198816</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/record-health-budget-the-challenge-always-execution-4198816</guid>
             <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 09:54:51 GMT</pubDate>
+            <pubDate>Mon, 15 Jun 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Persistent delay in restoring the Information Commission is unacceptable]]></title>
@@ -58,15 +67,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/persistent-delay-restoring-the-information-commission-unacceptable-4198831</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/persistent-delay-restoring-the-information-commission-unacceptable-4198831</guid>
             <dc:creator><![CDATA[Shamsul BariRuhi Naz]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 09:54:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the 57th border talks refused to say about BSF killings and push-ins]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-the-57th-border-talks-refused-say-about-bsf-killings-and-push-ins-4197921</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-57th-border-talks-refused-say-about-bsf-killings-and-push-ins-4197921</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Sun, 14 Jun 2026 10:00:00 GMT</pubDate>
+            <pubDate>Mon, 15 Jun 2026 15:40:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We need to keep talking about the persistent atrocities in Gaza]]></title>
@@ -78,7 +79,7 @@
             <title><![CDATA[Is no one safe from police excesses?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/no-one-safe-police-excesses-4197756</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/no-one-safe-police-excesses-4197756</guid>
-            <pubDate>Mon, 15 Jun 2026 09:54:51 GMT</pubDate>
+            <pubDate>Mon, 15 Jun 2026 15:40:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Address the gaps in family planning services]]></title>
@@ -90,13 +91,21 @@
             <title><![CDATA[Education, health budgets must see real outcomes]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/education-health-budgets-must-see-real-outcomes-4197216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/education-health-budgets-must-see-real-outcomes-4197216</guid>
-            <pubDate>Mon, 15 Jun 2026 09:54:51 GMT</pubDate>
+            <pubDate>Mon, 15 Jun 2026 15:40:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Proper implementation of the budget is key]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/proper-implementation-the-budget-key-4196601</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/proper-implementation-the-budget-key-4196601</guid>
-            <pubDate>Mon, 15 Jun 2026 09:54:51 GMT</pubDate>
+            <pubDate>Mon, 15 Jun 2026 15:40:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who pays for a fossil-free future? Bonn talks must answer the question]]></title>
+            <description><![CDATA[By Farah Kabir]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/who-pays-fossil-free-future-bonn-talks-must-answer-the-question-4197926</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/who-pays-fossil-free-future-bonn-talks-must-answer-the-question-4197926</guid>
+            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
+            <pubDate>Sun, 14 Jun 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[With opposition inputs, the budget debate finally matures, but constraints persist]]></title>
@@ -128,7 +137,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/el-nino-looms-bangladesh-must-brace-extreme-heat-4197391</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/el-nino-looms-bangladesh-must-brace-extreme-heat-4197391</guid>
             <dc:creator><![CDATA[Ejaj Ahmad]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 09:54:51 GMT</pubDate>
+            <pubDate>Mon, 15 Jun 2026 15:40:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Air pollution: What Beijing got right that Dhaka still hasn't]]></title>
@@ -145,14 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-be-the-budget-transforms-education-4197396</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
             <pubDate>Sat, 13 Jun 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A budget built on recovery and reform, but can it deliver?]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/budget-built-recovery-and-reform-can-it-deliver-4196696</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/budget-built-recovery-and-reform-can-it-deliver-4196696</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 08:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
