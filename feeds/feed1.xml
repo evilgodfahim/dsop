@@ -4,219 +4,219 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Jun 2026 17:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 20:14:47 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Jun 2026 17:16:47 GMT</pubDate>
+        <pubDate>Thu, 18 Jun 2026 20:14:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The ocean current that warms Europe may be more resilient than feared]]></title>
-            <description><![CDATA[Studies of the Atlantic's circulation find signs of both weakening and unexpected stability in the face of global warming]]></description>
-            <link>https://www.science.org/content/article/ocean-current-warms-europe-may-be-more-resilient-feared</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/ocean-current-warms-europe-may-be-more-resilient-feared</guid>
-            <pubDate>Thu, 11 Jun 2026 19:00:00 GMT</pubDate>
+            <title><![CDATA[Wolves are reconquering Europe. Can people learn to live with them?]]></title>
+            <description><![CDATA[As populations rebound, attacks on livestock and humans are fueling debate over the limits of coexistence]]></description>
+            <link>https://www.science.org/content/article/wolves-are-reconquering-europe-can-people-learn-live-them</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/wolves-are-reconquering-europe-can-people-learn-live-them</guid>
+            <pubDate>Thu, 18 Jun 2026 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Laser-boosted microscopes could reveal new drug targets, sharpen views inside cells]]></title>
-            <description><![CDATA[Enhanced cryo–electron microscopy promises to bring previously elusive proteins into view]]></description>
-            <link>https://www.science.org/content/article/laser-boosted-microscopes-could-reveal-new-drug-targets-sharpen-views-inside-cells</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/laser-boosted-microscopes-could-reveal-new-drug-targets-sharpen-views-inside-cells</guid>
-            <pubDate>Thu, 11 Jun 2026 19:00:00 GMT</pubDate>
+            <title><![CDATA[Decoupling of global metabolic flux and proteome partitioning in bacteria | Science]]></title>
+            <description><![CDATA[Bacteria regulate homeostatic growth by adjusting proteome composition. In Escherichia coli, this coordination is mediated by guanosine tetraphosphate and pentaphosphate, collectively termed (p)ppGpp, which couple amino acid supply with ribsosome ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aeb6410</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeb6410</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Patterns of brain-wide associations reflect socioeconomics | Science]]></title>
-            <description><![CDATA[Previous brain-wide association studies (BWAS) have linked specific environmental and behavioral variables to brain variability. In this work, we mapped 649 variables to children’s brains and compared the resultant BWAS maps with each other and with ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aee6213</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aee6213</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Age and early life adversity shape heterogeneity of the epigenome across tissues in macaques | Science]]></title>
+            <description><![CDATA[Age and early life adversity (ELA) are key determinants of health, but whether they affect similar physiological mechanisms across tissues is unknown. We generated DNA methylation (DNAm) profiles across 14 tissues in 237 semi–free-ranging rhesus macaques ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aea4922</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea4922</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Unveiling the complexity of post-Roman polity formation in Pannonia using ancient DNA | Science]]></title>
-            <description><![CDATA[The transformation of the Roman world [fourth to ninth centuries common era (CE)], culminating in the Western Roman Empire’s fall, marked a fundamental transition in European history. Key questions persist regarding the regionally specific nature of this ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aec2634</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aec2634</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Maternal trans-vaccenic acid shapes neonatal T cell development and early-life immune imprinting | Science]]></title>
+            <description><![CDATA[How maternal nutrition influences neonatal immune development and imprinting through breastfeeding remains largely unclear. We report that maternal supplementation with trans-vaccenic acid (TVA), the predominant naturally occurring trans-fatty acid in ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aea4041</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea4041</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The air pollution benefits of low-severity fire | Science]]></title>
-            <description><![CDATA[Wildfires are reversing decades of air quality improvements across much of the US. Expanded use of prescribed fire is a primary proposed solution, but air quality trade-offs—more initial smoke for less smoke later—remain poorly quantified. Using two ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aea2490</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea2490</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Lamprey 3D single-cell transcriptomics reveals ancestral and specialized features of the vertebrate brain | Science]]></title>
+            <description><![CDATA[The lamprey occupies a pivotal position for elucidating vertebrate brain evolution. Using spatial transcriptomics and single-nucleus RNA sequencing, we generated a three-dimensional molecular atlas of the lamprey brain, identifying 209 distinct cell ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aea2535</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea2535</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A global map for introgressed structural variation and selection in humans | Science]]></title>
-            <description><![CDATA[Genetic introgression from Neanderthals and Denisovans shaped modern human genomes; however, introgressed structural variants (SVs ≥ 50 base pairs) remain challenging to discover. We integrated high-quality phased assemblies from four new Papua New ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.adz7518</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adz7518</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Brain-wide topographic coordination of rotating waves | Science]]></title>
+            <description><![CDATA[Patterns of brain activity moving in waves occur across brain regions and species, yet their spatial organization, anatomical basis, and brain-wide distribution remain unclear. Using cortex-wide imaging and electrophysiology in awake mice, we revealed a ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.adx1369</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adx1369</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An all-optical signal processor enabling terabit-per-second real-time equalization | Science]]></title>
-            <description><![CDATA[Large-scale artificial intelligence training demands ultralow-latency, energy-efficient interconnects for massive graphics processing unit clusters. In intensity-modulation/direct-detection links, digital signal processing (DSP) equalization is limited ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.ady5344</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ady5344</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[CD4+ T cells impair tumor growth through IL-3 and TNF-dependent vascular damage | Science]]></title>
+            <description><![CDATA[Most cancer immunotherapy strategies are focused on direct tumor killing by immune cells, especially T lymphocytes. Clinical and conceptual limitations of these approaches create a need for additional strategies. We identified a tumor stroma–targeting ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.ads7910</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ads7910</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Long-term isolation and archaic introgression shape functional genetic variation in Near Oceania | Science]]></title>
-            <description><![CDATA[Near Oceanic populations harbor substantial cultural, phenotypic, and genetic diversity yet are drastically underrepresented in human genomics. We generated 177 high-coverage Near Oceanian whole genomes and analyzed them alongside 1284 worldwide genomes, ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.adr6749</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adr6749</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Global South is shaping the future of agriculture | Science]]></title>
-            <description><![CDATA[Over decades, I have learned that innovation in agriculture and food systems often looks different from a distance than it does on the ground. Today, some of the most creative, climate-resilient innovations are emerging not from insulated laboratories, but from the regions experiencing the greatest challenges of climate volatility, biodiversity loss, and food insecurity.]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aei4424</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei4424</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Compound climate events threaten tropical semi-enclosed marine ecosystems | Science]]></title>
-            <description><![CDATA[Anthropogenic ocean warming affects ecosystem functioning but is not necessarily the primary climate driver regulating tropical seas. Tropical semi-enclosed marine ecosystems are poorly understood, geographically distinct, and influenced by compounding ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.adv0367</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adv0367</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Organic spontaneous emission approaching the monochromatic limit | Science]]></title>
-            <description><![CDATA[Spontaneous emission is inherently associated with spectral broadening mechanisms, resulting in finite bandwidth in the emitted light. Narrowing this linewidth toward the monochromatic limit has long been a central pursuit in photonics, as it determines ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aee0001</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aee0001</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Managing the pitfalls of private money | Science]]></title>
+            <description><![CDATA[In recent months, we have learned that the relationship between the US federal government and American science is not as stable as many of us thought it to be. While many grants that were abruptly (and perhaps illegally) cut earlier this year have been restored, the relationship between science and the federal government that has prevailed since the 1950s has shifted. The decades ahead are unlikely to look like the ones of the recent past.]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei6193</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei6193</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In Other Journals | Science]]></title>
             <description><![CDATA[Editors’ selections from the current scientific literature]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aej5478</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aej5478</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <link>https://www.science.org/doi/10.1126/science.aej7459</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aej7459</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In Science Journals | Science]]></title>
             <description><![CDATA[Highlights from the Science family of journals]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aej5477</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aej5477</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <link>https://www.science.org/doi/10.1126/science.aej7458</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aej7458</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Integrating indirect greenhouse gases into climate frameworks | Science]]></title>
-            <description><![CDATA[These substances have minimal direct climate effects but trigger chemical reactions that can lead to warming]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aee5790</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aee5790</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Inheriting trauma, rethinking science | Science]]></title>
+            <description><![CDATA[HomeScienceVol. 392, No. 6804Inheriting trauma, rethinking scienceBack To Vol. 392, No. 6804 Full accessLetterPast as Prologue Share on Inheriting trauma, rethinking scienceRana DajaniAuthors Info & AffiliationsScience18 Jun 2026Vol 392, Issue 6804p. 1251DOI: 10.1126/science.aeh7938 PREVIOUS ARTICLEAI may raise the bar and thin the pipelinePreviousNEXT ARTICLEIn Science JournalsNext  Notification…]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aeh7938</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh7938</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A 2D plan cannot govern a 3D ocean | Science]]></title>
-            <description><![CDATA[The Agreement on Marine Biological Diversity of Areas beyond National Jurisdiction (BBNJ Agreement) is in force (1, 2). Yet marine spatial planning, licensing, and environmental assessment still divide the sea on two-dimensional (2D) maps, even though ecological risk and economic use are distributed through depth and time. Industrial fisheries increasingly extend into deeper waters, but marine protection remains focused in shallower zones (3). Regulators must move beyond planar zoning to effectively manage competition among energy, food production, transport, conservation, and seabed extraction.]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aei0666</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei0666</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[AI may raise the bar and thin the pipeline | Science]]></title>
+            <description><![CDATA[In their Perspective “AI raises the productivity bar” (19 February, 10.1126/science.aef5239), L. Wu and B. Vasilescu (1) argue that artificial intelligence (AI) can increase productivity while rewarding workers who already possess strong evaluative and delegation skills. However, they do not address the most important implication of their model. If expertise in evaluation and delegation is now a stronger precondition for productivity than the ability to execute tasks oneself, firms and laboratories may respond not by shedding large numbers of incumbent workers but by quietly reducing entry-level opportunities (1). In that case, aggregate output may remain stable or even rise while the apprenticeship function of organizations weakens. To ensure longterm success, researchers and organizations should assess a broad range of variables that adopting AI could affect.]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aeh4940</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh4940</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ecological risks of orbital solar reflectors | Science]]></title>
-            <description><![CDATA[Reflect Orbital, a California-based company, plans to deploy 4000 mirror satellites designed to reflect sunlight to Earth’s night side for nighttime lighting and supplementary solar power generation. Although such orbital solar reflector systems offer promising energy and lighting applications, they introduce severe ecological disturbances by altering natural diel light cycles (1). The US government should withhold authorization until ecological assessments have been completed and should regulate the use of the satellites once they have been deployed.]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aeh6580</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh6580</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Preserve EEOC data collection | Science]]></title>
+            <description><![CDATA[HomeScienceVol. 392, No. 6804Preserve EEOC data collectionBack To Vol. 392, No. 6804 Full accessLetter Share on Preserve EEOC data collectionFidan Ana Kurtulus, Edo Navot, and Donald Tomaskovic-DeveyAuthors Info & AffiliationsScience18 Jun 2026Vol 392, Issue 6804p. 1250DOI: 10.1126/science.aei1236 PREVIOUS ARTICLEReanimating ELIZA, the world’s first chatbotPreviousNEXT ARTICLEAI may raise the bar…]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei1236</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei1236</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Safeguard heritage in the Bolivian Amazon | Science]]></title>
-            <description><![CDATA[HomeScienceVol. 392, No. 6803Safeguard heritage in the Bolivian AmazonBack To Vol. 392, No. 6803 Full accessLetter Share on Safeguard heritage in the Bolivian AmazonCarla Jaimes Betancourt, Maria Luz Endere, [...] , Geraldine Fernandez, Nahir Cantar, [...] , Zulema Lehm, and Rob Wallace+3 authors +1 authors fewerAuthors Info & AffiliationsScience11 Jun 2026Vol 392, Issue 6803p. 1131DOI: 10.1126/s…]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aeh9864</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh9864</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Reanimating ELIZA, the world’s first chatbot | Science]]></title>
+            <description><![CDATA[A simple program created in the 1960s laid the groundwork for future conversational computers]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aeh9238</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh9238</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Divergent trajectories of the nitrogen cycle | Science]]></title>
-            <description><![CDATA[Water isotope measurements are used to model surface water nitrogen flows on a continental scale]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aei3391</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei3391</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Making the most of your time at work | Science]]></title>
+            <description><![CDATA[Thinking strategically from the start could help you do more good over the course of your career]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aeh4754</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh4754</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The placental metabolic clock | Science]]></title>
-            <description><![CDATA[NAD+ depletion triggers a countdown to birth in mice]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aei4119</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei4119</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Scientific computing in an AI world | Science]]></title>
+            <description><![CDATA[Scientific computing must integrate AI with simulation and focus on energy-efficient methods and systems]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aef4214</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aef4214</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Exceeding nature’s biological speed limits | Science]]></title>
-            <description><![CDATA[Rapid cell wall relaxation initiates the snap of the Venus flytrap]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aei3453</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei3453</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Tracking the roots of zoonoses | Science]]></title>
+            <description><![CDATA[Ancient pathogen DNA from animals elucidates the origin and evolution of infectious diseases]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aef0941</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aef0941</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Childhood environments shape the brain | Science]]></title>
-            <description><![CDATA[Socioeconomic factors top the list of influences on children’s brain structure and function]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aei3393</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei3393</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[An HIV vaccine blueprint | Science]]></title>
+            <description><![CDATA[The infection of rhesus macaques with a chimeric virus uncovers a recipe for broadly neutralizing antibodies]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei3106</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei3106</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Summer reading 2026 | Science]]></title>
-            <description><![CDATA[HomeScienceVol. 392, No. 6803Summer reading 2026Back To Vol. 392, No. 6803 Full accessBooks et al.Review RoundUp Share on Summer reading 2026Anna Farro Henderson, Bridget Alex, [...] , Bradley Allf, Bing Lin, [...] , Adela Wu, Priya Dames, Lucy Tu, Kasra Zarei, Chelsea Martinez, and Yen Duong+7 authors +5 authors fewerAuthors Info & AffiliationsScience11 Jun 2026Vol 392, Issue 6803pp. 1118-1124DO…]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aei7768</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei7768</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[A metastable solid solution transforms into complex nanostructures | Science]]></title>
+            <description><![CDATA[Instability in a high-entropy alloy drives structural changes that strengthen the alloy]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei4111</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei4111</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[In (qualified) defense of the research project grant | Science]]></title>
-            <description><![CDATA[In a debate that has been building for years, a growing coalition of reformers has concluded that the research project grant (RPG) approach used by many science funders in the United States and based on competitive, investigator-initiated, and peer-...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aej2947</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aej2947</guid>
-            <pubDate>Thu, 11 Jun 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Violet seed propulsion inspires robot design | Science]]></title>
+            <description><![CDATA[Comparative analysis of seed biomechanics reveals principles that can guide soft robot technology]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei6084</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei6084</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Misconduct sleuth in China swiftly gains acclaim for calling out questionable papers]]></title>
-            <description><![CDATA[Independent vlogger Geng Hongwei galvanizes often-sluggish institutions to investigate and punish prominent scientists]]></description>
-            <link>https://www.science.org/content/article/misconduct-sleuth-china-swiftly-gains-acclaim-calling-out-questionable-papers</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/misconduct-sleuth-china-swiftly-gains-acclaim-calling-out-questionable-papers</guid>
-            <pubDate>Tue, 09 Jun 2026 20:27:00 GMT</pubDate>
+            <title><![CDATA[Britain’s next research choice | Science]]></title>
+            <description><![CDATA[Ten years ago, the Brexit referendum began the United Kingdom’s departure from the European Union (EU), forcing British science to confront a serious question: What place should the UK occupy in European research? No longer qualified to be a full-fledged ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aej6498</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aej6498</guid>
+            <pubDate>Thu, 18 Jun 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An embryo editing ‘first’ is more complicated than headlines suggest]]></title>
-            <description><![CDATA[Scientists may have a better way to make gene-edited babies, but it’s still far from safe]]></description>
-            <link>https://www.science.org/content/article/embryo-editing-first-more-complicated-headlines-suggest</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/embryo-editing-first-more-complicated-headlines-suggest</guid>
-            <pubDate>Mon, 08 Jun 2026 20:55:00 GMT</pubDate>
+            <title><![CDATA[A space telescope is falling to Earth. NASA is racing to rescue it]]></title>
+            <description><![CDATA[Vehicle will attempt a daring capture-and-boost mission to extend the life of the Swift observatory]]></description>
+            <link>https://www.science.org/content/article/space-telescope-falling-earth-nasa-racing-rescue-it</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/space-telescope-falling-earth-nasa-racing-rescue-it</guid>
+            <pubDate>Wed, 17 Jun 2026 17:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Protein name confusion created antibody mix-up affecting hundreds of papers]]></title>
-            <description><![CDATA[Cancer and cell aging studies may have relied on antibodies to incorrect molecule]]></description>
-            <link>https://www.science.org/content/article/protein-name-confusion-created-antibody-mix-affecting-hundreds-papers</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/protein-name-confusion-created-antibody-mix-affecting-hundreds-papers</guid>
-            <pubDate>Fri, 05 Jun 2026 17:00:00 GMT</pubDate>
+            <title><![CDATA[Big Ebola outbreak puts spotlight on little-known virus]]></title>
+            <description><![CDATA[The Bundibugyo virus only emerged twice before. Now, scientists see a chance to get to know it better]]></description>
+            <link>https://www.science.org/content/article/big-ebola-outbreak-puts-spotlight-little-known-virus</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/big-ebola-outbreak-puts-spotlight-little-known-virus</guid>
+            <pubDate>Wed, 17 Jun 2026 16:15:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Satellite maps of sinking coastlines come under scrutiny]]></title>
-            <description><![CDATA[Radar studies produce contradictory results, complicating efforts to gauge sea level rise in vulnerable areas]]></description>
-            <link>https://www.science.org/content/article/satellite-maps-sinking-coastlines-come-under-scrutiny</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/satellite-maps-sinking-coastlines-come-under-scrutiny</guid>
-            <pubDate>Fri, 05 Jun 2026 14:10:00 GMT</pubDate>
+            <title><![CDATA[Russia’s plan to drill superdeep holes in Arctic revives controversial theory of ‘endless oil’]]></title>
+            <description><![CDATA[Soviet-era theory touted by Putin’s former campaign manager claims oil deposits can form without organic matter]]></description>
+            <link>https://www.science.org/content/article/russia-s-plan-drill-superdeep-holes-arctic-revives-controversial-theory-endless-oil</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/russia-s-plan-drill-superdeep-holes-arctic-revives-controversial-theory-endless-oil</guid>
+            <pubDate>Tue, 16 Jun 2026 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[U.S. health agencies join fight against ‘ultraprocessed foods’—whatever they are]]></title>
-            <description><![CDATA[Some scientists criticize label as ambiguous and confusing; others call it a valuable lens on diet]]></description>
-            <link>https://www.science.org/content/article/u-s-health-agencies-join-fight-against-ultraprocessed-foods-whatever-they-are</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/u-s-health-agencies-join-fight-against-ultraprocessed-foods-whatever-they-are</guid>
-            <pubDate>Thu, 04 Jun 2026 19:00:00 GMT</pubDate>
+            <title><![CDATA[AI models have a troubling knack for discovering legal loopholes]]></title>
+            <description><![CDATA[AIs on their own found ways to exploit regulations and evade current safeguards]]></description>
+            <link>https://www.science.org/content/article/ai-models-have-troubling-knack-discovering-legal-loopholes</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/ai-models-have-troubling-knack-discovering-legal-loopholes</guid>
+            <pubDate>Mon, 15 Jun 2026 22:25:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NIH scientists plead not guilty to smuggling monkeypox viruses into U.S.]]></title>
-            <description><![CDATA[Defendants face prison time for criminal charges but samples may all have been inactivated and used for routine diagnostics]]></description>
-            <link>https://www.science.org/content/article/nih-scientists-criminally-charged-bringing-monkeypox-virus-us-although-samples</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/nih-scientists-criminally-charged-bringing-monkeypox-virus-us-although-samples</guid>
-            <pubDate>Thu, 04 Jun 2026 01:05:00 GMT</pubDate>
+            <title><![CDATA[Metal-driven chemical reaction in deep sea may explain origin of life]]></title>
+            <description><![CDATA[Group offers new scenario for how cells came to rely on phosphate molecules to build DNA and store energy]]></description>
+            <link>https://www.science.org/content/article/metal-driven-chemical-reaction-deep-sea-may-explain-origin-life</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/metal-driven-chemical-reaction-deep-sea-may-explain-origin-life</guid>
+            <pubDate>Fri, 12 Jun 2026 18:55:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A 481-meter-high landslide-tsunami in a cruise ship–frequented Alaska fjord | Science]]></title>
-            <description><![CDATA[Early in the morning of 10 August 2025, a >64 × 106–cubic meter landslide struck Tracy Arm fjord in Alaska. The landslide was preconditioned by glacial retreat caused by climate change. The resulting 481-meter runup megatsunami followed an initial 100-...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aec3187</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aec3187</guid>
-            <pubDate>Wed, 06 May 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[El Niño has begun. It may become the strongest this century]]></title>
+            <description><![CDATA[After clearing a spring forecasting hurdle, scientists see growing odds of a powerful climate event that could disrupt weather worldwide]]></description>
+            <link>https://www.science.org/content/article/el-nino-has-begun-it-may-become-strongest-century</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/el-nino-has-begun-it-may-become-strongest-century</guid>
+            <pubDate>Thu, 11 Jun 2026 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Weird and capricious’: Experts struggle to understand new list of political jobs at science agencies]]></title>
+            <description><![CDATA[NIH programs and leadership are hit especially hard, while other science agencies are barely mentioned]]></description>
+            <link>https://www.science.org/content/article/weird-and-capricious-experts-struggle-understand-new-list-political-jobs-science</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/weird-and-capricious-experts-struggle-understand-new-list-political-jobs-science</guid>
+            <pubDate>Wed, 10 Jun 2026 16:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another red alert for American science | Science]]></title>
+            <description><![CDATA[Although research has bipartisan support in the US Congress, and trust in science is above 75% across the country, the Trump administration seems as determined as ever to mortally wound the nation’s scientific enterprise. After the scientific community ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aej3572</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aej3572</guid>
+            <pubDate>Tue, 02 Jun 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Induction of broadly neutralizing HIV antibodies by a two-step mechanism informs vaccine design | Science]]></title>
+            <description><![CDATA[A major obstacle confronting HIV-1 vaccine and cure research is the lack of an outbred animal model for rapid and consistent induction of broadly neutralizing antibodies (bNAbs). We designed an epitope-focused simian-human immunodeficiency virus (...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aec6396</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aec6396</guid>
+            <pubDate>Thu, 07 May 2026 13:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
