@@ -4,16 +4,47 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jun 2026 00:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 06:10:19 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jun 2026 00:20:51 GMT</pubDate>
+        <pubDate>Fri, 19 Jun 2026 06:10:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[What the FY2026-27 budget reveals about Bangladesh’s climate priorities]]></title>
+            <description><![CDATA[For Bangladesh, climate change is no longer merely an environmental concern. It is increasingly a development, economic, and governance challenge.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-the-fy2026-27-budget-reveals-about-bangladeshs-climate-priorities-4202326</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-fy2026-27-budget-reveals-about-bangladeshs-climate-priorities-4202326</guid>
+            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 06:10:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In planting 25 crore trees, we must not lose sight of the bigger picture]]></title>
+            <description><![CDATA[By Sharif Ahmed Mukul]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/planting-25-crore-trees-we-must-not-lose-sight-the-bigger-picture-4202331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/planting-25-crore-trees-we-must-not-lose-sight-the-bigger-picture-4202331</guid>
+            <dc:creator><![CDATA[Sharif Ahmed Mukul]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 06:10:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turning the budget’s ambitions into reality will be a major test]]></title>
+            <description><![CDATA[By Md Main Uddin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/turning-the-budgets-ambitions-reality-will-be-major-test-4202336</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/turning-the-budgets-ambitions-reality-will-be-major-test-4202336</guid>
+            <dc:creator><![CDATA[Md Main Uddin]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 06:10:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five ideas to turn PM’s Malaysia visit into a strategic reset in ties]]></title>
+            <description><![CDATA[By M Niaz Asadullah]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/five-ideas-turn-pms-malaysia-visit-strategic-reset-ties-4202341</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/five-ideas-turn-pms-malaysia-visit-strategic-reset-ties-4202341</guid>
+            <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 06:10:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[BB must confront bad loans’ true scale]]></title>
-            <description><![CDATA[Regulatory forbearance, systemic evergreening of bad debt must end]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/bb-must-confront-bad-loans-true-scale-4202106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bb-must-confront-bad-loans-true-scale-4202106</guid>
-            <pubDate>Fri, 19 Jun 2026 00:20:51 GMT</pubDate>
+            <pubDate>Fri, 19 Jun 2026 06:10:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Benazir’s arrest is only the start of Bangladesh's accountability test]]></title>
@@ -40,40 +71,22 @@
             <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Budget 2026-27 exposes gaps in renewable energy rollout]]></title>
-            <description><![CDATA[By Md Razib]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/budget-2026-27-exposes-gaps-renewable-energy-rollout-4201506</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/budget-2026-27-exposes-gaps-renewable-energy-rollout-4201506</guid>
-            <dc:creator><![CDATA[Md Razib]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weak policing fuelling rise in crimes]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/weak-policing-fuelling-rise-crimes-4201266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/weak-policing-fuelling-rise-crimes-4201266</guid>
-            <pubDate>Fri, 19 Jun 2026 00:20:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the Oxford Union’s Bangladesh ‘debate’ sparked controversy]]></title>
-            <description><![CDATA[By Bulbul Hasan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-the-oxford-unions-bangladesh-debate-sparked-controversy-4201171</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-the-oxford-unions-bangladesh-debate-sparked-controversy-4201171</guid>
-            <dc:creator><![CDATA[Bulbul Hasan]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 00:20:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A welcome pivot to logistics reform in the budget, but time for a commission]]></title>
-            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/welcome-pivot-logistics-reform-the-budget-time-commission-4200736</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/welcome-pivot-logistics-reform-the-budget-time-commission-4200736</guid>
-            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Wed, 17 Jun 2026 11:00:00 GMT</pubDate>
+            <title><![CDATA[Why is safe water inaccessible for millions despite rising spending?]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/why-safe-water-inaccessible-millions-despite-rising-spending-4202321</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-safe-water-inaccessible-millions-despite-rising-spending-4202321</guid>
+            <pubDate>Fri, 19 Jun 2026 06:10:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolphin deaths must be investigated]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dolphin-deaths-must-be-investigated-4201476</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dolphin-deaths-must-be-investigated-4201476</guid>
             <pubDate>Thu, 18 Jun 2026 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weak policing fuelling rise in crimes]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/weak-policing-fuelling-rise-crimes-4201266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/weak-policing-fuelling-rise-crimes-4201266</guid>
+            <pubDate>Fri, 19 Jun 2026 06:10:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Three union names, one troubling pattern]]></title>
@@ -85,19 +98,31 @@
             <title><![CDATA[Harassment of PM’s adviser unacceptable]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/harassment-pms-adviser-unacceptable-4200341</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/harassment-pms-adviser-unacceptable-4200341</guid>
-            <pubDate>Fri, 19 Jun 2026 00:20:51 GMT</pubDate>
+            <pubDate>Fri, 19 Jun 2026 06:10:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bring Benazir back to face justice]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/bring-benazir-back-face-justice-4199781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bring-benazir-back-face-justice-4199781</guid>
-            <pubDate>Tue, 16 Jun 2026 11:00:00 GMT</pubDate>
+            <title><![CDATA[Why the Oxford Union’s Bangladesh ‘debate’ sparked controversy]]></title>
+            <description><![CDATA[By Bulbul Hasan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-the-oxford-unions-bangladesh-debate-sparked-controversy-4201171</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-the-oxford-unions-bangladesh-debate-sparked-controversy-4201171</guid>
+            <dc:creator><![CDATA[Bulbul Hasan]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 06:10:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hormuz reopening is in everyone's interest]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/hormuz-reopening-everyones-interest-4199411</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/hormuz-reopening-everyones-interest-4199411</guid>
-            <pubDate>Fri, 19 Jun 2026 00:20:51 GMT</pubDate>
+            <title><![CDATA[A welcome pivot to logistics reform in the budget, but time for a commission]]></title>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/welcome-pivot-logistics-reform-the-budget-time-commission-4200736</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/welcome-pivot-logistics-reform-the-budget-time-commission-4200736</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh needs a new social contract for higher education]]></title>
+            <description><![CDATA[By Mo HoqueAshraf Dewan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-new-social-contract-higher-education-4200741</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-new-social-contract-higher-education-4200741</guid>
+            <dc:creator><![CDATA[Mo HoqueAshraf Dewan]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amid rising debt pressures, a case for sukuk to ease the burden]]></title>
@@ -130,30 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-data-centres-are-draining-water-and-energy-the-global-south-4200761</guid>
             <dc:creator><![CDATA[S Arzooman Chowdhury]]></dc:creator>
             <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A gender-responsive budget must address the unpaid care burden]]></title>
-            <description><![CDATA[By Tasmiah T Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/gender-responsive-budget-must-address-the-unpaid-care-burden-4199806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/gender-responsive-budget-must-address-the-unpaid-care-burden-4199806</guid>
-            <dc:creator><![CDATA[Tasmiah T Rahman]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Sportswashing’ comes to America through the FIFA World Cup]]></title>
-            <description><![CDATA[By Aashish Kiphayet]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/sportswashing-comes-america-through-the-fifa-world-cup-4199816</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/sportswashing-comes-america-through-the-fifa-world-cup-4199816</guid>
-            <dc:creator><![CDATA[Aashish Kiphayet]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How toxic digital spaces are grooming angry young men]]></title>
-            <description><![CDATA[By Md Shihab Hossain]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-toxic-digital-spaces-are-grooming-angry-young-men-4199216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-toxic-digital-spaces-are-grooming-angry-young-men-4199216</guid>
-            <dc:creator><![CDATA[Md Shihab Hossain]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 00:20:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
