@@ -4,16 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Jun 2026 00:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 05:06:57 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Jun 2026 00:03:00 GMT</pubDate>
+        <pubDate>Sat, 20 Jun 2026 05:06:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[We cannot avoid the moral questions behind the measles and Ad-din crises]]></title>
+            <description><![CDATA[Reading a recent report by The Daily Star on the number of measles victims, I could not help but link the number “666” printed in red with something ominous.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/we-cannot-avoid-the-moral-questions-behind-the-measles-and-ad-din-crises-4203011</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/we-cannot-avoid-the-moral-questions-behind-the-measles-and-ad-din-crises-4203011</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 05:06:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does the government really want an independent NHRC?]]></title>
+            <description><![CDATA[By Iftekharuzzaman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/does-the-government-really-want-independent-nhrc-4203026</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/does-the-government-really-want-independent-nhrc-4203026</guid>
+            <dc:creator><![CDATA[Iftekharuzzaman]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 05:06:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[An alarming report on children’s exposure to climate risks]]></title>
-            <description><![CDATA[Take steps to protect children from escalating climate hazards]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/alarming-report-childrens-exposure-climate-risks-4202826</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/alarming-report-childrens-exposure-climate-risks-4202826</guid>
-            <pubDate>Sat, 20 Jun 2026 00:02:59 GMT</pubDate>
+            <pubDate>Sat, 20 Jun 2026 05:06:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What the FY2026-27 budget reveals about Bangladesh’s climate priorities]]></title>
@@ -51,23 +66,7 @@
             <title><![CDATA[BB must confront bad loans’ true scale]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/bb-must-confront-bad-loans-true-scale-4202106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bb-must-confront-bad-loans-true-scale-4202106</guid>
-            <pubDate>Sat, 20 Jun 2026 00:02:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Benazir’s arrest is only the start of Bangladesh's accountability test]]></title>
-            <description><![CDATA[By Khan Khalid Adnan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/benazirs-arrest-only-the-start-bangladeshs-accountability-test-4201481</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/benazirs-arrest-only-the-start-bangladeshs-accountability-test-4201481</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[International Day for Countering Hate Speech / Countering online hate speech in Bangladesh needs a collective response]]></title>
-            <description><![CDATA[By Carol Flore-Smereczniak]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/countering-online-hate-speech-bangladesh-needs-collective-response-4201496</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/countering-online-hate-speech-bangladesh-needs-collective-response-4201496</guid>
-            <dc:creator><![CDATA[Carol Flore-Smereczniak]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 11:00:00 GMT</pubDate>
+            <pubDate>Sat, 20 Jun 2026 05:06:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why is safe water inaccessible for millions despite rising spending?]]></title>
@@ -85,7 +84,7 @@
             <title><![CDATA[Weak policing fuelling rise in crimes]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/weak-policing-fuelling-rise-crimes-4201266</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/weak-policing-fuelling-rise-crimes-4201266</guid>
-            <pubDate>Sat, 20 Jun 2026 00:02:59 GMT</pubDate>
+            <pubDate>Sat, 20 Jun 2026 05:06:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Three union names, one troubling pattern]]></title>
@@ -97,7 +96,23 @@
             <title><![CDATA[Harassment of PM’s adviser unacceptable]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/harassment-pms-adviser-unacceptable-4200341</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/harassment-pms-adviser-unacceptable-4200341</guid>
-            <pubDate>Sat, 20 Jun 2026 00:02:59 GMT</pubDate>
+            <pubDate>Sat, 20 Jun 2026 05:06:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[International Day for Countering Hate Speech / Countering online hate speech in Bangladesh needs a collective response]]></title>
+            <description><![CDATA[By Carol Flore-Smereczniak]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/countering-online-hate-speech-bangladesh-needs-collective-response-4201496</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/countering-online-hate-speech-bangladesh-needs-collective-response-4201496</guid>
+            <dc:creator><![CDATA[Carol Flore-Smereczniak]]></dc:creator>
+            <pubDate>Thu, 18 Jun 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The budget has revived focus on blue economy, but there's a lot of catching up to do]]></title>
+            <description><![CDATA[By Md Syful Islam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-budget-has-revived-focus-blue-economy-theres-lot-catching-do-4201501</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-budget-has-revived-focus-blue-economy-theres-lot-catching-do-4201501</guid>
+            <dc:creator><![CDATA[Md Syful Islam]]></dc:creator>
+            <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Budget 2026-27 exposes gaps in renewable energy rollout]]></title>
@@ -113,7 +128,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-the-oxford-unions-bangladesh-debate-sparked-controversy-4201171</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-the-oxford-unions-bangladesh-debate-sparked-controversy-4201171</guid>
             <dc:creator><![CDATA[Bulbul Hasan]]></dc:creator>
-            <pubDate>Sat, 20 Jun 2026 00:02:59 GMT</pubDate>
+            <pubDate>Sat, 20 Jun 2026 05:06:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A welcome pivot to logistics reform in the budget, but time for a commission]]></title>
@@ -138,22 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/amid-rising-debt-pressures-case-sukuk-ease-the-burden-4200751</guid>
             <dc:creator><![CDATA[Mezbah Uddin Ahmed]]></dc:creator>
             <pubDate>Wed, 17 Jun 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Promises and pitfalls of the new education budget]]></title>
-            <description><![CDATA[By Manzoor Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/promises-and-pitfalls-the-new-education-budget-4199791</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/promises-and-pitfalls-the-new-education-budget-4199791</guid>
-            <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Solarising three-wheelers should be our next step in clean mobility]]></title>
-            <description><![CDATA[By Mohammad Alauddin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/solarising-three-wheelers-should-be-our-next-step-clean-mobility-4199801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/solarising-three-wheelers-should-be-our-next-step-clean-mobility-4199801</guid>
-            <dc:creator><![CDATA[Mohammad Alauddin]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
