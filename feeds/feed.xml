@@ -4,16 +4,22 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Jun 2026 09:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 15:17:05 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 22 Jun 2026 09:41:45 GMT</pubDate>
+        <pubDate>Mon, 22 Jun 2026 15:17:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[We need a pro-people tax plan]]></title>
+            <description><![CDATA[Govt must make the tax system genuinely progressive.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/we-need-pro-people-tax-plan-4205346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-need-pro-people-tax-plan-4205346</guid>
+            <pubDate>Mon, 22 Jun 2026 15:17:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Politics is still an uneven playing field for women]]></title>
-            <description><![CDATA[Govt, EC and political parties must remove the underlying barriers.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/politics-still-uneven-playing-field-women-4204416</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/politics-still-uneven-playing-field-women-4204416</guid>
-            <pubDate>Mon, 22 Jun 2026 09:41:45 GMT</pubDate>
+            <pubDate>Mon, 22 Jun 2026 15:17:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don’t leave Kaiputras behind in the name of development]]></title>
@@ -21,13 +27,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/dont-leave-kaiputras-behind-the-name-development-4204581</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dont-leave-kaiputras-behind-the-name-development-4204581</guid>
             <dc:creator><![CDATA[Philip Gain]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 09:41:45 GMT</pubDate>
+            <pubDate>Mon, 22 Jun 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lead-battery recycling must be regulated]]></title>
             <link>https://www.thedailystar.net/opinion/news/lead-battery-recycling-must-be-regulated-4204576</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/lead-battery-recycling-must-be-regulated-4204576</guid>
-            <pubDate>Mon, 22 Jun 2026 09:41:45 GMT</pubDate>
+            <pubDate>Mon, 22 Jun 2026 15:17:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A case for turning Dhaka's flyovers into rainwater harvesters]]></title>
@@ -35,7 +41,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/case-turning-dhakas-flyovers-rainwater-harvesters-4204591</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/case-turning-dhakas-flyovers-rainwater-harvesters-4204591</guid>
             <dc:creator><![CDATA[Shafiq R Bhuiyan]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 09:41:45 GMT</pubDate>
+            <pubDate>Mon, 22 Jun 2026 15:17:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is the UK heading for a leadership change at the top?]]></title>
@@ -43,7 +49,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-uk-heading-leadership-change-the-top-4204611</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-uk-heading-leadership-change-the-top-4204611</guid>
             <dc:creator><![CDATA[Shakeel Anwar]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 09:41:45 GMT</pubDate>
+            <pubDate>Mon, 22 Jun 2026 15:17:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A watchdog without teeth: The problems with the draft NHRC Act]]></title>
@@ -51,21 +57,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/watchdog-without-teeth-the-problems-the-draft-nhrc-act-4204596</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/watchdog-without-teeth-the-problems-the-draft-nhrc-act-4204596</guid>
             <dc:creator><![CDATA[Md Abdul Halim]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 09:41:45 GMT</pubDate>
+            <pubDate>Mon, 22 Jun 2026 08:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India’s ‘push-in’ strategy violates international law]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/indias-push-strategy-violates-international-law-4203486</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/indias-push-strategy-violates-international-law-4203486</guid>
-            <pubDate>Mon, 22 Jun 2026 09:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are our laws doing enough to address gambling?]]></title>
-            <description><![CDATA[By Pinak SarkarMayesha Afiya Jarin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/are-our-laws-doing-enough-address-gambling-4203681</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/are-our-laws-doing-enough-address-gambling-4203681</guid>
-            <dc:creator><![CDATA[Pinak SarkarMayesha Afiya Jarin]]></dc:creator>
-            <pubDate>Sun, 21 Jun 2026 09:00:00 GMT</pubDate>
+            <pubDate>Mon, 22 Jun 2026 15:17:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shortage of nurses an urgent crisis]]></title>
@@ -77,13 +75,13 @@
             <title><![CDATA[An alarming report on children’s exposure to climate risks]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/alarming-report-childrens-exposure-climate-risks-4202826</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/alarming-report-childrens-exposure-climate-risks-4202826</guid>
-            <pubDate>Mon, 22 Jun 2026 09:41:45 GMT</pubDate>
+            <pubDate>Mon, 22 Jun 2026 15:17:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why build roads through a reserved forest?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/why-build-roads-through-reserved-forest-4203001</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-build-roads-through-reserved-forest-4203001</guid>
-            <pubDate>Mon, 22 Jun 2026 09:41:45 GMT</pubDate>
+            <pubDate>Mon, 22 Jun 2026 15:17:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why is safe water inaccessible for millions despite rising spending?]]></title>
@@ -95,7 +93,7 @@
             <title><![CDATA[BB must confront bad loans’ true scale]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/bb-must-confront-bad-loans-true-scale-4202106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bb-must-confront-bad-loans-true-scale-4202106</guid>
-            <pubDate>Mon, 22 Jun 2026 09:41:45 GMT</pubDate>
+            <pubDate>Mon, 22 Jun 2026 15:17:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Justice for the weak, immunity for the powerful]]></title>
@@ -104,6 +102,14 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/justice-the-weak-immunity-the-powerful-4203686</guid>
             <dc:creator><![CDATA[Abu Afsarul Haider]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are our laws doing enough to address gambling?]]></title>
+            <description><![CDATA[By Pinak SarkarMayesha Afiya Jarin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/are-our-laws-doing-enough-address-gambling-4203681</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/are-our-laws-doing-enough-address-gambling-4203681</guid>
+            <dc:creator><![CDATA[Pinak SarkarMayesha Afiya Jarin]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Bangladesh’s small producers struggle to scale, and how to help them]]></title>
@@ -144,14 +150,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/does-the-government-really-want-independent-nhrc-4203026</guid>
             <dc:creator><![CDATA[Iftekharuzzaman]]></dc:creator>
             <pubDate>Sat, 20 Jun 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the FY2026-27 budget reveals about Bangladesh’s climate priorities]]></title>
-            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-the-fy2026-27-budget-reveals-about-bangladeshs-climate-priorities-4202326</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-fy2026-27-budget-reveals-about-bangladeshs-climate-priorities-4202326</guid>
-            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 11:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
