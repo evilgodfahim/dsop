@@ -4,16 +4,16 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 00:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 04:58:50 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 00:02:58 GMT</pubDate>
+        <pubDate>Thu, 25 Jun 2026 04:58:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A relentless burden of debt servicing]]></title>
             <description><![CDATA[How will the government pay its debts?]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/relentless-burden-debt-servicing-4207261</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/relentless-burden-debt-servicing-4207261</guid>
-            <pubDate>Thu, 25 Jun 2026 00:02:58 GMT</pubDate>
+            <pubDate>Thu, 25 Jun 2026 04:58:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A bigger ADP, but can Bangladesh make it work?]]></title>
@@ -22,6 +22,28 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bigger-adp-can-bangladesh-make-it-work-4206616</guid>
             <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amid water-sharing uncertainty, rainwater harvesting deserves greater focus]]></title>
+            <description><![CDATA[By Ahmed Mukta]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/amid-water-sharing-uncertainty-rainwater-harvesting-deserves-greater-focus-4207631</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/amid-water-sharing-uncertainty-rainwater-harvesting-deserves-greater-focus-4207631</guid>
+            <dc:creator><![CDATA[Ahmed Mukta]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 04:58:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Keir Starmer's fall should surprise no one]]></title>
+            <description><![CDATA[By Syed Raiyan Amir]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-keir-starmers-fall-should-surprise-no-one-4207606</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-keir-starmers-fall-should-surprise-no-one-4207606</guid>
+            <dc:creator><![CDATA[Syed Raiyan Amir]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 04:58:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don't neglect student hygiene in schools]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/dont-neglect-student-hygiene-schools-4207611</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-neglect-student-hygiene-schools-4207611</guid>
+            <pubDate>Thu, 25 Jun 2026 04:58:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh’s digital future can’t be built without addressing women’s fear]]></title>
@@ -48,30 +70,22 @@
             <pubDate>Wed, 24 Jun 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Allocation for MPs unfair to local government]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/allocation-mps-unfair-local-government-4206606</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/allocation-mps-unfair-local-government-4206606</guid>
+            <pubDate>Wed, 24 Jun 2026 10:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ensure ACC remains nonpartisan]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/ensure-acc-remains-nonpartisan-4206311</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-acc-remains-nonpartisan-4206311</guid>
-            <pubDate>Thu, 25 Jun 2026 00:02:58 GMT</pubDate>
+            <pubDate>Thu, 25 Jun 2026 04:58:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We need a pro-people tax plan]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/we-need-pro-people-tax-plan-4205346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-need-pro-people-tax-plan-4205346</guid>
-            <pubDate>Thu, 25 Jun 2026 00:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[77 years of Awami League: From people’s vanguard to an autocratic machine]]></title>
-            <description><![CDATA[By Mohiuddin Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/77-years-awami-league-peoples-vanguard-autocratic-machine-4205641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/77-years-awami-league-peoples-vanguard-autocratic-machine-4205641</guid>
-            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Allocation for MPs unfair to local government]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/allocation-mps-unfair-local-government-4206606</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/allocation-mps-unfair-local-government-4206606</guid>
-            <pubDate>Wed, 24 Jun 2026 10:00:00 GMT</pubDate>
+            <pubDate>Thu, 25 Jun 2026 04:58:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Without doctors, what good will extra hospital beds do?]]></title>
@@ -83,19 +97,15 @@
             <title><![CDATA[Politics is still an uneven playing field for women]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/politics-still-uneven-playing-field-women-4204416</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/politics-still-uneven-playing-field-women-4204416</guid>
-            <pubDate>Thu, 25 Jun 2026 00:02:58 GMT</pubDate>
+            <pubDate>Thu, 25 Jun 2026 04:58:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lead-battery recycling must be regulated]]></title>
-            <link>https://www.thedailystar.net/opinion/news/lead-battery-recycling-must-be-regulated-4204576</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/lead-battery-recycling-must-be-regulated-4204576</guid>
-            <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[India’s ‘push-in’ strategy violates international law]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/indias-push-strategy-violates-international-law-4203486</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/indias-push-strategy-violates-international-law-4203486</guid>
-            <pubDate>Thu, 25 Jun 2026 00:02:58 GMT</pubDate>
+            <title><![CDATA[77 years of Awami League: From people’s vanguard to an autocratic machine]]></title>
+            <description><![CDATA[By Mohiuddin Ahmad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/77-years-awami-league-peoples-vanguard-autocratic-machine-4205641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/77-years-awami-league-peoples-vanguard-autocratic-machine-4205641</guid>
+            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EVs make economic sense for us, so why is adoption still slow?]]></title>
@@ -143,15 +153,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-uk-heading-leadership-change-the-top-4204611</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-uk-heading-leadership-change-the-top-4204611</guid>
             <dc:creator><![CDATA[Shakeel Anwar]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 00:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Justice for the weak, immunity for the powerful]]></title>
-            <description><![CDATA[By Abu Afsarul Haider]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/justice-the-weak-immunity-the-powerful-4203686</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/justice-the-weak-immunity-the-powerful-4203686</guid>
-            <dc:creator><![CDATA[Abu Afsarul Haider]]></dc:creator>
-            <pubDate>Sun, 21 Jun 2026 11:00:00 GMT</pubDate>
+            <pubDate>Thu, 25 Jun 2026 04:58:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
