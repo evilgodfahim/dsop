@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 06:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 10:17:58 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 06:48:55 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 10:17:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What lies behind the Jamaat chief's 'civil war' remark?]]></title>
@@ -14,7 +14,15 @@
             <link>https://www.thedailystar.net/opinion/views/winkers-aweigh/news/what-lies-behind-the-jamaat-chiefs-civil-war-remark-4208581</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/winkers-aweigh/news/what-lies-behind-the-jamaat-chiefs-civil-war-remark-4208581</guid>
             <dc:creator><![CDATA[Tanim Ahmed]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 06:48:55 GMT</pubDate>
+            <pubDate>Fri, 26 Jun 2026 10:17:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The real test of the education budget will be in the classroom]]></title>
+            <description><![CDATA[By Zareen Mahmud Hosein]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-real-test-the-education-budget-will-be-the-classroom-4208596</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-real-test-the-education-budget-will-be-the-classroom-4208596</guid>
+            <dc:creator><![CDATA[Zareen Mahmud Hosein]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 10:17:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[International Day in Support of Victims of Torture / We need stronger medico-legal capacity to handle custodial torture cases]]></title>
@@ -22,7 +30,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/we-need-stronger-medico-legal-capacity-handle-custodial-torture-cases-4208606</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-stronger-medico-legal-capacity-handle-custodial-torture-cases-4208606</guid>
             <dc:creator><![CDATA[Priya Ahsan Chowdhury]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 06:48:55 GMT</pubDate>
+            <pubDate>Fri, 26 Jun 2026 10:17:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's missing from the FY2026-27 climate budget]]></title>
@@ -30,7 +38,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/whats-missing-the-fy2026-27-climate-budget-4208611</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/whats-missing-the-fy2026-27-climate-budget-4208611</guid>
             <dc:creator><![CDATA[Haseeb Md. Irfanullah]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 06:48:55 GMT</pubDate>
+            <pubDate>Fri, 26 Jun 2026 10:17:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[International Day in Support of Victims of Torture / Breaking with the past: Building institutions that prevent torture]]></title>
@@ -58,21 +66,13 @@
             <title><![CDATA[Digital protection of data must improve]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/digital-protection-data-must-improve-4208541</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/digital-protection-data-must-improve-4208541</guid>
-            <pubDate>Fri, 26 Jun 2026 06:48:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Advance tax on retailers: A smart reform or a burden on businesses?]]></title>
-            <description><![CDATA[By Md Emdadul Haque]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/advance-tax-retailers-smart-reform-or-burden-businesses-4207621</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/advance-tax-retailers-smart-reform-or-burden-businesses-4207621</guid>
-            <dc:creator><![CDATA[Md Emdadul Haque]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 11:00:00 GMT</pubDate>
+            <pubDate>Fri, 26 Jun 2026 10:17:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A relentless burden of debt servicing]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/relentless-burden-debt-servicing-4207261</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/relentless-burden-debt-servicing-4207261</guid>
-            <pubDate>Fri, 26 Jun 2026 06:48:55 GMT</pubDate>
+            <pubDate>Fri, 26 Jun 2026 10:17:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Allocation for MPs unfair to local government]]></title>
@@ -84,19 +84,27 @@
             <title><![CDATA[Ensure ACC remains nonpartisan]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/ensure-acc-remains-nonpartisan-4206311</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-acc-remains-nonpartisan-4206311</guid>
-            <pubDate>Fri, 26 Jun 2026 06:48:55 GMT</pubDate>
+            <pubDate>Fri, 26 Jun 2026 10:17:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We need a pro-people tax plan]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/we-need-pro-people-tax-plan-4205346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-need-pro-people-tax-plan-4205346</guid>
-            <pubDate>Fri, 26 Jun 2026 06:48:55 GMT</pubDate>
+            <pubDate>Fri, 26 Jun 2026 10:17:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Without doctors, what good will extra hospital beds do?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/without-doctors-what-good-will-extra-hospital-beds-do-4205616</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/without-doctors-what-good-will-extra-hospital-beds-do-4205616</guid>
             <pubDate>Tue, 23 Jun 2026 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A bigger ADP, but can Bangladesh make it work?]]></title>
+            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bigger-adp-can-bangladesh-make-it-work-4206616</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bigger-adp-can-bangladesh-make-it-work-4206616</guid>
+            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh’s digital future can’t be built without addressing women’s fear]]></title>
@@ -145,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dont-leave-kaiputras-behind-the-name-development-4204581</guid>
             <dc:creator><![CDATA[Philip Gain]]></dc:creator>
             <pubDate>Mon, 22 Jun 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[77 years of Awami League: From people’s vanguard to an autocratic machine]]></title>
-            <description><![CDATA[By Mohiuddin Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/77-years-awami-league-peoples-vanguard-autocratic-machine-4205641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/77-years-awami-league-peoples-vanguard-autocratic-machine-4205641</guid>
-            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 11:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
