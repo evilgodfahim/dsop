@@ -4,33 +4,47 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 03:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 06:48:12 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Jun 2026 03:41:07 GMT</pubDate>
+        <pubDate>Sat, 27 Jun 2026 06:48:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The real test of the education budget will be in the classroom]]></title>
-            <description><![CDATA[When I look at the proposed education budget for FY-2026-27, I don’t first think about allocations or percentages of GDP.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-real-test-the-education-budget-will-be-the-classroom-4208596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-real-test-the-education-budget-will-be-the-classroom-4208596</guid>
-            <dc:creator><![CDATA[Zareen Mahmud Hosein]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 03:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What lies behind the Jamaat chief's 'civil war' remark?]]></title>
-            <description><![CDATA[By Tanim Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-lies-behind-the-jamaat-chiefs-civil-war-remark-4208581</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-lies-behind-the-jamaat-chiefs-civil-war-remark-4208581</guid>
-            <dc:creator><![CDATA[Tanim Ahmed]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 08:00:00 GMT</pubDate>
+            <title><![CDATA[International Deafblind Day  / The missing links in Bangladesh's deafblind support]]></title>
+            <description><![CDATA[Deafblindness is a unique and complex condition involving varying degrees of combined vision and hearing loss.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-missing-links-bangladeshs-deafblind-support-4208196</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-missing-links-bangladeshs-deafblind-support-4208196</guid>
+            <dc:creator><![CDATA[Ayon Debnath]]></dc:creator>
+            <pubDate>Sat, 27 Jun 2026 06:48:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[International Day in Support of Victims of Torture / We need stronger medico-legal capacity to handle custodial torture cases]]></title>
             <description><![CDATA[By Priya Ahsan Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-need-stronger-medico-legal-capacity-handle-custodial-torture-cases-4208606</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-stronger-medico-legal-capacity-handle-custodial-torture-cases-4208606</guid>
+            <link>https://www.thedailystar.net/opinion/news/we-need-stronger-medico-legal-capacity-handle-custodial-torture-cases-4208606</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/we-need-stronger-medico-legal-capacity-handle-custodial-torture-cases-4208606</guid>
             <dc:creator><![CDATA[Priya Ahsan Chowdhury]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Digital protection of data must improve]]></title>
+            <link>https://www.thedailystar.net/opinion/news/digital-protection-data-must-improve-4208541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/digital-protection-data-must-improve-4208541</guid>
+            <pubDate>Fri, 26 Jun 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[International Day in Support of Victims of Torture / Breaking with the past: Building institutions that prevent torture]]></title>
+            <description><![CDATA[By Sonali DayaratneNicole Hogg]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/breaking-the-past-building-institutions-prevent-torture-4208021</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/breaking-the-past-building-institutions-prevent-torture-4208021</guid>
+            <dc:creator><![CDATA[Sonali DayaratneNicole Hogg]]></dc:creator>
+            <pubDate>Tue, 16 Jun 2026 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The real test of the education budget will be in the classroom]]></title>
+            <description><![CDATA[By Zareen Mahmud Hosein]]></description>
+            <link>https://www.thedailystar.net/opinion/news/the-real-test-the-education-budget-will-be-the-classroom-4208596</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-real-test-the-education-budget-will-be-the-classroom-4208596</guid>
+            <dc:creator><![CDATA[Zareen Mahmud Hosein]]></dc:creator>
+            <pubDate>Sat, 27 Jun 2026 06:48:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's missing from the FY2026-27 climate budget]]></title>
@@ -41,12 +55,12 @@
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[International Day in Support of Victims of Torture / Breaking with the past: Building institutions that prevent torture]]></title>
-            <description><![CDATA[By Sonali DayaratneNicole Hogg]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/breaking-the-past-building-institutions-prevent-torture-4208021</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/breaking-the-past-building-institutions-prevent-torture-4208021</guid>
-            <dc:creator><![CDATA[Sonali DayaratneNicole Hogg]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 10:00:00 GMT</pubDate>
+            <title><![CDATA[What lies behind the Jamaat chief's 'civil war' remark?]]></title>
+            <description><![CDATA[By Tanim Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-lies-behind-the-jamaat-chiefs-civil-war-remark-4208581</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-lies-behind-the-jamaat-chiefs-civil-war-remark-4208581</guid>
+            <dc:creator><![CDATA[Tanim Ahmed]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 08:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Keir Starmer's fall should surprise no one]]></title>
@@ -63,16 +77,10 @@
             <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Digital protection of data must improve]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/digital-protection-data-must-improve-4208541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/digital-protection-data-must-improve-4208541</guid>
-            <pubDate>Fri, 26 Jun 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A relentless burden of debt servicing]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/relentless-burden-debt-servicing-4207261</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/relentless-burden-debt-servicing-4207261</guid>
-            <pubDate>Sat, 27 Jun 2026 03:41:07 GMT</pubDate>
+            <pubDate>Sat, 27 Jun 2026 06:48:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Allocation for MPs unfair to local government]]></title>
@@ -84,19 +92,13 @@
             <title><![CDATA[Ensure ACC remains nonpartisan]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/ensure-acc-remains-nonpartisan-4206311</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-acc-remains-nonpartisan-4206311</guid>
-            <pubDate>Sat, 27 Jun 2026 03:41:07 GMT</pubDate>
+            <pubDate>Sat, 27 Jun 2026 06:48:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We need a pro-people tax plan]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/we-need-pro-people-tax-plan-4205346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-need-pro-people-tax-plan-4205346</guid>
-            <pubDate>Sat, 27 Jun 2026 03:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Without doctors, what good will extra hospital beds do?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/without-doctors-what-good-will-extra-hospital-beds-do-4205616</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/without-doctors-what-good-will-extra-hospital-beds-do-4205616</guid>
-            <pubDate>Tue, 23 Jun 2026 09:00:00 GMT</pubDate>
+            <pubDate>Sat, 27 Jun 2026 06:48:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A bigger ADP, but can Bangladesh make it work?]]></title>
