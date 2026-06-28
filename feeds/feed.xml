@@ -4,23 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 11:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 13:23:03 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Jun 2026 11:45:13 GMT</pubDate>
+        <pubDate>Sun, 28 Jun 2026 13:23:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Custodial torture calls for independent probe]]></title>
+            <description><![CDATA[Empower NHRC to probe alleged violations by disciplined forces.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/custodial-torture-calls-independent-probe-4210456</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/custodial-torture-calls-independent-probe-4210456</guid>
+            <pubDate>Sun, 28 Jun 2026 13:23:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Health sector weaknesses the budget must target]]></title>
-            <description><![CDATA[In the proposed FY2026-27 national budget, the Government of Bangladesh has allocated Tk 69,409 crore to the health sector, out of a total budget of Tk 9.38 lakh crore.]]></description>
+            <description><![CDATA[By Shaikh Masudul Alam]]></description>
             <link>https://www.thedailystar.net/opinion/news/health-sector-weaknesses-the-budget-must-target-4209641</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/health-sector-weaknesses-the-budget-must-target-4209641</guid>
             <dc:creator><![CDATA[Shaikh Masudul Alam]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 11:45:13 GMT</pubDate>
+            <pubDate>Sun, 28 Jun 2026 13:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A river we celebrate, but fail to protect]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/river-we-celebrate-fail-protect-4209621</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/river-we-celebrate-fail-protect-4209621</guid>
-            <pubDate>Sun, 28 Jun 2026 11:45:13 GMT</pubDate>
+            <pubDate>Sun, 28 Jun 2026 13:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Bangladesh can make its university research budget work]]></title>
@@ -28,7 +35,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/how-bangladesh-can-make-its-university-research-budget-work-4209626</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-bangladesh-can-make-its-university-research-budget-work-4209626</guid>
             <dc:creator><![CDATA[Mo HoqueAshraf Dewan]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 11:45:13 GMT</pubDate>
+            <pubDate>Sun, 28 Jun 2026 13:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The institutional push behind academic brain drain]]></title>
@@ -36,7 +43,7 @@
             <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-institutional-push-behind-academic-brain-drain-4209631</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-institutional-push-behind-academic-brain-drain-4209631</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 11:45:13 GMT</pubDate>
+            <pubDate>Sun, 28 Jun 2026 13:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[International Deafblind Day  / The missing links in Bangladesh's deafblind support]]></title>
@@ -61,14 +68,6 @@
             <pubDate>Fri, 26 Jun 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[International Day in Support of Victims of Torture / Breaking with the past: Building institutions that prevent torture]]></title>
-            <description><![CDATA[By Sonali DayaratneNicole Hogg]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/breaking-the-past-building-institutions-prevent-torture-4208021</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/breaking-the-past-building-institutions-prevent-torture-4208021</guid>
-            <dc:creator><![CDATA[Sonali DayaratneNicole Hogg]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Don't neglect student hygiene in schools]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-neglect-student-hygiene-schools-4207611</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-neglect-student-hygiene-schools-4207611</guid>
@@ -78,7 +77,7 @@
             <title><![CDATA[A relentless burden of debt servicing]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/relentless-burden-debt-servicing-4207261</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/relentless-burden-debt-servicing-4207261</guid>
-            <pubDate>Sun, 28 Jun 2026 11:45:13 GMT</pubDate>
+            <pubDate>Sun, 28 Jun 2026 13:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Allocation for MPs unfair to local government]]></title>
@@ -90,13 +89,21 @@
             <title><![CDATA[Ensure ACC remains nonpartisan]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/ensure-acc-remains-nonpartisan-4206311</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-acc-remains-nonpartisan-4206311</guid>
-            <pubDate>Sun, 28 Jun 2026 11:45:13 GMT</pubDate>
+            <pubDate>Sun, 28 Jun 2026 13:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We need a pro-people tax plan]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/we-need-pro-people-tax-plan-4205346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-need-pro-people-tax-plan-4205346</guid>
-            <pubDate>Sun, 28 Jun 2026 11:45:13 GMT</pubDate>
+            <pubDate>Sun, 28 Jun 2026 13:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's missing from the FY2026-27 climate budget]]></title>
+            <description><![CDATA[By Haseeb Md. Irfanullah]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/whats-missing-the-fy2026-27-climate-budget-4208611</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/whats-missing-the-fy2026-27-climate-budget-4208611</guid>
+            <dc:creator><![CDATA[Haseeb Md. Irfanullah]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The real test of the education budget will be in the classroom]]></title>
@@ -104,7 +111,7 @@
             <link>https://www.thedailystar.net/opinion/news/the-real-test-the-education-budget-will-be-the-classroom-4208596</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-real-test-the-education-budget-will-be-the-classroom-4208596</guid>
             <dc:creator><![CDATA[Zareen Mahmud Hosein]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 11:45:13 GMT</pubDate>
+            <pubDate>Sun, 28 Jun 2026 13:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What lies behind the Jamaat chief's 'civil war' remark?]]></title>
@@ -145,14 +152,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/amid-water-sharing-uncertainty-rainwater-harvesting-deserves-greater-focus-4207631</guid>
             <dc:creator><![CDATA[Ahmed Mukta]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FY2026-27 budget targets: A bridge too far?]]></title>
-            <description><![CDATA[By Mustafizur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/fy2026-27-budget-targets-bridge-too-far-4207601</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fy2026-27-budget-targets-bridge-too-far-4207601</guid>
-            <dc:creator><![CDATA[Mustafizur Rahman]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
