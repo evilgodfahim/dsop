@@ -4,16 +4,23 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 23:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 03:23:03 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 23:58:42 GMT</pubDate>
+        <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Half a million HSC dropouts signal a silent crisis]]></title>
+            <description><![CDATA[Two text messages appeared on my phone on Thursday evening as I came out of cinema after watching Tan Siyou’s Amoeba, a Singaporean film about teenage girls suffocating within an extremely controlled system.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/half-million-hsc-dropouts-signal-silent-crisis-4215141</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/half-million-hsc-dropouts-signal-silent-crisis-4215141</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why is there a wide gap in measles vaccination?]]></title>
-            <description><![CDATA[The government must ensure 95 percent coverage to stop disease transmission.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/why-there-wide-gap-measles-vaccination-4214921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-there-wide-gap-measles-vaccination-4214921</guid>
-            <pubDate>Fri, 03 Jul 2026 23:58:42 GMT</pubDate>
+            <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Inu verdict and the making of credible justice in Bangladesh]]></title>
@@ -29,7 +36,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-champions-bangladesh-keeps-underfunding-4214551</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-champions-bangladesh-keeps-underfunding-4214551</guid>
             <dc:creator><![CDATA[Farah Mahboob]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 23:58:42 GMT</pubDate>
+            <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh declared two new marine protected areas. What about the first five?]]></title>
@@ -64,14 +71,6 @@
             <pubDate>Thu, 02 Jul 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When love meets a political fault line]]></title>
-            <description><![CDATA[By Anas Ansar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/when-love-meets-political-fault-line-4213546</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-love-meets-political-fault-line-4213546</guid>
-            <dc:creator><![CDATA[Anas Ansar]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[To effect change, why do we wait for tragedy?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/effect-change-why-do-we-wait-tragedy-4214541</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/effect-change-why-do-we-wait-tragedy-4214541</guid>
@@ -81,25 +80,33 @@
             <title><![CDATA[Acknowledge the rape epidemic]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/acknowledge-the-rape-epidemic-4213221</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/acknowledge-the-rape-epidemic-4213221</guid>
-            <pubDate>Fri, 03 Jul 2026 23:58:42 GMT</pubDate>
+            <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Procurement abuse must stop]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/procurement-abuse-must-stop-4213536</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/procurement-abuse-must-stop-4213536</guid>
-            <pubDate>Fri, 03 Jul 2026 23:58:42 GMT</pubDate>
+            <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Follow the building code strictly]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/follow-the-building-code-strictly-4212721</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/follow-the-building-code-strictly-4212721</guid>
-            <pubDate>Fri, 03 Jul 2026 23:58:42 GMT</pubDate>
+            <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Power distribution must be equitable]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/power-distribution-must-be-equitable-4212271</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/power-distribution-must-be-equitable-4212271</guid>
-            <pubDate>Fri, 03 Jul 2026 23:58:42 GMT</pubDate>
+            <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When love meets a political fault line]]></title>
+            <description><![CDATA[By Anas Ansar]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/when-love-meets-political-fault-line-4213546</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-love-meets-political-fault-line-4213546</guid>
+            <dc:creator><![CDATA[Anas Ansar]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh built its sukuk market on the wrong blueprint]]></title>
@@ -139,7 +146,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/bonn-dialogue-trade-climate-interface-can-trade-promote-mitigation-action-4212246</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bonn-dialogue-trade-climate-interface-can-trade-promote-mitigation-action-4212246</guid>
             <dc:creator><![CDATA[Mizan R Khan]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 23:58:42 GMT</pubDate>
+            <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mental health: The health budget's blind spot]]></title>
@@ -148,14 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/mental-health-the-health-budgets-blind-spot-4211576</guid>
             <dc:creator><![CDATA[Imdadul Haque Talukdar]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the FY2026-27 budget repeats the habits of the past]]></title>
-            <description><![CDATA[By Badiul Alam Majumdar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-the-fy2026-27-budget-repeats-the-habits-the-past-4211571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-the-fy2026-27-budget-repeats-the-habits-the-past-4211571</guid>
-            <dc:creator><![CDATA[Badiul Alam Majumdar]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
