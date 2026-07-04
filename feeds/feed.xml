@@ -4,23 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jul 2026 03:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 06:41:46 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
+        <pubDate>Sat, 04 Jul 2026 06:41:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[How the internet is rewiring our brains]]></title>
+            <description><![CDATA[Not long ago, if a curious student in Dhaka wanted to read about the philosophy of Ibn Rushd, an Andalusian polymath and jurist, or if a farmer in Rajshahi wanted to understand soil pH levels, or if a young woman in Sylhet dreamt of learning French, they were largely on their own.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-the-internet-rewiring-our-brains-4215161</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-the-internet-rewiring-our-brains-4215161</guid>
+            <dc:creator><![CDATA[Hussain A Samad]]></dc:creator>
+            <pubDate>Sat, 04 Jul 2026 06:41:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Half a million HSC dropouts signal a silent crisis]]></title>
-            <description><![CDATA[Two text messages appeared on my phone on Thursday evening as I came out of cinema after watching Tan Siyou’s Amoeba, a Singaporean film about teenage girls suffocating within an extremely controlled system.]]></description>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
             <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/half-million-hsc-dropouts-signal-silent-crisis-4215141</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/half-million-hsc-dropouts-signal-silent-crisis-4215141</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
+            <pubDate>Sat, 04 Jul 2026 06:41:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why is there a wide gap in measles vaccination?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/why-there-wide-gap-measles-vaccination-4214921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-there-wide-gap-measles-vaccination-4214921</guid>
-            <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
+            <pubDate>Sat, 04 Jul 2026 06:41:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Inu verdict and the making of credible justice in Bangladesh]]></title>
@@ -36,7 +44,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-champions-bangladesh-keeps-underfunding-4214551</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-champions-bangladesh-keeps-underfunding-4214551</guid>
             <dc:creator><![CDATA[Farah Mahboob]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
+            <pubDate>Sat, 04 Jul 2026 06:41:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh declared two new marine protected areas. What about the first five?]]></title>
@@ -47,28 +55,18 @@
             <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Khulna’s annual ordeal must end]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/khulnas-annual-ordeal-must-end-4215131</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/khulnas-annual-ordeal-must-end-4215131</guid>
+            <pubDate>Sat, 04 Jul 2026 06:41:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Will Europe's heatwave finally spur climate justice?]]></title>
             <description><![CDATA[By Noshin Nawal]]></description>
             <link>https://www.thedailystar.net/opinion/views/mind-the-gap/news/will-europes-heatwave-finally-spur-climate-justice-4214561</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/will-europes-heatwave-finally-spur-climate-justice-4214561</guid>
             <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
             <pubDate>Fri, 03 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[For seven years, the greatest World Cup scorer was a woman. Did we know her name?]]></title>
-            <description><![CDATA[By Nur Nishat Anjum]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/seven-years-the-greatest-world-cup-scorer-was-woman-did-we-know-her-name-4213566</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/seven-years-the-greatest-world-cup-scorer-was-woman-did-we-know-her-name-4213566</guid>
-            <dc:creator><![CDATA[Nur Nishat Anjum]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mustafa Monwar: The Geppetto of our time]]></title>
-            <description><![CDATA[By Mofidul Hoque]]></description>
-            <link>https://www.thedailystar.net/opinion/tribute/news/mustafa-monwar-the-geppetto-our-time-4213556</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/tribute/news/mustafa-monwar-the-geppetto-our-time-4213556</guid>
-            <dc:creator><![CDATA[Mofidul Hoque]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[To effect change, why do we wait for tragedy?]]></title>
@@ -80,25 +78,33 @@
             <title><![CDATA[Acknowledge the rape epidemic]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/acknowledge-the-rape-epidemic-4213221</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/acknowledge-the-rape-epidemic-4213221</guid>
-            <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
+            <pubDate>Sat, 04 Jul 2026 06:41:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Procurement abuse must stop]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/procurement-abuse-must-stop-4213536</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/procurement-abuse-must-stop-4213536</guid>
-            <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
+            <pubDate>Sat, 04 Jul 2026 06:41:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Follow the building code strictly]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/follow-the-building-code-strictly-4212721</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/follow-the-building-code-strictly-4212721</guid>
-            <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
+            <pubDate>Sat, 04 Jul 2026 06:41:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Power distribution must be equitable]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/power-distribution-must-be-equitable-4212271</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/power-distribution-must-be-equitable-4212271</guid>
-            <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
+            <pubDate>Sat, 04 Jul 2026 06:41:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where is the investment in human capital in our logistics budget?]]></title>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/where-the-investment-human-capital-our-logistics-budget-4213541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/where-the-investment-human-capital-our-logistics-budget-4213541</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 08:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When love meets a political fault line]]></title>
@@ -107,6 +113,22 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-love-meets-political-fault-line-4213546</guid>
             <dc:creator><![CDATA[Anas Ansar]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mustafa Monwar: The Geppetto of our time]]></title>
+            <description><![CDATA[By Mofidul Hoque]]></description>
+            <link>https://www.thedailystar.net/opinion/tribute/news/mustafa-monwar-the-geppetto-our-time-4213556</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/tribute/news/mustafa-monwar-the-geppetto-our-time-4213556</guid>
+            <dc:creator><![CDATA[Mofidul Hoque]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[For seven years, the greatest World Cup scorer was a woman. Did we know her name?]]></title>
+            <description><![CDATA[By Nur Nishat Anjum]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/seven-years-the-greatest-world-cup-scorer-was-woman-did-we-know-her-name-4213566</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/seven-years-the-greatest-world-cup-scorer-was-woman-did-we-know-her-name-4213566</guid>
+            <dc:creator><![CDATA[Nur Nishat Anjum]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh built its sukuk market on the wrong blueprint]]></title>
@@ -131,30 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-human-cost-wasting-rohingya-aid-funds-4212736</guid>
             <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
             <pubDate>Wed, 01 Jul 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[105th anniversary of Dhaka University / DU must trade nostalgia for measurable excellence]]></title>
-            <description><![CDATA[By M Niaz Asadullah]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/du-must-trade-nostalgia-measurable-excellence-4212746</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/du-must-trade-nostalgia-measurable-excellence-4212746</guid>
-            <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bonn dialogue on trade-climate interface: Can trade promote mitigation action?]]></title>
-            <description><![CDATA[By Mizan R Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bonn-dialogue-trade-climate-interface-can-trade-promote-mitigation-action-4212246</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bonn-dialogue-trade-climate-interface-can-trade-promote-mitigation-action-4212246</guid>
-            <dc:creator><![CDATA[Mizan R Khan]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 03:23:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mental health: The health budget's blind spot]]></title>
-            <description><![CDATA[By Imdadul Haque Talukdar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/mental-health-the-health-budgets-blind-spot-4211576</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/mental-health-the-health-budgets-blind-spot-4211576</guid>
-            <dc:creator><![CDATA[Imdadul Haque Talukdar]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 11:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
