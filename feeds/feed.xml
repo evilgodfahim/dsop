@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 11:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 13:17:24 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 11:25:47 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 13:17:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Projects must never be approved on a whim]]></title>
+            <description><![CDATA[Hold those accountable for graft in Karnaphuli Tunnel project.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/projects-must-never-be-approved-whim-4216461</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/projects-must-never-be-approved-whim-4216461</guid>
+            <pubDate>Sun, 05 Jul 2026 13:17:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is the government losing its grip on law and order?]]></title>
-            <description><![CDATA[After years of widespread human rights abuses under the Awami League government, the July uprising in 2024 created hopes for a new beginning.]]></description>
+            <description><![CDATA[By Kallol Mustafa]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/the-government-losing-its-grip-law-and-order-4215901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-government-losing-its-grip-law-and-order-4215901</guid>
             <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 11:25:47 GMT</pubDate>
+            <pubDate>Sun, 05 Jul 2026 13:17:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The solution to Bangladesh’s dengue problem is in our own soil]]></title>
@@ -22,7 +29,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-solution-bangladeshs-dengue-problem-our-own-soil-4215916</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-solution-bangladeshs-dengue-problem-our-own-soil-4215916</guid>
             <dc:creator><![CDATA[Mohammad Tofazzal Hossain Howlader]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 11:25:47 GMT</pubDate>
+            <pubDate>Sun, 05 Jul 2026 13:17:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI-based traffic cases expose our legal vacuum on AI governance]]></title>
@@ -30,13 +37,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/ai-based-traffic-cases-expose-our-legal-vacuum-ai-governance-4215906</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ai-based-traffic-cases-expose-our-legal-vacuum-ai-governance-4215906</guid>
             <dc:creator><![CDATA[Pinak Sarkar]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 11:25:47 GMT</pubDate>
+            <pubDate>Sun, 05 Jul 2026 13:17:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How many warnings does Dhaka need?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/how-many-warnings-does-dhaka-need-4215896</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-many-warnings-does-dhaka-need-4215896</guid>
-            <pubDate>Sun, 05 Jul 2026 11:25:47 GMT</pubDate>
+            <pubDate>Sun, 05 Jul 2026 13:17:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Bangladesh should be patient in its nuclear journey]]></title>
@@ -44,7 +51,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-bangladesh-should-be-patient-its-nuclear-journey-4215926</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladesh-should-be-patient-its-nuclear-journey-4215926</guid>
             <dc:creator><![CDATA[Md Shafiqul Islam]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 11:25:47 GMT</pubDate>
+            <pubDate>Sun, 05 Jul 2026 13:17:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How the internet is rewiring our brains]]></title>
@@ -63,18 +70,10 @@
             <pubDate>Sat, 04 Jul 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Was the Iran war inevitable?]]></title>
-            <description><![CDATA[By Sayeed Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/was-the-iran-war-inevitable-4215146</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/was-the-iran-war-inevitable-4215146</guid>
-            <dc:creator><![CDATA[Sayeed Ahmed]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 11:25:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Government must not shrug off custodial deaths]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</guid>
-            <pubDate>Sun, 05 Jul 2026 11:25:47 GMT</pubDate>
+            <pubDate>Sun, 05 Jul 2026 13:17:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Khulna’s annual ordeal must end]]></title>
@@ -86,7 +85,7 @@
             <title><![CDATA[Why is there a wide gap in measles vaccination?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/why-there-wide-gap-measles-vaccination-4214921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-there-wide-gap-measles-vaccination-4214921</guid>
-            <pubDate>Sun, 05 Jul 2026 11:25:47 GMT</pubDate>
+            <pubDate>Sun, 05 Jul 2026 13:17:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[To effect change, why do we wait for tragedy?]]></title>
@@ -98,7 +97,15 @@
             <title><![CDATA[Acknowledge the rape epidemic]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/acknowledge-the-rape-epidemic-4213221</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/acknowledge-the-rape-epidemic-4213221</guid>
-            <pubDate>Sun, 05 Jul 2026 11:25:47 GMT</pubDate>
+            <pubDate>Sun, 05 Jul 2026 13:17:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quality must become healthcare's first line of defence in Bangladesh]]></title>
+            <description><![CDATA[By Mamudul Hasan Razu]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/quality-must-become-healthcares-first-line-defence-bangladesh-4215156</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/quality-must-become-healthcares-first-line-defence-bangladesh-4215156</guid>
+            <dc:creator><![CDATA[Mamudul Hasan Razu]]></dc:creator>
+            <pubDate>Sat, 04 Jul 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Inu verdict and the making of credible justice in Bangladesh]]></title>
@@ -114,7 +121,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-champions-bangladesh-keeps-underfunding-4214551</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-champions-bangladesh-keeps-underfunding-4214551</guid>
             <dc:creator><![CDATA[Farah Mahboob]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 11:25:47 GMT</pubDate>
+            <pubDate>Sun, 05 Jul 2026 13:17:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh declared two new marine protected areas. What about the first five?]]></title>
@@ -147,14 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-love-meets-political-fault-line-4213546</guid>
             <dc:creator><![CDATA[Anas Ansar]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mustafa Monwar: The Geppetto of our time]]></title>
-            <description><![CDATA[By Mofidul Hoque]]></description>
-            <link>https://www.thedailystar.net/opinion/tribute/news/mustafa-monwar-the-geppetto-our-time-4213556</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/tribute/news/mustafa-monwar-the-geppetto-our-time-4213556</guid>
-            <dc:creator><![CDATA[Mofidul Hoque]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
