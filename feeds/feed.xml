@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 10:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 14:22:04 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 10:03:07 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 14:22:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Enforce noise pollution rules strictly]]></title>
+            <description><![CDATA[The government must tackle urban noise pollution effectively.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/enforce-noise-pollution-rules-strictly-4217291</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/enforce-noise-pollution-rules-strictly-4217291</guid>
+            <pubDate>Mon, 06 Jul 2026 14:22:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What hinders the proper execution of Bangladesh's health budget?]]></title>
-            <description><![CDATA[Bangladesh’s health budgeting system remains centralised and input-driven. Budgets are prepared and approved according to detailed expenditure codes, leaving managers with little flexibility to respond to changing needs during implementation.]]></description>
+            <description><![CDATA[By Rumana Huque]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/what-hinders-the-proper-execution-bangladeshs-health-budget-4216801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-hinders-the-proper-execution-bangladeshs-health-budget-4216801</guid>
             <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
@@ -50,7 +57,7 @@
             <title><![CDATA[Projects must never be approved on a whim]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/projects-must-never-be-approved-whim-4216461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/projects-must-never-be-approved-whim-4216461</guid>
-            <pubDate>Mon, 06 Jul 2026 10:03:07 GMT</pubDate>
+            <pubDate>Mon, 06 Jul 2026 14:22:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is the government losing its grip on law and order?]]></title>
@@ -61,18 +68,10 @@
             <pubDate>Sun, 05 Jul 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The solution to Bangladesh’s dengue problem is in our own soil]]></title>
-            <description><![CDATA[By Mohammad Tofazzal Hossain Howlader]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-solution-bangladeshs-dengue-problem-our-own-soil-4215916</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-solution-bangladeshs-dengue-problem-our-own-soil-4215916</guid>
-            <dc:creator><![CDATA[Mohammad Tofazzal Hossain Howlader]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Government must not shrug off custodial deaths]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</guid>
-            <pubDate>Mon, 06 Jul 2026 10:03:07 GMT</pubDate>
+            <pubDate>Mon, 06 Jul 2026 14:22:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How many warnings does Dhaka need?]]></title>
@@ -90,13 +89,21 @@
             <title><![CDATA[Why is there a wide gap in measles vaccination?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/why-there-wide-gap-measles-vaccination-4214921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-there-wide-gap-measles-vaccination-4214921</guid>
-            <pubDate>Mon, 06 Jul 2026 10:03:07 GMT</pubDate>
+            <pubDate>Mon, 06 Jul 2026 14:22:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[To effect change, why do we wait for tragedy?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/effect-change-why-do-we-wait-tragedy-4214541</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/effect-change-why-do-we-wait-tragedy-4214541</guid>
             <pubDate>Fri, 03 Jul 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI-based traffic cases expose our legal vacuum on AI governance]]></title>
+            <description><![CDATA[By Pinak Sarkar]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/ai-based-traffic-cases-expose-our-legal-vacuum-ai-governance-4215906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ai-based-traffic-cases-expose-our-legal-vacuum-ai-governance-4215906</guid>
+            <dc:creator><![CDATA[Pinak Sarkar]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 14:22:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Bangladesh should be patient in its nuclear journey]]></title>
@@ -112,7 +119,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/was-the-iran-war-inevitable-4215146</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/was-the-iran-war-inevitable-4215146</guid>
             <dc:creator><![CDATA[Sayeed Ahmed]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 10:03:07 GMT</pubDate>
+            <pubDate>Mon, 06 Jul 2026 14:22:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How the internet is rewiring our brains]]></title>
@@ -145,14 +152,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/inu-verdict-and-the-making-credible-justice-bangladesh-4214546</guid>
             <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
             <pubDate>Fri, 03 Jul 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The champions Bangladesh keeps underfunding]]></title>
-            <description><![CDATA[By Farah Mahboob]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-champions-bangladesh-keeps-underfunding-4214551</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-champions-bangladesh-keeps-underfunding-4214551</guid>
-            <dc:creator><![CDATA[Farah Mahboob]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 10:03:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
