@@ -4,16 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 00:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 05:04:42 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 00:03:27 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 05:04:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[What hinders the proper execution of Bangladesh's health budget?]]></title>
+            <description><![CDATA[Every year, the national budget revives the debate over inadequate investments in the health sector of Bangladesh.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-hinders-the-proper-execution-bangladeshs-health-budget-4216801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-hinders-the-proper-execution-bangladeshs-health-budget-4216801</guid>
+            <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘We need action-oriented research that explores solutions to drug addiction aligned with local contexts’]]></title>
+            <description><![CDATA[By Marzana Tasnim]]></description>
+            <link>https://www.thedailystar.net/opinion/interviews/news/we-need-action-oriented-research-explores-solutions-drug-addiction-aligned-local-contexts-4216831</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/we-need-action-oriented-research-explores-solutions-drug-addiction-aligned-local-contexts-4216831</guid>
+            <dc:creator><![CDATA[Marzana Tasnim]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 09:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Projects must never be approved on a whim]]></title>
-            <description><![CDATA[Hold those accountable for graft in Karnaphuli Tunnel project.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/projects-must-never-be-approved-whim-4216461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/projects-must-never-be-approved-whim-4216461</guid>
-            <pubDate>Mon, 06 Jul 2026 00:03:27 GMT</pubDate>
+            <pubDate>Mon, 06 Jul 2026 05:04:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is the government losing its grip on law and order?]]></title>
@@ -37,7 +52,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/ai-based-traffic-cases-expose-our-legal-vacuum-ai-governance-4215906</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ai-based-traffic-cases-expose-our-legal-vacuum-ai-governance-4215906</guid>
             <dc:creator><![CDATA[Pinak Sarkar]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 00:03:27 GMT</pubDate>
+            <pubDate>Mon, 06 Jul 2026 05:04:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fill the empty teachers' posts urgently]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fill-the-empty-teachers-posts-urgently-4216786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fill-the-empty-teachers-posts-urgently-4216786</guid>
+            <pubDate>Sun, 05 Jul 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How many warnings does Dhaka need?]]></title>
@@ -46,34 +67,10 @@
             <pubDate>Sun, 05 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Bangladesh should be patient in its nuclear journey]]></title>
-            <description><![CDATA[By Md Shafiqul Islam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-bangladesh-should-be-patient-its-nuclear-journey-4215926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladesh-should-be-patient-its-nuclear-journey-4215926</guid>
-            <dc:creator><![CDATA[Md Shafiqul Islam]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the internet is rewiring our brains]]></title>
-            <description><![CDATA[By Hussain A Samad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-the-internet-rewiring-our-brains-4215161</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-the-internet-rewiring-our-brains-4215161</guid>
-            <dc:creator><![CDATA[Hussain A Samad]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Half a million HSC dropouts signal a silent crisis]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/half-million-hsc-dropouts-signal-silent-crisis-4215141</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/half-million-hsc-dropouts-signal-silent-crisis-4215141</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Government must not shrug off custodial deaths]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</guid>
-            <pubDate>Mon, 06 Jul 2026 00:03:27 GMT</pubDate>
+            <pubDate>Mon, 06 Jul 2026 05:04:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Khulna’s annual ordeal must end]]></title>
@@ -85,7 +82,7 @@
             <title><![CDATA[Why is there a wide gap in measles vaccination?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/why-there-wide-gap-measles-vaccination-4214921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-there-wide-gap-measles-vaccination-4214921</guid>
-            <pubDate>Mon, 06 Jul 2026 00:03:27 GMT</pubDate>
+            <pubDate>Mon, 06 Jul 2026 05:04:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[To effect change, why do we wait for tragedy?]]></title>
@@ -97,7 +94,23 @@
             <title><![CDATA[Acknowledge the rape epidemic]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/acknowledge-the-rape-epidemic-4213221</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/acknowledge-the-rape-epidemic-4213221</guid>
-            <pubDate>Mon, 06 Jul 2026 00:03:27 GMT</pubDate>
+            <pubDate>Mon, 06 Jul 2026 05:04:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Was the Iran war inevitable?]]></title>
+            <description><![CDATA[By Sayeed Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/was-the-iran-war-inevitable-4215146</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/was-the-iran-war-inevitable-4215146</guid>
+            <dc:creator><![CDATA[Sayeed Ahmed]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 05:04:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the internet is rewiring our brains]]></title>
+            <description><![CDATA[By Hussain A Samad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-the-internet-rewiring-our-brains-4215161</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-the-internet-rewiring-our-brains-4215161</guid>
+            <dc:creator><![CDATA[Hussain A Samad]]></dc:creator>
+            <pubDate>Sat, 04 Jul 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quality must become healthcare's first line of defence in Bangladesh]]></title>
@@ -106,6 +119,14 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/quality-must-become-healthcares-first-line-defence-bangladesh-4215156</guid>
             <dc:creator><![CDATA[Mamudul Hasan Razu]]></dc:creator>
             <pubDate>Sat, 04 Jul 2026 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Half a million HSC dropouts signal a silent crisis]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/half-million-hsc-dropouts-signal-silent-crisis-4215141</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/half-million-hsc-dropouts-signal-silent-crisis-4215141</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 04 Jul 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Inu verdict and the making of credible justice in Bangladesh]]></title>
@@ -121,7 +142,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-champions-bangladesh-keeps-underfunding-4214551</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-champions-bangladesh-keeps-underfunding-4214551</guid>
             <dc:creator><![CDATA[Farah Mahboob]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 00:03:27 GMT</pubDate>
+            <pubDate>Mon, 06 Jul 2026 05:04:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh declared two new marine protected areas. What about the first five?]]></title>
@@ -130,30 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-declared-two-new-marine-protected-areas-what-about-the-first-five-4214556</guid>
             <dc:creator><![CDATA[Md Syful Islam]]></dc:creator>
             <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Europe's heatwave finally spur climate justice?]]></title>
-            <description><![CDATA[By Noshin Nawal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/mind-the-gap/news/will-europes-heatwave-finally-spur-climate-justice-4214561</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/will-europes-heatwave-finally-spur-climate-justice-4214561</guid>
-            <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where is the investment in human capital in our logistics budget?]]></title>
-            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/where-the-investment-human-capital-our-logistics-budget-4213541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/where-the-investment-human-capital-our-logistics-budget-4213541</guid>
-            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When love meets a political fault line]]></title>
-            <description><![CDATA[By Anas Ansar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/when-love-meets-political-fault-line-4213546</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-love-meets-political-fault-line-4213546</guid>
-            <dc:creator><![CDATA[Anas Ansar]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 10:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
