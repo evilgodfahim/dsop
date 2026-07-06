@@ -4,20 +4,28 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 05:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 10:03:07 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 05:04:42 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 10:03:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What hinders the proper execution of Bangladesh's health budget?]]></title>
-            <description><![CDATA[Every year, the national budget revives the debate over inadequate investments in the health sector of Bangladesh.]]></description>
+            <description><![CDATA[Bangladesh’s health budgeting system remains centralised and input-driven. Budgets are prepared and approved according to detailed expenditure codes, leaving managers with little flexibility to respond to changing needs during implementation.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/what-hinders-the-proper-execution-bangladeshs-health-budget-4216801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-hinders-the-proper-execution-bangladeshs-health-budget-4216801</guid>
             <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
             <pubDate>Sun, 05 Jul 2026 08:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘We need action-oriented research that explores solutions to drug addiction aligned with local contexts’]]></title>
+            <title><![CDATA[The darker side of Bangladesh's World Cup fever]]></title>
+            <description><![CDATA[By Most. Farhana Azad Shanta]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-darker-side-bangladeshs-world-cup-fever-4216816</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-darker-side-bangladeshs-world-cup-fever-4216816</guid>
+            <dc:creator><![CDATA[Most. Farhana Azad Shanta]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘We need research that explores solutions to drug addiction aligned with local contexts’]]></title>
             <description><![CDATA[By Marzana Tasnim]]></description>
             <link>https://www.thedailystar.net/opinion/interviews/news/we-need-action-oriented-research-explores-solutions-drug-addiction-aligned-local-contexts-4216831</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/we-need-action-oriented-research-explores-solutions-drug-addiction-aligned-local-contexts-4216831</guid>
@@ -25,10 +33,24 @@
             <pubDate>Sun, 05 Jul 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The hidden epidemic of emotional abuse in marriage]]></title>
+            <description><![CDATA[By Sina Akand]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-hidden-epidemic-emotional-abuse-marriage-4216851</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-hidden-epidemic-emotional-abuse-marriage-4216851</guid>
+            <dc:creator><![CDATA[Sina Akand]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fill the empty teachers' posts urgently]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fill-the-empty-teachers-posts-urgently-4216786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fill-the-empty-teachers-posts-urgently-4216786</guid>
+            <pubDate>Sun, 05 Jul 2026 10:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Projects must never be approved on a whim]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/projects-must-never-be-approved-whim-4216461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/projects-must-never-be-approved-whim-4216461</guid>
-            <pubDate>Mon, 06 Jul 2026 05:04:42 GMT</pubDate>
+            <pubDate>Mon, 06 Jul 2026 10:03:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is the government losing its grip on law and order?]]></title>
@@ -47,30 +69,16 @@
             <pubDate>Sun, 05 Jul 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI-based traffic cases expose our legal vacuum on AI governance]]></title>
-            <description><![CDATA[By Pinak Sarkar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/ai-based-traffic-cases-expose-our-legal-vacuum-ai-governance-4215906</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ai-based-traffic-cases-expose-our-legal-vacuum-ai-governance-4215906</guid>
-            <dc:creator><![CDATA[Pinak Sarkar]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 05:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fill the empty teachers' posts urgently]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/fill-the-empty-teachers-posts-urgently-4216786</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fill-the-empty-teachers-posts-urgently-4216786</guid>
-            <pubDate>Sun, 05 Jul 2026 10:00:00 GMT</pubDate>
+            <title><![CDATA[Government must not shrug off custodial deaths]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</guid>
+            <pubDate>Mon, 06 Jul 2026 10:03:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How many warnings does Dhaka need?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/how-many-warnings-does-dhaka-need-4215896</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-many-warnings-does-dhaka-need-4215896</guid>
             <pubDate>Sun, 05 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Government must not shrug off custodial deaths]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</guid>
-            <pubDate>Mon, 06 Jul 2026 05:04:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Khulna’s annual ordeal must end]]></title>
@@ -82,7 +90,7 @@
             <title><![CDATA[Why is there a wide gap in measles vaccination?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/why-there-wide-gap-measles-vaccination-4214921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-there-wide-gap-measles-vaccination-4214921</guid>
-            <pubDate>Mon, 06 Jul 2026 05:04:42 GMT</pubDate>
+            <pubDate>Mon, 06 Jul 2026 10:03:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[To effect change, why do we wait for tragedy?]]></title>
@@ -91,10 +99,12 @@
             <pubDate>Fri, 03 Jul 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Acknowledge the rape epidemic]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/acknowledge-the-rape-epidemic-4213221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/acknowledge-the-rape-epidemic-4213221</guid>
-            <pubDate>Mon, 06 Jul 2026 05:04:42 GMT</pubDate>
+            <title><![CDATA[Why Bangladesh should be patient in its nuclear journey]]></title>
+            <description><![CDATA[By Md Shafiqul Islam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-bangladesh-should-be-patient-its-nuclear-journey-4215926</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladesh-should-be-patient-its-nuclear-journey-4215926</guid>
+            <dc:creator><![CDATA[Md Shafiqul Islam]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Was the Iran war inevitable?]]></title>
@@ -102,7 +112,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/was-the-iran-war-inevitable-4215146</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/was-the-iran-war-inevitable-4215146</guid>
             <dc:creator><![CDATA[Sayeed Ahmed]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 05:04:42 GMT</pubDate>
+            <pubDate>Mon, 06 Jul 2026 10:03:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How the internet is rewiring our brains]]></title>
@@ -142,15 +152,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-champions-bangladesh-keeps-underfunding-4214551</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-champions-bangladesh-keeps-underfunding-4214551</guid>
             <dc:creator><![CDATA[Farah Mahboob]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 05:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh declared two new marine protected areas. What about the first five?]]></title>
-            <description><![CDATA[By Md Syful Islam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-declared-two-new-marine-protected-areas-what-about-the-first-five-4214556</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-declared-two-new-marine-protected-areas-what-about-the-first-five-4214556</guid>
-            <dc:creator><![CDATA[Md Syful Islam]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
+            <pubDate>Mon, 06 Jul 2026 10:03:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
