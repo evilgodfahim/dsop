@@ -4,16 +4,39 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 02:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 06:39:36 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 02:29:31 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 06:39:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Is Bangladesh ready for the age of AI-driven automation?]]></title>
+            <description><![CDATA[Artificial intelligence can now write, analyse, design, and even create art and music, while robots operate across factories, hospitals, and logistics networks.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-ready-the-age-ai-driven-automation-4217701</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-ready-the-age-ai-driven-automation-4217701</guid>
+            <dc:creator><![CDATA[Saifur Rahman]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 06:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adding new medical colleges won't fix Bangladesh's healthcare system]]></title>
+            <description><![CDATA[By Syed Abdul Hamid]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/adding-new-medical-colleges-wont-fix-bangladeshs-healthcare-system-4217716</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/adding-new-medical-colleges-wont-fix-bangladeshs-healthcare-system-4217716</guid>
+            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 06:39:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Enforce noise pollution rules strictly]]></title>
-            <description><![CDATA[The government must tackle urban noise pollution effectively.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/enforce-noise-pollution-rules-strictly-4217291</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/enforce-noise-pollution-rules-strictly-4217291</guid>
-            <pubDate>Tue, 07 Jul 2026 02:29:31 GMT</pubDate>
+            <pubDate>Tue, 07 Jul 2026 06:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka's next flood is predictable. Are we prepared for it?]]></title>
+            <description><![CDATA[By Masudur Rashied]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/dhakas-next-flood-predictable-are-we-prepared-it-4217711</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dhakas-next-flood-predictable-are-we-prepared-it-4217711</guid>
+            <dc:creator><![CDATA[Masudur Rashied]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 06:39:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What hinders the proper execution of Bangladesh's health budget?]]></title>
@@ -40,12 +63,10 @@
             <pubDate>Sun, 05 Jul 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The hidden epidemic of emotional abuse in marriage]]></title>
-            <description><![CDATA[By Sina Akand]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-hidden-epidemic-emotional-abuse-marriage-4216851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-hidden-epidemic-emotional-abuse-marriage-4216851</guid>
-            <dc:creator><![CDATA[Sina Akand]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 11:00:00 GMT</pubDate>
+            <title><![CDATA[How long till municipal services become normal?]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/how-long-till-municipal-services-become-normal-4217661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-long-till-municipal-services-become-normal-4217661</guid>
+            <pubDate>Tue, 07 Jul 2026 06:39:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fill the empty teachers' posts urgently]]></title>
@@ -57,21 +78,13 @@
             <title><![CDATA[Projects must never be approved on a whim]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/projects-must-never-be-approved-whim-4216461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/projects-must-never-be-approved-whim-4216461</guid>
-            <pubDate>Tue, 07 Jul 2026 02:29:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the government losing its grip on law and order?]]></title>
-            <description><![CDATA[By Kallol Mustafa]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-government-losing-its-grip-law-and-order-4215901</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-government-losing-its-grip-law-and-order-4215901</guid>
-            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 09:00:00 GMT</pubDate>
+            <pubDate>Tue, 07 Jul 2026 06:39:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Government must not shrug off custodial deaths]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</guid>
-            <pubDate>Tue, 07 Jul 2026 02:29:31 GMT</pubDate>
+            <pubDate>Tue, 07 Jul 2026 06:39:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How many warnings does Dhaka need?]]></title>
@@ -86,16 +99,20 @@
             <pubDate>Sat, 04 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why is there a wide gap in measles vaccination?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/why-there-wide-gap-measles-vaccination-4214921</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-there-wide-gap-measles-vaccination-4214921</guid>
-            <pubDate>Tue, 07 Jul 2026 02:29:31 GMT</pubDate>
+            <title><![CDATA[The solution to Bangladesh’s dengue problem is in our own soil]]></title>
+            <description><![CDATA[By Mohammad Tofazzal Hossain Howlader]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-solution-bangladeshs-dengue-problem-our-own-soil-4215916</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-solution-bangladeshs-dengue-problem-our-own-soil-4215916</guid>
+            <dc:creator><![CDATA[Mohammad Tofazzal Hossain Howlader]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[To effect change, why do we wait for tragedy?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/effect-change-why-do-we-wait-tragedy-4214541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/effect-change-why-do-we-wait-tragedy-4214541</guid>
-            <pubDate>Fri, 03 Jul 2026 11:00:00 GMT</pubDate>
+            <title><![CDATA[Is the government losing its grip on law and order?]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-government-losing-its-grip-law-and-order-4215901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-government-losing-its-grip-law-and-order-4215901</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI-based traffic cases expose our legal vacuum on AI governance]]></title>
@@ -103,7 +120,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/ai-based-traffic-cases-expose-our-legal-vacuum-ai-governance-4215906</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ai-based-traffic-cases-expose-our-legal-vacuum-ai-governance-4215906</guid>
             <dc:creator><![CDATA[Pinak Sarkar]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 02:29:31 GMT</pubDate>
+            <pubDate>Tue, 07 Jul 2026 06:39:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Bangladesh should be patient in its nuclear journey]]></title>
@@ -119,7 +136,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/was-the-iran-war-inevitable-4215146</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/was-the-iran-war-inevitable-4215146</guid>
             <dc:creator><![CDATA[Sayeed Ahmed]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 02:29:31 GMT</pubDate>
+            <pubDate>Tue, 07 Jul 2026 06:39:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How the internet is rewiring our brains]]></title>
@@ -136,22 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/quality-must-become-healthcares-first-line-defence-bangladesh-4215156</guid>
             <dc:creator><![CDATA[Mamudul Hasan Razu]]></dc:creator>
             <pubDate>Sat, 04 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Half a million HSC dropouts signal a silent crisis]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/half-million-hsc-dropouts-signal-silent-crisis-4215141</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/half-million-hsc-dropouts-signal-silent-crisis-4215141</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inu verdict and the making of credible justice in Bangladesh]]></title>
-            <description><![CDATA[By Khan Khalid Adnan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/inu-verdict-and-the-making-credible-justice-bangladesh-4214546</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/inu-verdict-and-the-making-credible-justice-bangladesh-4214546</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
