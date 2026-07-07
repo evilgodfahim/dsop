@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 10:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 13:13:23 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 10:20:09 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 13:13:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Fatal landslides in Chattogram are man-made]]></title>
+            <description><![CDATA[The government must address the housing scarcity in the region.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fatal-landslides-chattogram-are-man-made-4218136</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fatal-landslides-chattogram-are-man-made-4218136</guid>
+            <pubDate>Tue, 07 Jul 2026 13:13:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bangladesh needs a national asset management company urgently]]></title>
-            <description><![CDATA[The banking sector in Bangladesh ended 2025 with non-performing loans (NPLs) of over Tk 5.57 lakh crore, 30.6 percent of the total outstanding loans in the country.]]></description>
+            <description><![CDATA[By Muhammad Arifur Rahman]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-national-asset-management-company-urgently-4217691</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-national-asset-management-company-urgently-4217691</guid>
             <dc:creator><![CDATA[Muhammad Arifur Rahman]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 10:20:09 GMT</pubDate>
+            <pubDate>Tue, 07 Jul 2026 13:13:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is Bangladesh ready for the age of AI-driven automation?]]></title>
@@ -22,13 +29,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-ready-the-age-ai-driven-automation-4217701</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-ready-the-age-ai-driven-automation-4217701</guid>
             <dc:creator><![CDATA[Saifur Rahman]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 10:20:09 GMT</pubDate>
+            <pubDate>Tue, 07 Jul 2026 13:13:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How long till municipal services become normal?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/how-long-till-municipal-services-become-normal-4217661</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-long-till-municipal-services-become-normal-4217661</guid>
-            <pubDate>Tue, 07 Jul 2026 10:20:09 GMT</pubDate>
+            <pubDate>Tue, 07 Jul 2026 13:13:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adding new medical colleges won't fix Bangladesh's healthcare system]]></title>
@@ -36,13 +43,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/adding-new-medical-colleges-wont-fix-bangladeshs-healthcare-system-4217716</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/adding-new-medical-colleges-wont-fix-bangladeshs-healthcare-system-4217716</guid>
             <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 10:20:09 GMT</pubDate>
+            <pubDate>Tue, 07 Jul 2026 13:13:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Enforce noise pollution rules strictly]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/enforce-noise-pollution-rules-strictly-4217291</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/enforce-noise-pollution-rules-strictly-4217291</guid>
-            <pubDate>Tue, 07 Jul 2026 10:20:09 GMT</pubDate>
+            <pubDate>Tue, 07 Jul 2026 13:13:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dhaka's next flood is predictable. Are we prepared for it?]]></title>
@@ -50,7 +57,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/dhakas-next-flood-predictable-are-we-prepared-it-4217711</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dhakas-next-flood-predictable-are-we-prepared-it-4217711</guid>
             <dc:creator><![CDATA[Masudur Rashied]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 10:20:09 GMT</pubDate>
+            <pubDate>Tue, 07 Jul 2026 13:13:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What hinders the proper execution of Bangladesh's health budget?]]></title>
@@ -59,14 +66,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-hinders-the-proper-execution-bangladeshs-health-budget-4216801</guid>
             <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
             <pubDate>Sun, 05 Jul 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The darker side of Bangladesh's World Cup fever]]></title>
-            <description><![CDATA[By Most. Farhana Azad Shanta]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-darker-side-bangladeshs-world-cup-fever-4216816</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-darker-side-bangladeshs-world-cup-fever-4216816</guid>
-            <dc:creator><![CDATA[Most. Farhana Azad Shanta]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fill the empty teachers' posts urgently]]></title>
@@ -78,13 +77,13 @@
             <title><![CDATA[Projects must never be approved on a whim]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/projects-must-never-be-approved-whim-4216461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/projects-must-never-be-approved-whim-4216461</guid>
-            <pubDate>Tue, 07 Jul 2026 10:20:09 GMT</pubDate>
+            <pubDate>Tue, 07 Jul 2026 13:13:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Government must not shrug off custodial deaths]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</guid>
-            <pubDate>Tue, 07 Jul 2026 10:20:09 GMT</pubDate>
+            <pubDate>Tue, 07 Jul 2026 13:13:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How many warnings does Dhaka need?]]></title>
@@ -97,6 +96,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/khulnas-annual-ordeal-must-end-4215131</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/khulnas-annual-ordeal-must-end-4215131</guid>
             <pubDate>Sat, 04 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The hidden epidemic of emotional abuse in marriage]]></title>
+            <description><![CDATA[By Sina Akand]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-hidden-epidemic-emotional-abuse-marriage-4216851</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-hidden-epidemic-emotional-abuse-marriage-4216851</guid>
+            <dc:creator><![CDATA[Sina Akand]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The solution to Bangladesh’s dengue problem is in our own soil]]></title>
@@ -120,7 +127,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/ai-based-traffic-cases-expose-our-legal-vacuum-ai-governance-4215906</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ai-based-traffic-cases-expose-our-legal-vacuum-ai-governance-4215906</guid>
             <dc:creator><![CDATA[Pinak Sarkar]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 10:20:09 GMT</pubDate>
+            <pubDate>Tue, 07 Jul 2026 13:13:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Bangladesh should be patient in its nuclear journey]]></title>
@@ -136,7 +143,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/was-the-iran-war-inevitable-4215146</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/was-the-iran-war-inevitable-4215146</guid>
             <dc:creator><![CDATA[Sayeed Ahmed]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 10:20:09 GMT</pubDate>
+            <pubDate>Tue, 07 Jul 2026 13:13:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How the internet is rewiring our brains]]></title>
@@ -145,14 +152,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-the-internet-rewiring-our-brains-4215161</guid>
             <dc:creator><![CDATA[Hussain A Samad]]></dc:creator>
             <pubDate>Sat, 04 Jul 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quality must become healthcare's first line of defence in Bangladesh]]></title>
-            <description><![CDATA[By Mamudul Hasan Razu]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/quality-must-become-healthcares-first-line-defence-bangladesh-4215156</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/quality-must-become-healthcares-first-line-defence-bangladesh-4215156</guid>
-            <dc:creator><![CDATA[Mamudul Hasan Razu]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 10:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
