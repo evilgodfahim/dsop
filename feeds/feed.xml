@@ -4,16 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jul 2026 02:03:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 05:43:57 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Jul 2026 02:03:39 GMT</pubDate>
+        <pubDate>Wed, 08 Jul 2026 05:43:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Bangladesh must prepare for the new era of development finance]]></title>
+            <description><![CDATA[For more than seven decades, multilateral development finance has driven global development by improving a number of indicators.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-must-prepare-the-new-era-development-finance-4218641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-must-prepare-the-new-era-development-finance-4218641</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 05:43:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela’s deadly earthquakes are a wake-up call for Dhaka]]></title>
+            <description><![CDATA[By Rajib Kumar Saha]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/venezuelas-deadly-earthquakes-are-wake-call-dhaka-4218651</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/venezuelas-deadly-earthquakes-are-wake-call-dhaka-4218651</guid>
+            <dc:creator><![CDATA[Rajib Kumar Saha]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 05:43:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fatal landslides in Chattogram are man-made]]></title>
-            <description><![CDATA[The government must address the housing scarcity in the region.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/fatal-landslides-chattogram-are-man-made-4218136</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fatal-landslides-chattogram-are-man-made-4218136</guid>
-            <pubDate>Wed, 08 Jul 2026 02:03:39 GMT</pubDate>
+            <pubDate>Wed, 08 Jul 2026 05:43:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh needs a national asset management company urgently]]></title>
@@ -38,6 +53,12 @@
             <pubDate>Tue, 07 Jul 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Break the cycle of project delays]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/break-the-cycle-project-delays-4218631</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/break-the-cycle-project-delays-4218631</guid>
+            <pubDate>Wed, 08 Jul 2026 05:43:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Adding new medical colleges won't fix Bangladesh's healthcare system]]></title>
             <description><![CDATA[By Syed Abdul Hamid]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/adding-new-medical-colleges-wont-fix-bangladeshs-healthcare-system-4217716</link>
@@ -49,23 +70,7 @@
             <title><![CDATA[Enforce noise pollution rules strictly]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/enforce-noise-pollution-rules-strictly-4217291</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/enforce-noise-pollution-rules-strictly-4217291</guid>
-            <pubDate>Wed, 08 Jul 2026 02:03:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka's next flood is predictable. Are we prepared for it?]]></title>
-            <description><![CDATA[By Masudur Rashied]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/dhakas-next-flood-predictable-are-we-prepared-it-4217711</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dhakas-next-flood-predictable-are-we-prepared-it-4217711</guid>
-            <dc:creator><![CDATA[Masudur Rashied]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What hinders the proper execution of Bangladesh's health budget?]]></title>
-            <description><![CDATA[By Rumana Huque]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-hinders-the-proper-execution-bangladeshs-health-budget-4216801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-hinders-the-proper-execution-bangladeshs-health-budget-4216801</guid>
-            <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 08:00:00 GMT</pubDate>
+            <pubDate>Wed, 08 Jul 2026 05:43:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fill the empty teachers' posts urgently]]></title>
@@ -77,13 +82,13 @@
             <title><![CDATA[Projects must never be approved on a whim]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/projects-must-never-be-approved-whim-4216461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/projects-must-never-be-approved-whim-4216461</guid>
-            <pubDate>Wed, 08 Jul 2026 02:03:39 GMT</pubDate>
+            <pubDate>Wed, 08 Jul 2026 05:43:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Government must not shrug off custodial deaths]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</guid>
-            <pubDate>Wed, 08 Jul 2026 02:03:39 GMT</pubDate>
+            <pubDate>Wed, 08 Jul 2026 05:43:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How many warnings does Dhaka need?]]></title>
@@ -92,10 +97,12 @@
             <pubDate>Sun, 05 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Khulna’s annual ordeal must end]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/khulnas-annual-ordeal-must-end-4215131</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/khulnas-annual-ordeal-must-end-4215131</guid>
-            <pubDate>Sat, 04 Jul 2026 12:00:00 GMT</pubDate>
+            <title><![CDATA[Dhaka's next flood is predictable. Are we prepared for it?]]></title>
+            <description><![CDATA[By Masudur Rashied]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/dhakas-next-flood-predictable-are-we-prepared-it-4217711</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dhakas-next-flood-predictable-are-we-prepared-it-4217711</guid>
+            <dc:creator><![CDATA[Masudur Rashied]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The darker side of Bangladesh's World Cup fever]]></title>
@@ -135,7 +142,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/ai-based-traffic-cases-expose-our-legal-vacuum-ai-governance-4215906</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ai-based-traffic-cases-expose-our-legal-vacuum-ai-governance-4215906</guid>
             <dc:creator><![CDATA[Pinak Sarkar]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 02:03:39 GMT</pubDate>
+            <pubDate>Wed, 08 Jul 2026 05:43:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Bangladesh should be patient in its nuclear journey]]></title>
@@ -144,14 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladesh-should-be-patient-its-nuclear-journey-4215926</guid>
             <dc:creator><![CDATA[Md Shafiqul Islam]]></dc:creator>
             <pubDate>Sun, 05 Jul 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Was the Iran war inevitable?]]></title>
-            <description><![CDATA[By Sayeed Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/was-the-iran-war-inevitable-4215146</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/was-the-iran-war-inevitable-4215146</guid>
-            <dc:creator><![CDATA[Sayeed Ahmed]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 02:03:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
