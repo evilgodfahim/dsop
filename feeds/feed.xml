@@ -4,13 +4,29 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 00:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 04:45:49 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2026 00:20:20 GMT</pubDate>
+        <pubDate>Thu, 09 Jul 2026 04:45:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[How Bangladesh is leaving tobacco tax revenue on the table]]></title>
+            <description><![CDATA[Bangladesh’s tobacco tax policy has long been framed around two objectives: reducing tobacco consumption and mobilising revenue.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-bangladesh-leaving-tobacco-tax-revenue-the-table-4219491</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-bangladesh-leaving-tobacco-tax-revenue-the-table-4219491</guid>
+            <dc:creator><![CDATA[Mohammad Ihtesham Hassan]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 04:45:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Unequal rural load-shedding is a symptom of a deeper structural crisis’]]></title>
+            <description><![CDATA[By Monorom Polok]]></description>
+            <link>https://www.thedailystar.net/opinion/interviews/news/unequal-rural-load-shedding-symptom-deeper-structural-crisis-4219501</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/unequal-rural-load-shedding-symptom-deeper-structural-crisis-4219501</guid>
+            <dc:creator><![CDATA[Monorom Polok]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 04:45:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bangladesh must prepare for the new era of development finance]]></title>
-            <description><![CDATA[For more than seven decades, multilateral development finance has driven global development by improving a number of indicators.]]></description>
+            <description><![CDATA[By Fahmida Khatun]]></description>
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-must-prepare-the-new-era-development-finance-4218641</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-must-prepare-the-new-era-development-finance-4218641</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
@@ -41,32 +57,16 @@
             <pubDate>Wed, 08 Jul 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Stop Teesta’s sand from being stolen]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/stop-teestas-sand-being-stolen-4219486</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/stop-teestas-sand-being-stolen-4219486</guid>
+            <pubDate>Thu, 09 Jul 2026 04:45:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fatal landslides in Chattogram are man-made]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/fatal-landslides-chattogram-are-man-made-4218136</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fatal-landslides-chattogram-are-man-made-4218136</guid>
-            <pubDate>Thu, 09 Jul 2026 00:20:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh needs a national asset management company urgently]]></title>
-            <description><![CDATA[By Muhammad Arifur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-national-asset-management-company-urgently-4217691</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-national-asset-management-company-urgently-4217691</guid>
-            <dc:creator><![CDATA[Muhammad Arifur Rahman]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Bangladesh ready for the age of AI-driven automation?]]></title>
-            <description><![CDATA[By Saifur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-ready-the-age-ai-driven-automation-4217701</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-ready-the-age-ai-driven-automation-4217701</guid>
-            <dc:creator><![CDATA[Saifur Rahman]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How long till municipal services become normal?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/how-long-till-municipal-services-become-normal-4217661</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-long-till-municipal-services-become-normal-4217661</guid>
-            <pubDate>Tue, 07 Jul 2026 10:00:00 GMT</pubDate>
+            <pubDate>Thu, 09 Jul 2026 04:45:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Break the cycle of project delays]]></title>
@@ -75,10 +75,16 @@
             <pubDate>Wed, 08 Jul 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How long till municipal services become normal?]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/how-long-till-municipal-services-become-normal-4217661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-long-till-municipal-services-become-normal-4217661</guid>
+            <pubDate>Tue, 07 Jul 2026 10:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Enforce noise pollution rules strictly]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/enforce-noise-pollution-rules-strictly-4217291</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/enforce-noise-pollution-rules-strictly-4217291</guid>
-            <pubDate>Thu, 09 Jul 2026 00:20:20 GMT</pubDate>
+            <pubDate>Thu, 09 Jul 2026 04:45:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fill the empty teachers' posts urgently]]></title>
@@ -90,13 +96,23 @@
             <title><![CDATA[Projects must never be approved on a whim]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/projects-must-never-be-approved-whim-4216461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/projects-must-never-be-approved-whim-4216461</guid>
-            <pubDate>Thu, 09 Jul 2026 00:20:20 GMT</pubDate>
+            <pubDate>Thu, 09 Jul 2026 04:45:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Government must not shrug off custodial deaths]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/government-must-not-shrug-custodial-deaths-4215641</guid>
-            <pubDate>Thu, 09 Jul 2026 00:20:20 GMT</pubDate>
+            <title><![CDATA[Is Bangladesh ready for the age of AI-driven automation?]]></title>
+            <description><![CDATA[By Saifur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-ready-the-age-ai-driven-automation-4217701</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-ready-the-age-ai-driven-automation-4217701</guid>
+            <dc:creator><![CDATA[Saifur Rahman]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adding new medical colleges won't fix Bangladesh's healthcare system]]></title>
+            <description><![CDATA[By Syed Abdul Hamid]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/adding-new-medical-colleges-wont-fix-bangladeshs-healthcare-system-4217716</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/adding-new-medical-colleges-wont-fix-bangladeshs-healthcare-system-4217716</guid>
+            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What hinders the proper execution of Bangladesh's health budget?]]></title>
@@ -137,22 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-solution-bangladeshs-dengue-problem-our-own-soil-4215916</guid>
             <dc:creator><![CDATA[Mohammad Tofazzal Hossain Howlader]]></dc:creator>
             <pubDate>Sun, 05 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the government losing its grip on law and order?]]></title>
-            <description><![CDATA[By Kallol Mustafa]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-government-losing-its-grip-law-and-order-4215901</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-government-losing-its-grip-law-and-order-4215901</guid>
-            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI-based traffic cases expose our legal vacuum on AI governance]]></title>
-            <description><![CDATA[By Pinak Sarkar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/ai-based-traffic-cases-expose-our-legal-vacuum-ai-governance-4215906</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ai-based-traffic-cases-expose-our-legal-vacuum-ai-governance-4215906</guid>
-            <dc:creator><![CDATA[Pinak Sarkar]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 00:20:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
