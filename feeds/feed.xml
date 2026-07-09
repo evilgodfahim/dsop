@@ -4,17 +4,25 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 17:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 19:27:26 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2026 17:15:25 GMT</pubDate>
+        <pubDate>Thu, 09 Jul 2026 19:27:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Column by Mahfuz Anam /  250 years of US independence: Do Americans know or care about their founding principles?]]></title>
+            <description><![CDATA[During my Dhaka University days, I was an active participant in the anti-Vietnam War demonstrations on campus and around the city.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/250-years-us-independence-do-americans-know-or-care-about-their-founding-principles-4220231</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/250-years-us-independence-do-americans-know-or-care-about-their-founding-principles-4220231</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 19:27:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The World Cup: One month of shared humanity]]></title>
-            <description><![CDATA[Football demands little. But it offers considerably more.]]></description>
+            <description><![CDATA[By Hussain A Samad]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/the-world-cup-one-month-shared-humanity-4219846</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-world-cup-one-month-shared-humanity-4219846</guid>
             <dc:creator><![CDATA[Hussain A Samad]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 17:15:25 GMT</pubDate>
+            <pubDate>Thu, 09 Jul 2026 19:27:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Bangladesh is leaving tobacco tax revenue on the table]]></title>
@@ -38,7 +46,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-budgetary-test-moral-leadership-4219506</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-budgetary-test-moral-leadership-4219506</guid>
             <dc:creator><![CDATA[Rubaiul Murshed]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 17:15:25 GMT</pubDate>
+            <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Unequal rural load-shedding is a symptom of a deeper structural crisis’]]></title>
@@ -65,18 +73,10 @@
             <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tribute to Abul Quasem Fazlul Haq: A beacon in the classroom and beyond]]></title>
-            <description><![CDATA[By Mohammad Asaduzzaman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/tribute-abul-quasem-fazlul-haq-beacon-the-classroom-and-beyond-4218656</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tribute-abul-quasem-fazlul-haq-beacon-the-classroom-and-beyond-4218656</guid>
-            <dc:creator><![CDATA[Mohammad Asaduzzaman]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A city undone by decades of neglect]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/city-undone-decades-neglect-4219936</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/city-undone-decades-neglect-4219936</guid>
-            <pubDate>Thu, 09 Jul 2026 17:15:25 GMT</pubDate>
+            <pubDate>Thu, 09 Jul 2026 19:27:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop Teesta’s sand from being stolen]]></title>
@@ -88,7 +88,7 @@
             <title><![CDATA[Fatal landslides in Chattogram are man-made]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/fatal-landslides-chattogram-are-man-made-4218136</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fatal-landslides-chattogram-are-man-made-4218136</guid>
-            <pubDate>Thu, 09 Jul 2026 17:15:25 GMT</pubDate>
+            <pubDate>Thu, 09 Jul 2026 19:27:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Break the cycle of project delays]]></title>
@@ -101,6 +101,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/how-long-till-municipal-services-become-normal-4217661</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-long-till-municipal-services-become-normal-4217661</guid>
             <pubDate>Tue, 07 Jul 2026 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela’s deadly earthquakes are a wake-up call for Dhaka]]></title>
+            <description><![CDATA[By Rajib Kumar Saha]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/venezuelas-deadly-earthquakes-are-wake-call-dhaka-4218651</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/venezuelas-deadly-earthquakes-are-wake-call-dhaka-4218651</guid>
+            <dc:creator><![CDATA[Rajib Kumar Saha]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh needs a national asset management company urgently]]></title>
@@ -149,14 +157,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-darker-side-bangladeshs-world-cup-fever-4216816</guid>
             <dc:creator><![CDATA[Most. Farhana Azad Shanta]]></dc:creator>
             <pubDate>Sun, 05 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The hidden epidemic of emotional abuse in marriage]]></title>
-            <description><![CDATA[By Sina Akand]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-hidden-epidemic-emotional-abuse-marriage-4216851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-hidden-epidemic-emotional-abuse-marriage-4216851</guid>
-            <dc:creator><![CDATA[Sina Akand]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 11:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
