@@ -4,23 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jul 2026 07:44:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jul 2026 09:21:00 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Jul 2026 07:44:30 GMT</pubDate>
+        <pubDate>Sat, 11 Jul 2026 09:21:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Rethinking how we teach political science]]></title>
+            <description><![CDATA[A political science student in Bangladesh will spend the first year studying European history.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/rethinking-how-we-teach-political-science-4220886</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-how-we-teach-political-science-4220886</guid>
+            <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bangladesh must hold its own amid changing geopolitics]]></title>
-            <description><![CDATA[The performative presence of two superpowers in the precincts of Bangladesh’s national parliament has added some twists in the country’s political plot.]]></description>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
             <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/bangladesh-must-hold-its-own-amid-changing-geopolitics-4220876</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/bangladesh-must-hold-its-own-amid-changing-geopolitics-4220876</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 07:44:30 GMT</pubDate>
+            <pubDate>Sat, 11 Jul 2026 09:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don’t let old ghosts haunt Malaysia reopening]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-old-ghosts-haunt-malaysia-reopening-4220661</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-old-ghosts-haunt-malaysia-reopening-4220661</guid>
-            <pubDate>Sat, 11 Jul 2026 07:44:30 GMT</pubDate>
+            <pubDate>Sat, 11 Jul 2026 09:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Population Day / Time is running out for our demographic dividend]]></title>
@@ -28,7 +35,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/time-running-out-our-demographic-dividend-4220901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-running-out-our-demographic-dividend-4220901</guid>
             <dc:creator><![CDATA[Md Nuruzzaman Khan]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 07:44:30 GMT</pubDate>
+            <pubDate>Sat, 11 Jul 2026 09:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam /  250 years of US independence: Do Americans know or care about their founding principles?]]></title>
@@ -58,15 +65,7 @@
             <title><![CDATA[A familiar tale of costly delays]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/familiar-tale-costly-delays-4220871</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/familiar-tale-costly-delays-4220871</guid>
-            <pubDate>Sat, 11 Jul 2026 07:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The World Cup: One month of shared humanity]]></title>
-            <description><![CDATA[By Hussain A Samad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-world-cup-one-month-shared-humanity-4219846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-world-cup-one-month-shared-humanity-4219846</guid>
-            <dc:creator><![CDATA[Hussain A Samad]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 07:44:30 GMT</pubDate>
+            <pubDate>Sat, 11 Jul 2026 09:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Land of rivers and water crises?]]></title>
@@ -78,7 +77,7 @@
             <title><![CDATA[A city undone by decades of neglect]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/city-undone-decades-neglect-4219936</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/city-undone-decades-neglect-4219936</guid>
-            <pubDate>Sat, 11 Jul 2026 07:44:30 GMT</pubDate>
+            <pubDate>Sat, 11 Jul 2026 09:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop Teesta’s sand from being stolen]]></title>
@@ -90,13 +89,21 @@
             <title><![CDATA[Fatal landslides in Chattogram are man-made]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/fatal-landslides-chattogram-are-man-made-4218136</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fatal-landslides-chattogram-are-man-made-4218136</guid>
-            <pubDate>Sat, 11 Jul 2026 07:44:30 GMT</pubDate>
+            <pubDate>Sat, 11 Jul 2026 09:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Break the cycle of project delays]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/break-the-cycle-project-delays-4218631</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/break-the-cycle-project-delays-4218631</guid>
             <pubDate>Wed, 08 Jul 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh should enter carbon markets on its own terms]]></title>
+            <description><![CDATA[By Farah Kabir]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-should-enter-carbon-markets-its-own-terms-4219496</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-should-enter-carbon-markets-its-own-terms-4219496</guid>
+            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The budgetary test of moral leadership]]></title>
@@ -145,14 +152,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/venezuelas-deadly-earthquakes-are-wake-call-dhaka-4218651</guid>
             <dc:creator><![CDATA[Rajib Kumar Saha]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh needs a national asset management company urgently]]></title>
-            <description><![CDATA[By Muhammad Arifur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-national-asset-management-company-urgently-4217691</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-national-asset-management-company-urgently-4217691</guid>
-            <dc:creator><![CDATA[Muhammad Arifur Rahman]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 08:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
