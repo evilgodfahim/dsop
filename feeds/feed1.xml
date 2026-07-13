@@ -4,9 +4,9 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jul 2026 02:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 06:08:08 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jul 2026 02:06:55 GMT</pubDate>
+        <pubDate>Mon, 13 Jul 2026 06:08:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How much killing will it take to save the spotted owl?]]></title>
@@ -163,18 +163,18 @@
             <pubDate>Thu, 09 Jul 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[As bird flu threatens, New Zealand vaccinates endangered birds | Science]]></title>
-            <description><![CDATA[Arrival of H5N1 virus on Australian mainland triggers ambitious vaccination program]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aek3889</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aek3889</guid>
-            <pubDate>Thu, 09 Jul 2026 13:01:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why cities cannot learn | Science]]></title>
             <description><![CDATA[For most of the world’s urban history, changes in policies and responses to hazards have proceeded on a timescale that made adaptation possible, however slow or politically contested. The Great Fire of London in 1666 produced building regulations within ...]]></description>
             <link>https://www.science.org/doi/10.1126/science.aeh8677</link>
             <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh8677</guid>
             <pubDate>Thu, 09 Jul 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As flu virus threatens its unique bird species, New Zealand pins hopes on a vaccine]]></title>
+            <description><![CDATA[Arrival of H5N1 in Australia triggers ambitious vaccination program]]></description>
+            <link>https://www.science.org/content/article/flu-virus-threatens-its-unique-bird-species-new-zealand-pins-hopes-vaccine</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/flu-virus-threatens-its-unique-bird-species-new-zealand-pins-hopes-vaccine</guid>
+            <pubDate>Tue, 07 Jul 2026 21:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Uranus and Neptune may not be ‘ice giants’ after all]]></title>
