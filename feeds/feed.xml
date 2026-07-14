@@ -4,17 +4,40 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 04:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 07:06:48 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 04:45:41 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 07:06:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Do not overload young learners]]></title>
+            <description><![CDATA[Curriculum reform must not outpace the system's ability to cope]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/do-not-overload-young-learners-4222906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/do-not-overload-young-learners-4222906</guid>
+            <pubDate>Tue, 14 Jul 2026 07:06:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why must our streets flood even after so much investment?]]></title>
-            <description><![CDATA[As heavy monsoon rains once again leave large parts of Bangladesh underwater, the familiar scenes of waterlogging have left many wondering why our cities continue to fail despite massive investments in drainage infrastructure.]]></description>
+            <description><![CDATA[By Ahad Chowdhury]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/why-must-our-streets-flood-even-after-so-much-investment-4223161</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-must-our-streets-flood-even-after-so-much-investment-4223161</guid>
             <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 04:45:40 GMT</pubDate>
+            <pubDate>Tue, 14 Jul 2026 07:06:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A congestion charge alone will not untangle Dhaka’s traffic]]></title>
+            <description><![CDATA[By Mohammad Inzamul Haque]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/congestion-charge-alone-will-not-untangle-dhakas-traffic-4223166</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/congestion-charge-alone-will-not-untangle-dhakas-traffic-4223166</guid>
+            <dc:creator><![CDATA[Mohammad Inzamul Haque]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 07:06:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[For the agriculture sector, the challenge is not just money but where it goes]]></title>
+            <description><![CDATA[By AHM Saiful Islam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-agriculture-sector-the-challenge-not-just-money-where-it-goes-4223186</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-agriculture-sector-the-challenge-not-just-money-where-it-goes-4223186</guid>
+            <dc:creator><![CDATA[AHM Saiful Islam]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 07:06:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Without timely labour data, how will we know if jobs are being created?]]></title>
@@ -22,7 +45,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/without-timely-labour-data-how-will-we-know-if-jobs-are-being-created-4223196</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/without-timely-labour-data-how-will-we-know-if-jobs-are-being-created-4223196</guid>
             <dc:creator><![CDATA[Md Asaduz Zaman]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 04:45:40 GMT</pubDate>
+            <pubDate>Tue, 14 Jul 2026 07:06:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh's measles outbreak is a warning against the complacency of success]]></title>
@@ -49,26 +72,16 @@
             <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Reassess the future of Khulna's jute mills]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/reassess-the-future-khulnas-jute-mills-4223156</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reassess-the-future-khulnas-jute-mills-4223156</guid>
+            <pubDate>Tue, 14 Jul 2026 07:06:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[We must prepare for a harsher climate]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/we-must-prepare-harsher-climate-4222041</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-must-prepare-harsher-climate-4222041</guid>
-            <pubDate>Tue, 14 Jul 2026 04:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How long must we ask the same questions about education?]]></title>
-            <description><![CDATA[By Manzoor Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-long-must-we-ask-the-same-questions-about-education-4222301</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-long-must-we-ask-the-same-questions-about-education-4222301</guid>
-            <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the International Crimes Tribunal’s mandate must be protected]]></title>
-            <description><![CDATA[By Khan Khalid Adnan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-the-international-crimes-tribunals-mandate-must-be-protected-4221596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-the-international-crimes-tribunals-mandate-must-be-protected-4221596</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 09:00:00 GMT</pubDate>
+            <pubDate>Tue, 14 Jul 2026 07:06:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Do not let maternal care gains slip away]]></title>
@@ -86,19 +99,23 @@
             <title><![CDATA[High fertility isn’t good news]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/high-fertility-isnt-good-news-4221266</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/high-fertility-isnt-good-news-4221266</guid>
-            <pubDate>Tue, 14 Jul 2026 04:45:40 GMT</pubDate>
+            <pubDate>Tue, 14 Jul 2026 07:06:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Don’t let old ghosts haunt Malaysia reopening]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-old-ghosts-haunt-malaysia-reopening-4220661</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-old-ghosts-haunt-malaysia-reopening-4220661</guid>
-            <pubDate>Tue, 14 Jul 2026 04:45:41 GMT</pubDate>
+            <title><![CDATA[How long must we ask the same questions about education?]]></title>
+            <description><![CDATA[By Manzoor Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-long-must-we-ask-the-same-questions-about-education-4222301</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-long-must-we-ask-the-same-questions-about-education-4222301</guid>
+            <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A familiar tale of costly delays]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/familiar-tale-costly-delays-4220871</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/familiar-tale-costly-delays-4220871</guid>
-            <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+            <title><![CDATA[Build physical spaces for children before banning virtual ones]]></title>
+            <description><![CDATA[By Sujata Gamage]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/build-physical-spaces-children-banning-virtual-ones-4221616</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/build-physical-spaces-children-banning-virtual-ones-4221616</guid>
+            <dc:creator><![CDATA[Sujata Gamage]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[To build like Shanghai, start with Dhaka's east]]></title>
@@ -137,22 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-running-out-our-demographic-dividend-4220901</guid>
             <dc:creator><![CDATA[Md Nuruzzaman Khan]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column by Mahfuz Anam /  250 years of US independence: Do Americans know or care about their founding principles?]]></title>
-            <description><![CDATA[By Mahfuz Anam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/250-years-us-independence-do-americans-know-or-care-about-their-founding-principles-4220231</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/250-years-us-independence-do-americans-know-or-care-about-their-founding-principles-4220231</guid>
-            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh needs a new rulebook for the evolving Rohingya crisis]]></title>
-            <description><![CDATA[By Md Manzur Qader]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/bangladesh-needs-new-rulebook-the-evolving-rohingya-crisis-4220236</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bangladesh-needs-new-rulebook-the-evolving-rohingya-crisis-4220236</guid>
-            <dc:creator><![CDATA[Md Manzur Qader]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
