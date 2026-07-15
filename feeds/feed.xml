@@ -4,16 +4,39 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 01:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 04:45:43 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 01:48:52 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 04:45:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[We must adapt to the changing rules of global trade and development]]></title>
+            <description><![CDATA[The global trading system has been experiencing significant transformation since the World Trade Organization (WTO) was created in 1995.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/we-must-adapt-the-changing-rules-global-trade-and-development-4223916</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/we-must-adapt-the-changing-rules-global-trade-and-development-4223916</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 04:45:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Youth Skills Day / A roadmap to aligning the skills system with industry reality]]></title>
+            <description><![CDATA[By Max Tuñón]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/roadmap-aligning-the-skills-system-industry-reality-4223931</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/roadmap-aligning-the-skills-system-industry-reality-4223931</guid>
+            <dc:creator><![CDATA[Max Tuñón]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 04:45:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our universities need a broader curricular vision before any restructuring]]></title>
+            <description><![CDATA[By Kazi Ashraf Uddin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/our-universities-need-broader-curricular-vision-any-restructuring-4223941</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-universities-need-broader-curricular-vision-any-restructuring-4223941</guid>
+            <dc:creator><![CDATA[Kazi Ashraf Uddin]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 04:45:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Do not overload young learners]]></title>
-            <description><![CDATA[Curriculum reform must not outpace the system's ability to cope]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/do-not-overload-young-learners-4222906</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/do-not-overload-young-learners-4222906</guid>
-            <pubDate>Wed, 15 Jul 2026 01:48:52 GMT</pubDate>
+            <pubDate>Wed, 15 Jul 2026 04:45:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why must our streets flood even after so much investment?]]></title>
@@ -29,7 +52,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/congestion-charge-alone-will-not-untangle-dhakas-traffic-4223166</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/congestion-charge-alone-will-not-untangle-dhakas-traffic-4223166</guid>
             <dc:creator><![CDATA[Mohammad Inzamul Haque]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 01:48:52 GMT</pubDate>
+            <pubDate>Wed, 15 Jul 2026 04:45:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[For the agriculture sector, the challenge is not just money but where it goes]]></title>
@@ -48,12 +71,34 @@
             <pubDate>Tue, 14 Jul 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bangladesh's measles outbreak is a warning against the complacency of success]]></title>
-            <description><![CDATA[By Chandrakant Lahariya]]></description>
-            <link>https://www.thedailystar.net/opinion/news/bangladeshs-measles-outbreak-warning-against-the-complacency-success-4222271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladeshs-measles-outbreak-warning-against-the-complacency-success-4222271</guid>
-            <dc:creator><![CDATA[Chandrakant Lahariya]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 09:00:00 GMT</pubDate>
+            <title><![CDATA[Dhaka can no longer do without a dynamic drainage system]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/dhaka-can-no-longer-do-without-dynamic-drainage-system-4223666</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dhaka-can-no-longer-do-without-dynamic-drainage-system-4223666</guid>
+            <pubDate>Wed, 15 Jul 2026 04:45:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reassess the future of Khulna's jute mills]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/reassess-the-future-khulnas-jute-mills-4223156</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reassess-the-future-khulnas-jute-mills-4223156</guid>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We must prepare for a harsher climate]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/we-must-prepare-harsher-climate-4222041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-must-prepare-harsher-climate-4222041</guid>
+            <pubDate>Wed, 15 Jul 2026 04:45:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do not let maternal care gains slip away]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/do-not-let-maternal-care-gains-slip-away-4222261</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/do-not-let-maternal-care-gains-slip-away-4222261</guid>
+            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emergency services need urgent bolstering]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/emergency-services-need-urgent-bolstering-4221591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/emergency-services-need-urgent-bolstering-4221591</guid>
+            <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[11 dead over the World Cup: The real problem is not football]]></title>
@@ -72,34 +117,12 @@
             <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dhaka can no longer do without a dynamic drainage system]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/dhaka-can-no-longer-do-without-dynamic-drainage-system-4223666</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dhaka-can-no-longer-do-without-dynamic-drainage-system-4223666</guid>
-            <pubDate>Wed, 15 Jul 2026 01:48:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reassess the future of Khulna's jute mills]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/reassess-the-future-khulnas-jute-mills-4223156</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reassess-the-future-khulnas-jute-mills-4223156</guid>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We must prepare for a harsher climate]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/we-must-prepare-harsher-climate-4222041</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-must-prepare-harsher-climate-4222041</guid>
-            <pubDate>Wed, 15 Jul 2026 01:48:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do not let maternal care gains slip away]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/do-not-let-maternal-care-gains-slip-away-4222261</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/do-not-let-maternal-care-gains-slip-away-4222261</guid>
-            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emergency services need urgent bolstering]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/emergency-services-need-urgent-bolstering-4221591</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/emergency-services-need-urgent-bolstering-4221591</guid>
-            <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
+            <title><![CDATA[Why the International Crimes Tribunal’s mandate must be protected]]></title>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-the-international-crimes-tribunals-mandate-must-be-protected-4221596</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-the-international-crimes-tribunals-mandate-must-be-protected-4221596</guid>
+            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How long must we ask the same questions about education?]]></title>
@@ -132,28 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-just-passed-law-against-hill-cutting-why-does-it-skip-the-chittagong-hill-tracts-4221626</guid>
             <dc:creator><![CDATA[Nur Nishat Anjum]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking how we teach political science]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/rethinking-how-we-teach-political-science-4220886</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-how-we-teach-political-science-4220886</guid>
-            <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh must hold its own amid changing geopolitics]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/bangladesh-must-hold-its-own-amid-changing-geopolitics-4220876</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/bangladesh-must-hold-its-own-amid-changing-geopolitics-4220876</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Population Day / Time is running out for our demographic dividend]]></title>
-            <description><![CDATA[By Md Nuruzzaman Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/time-running-out-our-demographic-dividend-4220901</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-running-out-our-demographic-dividend-4220901</guid>
-            <dc:creator><![CDATA[Md Nuruzzaman Khan]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 10:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
