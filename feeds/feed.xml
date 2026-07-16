@@ -1,160 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Star – Opinion]]></title>
-        <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
+        <title><![CDATA[The Daily Star – Opinion (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 05:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 08:01:58 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 05:14:38 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 08:01:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[We don't need yet another bank, we need a better banking system]]></title>
-            <description><![CDATA[With 62 scheduled banks operating at present, Bangladesh is an overbanked country, considering the fact that neighbouring Pakistan and Sri Lanka have 33 and 31 banks, respectively.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-dont-need-yet-another-bank-we-need-better-banking-system-4225041</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-dont-need-yet-another-bank-we-need-better-banking-system-4225041</guid>
-            <dc:creator><![CDATA[Md Main Uddin]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 05:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Celebrating a trailblazer: A tribute to Musharrof Husain Khan]]></title>
-            <description><![CDATA[By Mohammad Rukanuddin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/celebrating-trailblazer-tribute-musharrof-husain-khan-4225061</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/celebrating-trailblazer-tribute-musharrof-husain-khan-4225061</guid>
-            <dc:creator><![CDATA[Mohammad Rukanuddin]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 05:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[July’s promise cannot belong to the few who inherited its power]]></title>
-            <description><![CDATA[By Nuzia Hasin Rasha]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/julys-promise-cannot-belong-the-few-who-inherited-its-power-4225071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/julys-promise-cannot-belong-the-few-who-inherited-its-power-4225071</guid>
-            <dc:creator><![CDATA[Nuzia Hasin Rasha]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 05:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After two tumultuous years, what should the local government polls look like?]]></title>
-            <description><![CDATA[By Nawshad Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/after-two-tumultuous-years-what-should-the-local-government-polls-look-4225081</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/after-two-tumultuous-years-what-should-the-local-government-polls-look-4225081</guid>
-            <dc:creator><![CDATA[Nawshad Ahmed]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 05:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Youth skills must match industry needs]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/youth-skills-must-match-industry-needs-4224571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/youth-skills-must-match-industry-needs-4224571</guid>
-            <pubDate>Thu, 16 Jul 2026 05:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to expand private-sector participation in public healthcare]]></title>
-            <description><![CDATA[By Syed Abdul Hamid]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-expand-private-sector-participation-public-healthcare-4224391</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-expand-private-sector-participation-public-healthcare-4224391</guid>
-            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 05:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We must adapt to the changing rules of global trade and development]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/we-must-adapt-the-changing-rules-global-trade-and-development-4223916</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/we-must-adapt-the-changing-rules-global-trade-and-development-4223916</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Youth Skills Day / A roadmap to aligning the skills system with industry reality]]></title>
-            <description><![CDATA[By Max Tuñón]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/roadmap-aligning-the-skills-system-industry-reality-4223931</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/roadmap-aligning-the-skills-system-industry-reality-4223931</guid>
-            <dc:creator><![CDATA[Max Tuñón]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Transparency must guide appointments at the Information Commission]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/transparency-must-guide-appointments-the-information-commission-4223906</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/transparency-must-guide-appointments-the-information-commission-4223906</guid>
-            <pubDate>Thu, 16 Jul 2026 05:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka can no longer do without a dynamic drainage system]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/dhaka-can-no-longer-do-without-dynamic-drainage-system-4223666</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dhaka-can-no-longer-do-without-dynamic-drainage-system-4223666</guid>
-            <pubDate>Thu, 16 Jul 2026 05:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do not overload young learners]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/do-not-overload-young-learners-4222906</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/do-not-overload-young-learners-4222906</guid>
-            <pubDate>Thu, 16 Jul 2026 05:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reassess the future of Khulna's jute mills]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/reassess-the-future-khulnas-jute-mills-4223156</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reassess-the-future-khulnas-jute-mills-4223156</guid>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We must prepare for a harsher climate]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/we-must-prepare-harsher-climate-4222041</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-must-prepare-harsher-climate-4222041</guid>
-            <pubDate>Thu, 16 Jul 2026 05:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our universities need a broader curricular vision before any restructuring]]></title>
-            <description><![CDATA[By Kazi Ashraf Uddin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/our-universities-need-broader-curricular-vision-any-restructuring-4223941</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-universities-need-broader-curricular-vision-any-restructuring-4223941</guid>
-            <dc:creator><![CDATA[Kazi Ashraf Uddin]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[For the agriculture sector, the challenge is not just money but where it goes]]></title>
-            <description><![CDATA[By AHM Saiful Islam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-agriculture-sector-the-challenge-not-just-money-where-it-goes-4223186</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-agriculture-sector-the-challenge-not-just-money-where-it-goes-4223186</guid>
-            <dc:creator><![CDATA[AHM Saiful Islam]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A congestion charge alone will not untangle Dhaka’s traffic]]></title>
-            <description><![CDATA[By Mohammad Inzamul Haque]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/congestion-charge-alone-will-not-untangle-dhakas-traffic-4223166</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/congestion-charge-alone-will-not-untangle-dhakas-traffic-4223166</guid>
-            <dc:creator><![CDATA[Mohammad Inzamul Haque]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 05:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why must our streets flood even after so much investment?]]></title>
-            <description><![CDATA[By Ahad Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-must-our-streets-flood-even-after-so-much-investment-4223161</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-must-our-streets-flood-even-after-so-much-investment-4223161</guid>
-            <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Without timely labour data, how will we know if jobs are being created?]]></title>
-            <description><![CDATA[By Md Asaduz Zaman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/without-timely-labour-data-how-will-we-know-if-jobs-are-being-created-4223196</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/without-timely-labour-data-how-will-we-know-if-jobs-are-being-created-4223196</guid>
-            <dc:creator><![CDATA[Md Asaduz Zaman]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh's measles outbreak is a warning against the complacency of success]]></title>
-            <description><![CDATA[By Chandrakant Lahariya]]></description>
-            <link>https://www.thedailystar.net/opinion/news/bangladeshs-measles-outbreak-warning-against-the-complacency-success-4222271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladeshs-measles-outbreak-warning-against-the-complacency-success-4222271</guid>
-            <dc:creator><![CDATA[Chandrakant Lahariya]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11 dead over the World Cup: The real problem is not football]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/11-dead-over-the-world-cup-the-real-problem-not-football-4222306</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/11-dead-over-the-world-cup-the-real-problem-not-football-4222306</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 11:00:00 GMT</pubDate>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping.]]></description>
+            <link>https://www.thedailystar.net</link>
+            <guid isPermaLink="true">https://www.thedailystar.net</guid>
+            <pubDate>Thu, 16 Jul 2026 08:01:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
