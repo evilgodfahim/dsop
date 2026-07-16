@@ -4,9 +4,9 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 10:51:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 12:15:46 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 10:51:41 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 12:15:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How much killing will it take to save the spotted owl?]]></title>
@@ -125,13 +125,6 @@
             <description><![CDATA[It depends on whom you ask]]></description>
             <link>https://www.science.org/doi/10.1126/science.aeg8740</link>
             <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeg8740</guid>
-            <pubDate>Thu, 09 Jul 2026 13:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bridging data gaps to support the Global Plastics Treaty | Science]]></title>
-            <description><![CDATA[Reporting should consider data harmonization, supply chain metrics, and pollution hotspot identification]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aea6562</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea6562</guid>
             <pubDate>Thu, 09 Jul 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
