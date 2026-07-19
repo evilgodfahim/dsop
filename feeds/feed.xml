@@ -1,157 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Star – Opinion]]></title>
-        <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
+        <title><![CDATA[The Daily Star – Opinion (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 21:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 22:44:43 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 21:43:51 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 22:44:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Banks’ proposed fee hike is unjust]]></title>
-            <description><![CDATA[They should ensure management efficiency instead.]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/banks-proposed-fee-hike-unjust-4227521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/banks-proposed-fee-hike-unjust-4227521</guid>
-            <pubDate>Sun, 19 Jul 2026 21:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A World Cup of symbols, stories, and transitions]]></title>
-            <description><![CDATA[By Bishwajit Roy]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/world-cup-symbols-stories-and-transitions-4227036</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/world-cup-symbols-stories-and-transitions-4227036</guid>
-            <dc:creator><![CDATA[Bishwajit Roy]]></dc:creator>
-            <pubDate>Sun, 19 Jul 2026 21:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The many nuances behind Bangladesh’s 0.1 rise in total fertility]]></title>
-            <description><![CDATA[By Md Nuruzzaman Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-many-nuances-behind-bangladeshs-01-rise-total-fertility-4227021</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-many-nuances-behind-bangladeshs-01-rise-total-fertility-4227021</guid>
-            <dc:creator><![CDATA[Md Nuruzzaman Khan]]></dc:creator>
-            <pubDate>Sun, 19 Jul 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keeping the July uprising’s promise alive needs a vigilant public]]></title>
-            <description><![CDATA[By Anu Muhammad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/keeping-the-july-uprisings-promise-alive-needs-vigilant-public-4227031</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/keeping-the-july-uprisings-promise-alive-needs-vigilant-public-4227031</guid>
-            <dc:creator><![CDATA[Anu Muhammad]]></dc:creator>
-            <pubDate>Sun, 19 Jul 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We cannot continue to fail young learners]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/we-cannot-continue-fail-young-learners-4227011</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-cannot-continue-fail-young-learners-4227011</guid>
-            <pubDate>Sun, 19 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why don't more women make it to the C-suite?]]></title>
-            <description><![CDATA[By Shamima Akhter]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-dont-more-women-make-it-the-c-suite-4227026</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-dont-more-women-make-it-the-c-suite-4227026</guid>
-            <dc:creator><![CDATA[Shamima Akhter]]></dc:creator>
-            <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We must fix the microplastic menace]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/we-must-fix-the-microplastic-menace-4226766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-must-fix-the-microplastic-menace-4226766</guid>
-            <pubDate>Sun, 19 Jul 2026 21:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Economic diplomacy is no longer optional for Bangladesh]]></title>
-            <description><![CDATA[By Ashfaq Zaman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/economic-diplomacy-no-longer-optional-bangladesh-4226671</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/economic-diplomacy-no-longer-optional-bangladesh-4226671</guid>
-            <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
-            <pubDate>Sun, 19 Jul 2026 21:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prepare our youth for the AI economy]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/prepare-our-youth-the-ai-economy-4226321</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/prepare-our-youth-the-ai-economy-4226321</guid>
-            <pubDate>Sat, 18 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protect youth from being trafficked]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/protect-youth-being-trafficked-4225806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-youth-being-trafficked-4225806</guid>
-            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don't let red tape drown our children]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-red-tape-drown-our-children-4225036</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-red-tape-drown-our-children-4225036</guid>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Youth skills must match industry needs]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/youth-skills-must-match-industry-needs-4224571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/youth-skills-must-match-industry-needs-4224571</guid>
-            <pubDate>Sun, 19 Jul 2026 21:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Transparency must guide appointments at the Information Commission]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/transparency-must-guide-appointments-the-information-commission-4223906</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/transparency-must-guide-appointments-the-information-commission-4223906</guid>
-            <pubDate>Sun, 19 Jul 2026 21:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh's AI policy must factor in the environmental costs]]></title>
-            <description><![CDATA[By Naziba Basher]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-ai-policy-must-factor-the-environmental-costs-4226331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-ai-policy-must-factor-the-environmental-costs-4226331</guid>
-            <dc:creator><![CDATA[Naziba Basher]]></dc:creator>
-            <pubDate>Sun, 19 Jul 2026 21:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The new budget's test for disability inclusion]]></title>
-            <description><![CDATA[By Ayon Debnath]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-new-budgets-test-disability-inclusion-4226341</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-new-budgets-test-disability-inclusion-4226341</guid>
-            <dc:creator><![CDATA[Ayon Debnath]]></dc:creator>
-            <pubDate>Sat, 18 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The quiet healing and enduring agency of women]]></title>
-            <description><![CDATA[By S Arzooman Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-quiet-healing-and-enduring-agency-women-4226346</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-quiet-healing-and-enduring-agency-women-4226346</guid>
-            <dc:creator><![CDATA[S Arzooman Chowdhury]]></dc:creator>
-            <pubDate>Sat, 18 Jul 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Institutions should not be so dependent on the PM for routine governance]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/institutions-should-not-be-so-dependent-the-pm-routine-governance-4225826</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/institutions-should-not-be-so-dependent-the-pm-routine-governance-4225826</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[July then and now: Remembering the month that changed us]]></title>
-            <description><![CDATA[By Maisha Islam Monamee]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/july-then-and-now-remembering-the-month-changed-us-4225831</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/july-then-and-now-remembering-the-month-changed-us-4225831</guid>
-            <dc:creator><![CDATA[Maisha Islam Monamee]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Bangladesh can learn from Africa's World Cup rise]]></title>
-            <description><![CDATA[By Hussain A Samad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-bangladesh-can-learn-africas-world-cup-rise-4225841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-bangladesh-can-learn-africas-world-cup-rise-4225841</guid>
-            <dc:creator><![CDATA[Hussain A Samad]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Institutional neglect is driving Bangladesh’s brain drain]]></title>
-            <description><![CDATA[By Nafew Sajed Joy]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/institutional-neglect-driving-bangladeshs-brain-drain-4225411</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/institutional-neglect-driving-bangladeshs-brain-drain-4225411</guid>
-            <dc:creator><![CDATA[Nafew Sajed Joy]]></dc:creator>
-            <pubDate>Sun, 19 Jul 2026 21:43:51 GMT</pubDate>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping.]]></description>
+            <link>https://www.thedailystar.net</link>
+            <guid isPermaLink="true">https://www.thedailystar.net</guid>
+            <pubDate>Sun, 19 Jul 2026 22:44:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
