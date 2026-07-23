@@ -4,22 +4,29 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 08:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 11:03:52 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jul 2026 08:18:20 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2026 11:03:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The Commonwealth's greatest prize lies beyond the Games]]></title>
+            <description><![CDATA[History has endowed our family of nations with shared language, legal traditions, institutional similarities, and diaspora networks that make commerce easier and cheaper.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-commonwealths-greatest-prize-lies-beyond-the-games-4230686</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-commonwealths-greatest-prize-lies-beyond-the-games-4230686</guid>
+            <dc:creator><![CDATA[Gaston Browne]]></dc:creator>
+            <pubDate>Thu, 23 Jul 2026 11:03:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[‘Textbooks should not undermine girls' confidence or reinforce the beauty myth’]]></title>
-            <description><![CDATA[My first concern is that Home Economics itself has traditionally been treated as a highly gendered subject.]]></description>
             <link>https://www.thedailystar.net/opinion/interviews/news/textbooks-should-not-undermine-girls-confidence-or-reinforce-the-beauty-myth-4230126</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/textbooks-should-not-undermine-girls-confidence-or-reinforce-the-beauty-myth-4230126</guid>
-            <pubDate>Thu, 23 Jul 2026 08:18:20 GMT</pubDate>
+            <pubDate>Thu, 23 Jul 2026 11:03:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why is the measles response still falling short?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/why-the-measles-response-still-falling-short-4230101</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-the-measles-response-still-falling-short-4230101</guid>
-            <pubDate>Thu, 23 Jul 2026 08:18:20 GMT</pubDate>
+            <pubDate>Thu, 23 Jul 2026 11:03:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Plan well before introducing separate question sets for DU admission]]></title>
@@ -27,15 +34,15 @@
             <link>https://www.thedailystar.net/opinion/views/news/plan-well-introducing-separate-question-sets-du-admission-4230116</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/plan-well-introducing-separate-question-sets-du-admission-4230116</guid>
             <dc:creator><![CDATA[Md. Kamal Uddin]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 08:18:20 GMT</pubDate>
+            <pubDate>Thu, 23 Jul 2026 11:03:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How can we protect our children from the predators?]]></title>
+            <title><![CDATA[How can we protect our children from being preyed on?]]></title>
             <description><![CDATA[By Aasha Mehreen Amin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-can-we-protect-our-children-the-predators-4230106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-can-we-protect-our-children-the-predators-4230106</guid>
+            <link>https://www.thedailystar.net/opinion/views/news/how-can-we-protect-our-children-being-preyed-4230106</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-can-we-protect-our-children-being-preyed-4230106</guid>
             <dc:creator><![CDATA[Aasha Mehreen Amin]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 08:18:20 GMT</pubDate>
+            <pubDate>Thu, 23 Jul 2026 11:03:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What India’s ‘cockroach’ protest tells us about South Asia’s generation of discontent]]></title>
@@ -43,7 +50,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/what-indias-cockroach-protest-tells-us-about-south-asias-generation-discontent-4230121</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-indias-cockroach-protest-tells-us-about-south-asias-generation-discontent-4230121</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 08:18:20 GMT</pubDate>
+            <pubDate>Thu, 23 Jul 2026 11:03:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Islamic bank depositors can avoid sharing losses]]></title>
@@ -51,21 +58,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/how-islamic-bank-depositors-can-avoid-sharing-losses-4229826</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-islamic-bank-depositors-can-avoid-sharing-losses-4229826</guid>
             <dc:creator><![CDATA[Muhammad Arifur Rahman]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 08:18:20 GMT</pubDate>
+            <pubDate>Thu, 23 Jul 2026 11:03:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hold those liable for Milestone tragedy]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/hold-those-liable-milestone-tragedy-4229096</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/hold-those-liable-milestone-tragedy-4229096</guid>
-            <pubDate>Thu, 23 Jul 2026 08:18:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking Bangladesh's health sector reform after SWAp]]></title>
-            <description><![CDATA[By Rumana Huque]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/rethinking-bangladeshs-health-sector-reform-after-swap-4229401</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-bangladeshs-health-sector-reform-after-swap-4229401</guid>
-            <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 08:00:00 GMT</pubDate>
+            <pubDate>Thu, 23 Jul 2026 11:03:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don't burden children with entrance exam]]></title>
@@ -77,7 +76,7 @@
             <title><![CDATA[More power to fight drug trafficking needs safeguards against abuse]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/more-power-fight-drug-trafficking-needs-safeguards-against-abuse-4228381</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/more-power-fight-drug-trafficking-needs-safeguards-against-abuse-4228381</guid>
-            <pubDate>Thu, 23 Jul 2026 08:18:20 GMT</pubDate>
+            <pubDate>Thu, 23 Jul 2026 11:03:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Restore Dhaka’s footbridges]]></title>
@@ -95,7 +94,15 @@
             <title><![CDATA[Banks’ proposed fee hike is unjust]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/banks-proposed-fee-hike-unjust-4227521</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/banks-proposed-fee-hike-unjust-4227521</guid>
-            <pubDate>Thu, 23 Jul 2026 08:18:20 GMT</pubDate>
+            <pubDate>Thu, 23 Jul 2026 11:03:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why death penalty won't end the drug menace in Bangladesh]]></title>
+            <description><![CDATA[By Most. Sumaiya AfrinObaydul Sikdar]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-death-penalty-wont-end-the-drug-menace-bangladesh-4229451</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-death-penalty-wont-end-the-drug-menace-bangladesh-4229451</guid>
+            <dc:creator><![CDATA[Most. Sumaiya AfrinObaydul Sikdar]]></dc:creator>
+            <pubDate>Wed, 22 Jul 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Good governance, not just incentives, will improve Bangladesh’s investment climate]]></title>
@@ -119,7 +126,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/protect-our-children-sexual-abuse-we-must-first-know-its-true-scale-4229021</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/protect-our-children-sexual-abuse-we-must-first-know-its-true-scale-4229021</guid>
             <dc:creator><![CDATA[Mohammad Nurunnabi]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 08:18:20 GMT</pubDate>
+            <pubDate>Thu, 23 Jul 2026 11:03:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The caretaker system can’t be left vulnerable to majority control]]></title>
@@ -144,14 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-the-new-rohingya-committee-move-repatriation-beyond-promises-4228521</guid>
             <dc:creator><![CDATA[AKM Ahsan Ullah]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A higher growth target without credible reform will remain elusive]]></title>
-            <description><![CDATA[By Selim Raihan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/higher-growth-target-without-credible-reform-will-remain-elusive-4227711</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/higher-growth-target-without-credible-reform-will-remain-elusive-4227711</guid>
-            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
