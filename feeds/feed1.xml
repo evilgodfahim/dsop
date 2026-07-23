@@ -4,9 +4,9 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 15:49:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 17:12:42 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jul 2026 15:49:51 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2026 17:12:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Rocked by aid cuts, Malawi rethinks how it funds health]]></title>
@@ -153,6 +153,13 @@
             <description><![CDATA[A subset of dendritic cells orchestrates the formation of tertiary lymphoid structures in tumor tissues]]></description>
             <link>https://www.science.org/doi/10.1126/science.aei9741</link>
             <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei9741</guid>
+            <pubDate>Thu, 16 Jul 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI in scientific publishing: Slower, worse, and more expensive | Science]]></title>
+            <description><![CDATA[There’s a saying in the management world, popularized by NASA administrator Daniel Goldin in the 1990s, that the goal of technological improvements is to make products faster, better, and cheaper. Although this strategy had some success in the aerospace ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aek5570</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aek5570</guid>
             <pubDate>Thu, 16 Jul 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
