@@ -4,17 +4,25 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 17:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 19:04:01 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jul 2026 17:12:40 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2026 19:04:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Column by Mahfuz Anam /  July charter implementation: Growing distance between BNP and the opposition is worrisome]]></title>
+            <description><![CDATA[After our Liberation War, we started off with the parliamentary system of government. Then Bangabandhu himself betrayed that vision and that of multiparty democracy by instituting BAKSAL, a one-party system, and introducing the presidential model of government.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/july-charter-implementation-growing-distance-between-bnp-and-the-opposition-worrisome-4231126</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/july-charter-implementation-growing-distance-between-bnp-and-the-opposition-worrisome-4231126</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Thu, 23 Jul 2026 19:04:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Commonwealth's greatest prize lies beyond the Games]]></title>
-            <description><![CDATA[History has endowed our family of nations with shared language, legal traditions, institutional similarities, and diaspora networks that make commerce easier and cheaper.]]></description>
+            <description><![CDATA[By Gaston Browne]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/the-commonwealths-greatest-prize-lies-beyond-the-games-4230686</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-commonwealths-greatest-prize-lies-beyond-the-games-4230686</guid>
             <dc:creator><![CDATA[Gaston Browne]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 17:12:40 GMT</pubDate>
+            <pubDate>Thu, 23 Jul 2026 19:04:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Textbooks should not undermine girls' confidence or reinforce the beauty myth’]]></title>
@@ -26,7 +34,7 @@
             <title><![CDATA[Why is the measles response still falling short?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/why-the-measles-response-still-falling-short-4230101</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-the-measles-response-still-falling-short-4230101</guid>
-            <pubDate>Thu, 23 Jul 2026 17:12:40 GMT</pubDate>
+            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Plan well before introducing separate question sets for DU admission]]></title>
@@ -58,13 +66,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/how-islamic-bank-depositors-can-avoid-sharing-losses-4229826</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-islamic-bank-depositors-can-avoid-sharing-losses-4229826</guid>
             <dc:creator><![CDATA[Muhammad Arifur Rahman]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 17:12:40 GMT</pubDate>
+            <pubDate>Thu, 23 Jul 2026 19:04:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hold those liable for Milestone tragedy]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/hold-those-liable-milestone-tragedy-4229096</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/hold-those-liable-milestone-tragedy-4229096</guid>
-            <pubDate>Thu, 23 Jul 2026 17:12:40 GMT</pubDate>
+            <pubDate>Thu, 23 Jul 2026 19:04:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don't burden children with entrance exam]]></title>
@@ -76,7 +84,7 @@
             <title><![CDATA[More power to fight drug trafficking needs safeguards against abuse]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/more-power-fight-drug-trafficking-needs-safeguards-against-abuse-4228381</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/more-power-fight-drug-trafficking-needs-safeguards-against-abuse-4228381</guid>
-            <pubDate>Thu, 23 Jul 2026 17:12:40 GMT</pubDate>
+            <pubDate>Thu, 23 Jul 2026 19:04:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Restore Dhaka’s footbridges]]></title>
@@ -89,12 +97,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/pull-the-plug-online-gambling-4227706</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/pull-the-plug-online-gambling-4227706</guid>
             <pubDate>Mon, 20 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Banks’ proposed fee hike is unjust]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/banks-proposed-fee-hike-unjust-4227521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/banks-proposed-fee-hike-unjust-4227521</guid>
-            <pubDate>Thu, 23 Jul 2026 17:12:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why death penalty won't end the drug menace in Bangladesh]]></title>
@@ -126,7 +128,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/protect-our-children-sexual-abuse-we-must-first-know-its-true-scale-4229021</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/protect-our-children-sexual-abuse-we-must-first-know-its-true-scale-4229021</guid>
             <dc:creator><![CDATA[Mohammad Nurunnabi]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 17:12:40 GMT</pubDate>
+            <pubDate>Thu, 23 Jul 2026 19:04:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The caretaker system can’t be left vulnerable to majority control]]></title>
