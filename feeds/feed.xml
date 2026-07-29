@@ -4,16 +4,39 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 01:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 05:24:43 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 01:59:00 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 05:24:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[A trillion-dollar ambition needs a stronger investment climate]]></title>
+            <description><![CDATA[The other day, Prime Minister Tarique Rahman reaffirmed his government’s commitment to transforming Bangladesh into a $1 trillion economy by 2034. While the ambition is welcome, there is a policy puzzle that needs to be encountered:]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/trillion-dollar-ambition-needs-stronger-investment-climate-4235006</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/trillion-dollar-ambition-needs-stronger-investment-climate-4235006</guid>
+            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 05:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Technology cannot compensate for the missing trust in land offices]]></title>
+            <description><![CDATA[By Tenzin Wangchuk]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/technology-cannot-compensate-the-missing-trust-land-offices-4235026</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/technology-cannot-compensate-the-missing-trust-land-offices-4235026</guid>
+            <dc:creator><![CDATA[Tenzin Wangchuk]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 05:24:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Salinity’s silent intrusion]]></title>
-            <description><![CDATA[Growing threat to coastal areas can no longer be ignored.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/salinitys-silent-intrusion-4234741</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/salinitys-silent-intrusion-4234741</guid>
-            <pubDate>Wed, 29 Jul 2026 01:59:00 GMT</pubDate>
+            <pubDate>Wed, 29 Jul 2026 05:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unlocking the full potential of Bangladesh's national laboratory institute]]></title>
+            <description><![CDATA[By Syed Abdul Hamid]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/unlocking-the-full-potential-bangladeshs-national-laboratory-institute-4235021</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/unlocking-the-full-potential-bangladeshs-national-laboratory-institute-4235021</guid>
+            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 05:24:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I spent two years learning AI, then another year unlearning it]]></title>
@@ -21,7 +44,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/i-spent-two-years-learning-ai-then-another-year-unlearning-it-4233831</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/i-spent-two-years-learning-ai-then-another-year-unlearning-it-4233831</guid>
             <dc:creator><![CDATA[Maisha Islam Monamee]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 01:59:00 GMT</pubDate>
+            <pubDate>Wed, 29 Jul 2026 05:24:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When the river takes everything, even a girl's childhood]]></title>
@@ -48,12 +71,34 @@
             <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gazi Nazrul’s case raises bigger questions for parliament]]></title>
-            <description><![CDATA[By Khan Khalid Adnan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/gazi-nazruls-case-raises-bigger-questions-parliament-4233251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/gazi-nazruls-case-raises-bigger-questions-parliament-4233251</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 09:00:00 GMT</pubDate>
+            <title><![CDATA[Our youth need better vocational education]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/our-youth-need-better-vocational-education-4234206</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/our-youth-need-better-vocational-education-4234206</guid>
+            <pubDate>Wed, 29 Jul 2026 05:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will there be no end to this farce?]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/will-there-be-no-end-farce-4233236</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/will-there-be-no-end-farce-4233236</guid>
+            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Overhaul Met Office’s warning system]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/overhaul-met-offices-warning-system-4232351</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/overhaul-met-offices-warning-system-4232351</guid>
+            <pubDate>Sun, 26 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An exit that ends uncertainty]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/exit-ends-uncertainty-4232106</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/exit-ends-uncertainty-4232106</guid>
+            <pubDate>Wed, 29 Jul 2026 05:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Affordable dialysis must not be delayed any longer]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/affordable-dialysis-must-not-be-delayed-any-longer-4231626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/affordable-dialysis-must-not-be-delayed-any-longer-4231626</guid>
+            <pubDate>Sat, 25 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chattogram port’s empty-container problem needs more than quick fixes]]></title>
@@ -72,34 +117,12 @@
             <pubDate>Mon, 27 Jul 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Our youth need better vocational education]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/our-youth-need-better-vocational-education-4234206</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/our-youth-need-better-vocational-education-4234206</guid>
-            <pubDate>Wed, 29 Jul 2026 01:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will there be no end to this farce?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/will-there-be-no-end-farce-4233236</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/will-there-be-no-end-farce-4233236</guid>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Overhaul Met Office’s warning system]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/overhaul-met-offices-warning-system-4232351</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/overhaul-met-offices-warning-system-4232351</guid>
-            <pubDate>Sun, 26 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An exit that ends uncertainty]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/exit-ends-uncertainty-4232106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/exit-ends-uncertainty-4232106</guid>
-            <pubDate>Wed, 29 Jul 2026 01:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Affordable dialysis must not be delayed any longer]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/affordable-dialysis-must-not-be-delayed-any-longer-4231626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/affordable-dialysis-must-not-be-delayed-any-longer-4231626</guid>
-            <pubDate>Sat, 25 Jul 2026 12:00:00 GMT</pubDate>
+            <title><![CDATA[We need stronger digital systems to seize the China-plus-one opportunity]]></title>
+            <description><![CDATA[By Md Saikat Hosen]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-need-stronger-digital-systems-seize-the-china-plus-one-opportunity-4233291</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-stronger-digital-systems-seize-the-china-plus-one-opportunity-4233291</guid>
+            <dc:creator><![CDATA[Md Saikat Hosen]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 05:24:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Our forestry policy must be rooted in local evidence]]></title>
@@ -107,7 +130,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/our-forestry-policy-must-be-rooted-local-evidence-4232886</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-forestry-policy-must-be-rooted-local-evidence-4232886</guid>
             <dc:creator><![CDATA[Shekhar R Biswas]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 01:59:00 GMT</pubDate>
+            <pubDate>Wed, 29 Jul 2026 05:24:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why are we still struggling to make health insurance work?]]></title>
@@ -123,7 +146,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/citizens-have-already-answered-the-amendment-or-reform-question-4232396</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/citizens-have-already-answered-the-amendment-or-reform-question-4232396</guid>
             <dc:creator><![CDATA[Mir Ahmad Bin Quasem (Arman)]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 01:59:00 GMT</pubDate>
+            <pubDate>Wed, 29 Jul 2026 05:24:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mangroves, livelihoods, and Bangladesh’s economic future]]></title>
@@ -132,30 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/mangroves-livelihoods-and-bangladeshs-economic-future-4232406</guid>
             <dc:creator><![CDATA[Iftekhar Ul Karim]]></dc:creator>
             <pubDate>Sun, 26 Jul 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Before Bangladesh adds a third language, it needs the right language policy]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/bangladesh-adds-third-language-it-needs-the-right-language-policy-4231641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/bangladesh-adds-third-language-it-needs-the-right-language-policy-4231641</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Time to build an EV conversion ecosystem at scale]]></title>
-            <description><![CDATA[By Nazma Sultana]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/time-build-ev-conversion-ecosystem-scale-4231636</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-build-ev-conversion-ecosystem-scale-4231636</guid>
-            <dc:creator><![CDATA[Nazma Sultana]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 01:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Bangladesh's population planning must factor in climate-driven mobility]]></title>
-            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-bangladeshs-population-planning-must-factor-climate-driven-mobility-4231631</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladeshs-population-planning-must-factor-climate-driven-mobility-4231631</guid>
-            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
