@@ -4,29 +4,33 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 08:53:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 11:24:22 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 08:53:48 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 11:24:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Fixing public hospitals could start with making leaders rely on them]]></title>
-            <description><![CDATA[“Every year, around $5 billion flows out of the country as thousands of our people travel abroad for medical treatment. As a result, we also lose valuable foreign exchange.”]]></description>
+            <description><![CDATA[Why do so many people still choose to seek treatment abroad?]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/fixing-public-hospitals-could-start-making-leaders-rely-them-4236561</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fixing-public-hospitals-could-start-making-leaders-rely-them-4236561</guid>
             <dc:creator><![CDATA[Abu Afsarul Haider]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 08:53:48 GMT</pubDate>
+            <pubDate>Fri, 31 Jul 2026 11:24:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How patriarchy's female foot soldiers can be liberated]]></title>
+            <description><![CDATA[By Fariya Rahman]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/how-patriarchys-female-foot-soldiers-can-be-liberated-4236581</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-patriarchys-female-foot-soldiers-can-be-liberated-4236581</guid>
-            <pubDate>Fri, 31 Jul 2026 08:53:48 GMT</pubDate>
+            <dc:creator><![CDATA[Fariya Rahman]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 11:24:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is Bangladesh ready to build semiconductor chips?]]></title>
+            <description><![CDATA[By Noshin Nawal]]></description>
             <link>https://www.thedailystar.net/opinion/views/mind-the-gap/news/bangladesh-ready-build-semiconductor-chips-4236596</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/bangladesh-ready-build-semiconductor-chips-4236596</guid>
-            <pubDate>Fri, 31 Jul 2026 08:53:48 GMT</pubDate>
+            <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 11:24:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Higher electricity tariffs should accelerate our clean energy transition]]></title>
@@ -34,7 +38,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/higher-electricity-tariffs-should-accelerate-our-clean-energy-transition-4236601</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/higher-electricity-tariffs-should-accelerate-our-clean-energy-transition-4236601</guid>
             <dc:creator><![CDATA[Shafiqul Alam]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 08:53:48 GMT</pubDate>
+            <pubDate>Fri, 31 Jul 2026 11:24:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Are we reversing course on the UN-backed post-uprising reforms?]]></title>
@@ -50,7 +54,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-industrialisation-human-cognition-4236231</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-industrialisation-human-cognition-4236231</guid>
             <dc:creator><![CDATA[M Rayhan Kabir]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 08:53:48 GMT</pubDate>
+            <pubDate>Fri, 31 Jul 2026 11:24:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The ugliness over Beauty’s reel]]></title>
@@ -72,31 +76,31 @@
             <title><![CDATA[Rid public healthcare of chronic shortages and systemic failures]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/rid-public-healthcare-chronic-shortages-and-systemic-failures-4236551</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rid-public-healthcare-chronic-shortages-and-systemic-failures-4236551</guid>
-            <pubDate>Fri, 31 Jul 2026 08:53:48 GMT</pubDate>
+            <pubDate>Fri, 31 Jul 2026 11:24:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don’t normalise preventable deaths]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-normalise-preventable-deaths-4235746</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-normalise-preventable-deaths-4235746</guid>
-            <pubDate>Fri, 31 Jul 2026 08:53:48 GMT</pubDate>
+            <pubDate>Fri, 31 Jul 2026 11:24:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Threats against journalists are condemnable]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/threats-against-journalists-are-condemnable-4235541</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/threats-against-journalists-are-condemnable-4235541</guid>
-            <pubDate>Fri, 31 Jul 2026 08:53:48 GMT</pubDate>
+            <pubDate>Fri, 31 Jul 2026 11:24:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Salinity’s silent intrusion]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/salinitys-silent-intrusion-4234741</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/salinitys-silent-intrusion-4234741</guid>
-            <pubDate>Fri, 31 Jul 2026 08:53:48 GMT</pubDate>
+            <pubDate>Fri, 31 Jul 2026 11:24:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop cyberbullying of women]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/stop-cyberbullying-women-4234996</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/stop-cyberbullying-women-4234996</guid>
-            <pubDate>Fri, 31 Jul 2026 08:53:48 GMT</pubDate>
+            <pubDate>Fri, 31 Jul 2026 11:24:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A trillion-dollar ambition needs a stronger investment climate]]></title>
@@ -136,7 +140,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/i-spent-two-years-learning-ai-then-another-year-unlearning-it-4233831</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/i-spent-two-years-learning-ai-then-another-year-unlearning-it-4233831</guid>
             <dc:creator><![CDATA[Maisha Islam Monamee]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 08:53:48 GMT</pubDate>
+            <pubDate>Fri, 31 Jul 2026 11:24:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When the river takes everything, even a girl's childhood]]></title>
