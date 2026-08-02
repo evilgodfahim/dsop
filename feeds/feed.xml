@@ -4,17 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 05:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 08:10:45 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 05:49:27 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 08:10:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Property reform for parents: A step in the right direction, but mind the gaps]]></title>
-            <description><![CDATA[On July 30, 2026, Law Minister Md Asaduzzaman stated that the government is considering amending the Transfer of Property Act, 1882 to allow parents to retain the right to possess and enjoy property during their lifetime even after transferring ownership to their children.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/mind-the-gap/news/property-reform-parents-step-the-right-direction-mind-the-gaps-4237926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/property-reform-parents-step-the-right-direction-mind-the-gaps-4237926</guid>
-            <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
-            <pubDate>Sun, 02 Aug 2026 05:49:27 GMT</pubDate>
+            <title><![CDATA[Blaming the youth is easy. We must rethink how we support parents]]></title>
+            <description><![CDATA[Over the last two years, there have been many reports of young people attacking someone or engaging in violent acts in public places, educational institutions, or even at government offices.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/blaming-the-youth-easy-we-must-rethink-how-we-support-parents-4237931</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/blaming-the-youth-easy-we-must-rethink-how-we-support-parents-4237931</guid>
+            <dc:creator><![CDATA[Sina Akand]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 08:10:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bring the stranded Bangladeshis home]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/bring-the-stranded-bangladeshis-home-4237916</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bring-the-stranded-bangladeshis-home-4237916</guid>
+            <pubDate>Sun, 02 Aug 2026 08:10:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Bangladesh can build a more powerful passport]]></title>
+            <description><![CDATA[By AKM Ahsan Ullah]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-bangladesh-can-build-more-powerful-passport-4237941</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-bangladesh-can-build-more-powerful-passport-4237941</guid>
+            <dc:creator><![CDATA[AKM Ahsan Ullah]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 08:10:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What kind of president does Bangladesh need?]]></title>
@@ -22,7 +36,15 @@
             <link>https://www.thedailystar.net/opinion/views/news/what-kind-president-does-bangladesh-need-4237936</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-kind-president-does-bangladesh-need-4237936</guid>
             <dc:creator><![CDATA[Mir Aftabuddin Ahmed]]></dc:creator>
-            <pubDate>Sun, 02 Aug 2026 05:49:27 GMT</pubDate>
+            <pubDate>Sun, 02 Aug 2026 08:10:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Property reform for parents: A step in the right direction, but mind the gaps]]></title>
+            <description><![CDATA[By Noshin Nawal]]></description>
+            <link>https://www.thedailystar.net/opinion/views/mind-the-gap/news/property-reform-parents-step-the-right-direction-mind-the-gaps-4237926</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/property-reform-parents-step-the-right-direction-mind-the-gaps-4237926</guid>
+            <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 08:10:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why privatising electricity distribution could be a mistake]]></title>
@@ -36,7 +58,7 @@
             <title><![CDATA[End the criminality within our crime fighters]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/end-the-criminality-within-our-crime-fighters-4237681</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-the-criminality-within-our-crime-fighters-4237681</guid>
-            <pubDate>Sun, 02 Aug 2026 05:49:27 GMT</pubDate>
+            <pubDate>Sun, 02 Aug 2026 08:10:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greed of a few, misery of thousands]]></title>
@@ -45,18 +67,34 @@
             <pubDate>Sat, 01 Aug 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When waiting in line for subsidised food turns deadly]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/when-waiting-line-subsidised-food-turns-deadly-4237251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/when-waiting-line-subsidised-food-turns-deadly-4237251</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 09:00:00 GMT</pubDate>
+            <title><![CDATA[Extreme heat is turning into a threat to economy]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/extreme-heat-turning-threat-economy-4237066</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/extreme-heat-turning-threat-economy-4237066</guid>
+            <pubDate>Sun, 02 Aug 2026 08:10:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2 Bring the stranded Bangladeshis home]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/2-bring-the-stranded-bangladeshis-home-4237916</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/2-bring-the-stranded-bangladeshis-home-4237916</guid>
-            <pubDate>Sun, 02 Aug 2026 05:49:27 GMT</pubDate>
+            <title><![CDATA[Rid public healthcare of chronic shortages and systemic failures]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/rid-public-healthcare-chronic-shortages-and-systemic-failures-4236551</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rid-public-healthcare-chronic-shortages-and-systemic-failures-4236551</guid>
+            <pubDate>Sun, 02 Aug 2026 08:10:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t normalise preventable deaths]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/dont-normalise-preventable-deaths-4235746</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-normalise-preventable-deaths-4235746</guid>
+            <pubDate>Sun, 02 Aug 2026 08:10:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Threats against journalists are condemnable]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/threats-against-journalists-are-condemnable-4235541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/threats-against-journalists-are-condemnable-4235541</guid>
+            <pubDate>Sun, 02 Aug 2026 08:10:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Salinity’s silent intrusion]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/salinitys-silent-intrusion-4234741</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/salinitys-silent-intrusion-4234741</guid>
+            <pubDate>Sun, 02 Aug 2026 08:10:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We must count the cost of growing climate anxiety]]></title>
@@ -67,34 +105,12 @@
             <pubDate>Sat, 01 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Extreme heat is turning into a threat to economy]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/extreme-heat-turning-threat-economy-4237066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/extreme-heat-turning-threat-economy-4237066</guid>
-            <pubDate>Sun, 02 Aug 2026 05:49:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rid public healthcare of chronic shortages and systemic failures]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/rid-public-healthcare-chronic-shortages-and-systemic-failures-4236551</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rid-public-healthcare-chronic-shortages-and-systemic-failures-4236551</guid>
-            <pubDate>Sun, 02 Aug 2026 05:49:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t normalise preventable deaths]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/dont-normalise-preventable-deaths-4235746</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-normalise-preventable-deaths-4235746</guid>
-            <pubDate>Sun, 02 Aug 2026 05:49:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Threats against journalists are condemnable]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/threats-against-journalists-are-condemnable-4235541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/threats-against-journalists-are-condemnable-4235541</guid>
-            <pubDate>Sun, 02 Aug 2026 05:49:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Salinity’s silent intrusion]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/salinitys-silent-intrusion-4234741</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/salinitys-silent-intrusion-4234741</guid>
-            <pubDate>Sun, 02 Aug 2026 05:49:27 GMT</pubDate>
+            <title><![CDATA[Fixing public hospitals could start with making leaders rely on them]]></title>
+            <description><![CDATA[By Abu Afsarul Haider]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/fixing-public-hospitals-could-start-making-leaders-rely-them-4236561</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fixing-public-hospitals-could-start-making-leaders-rely-them-4236561</guid>
+            <dc:creator><![CDATA[Abu Afsarul Haider]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How patriarchy's female foot soldiers can be liberated]]></title>
@@ -126,7 +142,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-industrialisation-human-cognition-4236231</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-industrialisation-human-cognition-4236231</guid>
             <dc:creator><![CDATA[M Rayhan Kabir]]></dc:creator>
-            <pubDate>Sun, 02 Aug 2026 05:49:27 GMT</pubDate>
+            <pubDate>Sun, 02 Aug 2026 08:10:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The ugliness over Beauty’s reel]]></title>
@@ -135,22 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/no-strings-attached/news/the-ugliness-over-beautys-reel-4235776</guid>
             <dc:creator><![CDATA[Aasha Mehreen Amin]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Bangladesh’s low ecological footprint is not a climate advantage]]></title>
-            <description><![CDATA[By Kazi Kareena Arif]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-bangladeshs-low-ecological-footprint-not-climate-advantage-4235791</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladeshs-low-ecological-footprint-not-climate-advantage-4235791</guid>
-            <dc:creator><![CDATA[Kazi Kareena Arif]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are we reversing course on the UN-backed post-uprising reforms?]]></title>
-            <description><![CDATA[By Sharif Bhuiyan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/are-we-reversing-course-the-un-backed-post-uprising-reforms-4235801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/are-we-reversing-course-the-un-backed-post-uprising-reforms-4235801</guid>
-            <dc:creator><![CDATA[Sharif Bhuiyan]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 10:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
