@@ -4,22 +4,17 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 09:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 11:58:48 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 09:35:23 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 11:58:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The microplastic invasion demands urgent action]]></title>
-            <description><![CDATA[Time to treat microplastic pollution as a public health emergency]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/the-microplastic-invasion-demands-urgent-action-4239501</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-microplastic-invasion-demands-urgent-action-4239501</guid>
-            <pubDate>Tue, 04 Aug 2026 09:35:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Address measles’ financial toll on the poor]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/address-measles-financial-toll-the-poor-4239136</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-measles-financial-toll-the-poor-4239136</guid>
-            <pubDate>Tue, 04 Aug 2026 09:35:23 GMT</pubDate>
+            <title><![CDATA[For a stronger passport, we need stronger mobility infrastructure]]></title>
+            <description><![CDATA[For Bangladeshis, overseas travel is also evidentiary.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/stronger-passport-we-need-stronger-mobility-infrastructure-4239921</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/stronger-passport-we-need-stronger-mobility-infrastructure-4239921</guid>
+            <dc:creator><![CDATA[Nazmus Sadat]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 11:58:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why changing Rab's name or repackaging it is not enough]]></title>
@@ -27,7 +22,19 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-changing-rabs-name-or-repackaging-it-not-enough-4239531</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-changing-rabs-name-or-repackaging-it-not-enough-4239531</guid>
             <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 09:35:23 GMT</pubDate>
+            <pubDate>Tue, 04 Aug 2026 11:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The microplastic invasion demands urgent action]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/the-microplastic-invasion-demands-urgent-action-4239501</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-microplastic-invasion-demands-urgent-action-4239501</guid>
+            <pubDate>Tue, 04 Aug 2026 11:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Address measles’ financial toll on the poor]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/address-measles-financial-toll-the-poor-4239136</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-measles-financial-toll-the-poor-4239136</guid>
+            <pubDate>Tue, 04 Aug 2026 11:58:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[For women, a degree must build a vision, not just a biodata]]></title>
@@ -35,7 +42,7 @@
             <link>https://www.thedailystar.net/opinion/news/women-degree-must-build-vision-not-just-biodata-4239521</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/women-degree-must-build-vision-not-just-biodata-4239521</guid>
             <dc:creator><![CDATA[Shimu Akhter]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 09:35:23 GMT</pubDate>
+            <pubDate>Tue, 04 Aug 2026 11:58:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The reforms that will shape the true legacy of July uprising]]></title>
@@ -43,7 +50,7 @@
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/the-reforms-will-shape-the-true-legacy-july-uprising-4239506</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/the-reforms-will-shape-the-true-legacy-july-uprising-4239506</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 09:35:23 GMT</pubDate>
+            <pubDate>Tue, 04 Aug 2026 11:58:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nirmal Purja: How to remember a legend accused but never convicted]]></title>
@@ -51,7 +58,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/nirmal-purja-how-remember-legend-accused-never-convicted-4238931</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/nirmal-purja-how-remember-legend-accused-never-convicted-4238931</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 09:35:23 GMT</pubDate>
+            <pubDate>Tue, 04 Aug 2026 11:58:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Debate over teacher's reel / Are we ignoring what Gen Alpha needs?]]></title>
@@ -60,14 +67,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/are-we-ignoring-what-gen-alpha-needs-4238696</guid>
             <dc:creator><![CDATA[Bijoya Chakma]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Waterway decline demands a smarter logistics strategy, not just dredging]]></title>
-            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/waterway-decline-demands-smarter-logistics-strategy-not-just-dredging-4238741</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/waterway-decline-demands-smarter-logistics-strategy-not-just-dredging-4238741</guid>
-            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Mon, 03 Aug 2026 08:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Act fast before the dengue outbreak worsens]]></title>
@@ -79,7 +78,7 @@
             <title><![CDATA[Dishonest academic practices must stop]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dishonest-academic-practices-must-stop-4238426</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dishonest-academic-practices-must-stop-4238426</guid>
-            <pubDate>Tue, 04 Aug 2026 09:35:23 GMT</pubDate>
+            <pubDate>Tue, 04 Aug 2026 11:58:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bring the stranded Bangladeshis home]]></title>
@@ -91,13 +90,21 @@
             <title><![CDATA[End the criminality within our crime fighters]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/end-the-criminality-within-our-crime-fighters-4237681</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-the-criminality-within-our-crime-fighters-4237681</guid>
-            <pubDate>Tue, 04 Aug 2026 09:35:23 GMT</pubDate>
+            <pubDate>Tue, 04 Aug 2026 11:58:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greed of a few, misery of thousands]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/greed-few-misery-thousands-4237246</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/greed-few-misery-thousands-4237246</guid>
             <pubDate>Sat, 01 Aug 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Restore Askar Dighi, revive Chattogram’s ecological memory]]></title>
+            <description><![CDATA[By Adnan Zillur Morshed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/restore-askar-dighi-revive-chattograms-ecological-memory-4238711</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/restore-askar-dighi-revive-chattograms-ecological-memory-4238711</guid>
+            <dc:creator><![CDATA[Adnan Zillur Morshed]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Rucsu model cannot be the future of post-uprising student politics]]></title>
@@ -113,7 +120,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/can-ai-address-the-shortage-speech-therapists-bangladesh-4238276</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-ai-address-the-shortage-speech-therapists-bangladesh-4238276</guid>
             <dc:creator><![CDATA[Md. Asaduzzaman]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 09:35:23 GMT</pubDate>
+            <pubDate>Tue, 04 Aug 2026 11:58:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blaming the youth is easy. We must rethink how we support parents]]></title>
@@ -121,7 +128,7 @@
             <link>https://www.thedailystar.net/opinion/news/blaming-the-youth-easy-we-must-rethink-how-we-support-parents-4237931</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/blaming-the-youth-easy-we-must-rethink-how-we-support-parents-4237931</guid>
             <dc:creator><![CDATA[Sina Akand]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 09:35:23 GMT</pubDate>
+            <pubDate>Tue, 04 Aug 2026 11:58:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Bangladesh can build a more powerful passport]]></title>
@@ -146,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/property-reform-parents-step-the-right-direction-mind-the-gaps-4237926</guid>
             <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
             <pubDate>Sun, 02 Aug 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When waiting in line for subsidised food turns deadly]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/when-waiting-line-subsidised-food-turns-deadly-4237251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/when-waiting-line-subsidised-food-turns-deadly-4237251</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,9 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 09:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 11:58:50 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 09:35:25 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 11:58:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Ancient DNA confirms historical accounts of how smallpox got to the Americas]]></title>
@@ -118,6 +118,13 @@
             <description><![CDATA[Embracing uncertainty, not banishing it, is what makes science powerful]]></description>
             <link>https://www.science.org/doi/10.1126/science.aei1519</link>
             <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei1519</guid>
+            <pubDate>Thu, 30 Jul 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rigor is not readiness: The PERL framework for evidence-based policy | Science]]></title>
+            <description><![CDATA[Policy Evidence Readiness Levels help decision-makers assess evidence maturity and uncertainty]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aef3529</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aef3529</guid>
             <pubDate>Thu, 30 Jul 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
