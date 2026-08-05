@@ -4,25 +4,17 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 05:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 08:24:47 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 05:39:52 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 08:24:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Miyawaki forests can cool Dhaka, but only if we scale and protect them]]></title>
-            <description><![CDATA[For three decades, Dhaka has steadily lost its green cover, even as officials repeatedly promised to restore it.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/miyawaki-forests-can-cool-dhaka-only-if-we-scale-and-protect-them-4240356</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/miyawaki-forests-can-cool-dhaka-only-if-we-scale-and-protect-them-4240356</guid>
-            <dc:creator><![CDATA[Mohammad Julfiqar Haider]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 05:39:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[2 years of July Uprising / We must never forget what led to the July mass uprising]]></title>
-            <description><![CDATA[By M Niaz Asadullah]]></description>
+            <description><![CDATA[July’s demand for meritocracy cannot be satisfied by replacing one patronage network with another. If the BNP treats its electoral mandate as a licence to reward loyalists, it risks recreating the same broken social contract that turned frustrated achievers into political challengers.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/we-must-never-forget-what-led-the-july-mass-uprising-4240376</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-never-forget-what-led-the-july-mass-uprising-4240376</guid>
             <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 05:39:52 GMT</pubDate>
+            <pubDate>Wed, 05 Aug 2026 08:24:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The July lesson: Restore the contract that allows democracy to self-correct]]></title>
@@ -30,7 +22,29 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-july-lesson-restore-the-contract-allows-democracy-self-correct-4240381</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-july-lesson-restore-the-contract-allows-democracy-self-correct-4240381</guid>
             <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 05:39:52 GMT</pubDate>
+            <pubDate>Wed, 05 Aug 2026 08:24:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fix the basics of primary schools first]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-basics-primary-schools-first-4240001</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-basics-primary-schools-first-4240001</guid>
+            <pubDate>Wed, 05 Aug 2026 08:24:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miyawaki forests can cool Dhaka, but only if we scale and protect them]]></title>
+            <description><![CDATA[By Mohammad Julfiqar Haider]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/miyawaki-forests-can-cool-dhaka-only-if-we-scale-and-protect-them-4240356</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/miyawaki-forests-can-cool-dhaka-only-if-we-scale-and-protect-them-4240356</guid>
+            <dc:creator><![CDATA[Mohammad Julfiqar Haider]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 08:24:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tribute to Khursheed Erfan Ahmed / Khursheed Erfan Ahmed: A legacy built on justice, education and compassion]]></title>
+            <description><![CDATA[By Nur Khan Liton]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/khursheed-erfan-ahmed-legacy-built-justice-education-and-compassion-4240366</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/khursheed-erfan-ahmed-legacy-built-justice-education-and-compassion-4240366</guid>
+            <dc:creator><![CDATA[Nur Khan Liton]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 08:24:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[For a stronger passport, we need stronger mobility infrastructure]]></title>
@@ -38,7 +52,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/stronger-passport-we-need-stronger-mobility-infrastructure-4239921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/stronger-passport-we-need-stronger-mobility-infrastructure-4239921</guid>
             <dc:creator><![CDATA[Nazmus Sadat]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 05:39:52 GMT</pubDate>
+            <pubDate>Wed, 05 Aug 2026 08:24:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why changing Rab's name or repackaging it is not enough]]></title>
@@ -55,16 +69,16 @@
             <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Address measles’ financial toll on the poor]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/address-measles-financial-toll-the-poor-4239136</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-measles-financial-toll-the-poor-4239136</guid>
-            <pubDate>Wed, 05 Aug 2026 05:39:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[It’s time to complete July's agenda]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/its-time-complete-julys-agenda-4240346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/its-time-complete-julys-agenda-4240346</guid>
-            <pubDate>Wed, 05 Aug 2026 05:39:52 GMT</pubDate>
+            <pubDate>Wed, 05 Aug 2026 00:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Address measles’ financial toll on the poor]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/address-measles-financial-toll-the-poor-4239136</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-measles-financial-toll-the-poor-4239136</guid>
+            <pubDate>Wed, 05 Aug 2026 08:24:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Act fast before the dengue outbreak worsens]]></title>
@@ -76,25 +90,13 @@
             <title><![CDATA[Dishonest academic practices must stop]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dishonest-academic-practices-must-stop-4238426</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dishonest-academic-practices-must-stop-4238426</guid>
-            <pubDate>Wed, 05 Aug 2026 05:39:52 GMT</pubDate>
+            <pubDate>Wed, 05 Aug 2026 08:24:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bring the stranded Bangladeshis home]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/bring-the-stranded-bangladeshis-home-4237916</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bring-the-stranded-bangladeshis-home-4237916</guid>
             <pubDate>Sun, 02 Aug 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[End the criminality within our crime fighters]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/end-the-criminality-within-our-crime-fighters-4237681</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-the-criminality-within-our-crime-fighters-4237681</guid>
-            <pubDate>Wed, 05 Aug 2026 05:39:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greed of a few, misery of thousands]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/greed-few-misery-thousands-4237246</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/greed-few-misery-thousands-4237246</guid>
-            <pubDate>Sat, 01 Aug 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The reforms that will shape the true legacy of July uprising]]></title>
@@ -142,7 +144,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/can-ai-address-the-shortage-speech-therapists-bangladesh-4238276</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-ai-address-the-shortage-speech-therapists-bangladesh-4238276</guid>
             <dc:creator><![CDATA[Md. Asaduzzaman]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 05:39:52 GMT</pubDate>
+            <pubDate>Wed, 05 Aug 2026 08:24:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blaming the youth is easy. We must rethink how we support parents]]></title>
@@ -150,7 +152,7 @@
             <link>https://www.thedailystar.net/opinion/news/blaming-the-youth-easy-we-must-rethink-how-we-support-parents-4237931</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/blaming-the-youth-easy-we-must-rethink-how-we-support-parents-4237931</guid>
             <dc:creator><![CDATA[Sina Akand]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 05:39:52 GMT</pubDate>
+            <pubDate>Wed, 05 Aug 2026 08:24:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
