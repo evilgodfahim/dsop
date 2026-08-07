@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 03:44:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 05:29:04 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 03:44:23 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 05:29:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / Political acumen is fine, but economic expertise is crucial]]></title>
@@ -14,7 +14,7 @@
             <link>https://www.thedailystar.net/opinion/views/the-third-view/news/political-acumen-fine-economic-expertise-crucial-4241801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/political-acumen-fine-economic-expertise-crucial-4241801</guid>
             <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 03:44:22 GMT</pubDate>
+            <pubDate>Fri, 07 Aug 2026 05:29:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[De-Awamisation or re-Awamisation? The competing visions for DU after July]]></title>
@@ -22,7 +22,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/de-awamisation-or-re-awamisation-the-competing-visions-du-after-july-4241856</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/de-awamisation-or-re-awamisation-the-competing-visions-du-after-july-4241856</guid>
             <dc:creator><![CDATA[Nafisa Nipun Tanjeem]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 03:44:22 GMT</pubDate>
+            <pubDate>Fri, 07 Aug 2026 05:29:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Our garments cannot come at the cost of our rivers]]></title>
@@ -33,10 +33,24 @@
             <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Where is that change people shed their blood for?]]></title>
+            <description><![CDATA[By Emran Mahfuz]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/where-change-people-shed-their-blood-4241871</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/where-change-people-shed-their-blood-4241871</guid>
+            <dc:creator><![CDATA[Emran Mahfuz]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 05:29:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Teacher shortage must be addressed]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/teacher-shortage-must-be-addressed-4241591</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/teacher-shortage-must-be-addressed-4241591</guid>
-            <pubDate>Fri, 07 Aug 2026 03:44:22 GMT</pubDate>
+            <pubDate>Fri, 07 Aug 2026 05:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Migration slowdown is a warning]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/migration-slowdown-warning-4241836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/migration-slowdown-warning-4241836</guid>
+            <pubDate>Fri, 07 Aug 2026 05:29:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Public universities must not fall back into partisan control]]></title>
@@ -55,22 +69,6 @@
             <pubDate>Thu, 06 Aug 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How do we prevent the next wave of research retractions?]]></title>
-            <description><![CDATA[By Md. Abdur Razzak]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-do-we-prevent-the-next-wave-research-retractions-4241026</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-do-we-prevent-the-next-wave-research-retractions-4241026</guid>
-            <dc:creator><![CDATA[Md. Abdur Razzak]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What cruelty to animals says about our society]]></title>
-            <description><![CDATA[By Nazifa Tasmim]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-cruelty-animals-says-about-our-society-4240731</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-cruelty-animals-says-about-our-society-4240731</guid>
-            <dc:creator><![CDATA[Nazifa Tasmim]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 03:44:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Agricultural support must reach small farmers]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/agricultural-support-must-reach-small-farmers-4240981</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/agricultural-support-must-reach-small-farmers-4240981</guid>
@@ -80,7 +78,7 @@
             <title><![CDATA[Campus violence betrays the July spirit]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/campus-violence-betrays-the-july-spirit-4240776</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/campus-violence-betrays-the-july-spirit-4240776</guid>
-            <pubDate>Fri, 07 Aug 2026 03:44:22 GMT</pubDate>
+            <pubDate>Fri, 07 Aug 2026 05:29:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[It’s time to complete July's agenda]]></title>
@@ -92,13 +90,21 @@
             <title><![CDATA[Fix the basics of primary schools first]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-basics-primary-schools-first-4240001</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-basics-primary-schools-first-4240001</guid>
-            <pubDate>Fri, 07 Aug 2026 03:44:22 GMT</pubDate>
+            <pubDate>Fri, 07 Aug 2026 05:29:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Address measles’ financial toll on the poor]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/address-measles-financial-toll-the-poor-4239136</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-measles-financial-toll-the-poor-4239136</guid>
-            <pubDate>Fri, 07 Aug 2026 03:44:22 GMT</pubDate>
+            <pubDate>Fri, 07 Aug 2026 05:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miyawaki forests can cool Dhaka, but only if we scale and protect them]]></title>
+            <description><![CDATA[By Mohammad Julfiqar Haider]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/miyawaki-forests-can-cool-dhaka-only-if-we-scale-and-protect-them-4240356</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/miyawaki-forests-can-cool-dhaka-only-if-we-scale-and-protect-them-4240356</guid>
+            <dc:creator><![CDATA[Mohammad Julfiqar Haider]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tribute to Khursheed Erfan Ahmed / Khursheed Erfan Ahmed: A legacy built on justice, education and compassion]]></title>
@@ -130,7 +136,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/stronger-passport-we-need-stronger-mobility-infrastructure-4239921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/stronger-passport-we-need-stronger-mobility-infrastructure-4239921</guid>
             <dc:creator><![CDATA[Nazmus Sadat]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 03:44:22 GMT</pubDate>
+            <pubDate>Fri, 07 Aug 2026 05:29:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why changing Rab's name or repackaging it is not enough]]></title>
@@ -147,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/women-degree-must-build-vision-not-just-biodata-4239521</guid>
             <dc:creator><![CDATA[Shimu Akter]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The reforms that will shape the true legacy of July uprising]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/the-reforms-will-shape-the-true-legacy-july-uprising-4239506</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/the-reforms-will-shape-the-true-legacy-july-uprising-4239506</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 10:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
