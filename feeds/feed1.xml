@@ -4,9 +4,9 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 00:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 03:44:24 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 00:37:02 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 03:44:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[DNA reveals the hidden past of North America’s bison—and keys to their future]]></title>
@@ -69,6 +69,13 @@
             <description><![CDATA[Internal combustion engine (ICE) vehicles represent the single largest source of carbon dioxide emissions for most US households. Although battery electric vehicles (BEVs) considerably reduce use-phase emissions, the transition poses a fundamental life ...]]></description>
             <link>https://www.science.org/doi/10.1126/science.adv5441</link>
             <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adv5441</guid>
+            <pubDate>Thu, 06 Aug 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Other Journals | Science]]></title>
+            <description><![CDATA[Editors’ selections from the current scientific literature]]></description>
+            <link>https://www.science.org/doi/10.1126/science.ael1781</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael1781</guid>
             <pubDate>Thu, 06 Aug 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
