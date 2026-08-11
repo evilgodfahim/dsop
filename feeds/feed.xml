@@ -4,13 +4,28 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 01:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 03:29:12 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 01:11:03 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 03:29:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[How Bangladesh can make the most of its South Korea CEPA]]></title>
+            <description><![CDATA[Following an intensive negotiating process spanning about a year, Bangladesh and South Korea signed a Comprehensive Economic Partnership Agreement (CEPA) on August 4, 2026.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/how-bangladesh-can-make-the-most-its-south-korea-cepa-4244806</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/how-bangladesh-can-make-the-most-its-south-korea-cepa-4244806</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 03:29:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh's vaccine future depends on a world-class regulator]]></title>
+            <description><![CDATA[By Syed Abdul Hamid]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-vaccine-future-depends-world-class-regulator-4244846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-vaccine-future-depends-world-class-regulator-4244846</guid>
+            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 03:29:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Falling SSC pass rate tells only half the story]]></title>
-            <description><![CDATA[Audit the worst-performing schools, target where support is most needed.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/falling-ssc-pass-rate-tells-only-half-the-story-4244521</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/falling-ssc-pass-rate-tells-only-half-the-story-4244521</guid>
             <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
@@ -54,22 +69,6 @@
             <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A rosy narrative on decentralising school management is not helpful]]></title>
-            <description><![CDATA[By Manzoor Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/news/rosy-narrative-decentralising-school-management-not-helpful-4243091</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/rosy-narrative-decentralising-school-management-not-helpful-4243091</guid>
-            <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
-            <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We must restore parliament’s oversight role]]></title>
-            <description><![CDATA[By Muhtasim M. Musanna]]></description>
-            <link>https://www.thedailystar.net/opinion/news/we-must-restore-parliaments-oversight-role-4243101</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/we-must-restore-parliaments-oversight-role-4243101</guid>
-            <dc:creator><![CDATA[Muhtasim M. Musanna]]></dc:creator>
-            <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Go after wildlife trafficking ringleaders]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/go-after-wildlife-trafficking-ringleaders-4243876</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/go-after-wildlife-trafficking-ringleaders-4243876</guid>
@@ -98,6 +97,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/government-must-prioritise-road-safety-4242316</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/government-must-prioritise-road-safety-4242316</guid>
             <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We must restore parliament’s oversight role]]></title>
+            <description><![CDATA[By Muhtasim M. Musanna]]></description>
+            <link>https://www.thedailystar.net/opinion/news/we-must-restore-parliaments-oversight-role-4243101</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/we-must-restore-parliaments-oversight-role-4243101</guid>
+            <dc:creator><![CDATA[Muhtasim M. Musanna]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[International Day of the World's Indigenous Peoples / We cannot let Indigenous midwifery and its traditions disappear]]></title>
+            <description><![CDATA[By Pavel Partha]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-cannot-let-indigenous-midwifery-and-its-traditions-disappear-4243106</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-cannot-let-indigenous-midwifery-and-its-traditions-disappear-4243106</guid>
+            <dc:creator><![CDATA[Pavel Partha]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What research retractions reveal about our universities’ weaknesses]]></title>
@@ -138,22 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tree-planting-alone-wont-make-our-cities-greener-4242466</guid>
             <dc:creator><![CDATA[Nushrat Rahman Chowdhury]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column by Mahfuz Anam / Political acumen is fine, but economic expertise is crucial]]></title>
-            <description><![CDATA[By Mahfuz Anam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/political-acumen-fine-economic-expertise-crucial-4241801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/political-acumen-fine-economic-expertise-crucial-4241801</guid>
-            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka University and the enduring cycle of partisan control]]></title>
-            <description><![CDATA[By Nafisa Nipun Tanjeem]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/dhaka-university-and-the-enduring-cycle-partisan-control-4241856</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dhaka-university-and-the-enduring-cycle-partisan-control-4241856</guid>
-            <dc:creator><![CDATA[Nafisa Nipun Tanjeem]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
