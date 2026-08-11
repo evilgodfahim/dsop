@@ -4,10 +4,17 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 18:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 19:57:04 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 18:52:48 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 19:57:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[DNA reveals the hidden past of North America’s bison—and keys to their future]]></title>
+            <description><![CDATA[Scientists are racing to conserve what remains of these majestic animals’ genetic diversity]]></description>
+            <link>https://www.science.org/content/article/dna-reveals-hidden-past-north-america-s-bison-and-keys-their-future</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/dna-reveals-hidden-past-north-america-s-bison-and-keys-their-future</guid>
+            <pubDate>Thu, 06 Aug 2026 19:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Adaptive modulation of theta sweeps in the brain’s navigation circuit | Science]]></title>
             <description><![CDATA[Efficient navigation requires prioritizing information from behaviorally relevant locations. In rats, such selective sampling may arise from theta-paced sweeps in grid and place cell populations, which scan nearby space in a left-right alternating ...]]></description>
