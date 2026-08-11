@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 17:52:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 18:52:46 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 17:52:16 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 18:52:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[AI can transform our health system, but are we ready for it?]]></title>
@@ -14,7 +14,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/ai-can-transform-our-health-system-are-we-ready-it-4245186</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ai-can-transform-our-health-system-are-we-ready-it-4245186</guid>
             <dc:creator><![CDATA[Sumit Banik]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 17:52:15 GMT</pubDate>
+            <pubDate>Tue, 11 Aug 2026 18:52:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Bangladesh can make the most of its South Korea CEPA]]></title>
@@ -30,7 +30,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/stop-turning-divorce-social-punishment-women-4244821</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/stop-turning-divorce-social-punishment-women-4244821</guid>
             <dc:creator><![CDATA[Lina Dilruba Sharmin]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 17:52:15 GMT</pubDate>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh's vaccine future depends on a world-class regulator]]></title>
@@ -39,6 +39,12 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-vaccine-future-depends-world-class-regulator-4244846</guid>
             <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why does Biman keep fixing problems the hard way?]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/why-does-biman-keep-fixing-problems-the-hard-way-4245606</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-does-biman-keep-fixing-problems-the-hard-way-4245606</guid>
+            <pubDate>Tue, 11 Aug 2026 18:52:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trust is the missing link to Bangla QR's success]]></title>
@@ -60,14 +66,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/hasinas-media-interactions-are-hurting-bilateral-ties-4243891</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/hasinas-media-interactions-are-hurting-bilateral-ties-4243891</guid>
             <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We need a road safety law built on 'forgiving roads']]></title>
-            <description><![CDATA[By Tamanna Mizan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-need-road-safety-law-built-forgiving-roads-4243901</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-road-safety-law-built-forgiving-roads-4243901</guid>
-            <dc:creator><![CDATA[Tamanna Mizan]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -99,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/child-stunting-putting-our-future-risk-4242851</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/child-stunting-putting-our-future-risk-4242851</guid>
             <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Think again before opening up fuel imports to private companies]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/think-again-opening-fuel-imports-private-companies-4243906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/think-again-opening-fuel-imports-private-companies-4243906</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Protection or control? The politics of women’s residence halls]]></title>
@@ -146,14 +152,6 @@
             <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-fine-line-between-moral-courage-and-entitlement-4242446</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-fine-line-between-moral-courage-and-entitlement-4242446</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Customer confidence is crucial for a functioning cashless economy]]></title>
-            <description><![CDATA[By Milon Kumar Dash]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/customer-confidence-crucial-functioning-cashless-economy-4242456</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/customer-confidence-crucial-functioning-cashless-economy-4242456</guid>
-            <dc:creator><![CDATA[Milon Kumar Dash]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
