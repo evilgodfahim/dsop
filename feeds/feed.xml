@@ -4,17 +4,25 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 10:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 11:41:01 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 10:55:00 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 11:41:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[What the UGC research funding debate is missing]]></title>
+            <description><![CDATA[The UGC has decided to centralise research grants that were previously allocated directly to public universities, arguing that a single funding mechanism will reduce duplication, improve accountability, and focus on national priorities.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-the-ugc-research-funding-debate-missing-4246076</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-ugc-research-funding-debate-missing-4246076</guid>
+            <dc:creator><![CDATA[Md. Bakhtiar Uddin]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 11:41:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What a historic ADP low tells us about our development governance]]></title>
-            <description><![CDATA[Bangladesh has recorded another historically weak year in implementing its Annual Development Programme (ADP).]]></description>
+            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</guid>
             <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 10:55:00 GMT</pubDate>
+            <pubDate>Wed, 12 Aug 2026 11:41:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[International Youth Day / Give young workers a seat at the decision-making table]]></title>
@@ -22,7 +30,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/give-young-workers-seat-the-decision-making-table-4245626</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/give-young-workers-seat-the-decision-making-table-4245626</guid>
             <dc:creator><![CDATA[Max Tuñón]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 10:55:00 GMT</pubDate>
+            <pubDate>Wed, 12 Aug 2026 11:41:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SSC Results: When students fail in such numbers, we must rethink the system]]></title>
@@ -30,7 +38,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/ssc-results-when-students-fail-such-numbers-we-must-rethink-the-system-4245636</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ssc-results-when-students-fail-such-numbers-we-must-rethink-the-system-4245636</guid>
             <dc:creator><![CDATA[Md Mostafizur Rahaman]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 10:55:00 GMT</pubDate>
+            <pubDate>Wed, 12 Aug 2026 11:41:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why does Biman keep fixing problems the hard way?]]></title>
@@ -38,7 +46,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-does-biman-keep-fixing-problems-the-hard-way-4245646</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-does-biman-keep-fixing-problems-the-hard-way-4245646</guid>
             <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 10:55:00 GMT</pubDate>
+            <pubDate>Wed, 12 Aug 2026 11:41:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI can transform our health system, but are we ready for it?]]></title>
@@ -62,14 +70,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/stop-turning-divorce-social-punishment-women-4244821</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/stop-turning-divorce-social-punishment-women-4244821</guid>
             <dc:creator><![CDATA[Lina Dilruba Sharmin]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh's vaccine future depends on a world-class regulator]]></title>
-            <description><![CDATA[By Syed Abdul Hamid]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-vaccine-future-depends-world-class-regulator-4244846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-vaccine-future-depends-world-class-regulator-4244846</guid>
-            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -101,6 +101,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-rush-fuel-import-privatisation-4243676</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-rush-fuel-import-privatisation-4243676</guid>
             <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trust is the missing link to Bangla QR's success]]></title>
+            <description><![CDATA[By Md Emdadul Haque]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/trust-the-missing-link-bangla-qrs-success-4244856</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/trust-the-missing-link-bangla-qrs-success-4244856</guid>
+            <dc:creator><![CDATA[Md Emdadul Haque]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hasina’s media interactions are hurting bilateral ties]]></title>
@@ -148,14 +156,6 @@
             <link>https://www.thedailystar.net/opinion/news/we-must-restore-parliaments-oversight-role-4243101</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/we-must-restore-parliaments-oversight-role-4243101</guid>
             <dc:creator><![CDATA[Muhtasim M. Musanna]]></dc:creator>
-            <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[International Day of the World's Indigenous Peoples / We cannot let Indigenous midwifery and its traditions disappear]]></title>
-            <description><![CDATA[By Pavel Partha]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-cannot-let-indigenous-midwifery-and-its-traditions-disappear-4243106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-cannot-let-indigenous-midwifery-and-its-traditions-disappear-4243106</guid>
-            <dc:creator><![CDATA[Pavel Partha]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
