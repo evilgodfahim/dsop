@@ -4,17 +4,25 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 03:59:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 05:40:47 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 03:59:49 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 05:40:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[What a historic ADP low tells us about our development governance]]></title>
+            <description><![CDATA[Bangladesh has recorded another historically weak year in implementing its Annual Development Programme (ADP).]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</guid>
+            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 05:40:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[International Youth Day / Give young workers a seat at the decision-making table]]></title>
-            <description><![CDATA[A young trade union leader stood up and, after a brief pause, she shared a powerful reflection: “We are often invited to participate, but not to decide. I am told I don’t have enough experience. But how will I gain experience if I am never given the opportunity?”]]></description>
+            <description><![CDATA[By Max Tuñón]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/give-young-workers-seat-the-decision-making-table-4245626</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/give-young-workers-seat-the-decision-making-table-4245626</guid>
             <dc:creator><![CDATA[Max Tuñón]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 03:59:49 GMT</pubDate>
+            <pubDate>Wed, 12 Aug 2026 05:40:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SSC Results: When students fail in such numbers, we must rethink the system]]></title>
@@ -22,7 +30,15 @@
             <link>https://www.thedailystar.net/opinion/views/news/ssc-results-when-students-fail-such-numbers-we-must-rethink-the-system-4245636</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ssc-results-when-students-fail-such-numbers-we-must-rethink-the-system-4245636</guid>
             <dc:creator><![CDATA[Md Mostafizur Rahaman]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 03:59:49 GMT</pubDate>
+            <pubDate>Wed, 12 Aug 2026 05:40:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why does Biman keep fixing problems the hard way?]]></title>
+            <description><![CDATA[By Sabbir Ahmad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-does-biman-keep-fixing-problems-the-hard-way-4245646</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-does-biman-keep-fixing-problems-the-hard-way-4245646</guid>
+            <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 05:40:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI can transform our health system, but are we ready for it?]]></title>
@@ -57,18 +73,10 @@
             <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why does Biman keep fixing problems the hard way?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/why-does-biman-keep-fixing-problems-the-hard-way-4245606</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-does-biman-keep-fixing-problems-the-hard-way-4245606</guid>
-            <pubDate>Wed, 12 Aug 2026 03:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trust is the missing link to Bangla QR's success]]></title>
-            <description><![CDATA[By Md Emdadul Haque]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/trust-the-missing-link-bangla-qrs-success-4244856</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/trust-the-missing-link-bangla-qrs-success-4244856</guid>
-            <dc:creator><![CDATA[Md Emdadul Haque]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Revive the population council urgently]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/revive-the-population-council-urgently-4245606</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/revive-the-population-council-urgently-4245606</guid>
+            <pubDate>Wed, 12 Aug 2026 05:40:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fertiliser shortages demand urgent action]]></title>
@@ -95,10 +103,12 @@
             <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Don’t let another waterway project fail]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-another-waterway-project-fail-4243086</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-another-waterway-project-fail-4243086</guid>
-            <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Hasina’s media interactions are hurting bilateral ties]]></title>
+            <description><![CDATA[By Kamal Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/hasinas-media-interactions-are-hurting-bilateral-ties-4243891</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/hasinas-media-interactions-are-hurting-bilateral-ties-4243891</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We need a road safety law built on 'forgiving roads']]></title>
@@ -146,14 +156,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/we-cannot-let-indigenous-midwifery-and-its-traditions-disappear-4243106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-cannot-let-indigenous-midwifery-and-its-traditions-disappear-4243106</guid>
             <dc:creator><![CDATA[Pavel Partha]]></dc:creator>
-            <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What research retractions reveal about our universities’ weaknesses]]></title>
-            <description><![CDATA[By Syed Saad Andaleeb]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-research-retractions-reveal-about-our-universities-weaknesses-4243116</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-research-retractions-reveal-about-our-universities-weaknesses-4243116</guid>
-            <dc:creator><![CDATA[Syed Saad Andaleeb]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
