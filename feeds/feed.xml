@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 06:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 08:13:55 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 06:11:23 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 08:13:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A new chance to fix urban primary healthcare in Bangladesh]]></title>
@@ -14,7 +14,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/new-chance-fix-urban-primary-healthcare-bangladesh-4246261</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-chance-fix-urban-primary-healthcare-bangladesh-4246261</guid>
             <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 06:11:23 GMT</pubDate>
+            <pubDate>Thu, 13 Aug 2026 08:13:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why small businesses remain invisible to traditional credit ratings]]></title>
@@ -22,7 +22,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-small-businesses-remain-invisible-traditional-credit-ratings-4246266</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-small-businesses-remain-invisible-traditional-credit-ratings-4246266</guid>
             <dc:creator><![CDATA[Md Rakibul Hasan]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 06:11:23 GMT</pubDate>
+            <pubDate>Thu, 13 Aug 2026 08:13:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Girls are winning the exam race but losing the career race]]></title>
@@ -30,7 +30,19 @@
             <link>https://www.thedailystar.net/opinion/views/news/girls-are-winning-the-exam-race-losing-the-career-race-4246271</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/girls-are-winning-the-exam-race-losing-the-career-race-4246271</guid>
             <dc:creator><![CDATA[Mst Asma Mahmud]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 06:11:23 GMT</pubDate>
+            <pubDate>Thu, 13 Aug 2026 08:13:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Time to scale up rooftop solar]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/time-scale-rooftop-solar-4246256</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/time-scale-rooftop-solar-4246256</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An epidemic that shouldn’t have occurred]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/epidemic-shouldnt-have-occurred-4246136</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/epidemic-shouldnt-have-occurred-4246136</guid>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh must bring AI to the factory floor]]></title>
@@ -39,12 +51,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/rmg-notes/news/bangladesh-must-bring-ai-the-factory-floor-4246276</guid>
             <dc:creator><![CDATA[Mostafiz Uddin]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An epidemic that shouldn’t have occurred]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/epidemic-shouldnt-have-occurred-4246136</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/epidemic-shouldnt-have-occurred-4246136</guid>
-            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What the UGC research funding debate is missing]]></title>
@@ -63,21 +69,7 @@
             <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[International Youth Day / Give young workers a seat at the decision-making table]]></title>
-            <description><![CDATA[By Max Tuñón]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/give-young-workers-seat-the-decision-making-table-4245626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/give-young-workers-seat-the-decision-making-table-4245626</guid>
-            <dc:creator><![CDATA[Max Tuñón]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Time to scale up rooftop solar]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/time-scale-rooftop-solar-4246256</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/time-scale-rooftop-solar-4246256</guid>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revive the population council urgently]]></title>
+            <title><![CDATA[Revive the National Population Council urgently]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/revive-the-population-council-urgently-4245606</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/revive-the-population-council-urgently-4245606</guid>
             <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
@@ -99,6 +91,20 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/go-after-wildlife-trafficking-ringleaders-4243876</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/go-after-wildlife-trafficking-ringleaders-4243876</guid>
             <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t rush fuel import privatisation]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/dont-rush-fuel-import-privatisation-4243676</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-rush-fuel-import-privatisation-4243676</guid>
+            <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SSC Results: When students fail in such numbers, we must rethink the system]]></title>
+            <description><![CDATA[By Md Mostafizur Rahaman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/ssc-results-when-students-fail-such-numbers-we-must-rethink-the-system-4245636</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ssc-results-when-students-fail-such-numbers-we-must-rethink-the-system-4245636</guid>
+            <dc:creator><![CDATA[Md Mostafizur Rahaman]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why does Biman keep fixing problems the hard way?]]></title>
@@ -147,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/trust-the-missing-link-bangla-qrs-success-4244856</guid>
             <dc:creator><![CDATA[Md Emdadul Haque]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hasina’s media interactions are hurting bilateral ties]]></title>
-            <description><![CDATA[By Kamal Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/hasinas-media-interactions-are-hurting-bilateral-ties-4243891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/hasinas-media-interactions-are-hurting-bilateral-ties-4243891</guid>
-            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
