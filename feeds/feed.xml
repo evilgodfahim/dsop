@@ -4,13 +4,28 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 01:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 04:03:57 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 01:20:18 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 04:03:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[A new chance to fix urban primary healthcare in Bangladesh]]></title>
+            <description><![CDATA[More than 40 percent Bangladeshis live in urban areas, 35 percent of whom reside in slums, according to the Bangladesh Bureau of Statistics’ 2022 census.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/new-chance-fix-urban-primary-healthcare-bangladesh-4246261</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-chance-fix-urban-primary-healthcare-bangladesh-4246261</guid>
+            <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 04:03:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Girls are winning the exam race but losing the career race]]></title>
+            <description><![CDATA[By Mst Asma Mahmud]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/girls-are-winning-the-exam-race-losing-the-career-race-4246271</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/girls-are-winning-the-exam-race-losing-the-career-race-4246271</guid>
+            <dc:creator><![CDATA[Mst Asma Mahmud]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 04:03:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[An epidemic that shouldn’t have occurred]]></title>
-            <description><![CDATA[Wrong decisions and negligence are to blame for the ongoing crisis.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/epidemic-shouldnt-have-occurred-4246136</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/epidemic-shouldnt-have-occurred-4246136</guid>
             <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
@@ -56,22 +71,6 @@
             <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI can transform our health system, but are we ready for it?]]></title>
-            <description><![CDATA[By Sumit Banik]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/ai-can-transform-our-health-system-are-we-ready-it-4245186</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ai-can-transform-our-health-system-are-we-ready-it-4245186</guid>
-            <dc:creator><![CDATA[Sumit Banik]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Bangladesh can make the most of its South Korea CEPA]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/how-bangladesh-can-make-the-most-its-south-korea-cepa-4244806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/how-bangladesh-can-make-the-most-its-south-korea-cepa-4244806</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Revive the population council urgently]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/revive-the-population-council-urgently-4245606</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/revive-the-population-council-urgently-4245606</guid>
@@ -100,6 +99,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-rush-fuel-import-privatisation-4243676</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-rush-fuel-import-privatisation-4243676</guid>
             <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Bangladesh can make the most of its South Korea CEPA]]></title>
+            <description><![CDATA[By Fahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/how-bangladesh-can-make-the-most-its-south-korea-cepa-4244806</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/how-bangladesh-can-make-the-most-its-south-korea-cepa-4244806</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop turning divorce into a social punishment for women]]></title>
+            <description><![CDATA[By Lina Dilruba Sharmin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/stop-turning-divorce-social-punishment-women-4244821</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/stop-turning-divorce-social-punishment-women-4244821</guid>
+            <dc:creator><![CDATA[Lina Dilruba Sharmin]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh's vaccine future depends on a world-class regulator]]></title>
@@ -140,22 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/think-again-opening-fuel-imports-private-companies-4243906</guid>
             <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protection or control? The politics of women’s residence halls]]></title>
-            <description><![CDATA[By Nuzia Hasin Rasha]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/protection-or-control-the-politics-womens-residence-halls-4243916</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/protection-or-control-the-politics-womens-residence-halls-4243916</guid>
-            <dc:creator><![CDATA[Nuzia Hasin Rasha]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A rosy narrative on decentralising school management is not helpful]]></title>
-            <description><![CDATA[By Manzoor Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/news/rosy-narrative-decentralising-school-management-not-helpful-4243091</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/rosy-narrative-decentralising-school-management-not-helpful-4243091</guid>
-            <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
-            <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
