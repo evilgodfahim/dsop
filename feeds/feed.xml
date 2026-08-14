@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 05:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 07:14:29 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 05:41:30 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 07:14:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Enforced disappearances must be investigated independently]]></title>
@@ -17,11 +17,27 @@
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bangladesh must confront its failing research culture]]></title>
+            <description><![CDATA[By Md. Noor Hamza Peash]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-confront-its-failing-research-culture-4247226</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-confront-its-failing-research-culture-4247226</guid>
+            <dc:creator><![CDATA[Md. Noor Hamza Peash]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Should essential services like fuel and electricity be left to private hands?]]></title>
             <description><![CDATA[By Sibbir AhmadAriful Islam Abir]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/should-essential-services-fuel-and-electricity-be-left-private-hands-4247251</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/should-essential-services-fuel-and-electricity-be-left-private-hands-4247251</guid>
             <dc:creator><![CDATA[Sibbir AhmadAriful Islam Abir]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The case for banning paraquat in Bangladesh]]></title>
+            <description><![CDATA[By Mohammad Tofazzal Hossain Howlader]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-case-banning-paraquat-bangladesh-4247256</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-case-banning-paraquat-bangladesh-4247256</guid>
+            <dc:creator><![CDATA[Mohammad Tofazzal Hossain Howlader]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -63,12 +79,6 @@
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Time to scale up rooftop solar]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/time-scale-rooftop-solar-4246256</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/time-scale-rooftop-solar-4246256</guid>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[An epidemic that shouldn’t have occurred]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/epidemic-shouldnt-have-occurred-4246136</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/epidemic-shouldnt-have-occurred-4246136</guid>
@@ -87,16 +97,10 @@
             <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Falling SSC pass rate tells only half the story]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/falling-ssc-pass-rate-tells-only-half-the-story-4244521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/falling-ssc-pass-rate-tells-only-half-the-story-4244521</guid>
-            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Go after wildlife trafficking ringleaders]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/go-after-wildlife-trafficking-ringleaders-4243876</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/go-after-wildlife-trafficking-ringleaders-4243876</guid>
-            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Time to scale up rooftop solar]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/time-scale-rooftop-solar-4246256</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/time-scale-rooftop-solar-4246256</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[International Youth Day / Give young workers a seat at the decision-making table]]></title>
