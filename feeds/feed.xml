@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 12:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 13:24:46 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 12:23:10 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 13:24:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Shipbreaking industry needs real oversight]]></title>
+            <description><![CDATA[Nine workers died due to suspected exposure to toxic gas.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/shipbreaking-industry-needs-real-oversight-4248256</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/shipbreaking-industry-needs-real-oversight-4248256</guid>
+            <pubDate>Sat, 15 Aug 2026 13:24:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Assassination of Sheikh Mujibur Rahman / The fault lines that set the stage for August 15]]></title>
-            <description><![CDATA[The question whether Mujib’s murder could have been avoided still remains.]]></description>
+            <description><![CDATA[By Mohiuddin Ahmad]]></description>
             <link>https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</guid>
             <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 12:23:10 GMT</pubDate>
+            <pubDate>Sat, 15 Aug 2026 13:24:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Research should be about pursuing knowledge, not publication numbers]]></title>
@@ -22,13 +29,13 @@
             <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/research-should-be-about-pursuing-knowledge-not-publication-numbers-4247791</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/research-should-be-about-pursuing-knowledge-not-publication-numbers-4247791</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 12:23:10 GMT</pubDate>
+            <pubDate>Sat, 15 Aug 2026 13:24:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How long must a school suffer?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/how-long-must-school-suffer-4247786</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-long-must-school-suffer-4247786</guid>
-            <pubDate>Sat, 15 Aug 2026 12:23:10 GMT</pubDate>
+            <pubDate>Sat, 15 Aug 2026 13:24:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh must redesign education for the age of AI]]></title>
@@ -36,7 +43,7 @@
             <link>https://www.thedailystar.net/opinion/news/bangladesh-must-redesign-education-the-age-ai-4247796</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladesh-must-redesign-education-the-age-ai-4247796</guid>
             <dc:creator><![CDATA[H. M. Sabbir Hossain]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 12:23:10 GMT</pubDate>
+            <pubDate>Sat, 15 Aug 2026 13:24:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In a democracy, RTI is an accountability tool]]></title>
@@ -44,7 +51,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/democracy-rti-accountability-tool-4247806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/democracy-rti-accountability-tool-4247806</guid>
             <dc:creator><![CDATA[Dr Shamsul BariRuhi Naz]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 12:23:10 GMT</pubDate>
+            <pubDate>Sat, 15 Aug 2026 13:24:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Battery-run rickshaws must be regulated]]></title>
@@ -58,14 +65,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</guid>
             <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh must confront its failing research culture]]></title>
-            <description><![CDATA[By Md. Noor Hamza Peash]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-confront-its-failing-research-culture-4247226</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-confront-its-failing-research-culture-4247226</guid>
-            <dc:creator><![CDATA[Md. Noor Hamza Peash]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -96,6 +95,14 @@
             <title><![CDATA[Time to scale up rooftop solar]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/time-scale-rooftop-solar-4246256</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/time-scale-rooftop-solar-4246256</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should essential services like fuel and electricity be left to private hands?]]></title>
+            <description><![CDATA[By Sibbir AhmadAriful Islam Abir]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/should-essential-services-fuel-and-electricity-be-left-private-hands-4247251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/should-essential-services-fuel-and-electricity-be-left-private-hands-4247251</guid>
+            <dc:creator><![CDATA[Sibbir AhmadAriful Islam Abir]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -144,14 +151,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</guid>
             <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[International Youth Day / Give young workers a seat at the decision-making table]]></title>
-            <description><![CDATA[By Max Tuñón]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/give-young-workers-seat-the-decision-making-table-4245626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/give-young-workers-seat-the-decision-making-table-4245626</guid>
-            <dc:creator><![CDATA[Max Tuñón]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
