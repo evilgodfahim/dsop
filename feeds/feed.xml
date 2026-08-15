@@ -4,33 +4,39 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 06:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 07:24:13 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 06:25:10 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 07:24:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Enforced disappearances must be investigated independently]]></title>
-            <description><![CDATA[After experiencing the tragedy of enforced disappearances, many countries have undertaken various legal and institutional reforms to prevent such crimes from recurring.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</guid>
-            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Assassination of Sheikh Mujibur Rahman / The fault lines that set the stage for August 15]]></title>
+            <description><![CDATA[The question whether Mujib’s murder could have been avoided still remains.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</guid>
+            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 07:24:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Research should be about pursuing knowledge, not publication numbers]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/research-should-be-about-pursuing-knowledge-not-publication-numbers-4247791</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/research-should-be-about-pursuing-knowledge-not-publication-numbers-4247791</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 07:24:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How long must a school suffer?]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/how-long-must-school-suffer-4247786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-long-must-school-suffer-4247786</guid>
+            <pubDate>Sat, 15 Aug 2026 07:24:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh must redesign education for the age of AI]]></title>
             <description><![CDATA[By H. M. Sabbir Hossain]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-redesign-education-the-age-ai-4247796</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-redesign-education-the-age-ai-4247796</guid>
+            <link>https://www.thedailystar.net/opinion/news/bangladesh-must-redesign-education-the-age-ai-4247796</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladesh-must-redesign-education-the-age-ai-4247796</guid>
             <dc:creator><![CDATA[H. M. Sabbir Hossain]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 06:25:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Assassination of Sheikh Mujibur Rahman / The fault lines that set the stage for August 15]]></title>
-            <description><![CDATA[By Mohiuddin Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-fault-lines-set-the-stage-august-15-4247801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-fault-lines-set-the-stage-august-15-4247801</guid>
-            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 06:25:10 GMT</pubDate>
+            <pubDate>Sat, 15 Aug 2026 07:24:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In a democracy, RTI is an accountability tool]]></title>
@@ -38,7 +44,21 @@
             <link>https://www.thedailystar.net/opinion/views/news/democracy-rti-accountability-tool-4247806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/democracy-rti-accountability-tool-4247806</guid>
             <dc:creator><![CDATA[Dr Shamsul BariRuhi Naz]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 06:25:10 GMT</pubDate>
+            <pubDate>Sat, 15 Aug 2026 07:24:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Battery-run rickshaws must be regulated]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/battery-run-rickshaws-must-be-regulated-4003156</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/battery-run-rickshaws-must-be-regulated-4003156</guid>
+            <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enforced disappearances must be investigated independently]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh must confront its failing research culture]]></title>
@@ -47,28 +67,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-confront-its-failing-research-culture-4247226</guid>
             <dc:creator><![CDATA[Md. Noor Hamza Peash]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should essential services like fuel and electricity be left to private hands?]]></title>
-            <description><![CDATA[By Sibbir AhmadAriful Islam Abir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/should-essential-services-fuel-and-electricity-be-left-private-hands-4247251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/should-essential-services-fuel-and-electricity-be-left-private-hands-4247251</guid>
-            <dc:creator><![CDATA[Sibbir AhmadAriful Islam Abir]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The case for banning paraquat in Bangladesh]]></title>
-            <description><![CDATA[By Mohammad Tofazzal Hossain Howlader]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-case-banning-paraquat-bangladesh-4247256</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-case-banning-paraquat-bangladesh-4247256</guid>
-            <dc:creator><![CDATA[Mohammad Tofazzal Hossain Howlader]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How long must a school suffer?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/how-long-must-school-suffer-4247786</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-long-must-school-suffer-4247786</guid>
-            <pubDate>Sat, 15 Aug 2026 06:25:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keep politics out of public institutions]]></title>
@@ -98,6 +96,22 @@
             <title><![CDATA[Time to scale up rooftop solar]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/time-scale-rooftop-solar-4246256</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/time-scale-rooftop-solar-4246256</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The case for banning paraquat in Bangladesh]]></title>
+            <description><![CDATA[By Mohammad Tofazzal Hossain Howlader]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-case-banning-paraquat-bangladesh-4247256</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-case-banning-paraquat-bangladesh-4247256</guid>
+            <dc:creator><![CDATA[Mohammad Tofazzal Hossain Howlader]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are you aware of the hidden cost of writing on banknotes?]]></title>
+            <description><![CDATA[By A S M Rafad AsgarSamira Tasnim]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/are-you-aware-the-hidden-cost-writing-banknotes-4246826</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/are-you-aware-the-hidden-cost-writing-banknotes-4246826</guid>
+            <dc:creator><![CDATA[A S M Rafad AsgarSamira Tasnim]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -138,22 +152,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/give-young-workers-seat-the-decision-making-table-4245626</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/give-young-workers-seat-the-decision-making-table-4245626</guid>
             <dc:creator><![CDATA[Max Tuñón]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh must bring AI to the factory floor]]></title>
-            <description><![CDATA[By Mostafiz Uddin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/rmg-notes/news/bangladesh-must-bring-ai-the-factory-floor-4246276</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/rmg-notes/news/bangladesh-must-bring-ai-the-factory-floor-4246276</guid>
-            <dc:creator><![CDATA[Mostafiz Uddin]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SSC Results: When students fail in such numbers, we must rethink the system]]></title>
-            <description><![CDATA[By Md Mostafizur Rahaman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/ssc-results-when-students-fail-such-numbers-we-must-rethink-the-system-4245636</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ssc-results-when-students-fail-such-numbers-we-must-rethink-the-system-4245636</guid>
-            <dc:creator><![CDATA[Md Mostafizur Rahaman]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
