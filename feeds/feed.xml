@@ -4,17 +4,25 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 07:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 08:20:00 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 07:25:10 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 08:20:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[A presidential election, or another coronation?]]></title>
+            <description><![CDATA[On August 20, for only the second time in our history, parliamentarians will have the opportunity to elect the president of the republic.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/presidential-election-or-another-coronation-4248451</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/presidential-election-or-another-coronation-4248451</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 08:20:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[If shipbreaking is regulated, why are workers still dying?]]></title>
-            <description><![CDATA[On Friday, August 14, nine workers died after suspected toxic gas exposure at the shipbreaking yard of Ferdous Steel Ship Recycling Industries at Bhatiari in Chattogram’s Sitakunda upazila.]]></description>
+            <description><![CDATA[By Mst Asma Mahmud]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/if-shipbreaking-regulated-why-are-workers-still-dying-4248441</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/if-shipbreaking-regulated-why-are-workers-still-dying-4248441</guid>
             <dc:creator><![CDATA[Mst Asma Mahmud]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 07:25:10 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 08:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[University reform cannot always wait for more money or new laws]]></title>
@@ -22,7 +30,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/university-reform-cannot-always-wait-more-money-or-new-laws-4248446</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/university-reform-cannot-always-wait-more-money-or-new-laws-4248446</guid>
             <dc:creator><![CDATA[Mo HoqueAshraf Dewan]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 07:25:10 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 08:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Women stood up to power in Bangladesh and India. Then patriarchy returned]]></title>
@@ -30,7 +38,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/women-stood-power-bangladesh-and-india-then-patriarchy-returned-4248461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/women-stood-power-bangladesh-and-india-then-patriarchy-returned-4248461</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 07:25:10 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 08:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Institutional failure is depleting our forests]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/institutional-failure-depleting-our-forests-4248436</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/institutional-failure-depleting-our-forests-4248436</guid>
+            <pubDate>Sun, 16 Aug 2026 08:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shipbreaking industry needs real oversight]]></title>
@@ -61,12 +75,6 @@
             <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Institutional failure is depleting our forests]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/institutional-failure-depleting-our-forests-4248436</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/institutional-failure-depleting-our-forests-4248436</guid>
-            <pubDate>Sun, 16 Aug 2026 07:25:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Battery-run rickshaws must be regulated]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/battery-run-rickshaws-must-be-regulated-4003156</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/battery-run-rickshaws-must-be-regulated-4003156</guid>
@@ -89,12 +97,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/revive-the-population-council-urgently-4245606</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/revive-the-population-council-urgently-4245606</guid>
             <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fertiliser shortages demand urgent action]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/fertiliser-shortages-demand-urgent-action-4244796</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fertiliser-shortages-demand-urgent-action-4244796</guid>
-            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh must redesign education for the age of AI]]></title>
