@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 12:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 13:25:17 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 12:24:39 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 13:25:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Create conditions for safe return of Rohingya]]></title>
+            <description><![CDATA[Myanmar must fix its questionable verification process.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/create-conditions-safe-return-rohingya-4249091</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/create-conditions-safe-return-rohingya-4249091</guid>
+            <pubDate>Sun, 16 Aug 2026 13:25:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A presidential election, or another coronation?]]></title>
-            <description><![CDATA[On August 20, for only the second time in our history, parliamentarians will have the opportunity to elect the president of the republic.]]></description>
+            <description><![CDATA[By Kamal Ahmed]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/presidential-election-or-another-coronation-4248451</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/presidential-election-or-another-coronation-4248451</guid>
             <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 12:24:39 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 13:25:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[If shipbreaking is regulated, why are workers still dying?]]></title>
@@ -22,7 +29,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/if-shipbreaking-regulated-why-are-workers-still-dying-4248441</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/if-shipbreaking-regulated-why-are-workers-still-dying-4248441</guid>
             <dc:creator><![CDATA[Mst Asma Mahmud]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 12:24:39 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 13:25:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[University reform cannot always wait for more money or new laws]]></title>
@@ -30,7 +37,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/university-reform-cannot-always-wait-more-money-or-new-laws-4248446</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/university-reform-cannot-always-wait-more-money-or-new-laws-4248446</guid>
             <dc:creator><![CDATA[Mo HoqueAshraf Dewan]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 12:24:39 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 13:25:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Women stood up to power in Bangladesh and India. Then patriarchy returned]]></title>
@@ -38,13 +45,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/women-stood-power-bangladesh-and-india-then-patriarchy-returned-4248461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/women-stood-power-bangladesh-and-india-then-patriarchy-returned-4248461</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 12:24:39 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 13:25:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Institutional failure is depleting our forests]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/institutional-failure-depleting-our-forests-4248436</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/institutional-failure-depleting-our-forests-4248436</guid>
-            <pubDate>Sun, 16 Aug 2026 12:24:39 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 13:25:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shipbreaking industry needs real oversight]]></title>
@@ -58,14 +65,6 @@
             <link>https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</guid>
             <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Research should be about pursuing knowledge, not publication numbers]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/research-should-be-about-pursuing-knowledge-not-publication-numbers-4247791</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/research-should-be-about-pursuing-knowledge-not-publication-numbers-4247791</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -97,6 +96,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/revive-the-population-council-urgently-4245606</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/revive-the-population-council-urgently-4245606</guid>
             <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enforced disappearances must be investigated independently]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh must redesign education for the age of AI]]></title>
@@ -144,14 +151,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/are-you-aware-the-hidden-cost-writing-banknotes-4246826</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/are-you-aware-the-hidden-cost-writing-banknotes-4246826</guid>
             <dc:creator><![CDATA[A S M Rafad AsgarSamira Tasnim]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new chance to fix urban primary healthcare in Bangladesh]]></title>
-            <description><![CDATA[By Rumana Huque]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/new-chance-fix-urban-primary-healthcare-bangladesh-4246261</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-chance-fix-urban-primary-healthcare-bangladesh-4246261</guid>
-            <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
