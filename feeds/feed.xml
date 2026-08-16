@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 02:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 03:41:45 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 02:17:52 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 03:41:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[If shipbreaking is regulated, why are workers still dying?]]></title>
+            <description><![CDATA[On Friday, August 14, nine workers died after suspected toxic gas exposure at the shipbreaking yard of Ferdous Steel Ship Recycling Industries at Bhatiari in Chattogram’s Sitakunda upazila.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/if-shipbreaking-regulated-why-are-workers-still-dying-4248441</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/if-shipbreaking-regulated-why-are-workers-still-dying-4248441</guid>
+            <dc:creator><![CDATA[Mst Asma Mahmud]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 03:41:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Shipbreaking industry needs real oversight]]></title>
-            <description><![CDATA[Nine workers died due to suspected exposure to toxic gas.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/shipbreaking-industry-needs-real-oversight-4248256</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/shipbreaking-industry-needs-real-oversight-4248256</guid>
             <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
@@ -60,14 +67,6 @@
             <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Enforced disappearances must be investigated independently]]></title>
-            <description><![CDATA[By Kallol Mustafa]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</guid>
-            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Keep politics out of public institutions]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/keep-politics-out-public-institutions-4247206</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/keep-politics-out-public-institutions-4247206</guid>
@@ -95,6 +94,14 @@
             <title><![CDATA[Time to scale up rooftop solar]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/time-scale-rooftop-solar-4246256</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/time-scale-rooftop-solar-4246256</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh must confront its failing research culture]]></title>
+            <description><![CDATA[By Md. Noor Hamza Peash]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-confront-its-failing-research-culture-4247226</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-confront-its-failing-research-culture-4247226</guid>
+            <dc:creator><![CDATA[Md. Noor Hamza Peash]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -144,14 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/girls-are-winning-the-exam-race-losing-the-career-race-4246271</guid>
             <dc:creator><![CDATA[Mst Asma Mahmud]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What a historic ADP low tells us about our development governance]]></title>
-            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</guid>
-            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
