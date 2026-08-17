@@ -4,16 +4,23 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 00:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 02:16:01 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 00:51:57 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 02:16:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Bangladesh needs a medicine policy that serves both patients and producers]]></title>
+            <description><![CDATA[Essential medicine list and pricing are two important policy issues directly linked to people’s health, lives, and financial security.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-medicine-policy-serves-both-patients-and-producers-4249251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-medicine-policy-serves-both-patients-and-producers-4249251</guid>
+            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 02:16:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Create conditions for safe return of Rohingya]]></title>
-            <description><![CDATA[Myanmar must fix its questionable verification process.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/create-conditions-safe-return-rohingya-4249091</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/create-conditions-safe-return-rohingya-4249091</guid>
-            <pubDate>Mon, 17 Aug 2026 00:51:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A presidential election, or another coronation?]]></title>
@@ -60,14 +67,6 @@
             <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Assassination of Sheikh Mujibur Rahman / The fault lines that set the stage for August 15]]></title>
-            <description><![CDATA[By Mohiuddin Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</guid>
-            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How long must a school suffer?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/how-long-must-school-suffer-4247786</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-long-must-school-suffer-4247786</guid>
@@ -96,6 +95,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/revive-the-population-council-urgently-4245606</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/revive-the-population-council-urgently-4245606</guid>
             <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Research should be about pursuing knowledge, not publication numbers]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/research-should-be-about-pursuing-knowledge-not-publication-numbers-4247791</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/research-should-be-about-pursuing-knowledge-not-publication-numbers-4247791</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Enforced disappearances must be investigated independently]]></title>
@@ -143,14 +150,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-case-banning-paraquat-bangladesh-4247256</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-case-banning-paraquat-bangladesh-4247256</guid>
             <dc:creator><![CDATA[Mohammad Tofazzal Hossain Howlader]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are you aware of the hidden cost of writing on banknotes?]]></title>
-            <description><![CDATA[By A S M Rafad AsgarSamira Tasnim]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/are-you-aware-the-hidden-cost-writing-banknotes-4246826</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/are-you-aware-the-hidden-cost-writing-banknotes-4246826</guid>
-            <dc:creator><![CDATA[A S M Rafad AsgarSamira Tasnim]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
