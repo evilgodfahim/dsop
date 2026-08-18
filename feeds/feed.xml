@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 04:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 05:21:50 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 04:28:08 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 05:21:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Six months of BNP rule: Has the economy turned a corner?]]></title>
@@ -14,7 +14,7 @@
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/six-months-bnp-rule-has-the-economy-turned-corner-4250131</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/six-months-bnp-rule-has-the-economy-turned-corner-4250131</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 04:28:08 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2026 05:21:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The old way of fighting dengue isn't working. We need a smarter strategy]]></title>
@@ -22,7 +22,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-old-way-fighting-dengue-isnt-working-we-need-smarter-strategy-4250176</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-old-way-fighting-dengue-isnt-working-we-need-smarter-strategy-4250176</guid>
             <dc:creator><![CDATA[Sayem Mohammad]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 04:28:08 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2026 05:21:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Darwin victory should change how Test cricket sees Bangladesh]]></title>
@@ -30,7 +30,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/darwin-victory-should-change-how-test-cricket-sees-bangladesh-4250196</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/darwin-victory-should-change-how-test-cricket-sees-bangladesh-4250196</guid>
             <dc:creator><![CDATA[Atique Anam]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 04:28:08 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2026 05:21:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[To make doing business easier, simplify procedures before digitalising them]]></title>
@@ -63,12 +63,10 @@
             <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sitakunda tragedy calls for a redesign of the ship recycling industry]]></title>
-            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/sitakunda-tragedy-calls-redesign-the-ship-recycling-industry-4249261</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/sitakunda-tragedy-calls-redesign-the-ship-recycling-industry-4249261</guid>
-            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Unfinished bridges must be fixed first]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/unfinished-bridges-must-be-fixed-first-4250111</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/unfinished-bridges-must-be-fixed-first-4250111</guid>
+            <pubDate>Tue, 18 Aug 2026 05:21:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why this disregard for migrant deaths?]]></title>
@@ -99,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/how-long-must-school-suffer-4247786</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-long-must-school-suffer-4247786</guid>
             <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sitakunda tragedy calls for a redesign of the ship recycling industry]]></title>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/sitakunda-tragedy-calls-redesign-the-ship-recycling-industry-4249261</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/sitakunda-tragedy-calls-redesign-the-ship-recycling-industry-4249261</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[If shipbreaking is regulated, why are workers still dying?]]></title>
@@ -147,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/research-should-be-about-pursuing-knowledge-not-publication-numbers-4247791</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enforced disappearances must be investigated independently]]></title>
-            <description><![CDATA[By Kallol Mustafa]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</guid>
-            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,9 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 04:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 05:21:52 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 04:28:11 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 05:21:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Science investigation casts doubt on genes hailed for warding off Alzheimer’s disease]]></title>
@@ -27,6 +27,13 @@
             <description><![CDATA[Memories leave lasting physical changes at the synaptic level. Although stable, larger spines are thought to support memory, the high turnover of dendritic spines and the drifting of neuronal representations after memory formation suggest alternative ...]]></description>
             <link>https://www.science.org/doi/10.1126/science.aee7004</link>
             <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aee7004</guid>
+            <pubDate>Thu, 13 Aug 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chemovaccination with a late-liver-stage antimalarial induces durable immunity against malaria | Science]]></title>
+            <description><![CDATA[Plasmodium falciparum sporozoite vaccines, in which parasites are attenuated at the liver stage, provide high efficacy but require complex manufacture and intravenous administration of high sporozoite doses. We found that a single low-dose P. berghei ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aea7605</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea7605</guid>
             <pubDate>Thu, 13 Aug 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
