@@ -4,17 +4,25 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 09:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 10:20:08 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 09:24:42 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 10:20:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Why power corrupts, and how to keep it in check]]></title>
+            <description><![CDATA[Lord Acton's warning, "Power tends to corrupt, and absolute power corrupts absolutely,” has been quoted so often that it has lost its edge.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-power-corrupts-and-how-keep-it-check-4250656</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-power-corrupts-and-how-keep-it-check-4250656</guid>
+            <dc:creator><![CDATA[Hussain A Samad]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 10:20:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Six months of BNP rule: Has the economy turned a corner?]]></title>
-            <description><![CDATA[It’s been six months since the BNP-led government took office after winning the national election on February 12, right in the middle of high inflation, weak revenue mobilisation, banking sector weaknesses, stagnant private investment, an employment crisis, and a vulnerable energy sector.]]></description>
+            <description><![CDATA[By Fahmida Khatun]]></description>
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/six-months-bnp-rule-has-the-economy-turned-corner-4250131</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/six-months-bnp-rule-has-the-economy-turned-corner-4250131</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 09:24:42 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2026 10:20:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The elderly deserve a chance to remain productive]]></title>
@@ -22,7 +30,7 @@
             <link>https://www.thedailystar.net/opinion/news/the-elderly-deserve-chance-remain-productive-4250166</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-elderly-deserve-chance-remain-productive-4250166</guid>
             <dc:creator><![CDATA[Tasnuma AkterJahin Siddiqui]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 09:24:42 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2026 10:20:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Darwin victory should change how Test cricket sees Bangladesh]]></title>
@@ -30,7 +38,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/darwin-victory-should-change-how-test-cricket-sees-bangladesh-4250196</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/darwin-victory-should-change-how-test-cricket-sees-bangladesh-4250196</guid>
             <dc:creator><![CDATA[Atique Anam]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 09:24:42 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2026 10:20:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The old way of fighting dengue isn't working. We need a smarter strategy]]></title>
@@ -38,7 +46,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-old-way-fighting-dengue-isnt-working-we-need-smarter-strategy-4250176</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-old-way-fighting-dengue-isnt-working-we-need-smarter-strategy-4250176</guid>
             <dc:creator><![CDATA[Sayem Mohammad]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 09:24:42 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2026 10:20:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[To make doing business easier, simplify procedures before digitalising them]]></title>
@@ -63,18 +71,10 @@
             <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Will AI close Bangladesh's productivity gap, or widen it?]]></title>
-            <description><![CDATA[By Saba El Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/news/will-ai-close-bangladeshs-productivity-gap-or-widen-it-4249256</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/will-ai-close-bangladeshs-productivity-gap-or-widen-it-4249256</guid>
-            <dc:creator><![CDATA[Saba El Kabir]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Unfinished bridges must be fixed first]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/unfinished-bridges-must-be-fixed-first-4250111</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/unfinished-bridges-must-be-fixed-first-4250111</guid>
-            <pubDate>Tue, 18 Aug 2026 09:24:42 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2026 10:20:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why this disregard for migrant deaths?]]></title>
@@ -99,6 +99,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/shipbreaking-industry-needs-real-oversight-4248256</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/shipbreaking-industry-needs-real-oversight-4248256</guid>
             <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A presidential election, or another coronation?]]></title>
+            <description><![CDATA[By Kamal Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/presidential-election-or-another-coronation-4248451</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/presidential-election-or-another-coronation-4248451</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sitakunda tragedy calls for a redesign of the ship recycling industry]]></title>
@@ -146,14 +154,6 @@
             <link>https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</guid>
             <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Research should be about pursuing knowledge, not publication numbers]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/research-should-be-about-pursuing-knowledge-not-publication-numbers-4247791</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/research-should-be-about-pursuing-knowledge-not-publication-numbers-4247791</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
