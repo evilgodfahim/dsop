@@ -4,13 +4,29 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 02:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 03:38:14 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 02:11:33 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 03:38:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Six months of BNP rule: Has the economy turned a corner?]]></title>
+            <description><![CDATA[It’s been six months since the BNP-led government took office after winning the national election on February 12, right in the middle of high inflation, weak revenue mobilisation, banking sector weaknesses, stagnant private investment, an employment crisis, and a vulnerable energy sector.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/six-months-bnp-rule-has-the-economy-turned-corner-4250131</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/six-months-bnp-rule-has-the-economy-turned-corner-4250131</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 03:38:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The old way of fighting dengue isn't working. We need a smarter strategy]]></title>
+            <description><![CDATA[By Sayem Mohammad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-old-way-fighting-dengue-isnt-working-we-need-smarter-strategy-4250176</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-old-way-fighting-dengue-isnt-working-we-need-smarter-strategy-4250176</guid>
+            <dc:creator><![CDATA[Sayem Mohammad]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 03:38:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[To make doing business easier, simplify procedures before digitalising them]]></title>
-            <description><![CDATA[Unnecessarily complex administrative procedures can discourage entrepreneurship, drive away investment, and deprive Bangladesh of valuable employment, exports, and economic growth.]]></description>
+            <description><![CDATA[By Saifur Rahman]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/make-doing-business-easier-simplify-procedures-digitalising-them-4249761</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/make-doing-business-easier-simplify-procedures-digitalising-them-4249761</guid>
             <dc:creator><![CDATA[Saifur Rahman]]></dc:creator>
@@ -53,22 +69,6 @@
             <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A democratic Bangladesh must make room for competing memories]]></title>
-            <description><![CDATA[By Anas Ansar]]></description>
-            <link>https://www.thedailystar.net/opinion/news/democratic-bangladesh-must-make-room-competing-memories-4249266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/democratic-bangladesh-must-make-room-competing-memories-4249266</guid>
-            <dc:creator><![CDATA[Anas Ansar]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A presidential election, or another coronation?]]></title>
-            <description><![CDATA[By Kamal Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/presidential-election-or-another-coronation-4248451</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/presidential-election-or-another-coronation-4248451</guid>
-            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why this disregard for migrant deaths?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/why-disregard-migrant-deaths-4249921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-disregard-migrant-deaths-4249921</guid>
@@ -97,6 +97,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/battery-run-rickshaws-must-be-regulated-4003156</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/battery-run-rickshaws-must-be-regulated-4003156</guid>
             <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[If shipbreaking is regulated, why are workers still dying?]]></title>
+            <description><![CDATA[By Mst Asma Mahmud]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/if-shipbreaking-regulated-why-are-workers-still-dying-4248441</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/if-shipbreaking-regulated-why-are-workers-still-dying-4248441</guid>
+            <dc:creator><![CDATA[Mst Asma Mahmud]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A democratic Bangladesh must make room for competing memories]]></title>
+            <description><![CDATA[By Anas Ansar]]></description>
+            <link>https://www.thedailystar.net/opinion/news/democratic-bangladesh-must-make-room-competing-memories-4249266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/democratic-bangladesh-must-make-room-competing-memories-4249266</guid>
+            <dc:creator><![CDATA[Anas Ansar]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[University reform cannot always wait for more money or new laws]]></title>
@@ -137,22 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</guid>
             <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh must redesign education for the age of AI]]></title>
-            <description><![CDATA[By H. M. Sabbir Hossain]]></description>
-            <link>https://www.thedailystar.net/opinion/news/bangladesh-must-redesign-education-the-age-ai-4247796</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladesh-must-redesign-education-the-age-ai-4247796</guid>
-            <dc:creator><![CDATA[H. M. Sabbir Hossain]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In a democracy, RTI is an accountability tool]]></title>
-            <description><![CDATA[By Dr Shamsul BariRuhi Naz]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/democracy-rti-accountability-tool-4247806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/democracy-rti-accountability-tool-4247806</guid>
-            <dc:creator><![CDATA[Dr Shamsul BariRuhi Naz]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
