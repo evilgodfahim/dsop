@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 02:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 03:39:59 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 02:13:14 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 03:39:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[SATIRE / The National Human Rights Commission and other decorative objects]]></title>
@@ -15,6 +15,14 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-sound-and-the-fury/news/the-national-human-rights-commission-and-other-decorative-objects-4251041</guid>
             <dc:creator><![CDATA[Sushmita S Preetha]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our demographic challenges demand a functioning population council]]></title>
+            <description><![CDATA[By Md Nuruzzaman Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/our-demographic-challenges-demand-functioning-population-council-4251901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-demographic-challenges-demand-functioning-population-council-4251901</guid>
+            <dc:creator><![CDATA[Md Nuruzzaman Khan]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 03:39:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We must adopt an area-based population strategy]]></title>
@@ -63,14 +71,6 @@
             <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The elderly deserve a chance to remain productive]]></title>
-            <description><![CDATA[By Tasnuma AkterJahin Siddiqui]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-elderly-deserve-chance-remain-productive-4250166</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-elderly-deserve-chance-remain-productive-4250166</guid>
-            <dc:creator><![CDATA[Tasnuma AkterJahin Siddiqui]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Overcrowded prisons need urgent attention]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/overcrowded-prisons-need-urgent-attention-4251681</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/overcrowded-prisons-need-urgent-attention-4251681</guid>
@@ -99,6 +99,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/phantom-exports-must-not-be-ignored-4249246</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/phantom-exports-must-not-be-ignored-4249246</guid>
             <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The elderly deserve a chance to remain productive]]></title>
+            <description><![CDATA[By Tasnuma AkterJahin Siddiqui]]></description>
+            <link>https://www.thedailystar.net/opinion/news/the-elderly-deserve-chance-remain-productive-4250166</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-elderly-deserve-chance-remain-productive-4250166</guid>
+            <dc:creator><![CDATA[Tasnuma AkterJahin Siddiqui]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The old way of fighting dengue isn't working. We need a smarter strategy]]></title>
@@ -147,14 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/sitakunda-tragedy-calls-redesign-the-ship-recycling-industry-4249261</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If shipbreaking is regulated, why are workers still dying?]]></title>
-            <description><![CDATA[By Mst Asma Mahmud]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/if-shipbreaking-regulated-why-are-workers-still-dying-4248441</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/if-shipbreaking-regulated-why-are-workers-still-dying-4248441</guid>
-            <dc:creator><![CDATA[Mst Asma Mahmud]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
