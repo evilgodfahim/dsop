@@ -4,16 +4,23 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 11:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 12:33:31 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 11:19:45 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 12:33:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Are we ready for a ‘post-American’ West Asia?]]></title>
+            <description><![CDATA[Changes in Gulf security can quickly reach Bangladeshi households through remittances, employment, energy prices, shipping costs, and inflation.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/are-we-ready-post-american-west-asia-4252541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/are-we-ready-post-american-west-asia-4252541</guid>
+            <dc:creator><![CDATA[Hamidur Rashid Jamil]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 12:33:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Law and order still a major concern]]></title>
-            <description><![CDATA[Govt must strengthen policing and restore public trust]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/law-and-order-still-major-concern-4251861</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/law-and-order-still-major-concern-4251861</guid>
-            <pubDate>Thu, 20 Aug 2026 11:19:45 GMT</pubDate>
+            <pubDate>Thu, 20 Aug 2026 12:33:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Green certification alone cannot guarantee safe ship recycling]]></title>
@@ -21,7 +28,7 @@
             <link>https://www.thedailystar.net/opinion/news/green-certification-alone-cannot-guarantee-safe-ship-recycling-4251871</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/green-certification-alone-cannot-guarantee-safe-ship-recycling-4251871</guid>
             <dc:creator><![CDATA[Muhammed Ali Shahin]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 11:19:45 GMT</pubDate>
+            <pubDate>Thu, 20 Aug 2026 12:33:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We need to rethink how political parties are funded]]></title>
@@ -29,7 +36,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/we-need-rethink-how-political-parties-are-funded-4251891</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-rethink-how-political-parties-are-funded-4251891</guid>
             <dc:creator><![CDATA[Muhtasim M. Musanna]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 11:19:45 GMT</pubDate>
+            <pubDate>Thu, 20 Aug 2026 12:33:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Our demographic challenges demand a functioning population council]]></title>
@@ -37,7 +44,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/our-demographic-challenges-demand-functioning-population-council-4251901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-demographic-challenges-demand-functioning-population-council-4251901</guid>
             <dc:creator><![CDATA[Md Nuruzzaman Khan]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 11:19:45 GMT</pubDate>
+            <pubDate>Thu, 20 Aug 2026 12:33:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What happens to the buses that are not pink?]]></title>
@@ -61,14 +68,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/we-must-adopt-area-based-population-strategy-4251021</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-adopt-area-based-population-strategy-4251021</guid>
             <dc:creator><![CDATA[Nawshad Ahmed]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What indigenous communities can teach us about water]]></title>
-            <description><![CDATA[By Nazmun Naher]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-indigenous-communities-can-teach-us-about-water-4251031</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-indigenous-communities-can-teach-us-about-water-4251031</guid>
-            <dc:creator><![CDATA[Nazmun Naher]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -100,6 +99,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/why-disregard-migrant-deaths-4249921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-disregard-migrant-deaths-4249921</guid>
             <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why does neutral conduct still elude the police?]]></title>
+            <description><![CDATA[By Kazi Ahnaf Tahmid]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-does-neutral-conduct-still-elude-the-police-4251061</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-does-neutral-conduct-still-elude-the-police-4251061</guid>
+            <dc:creator><![CDATA[Kazi Ahnaf Tahmid]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why power corrupts, and how to keep it in check]]></title>
@@ -147,14 +154,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/make-doing-business-easier-simplify-procedures-digitalising-them-4249761</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/make-doing-business-easier-simplify-procedures-digitalising-them-4249761</guid>
             <dc:creator><![CDATA[Saifur Rahman]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh needs a medicine policy that serves both patients and producers]]></title>
-            <description><![CDATA[By Syed Abdul Hamid]]></description>
-            <link>https://www.thedailystar.net/opinion/news/bangladesh-needs-medicine-policy-serves-both-patients-and-producers-4249251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladesh-needs-medicine-policy-serves-both-patients-and-producers-4249251</guid>
-            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
