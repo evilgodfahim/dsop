@@ -4,17 +4,25 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 17:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 18:28:30 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 17:21:44 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 18:28:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Column by Mahfuz Anam /  Expectations from BNP’s next secretary general]]></title>
+            <description><![CDATA[Congratulations to Mirza Fakhrul Islam Alamgir for being elected president of Bangladesh. We believe he will restore to the post much of the dignity that was eroded by the former one.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/expectations-bnps-next-secretary-general-4252976</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/expectations-bnps-next-secretary-general-4252976</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 18:28:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Are we ready for a ‘post-American’ West Asia?]]></title>
-            <description><![CDATA[Changes in Gulf security can quickly reach Bangladeshi households through remittances, employment, energy prices, shipping costs, and inflation.]]></description>
+            <description><![CDATA[By Hamidur Rashid Jamil]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/are-we-ready-post-american-west-asia-4252541</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/are-we-ready-post-american-west-asia-4252541</guid>
             <dc:creator><![CDATA[Hamidur Rashid Jamil]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 17:21:44 GMT</pubDate>
+            <pubDate>Thu, 20 Aug 2026 18:28:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Law and order still a major concern]]></title>
@@ -36,7 +44,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/we-need-rethink-how-political-parties-are-funded-4251891</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-rethink-how-political-parties-are-funded-4251891</guid>
             <dc:creator><![CDATA[Muhtasim M. Musanna]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 17:21:44 GMT</pubDate>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Our demographic challenges demand a functioning population council]]></title>
@@ -60,14 +68,6 @@
             <link>https://www.thedailystar.net/opinion/views/the-sound-and-the-fury/news/the-national-human-rights-commission-and-other-decorative-objects-4251041</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-sound-and-the-fury/news/the-national-human-rights-commission-and-other-decorative-objects-4251041</guid>
             <dc:creator><![CDATA[Sushmita S Preetha]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We must adopt an area-based population strategy]]></title>
-            <description><![CDATA[By Nawshad Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-must-adopt-area-based-population-strategy-4251021</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-adopt-area-based-population-strategy-4251021</guid>
-            <dc:creator><![CDATA[Nawshad Ahmed]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -99,6 +99,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/why-disregard-migrant-deaths-4249921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-disregard-migrant-deaths-4249921</guid>
             <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What indigenous communities can teach us about water]]></title>
+            <description><![CDATA[By Nazmun Naher]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-indigenous-communities-can-teach-us-about-water-4251031</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-indigenous-communities-can-teach-us-about-water-4251031</guid>
+            <dc:creator><![CDATA[Nazmun Naher]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why does neutral conduct still elude the police?]]></title>
@@ -147,14 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-old-way-fighting-dengue-isnt-working-we-need-smarter-strategy-4250176</guid>
             <dc:creator><![CDATA[Sayem Mohammad]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To make doing business easier, simplify procedures before digitalising them]]></title>
-            <description><![CDATA[By Saifur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/make-doing-business-easier-simplify-procedures-digitalising-them-4249761</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/make-doing-business-easier-simplify-procedures-digitalising-them-4249761</guid>
-            <dc:creator><![CDATA[Saifur Rahman]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
