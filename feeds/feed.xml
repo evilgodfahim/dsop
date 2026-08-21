@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 10:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 11:18:50 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 10:22:09 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 11:18:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[A fitting honour for Mirza Fakhrul]]></title>
+            <description><![CDATA[The government must implement promised reforms, letting the new president become more than a figurehead.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fitting-honour-mirza-fakhrul-4253361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fitting-honour-mirza-fakhrul-4253361</guid>
+            <pubDate>Fri, 21 Aug 2026 11:18:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Column by Mahfuz Anam /  Expectations from BNP’s next secretary general]]></title>
-            <description><![CDATA[Congratulations to Mirza Fakhrul Islam Alamgir for being elected president of Bangladesh. We believe he will restore to the post much of the dignity that was eroded by the former one.]]></description>
+            <description><![CDATA[By Mahfuz Anam]]></description>
             <link>https://www.thedailystar.net/opinion/views/the-third-view/news/expectations-bnps-next-secretary-general-4252976</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/expectations-bnps-next-secretary-general-4252976</guid>
             <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
@@ -30,7 +37,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/what-bangladeshs-golden-fibre-needs-become-climate-era-export-4253036</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-bangladeshs-golden-fibre-needs-become-climate-era-export-4253036</guid>
             <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 10:22:09 GMT</pubDate>
+            <pubDate>Fri, 21 Aug 2026 11:18:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Better infrastructure, not another authority, can unlock our carbon economy]]></title>
@@ -38,7 +45,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/better-infrastructure-not-another-authority-can-unlock-our-carbon-economy-4253066</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/better-infrastructure-not-another-authority-can-unlock-our-carbon-economy-4253066</guid>
             <dc:creator><![CDATA[Kazi Ahmmed Inkiyad]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 10:22:09 GMT</pubDate>
+            <pubDate>Fri, 21 Aug 2026 11:18:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Law and order still a major concern]]></title>
@@ -58,15 +65,7 @@
             <title><![CDATA[An upazila fire station is not a big ask]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/upazila-fire-station-not-big-ask-4252986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/upazila-fire-station-not-big-ask-4252986</guid>
-            <pubDate>Fri, 21 Aug 2026 10:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We need to rethink how political parties are funded]]></title>
-            <description><![CDATA[By Muhtasim M. Musanna]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-need-rethink-how-political-parties-are-funded-4251891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-rethink-how-political-parties-are-funded-4251891</guid>
-            <dc:creator><![CDATA[Muhtasim M. Musanna]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 21 Aug 2026 11:18:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Overcrowded prisons need urgent attention]]></title>
@@ -97,6 +96,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/why-disregard-migrant-deaths-4249921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-disregard-migrant-deaths-4249921</guid>
             <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our demographic challenges demand a functioning population council]]></title>
+            <description><![CDATA[By Md Nuruzzaman Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/our-demographic-challenges-demand-functioning-population-council-4251901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-demographic-challenges-demand-functioning-population-council-4251901</guid>
+            <dc:creator><![CDATA[Md Nuruzzaman Khan]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SATIRE / The National Human Rights Commission and other decorative objects]]></title>
@@ -144,14 +151,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/darwin-victory-should-change-how-test-cricket-sees-bangladesh-4250196</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/darwin-victory-should-change-how-test-cricket-sees-bangladesh-4250196</guid>
             <dc:creator><![CDATA[Atique Anam]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The elderly deserve a chance to remain productive]]></title>
-            <description><![CDATA[By Tasnuma AkterJahin Siddiqui]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-elderly-deserve-chance-remain-productive-4250166</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-elderly-deserve-chance-remain-productive-4250166</guid>
-            <dc:creator><![CDATA[Tasnuma AkterJahin Siddiqui]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
