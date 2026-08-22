@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 02:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 03:35:49 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 02:11:58 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 03:35:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Personal preferences should not become public restrictions]]></title>
+            <description><![CDATA[Death could not seal the controversies for Jason Arday.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/personal-preferences-should-not-become-public-restrictions-4253571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/personal-preferences-should-not-become-public-restrictions-4253571</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 03:35:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A fitting honour for Mirza Fakhrul]]></title>
-            <description><![CDATA[The government must implement promised reforms, letting the new president become more than a figurehead.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/fitting-honour-mirza-fakhrul-4253361</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fitting-honour-mirza-fakhrul-4253361</guid>
             <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
@@ -90,12 +97,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/unfinished-bridges-must-be-fixed-first-4250111</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/unfinished-bridges-must-be-fixed-first-4250111</guid>
             <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why this disregard for migrant deaths?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/why-disregard-migrant-deaths-4249921</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-disregard-migrant-deaths-4249921</guid>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Our demographic challenges demand a functioning population council]]></title>
