@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 02:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 03:43:34 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 02:21:00 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 03:43:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Why our ports need a sustainability scorecard]]></title>
+            <description><![CDATA[Bangladesh is investing heavily in ports, with private operators increasingly entering the sector.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-our-ports-need-sustainability-scorecard-4254361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-our-ports-need-sustainability-scorecard-4254361</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 03:43:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Plastic producers must clean up their own mess]]></title>
-            <description><![CDATA[Success of EPR rules depends on proper enforcement]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/plastic-producers-must-clean-their-own-mess-4254051</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/plastic-producers-must-clean-their-own-mess-4254051</guid>
             <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
@@ -62,14 +69,6 @@
             <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Are we ready for a ‘post-American’ West Asia?]]></title>
-            <description><![CDATA[By Hamidur Rashid Jamil]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/are-we-ready-post-american-west-asia-4252541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/are-we-ready-post-american-west-asia-4252541</guid>
-            <dc:creator><![CDATA[Hamidur Rashid Jamil]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Deadly crimes a nationwide issue]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/deadly-crimes-nationwide-issue-4253561</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/deadly-crimes-nationwide-issue-4253561</guid>
@@ -98,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/stop-trafficking-women-china-4251011</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/stop-trafficking-women-china-4251011</guid>
             <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Bangladesh's golden fibre needs to become a climate-era export]]></title>
+            <description><![CDATA[By Ashfaq Zaman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-bangladeshs-golden-fibre-needs-become-climate-era-export-4253036</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-bangladeshs-golden-fibre-needs-become-climate-era-export-4253036</guid>
+            <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Better infrastructure, not another authority, can unlock our carbon economy]]></title>
@@ -145,14 +152,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/we-must-adopt-area-based-population-strategy-4251021</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-adopt-area-based-population-strategy-4251021</guid>
             <dc:creator><![CDATA[Nawshad Ahmed]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What indigenous communities can teach us about water]]></title>
-            <description><![CDATA[By Nazmun Naher]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-indigenous-communities-can-teach-us-about-water-4251031</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-indigenous-communities-can-teach-us-about-water-4251031</guid>
-            <dc:creator><![CDATA[Nazmun Naher]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
