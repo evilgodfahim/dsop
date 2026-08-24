@@ -4,16 +4,23 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 02:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 03:47:44 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 02:19:10 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 03:47:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Rohingya settlement: A ‘town’ we still call a camp]]></title>
+            <description><![CDATA[This August 25 marks the ninth anniversary of the 2017 military crackdown in Myanmar that subsequently forced more than 700,000 Rohingya to flee into Bangladesh.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/rohingya-settlement-town-we-still-call-camp-4255056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rohingya-settlement-town-we-still-call-camp-4255056</guid>
+            <dc:creator><![CDATA[Kazi Maruful Islam]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 03:47:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Let police do their job without fear]]></title>
-            <description><![CDATA[Ensure accountability without sacrificing institutional stability]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/let-police-do-their-job-without-fear-4254936</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/let-police-do-their-job-without-fear-4254936</guid>
-            <pubDate>Mon, 24 Aug 2026 02:19:10 GMT</pubDate>
+            <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why our ports need a sustainability scorecard]]></title>
@@ -62,14 +69,6 @@
             <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Personal preferences should not become public restrictions]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/personal-preferences-should-not-become-public-restrictions-4253571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/personal-preferences-should-not-become-public-restrictions-4253571</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Let there be no impunity for sexual harassment]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/let-there-be-no-impunity-sexual-harassment-4254356</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/let-there-be-no-impunity-sexual-harassment-4254356</guid>
@@ -98,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/law-and-order-still-major-concern-4251861</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/law-and-order-still-major-concern-4251861</guid>
             <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Business as usual is not an option in resolving the Rohingya crisis’]]></title>
+            <description><![CDATA[By Porimol Palma]]></description>
+            <link>https://www.thedailystar.net/opinion/interviews/news/business-usual-not-option-resolving-the-rohingya-crisis-4253581</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/business-usual-not-option-resolving-the-rohingya-crisis-4253581</guid>
+            <dc:creator><![CDATA[Porimol Palma]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Upskilling workers can expand Bangladesh's remittance dividend]]></title>
@@ -145,14 +152,6 @@
             <link>https://www.thedailystar.net/opinion/news/green-certification-alone-cannot-guarantee-safe-ship-recycling-4251871</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/green-certification-alone-cannot-guarantee-safe-ship-recycling-4251871</guid>
             <dc:creator><![CDATA[Muhammed Ali Shahin]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We need to rethink how political parties are funded]]></title>
-            <description><![CDATA[By Muhtasim M. Musanna]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-need-rethink-how-political-parties-are-funded-4251891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-rethink-how-political-parties-are-funded-4251891</guid>
-            <dc:creator><![CDATA[Muhtasim M. Musanna]]></dc:creator>
             <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
