@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 04:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 05:25:09 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 04:32:04 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 05:25:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[We need energy security, not just a fix for the current crisis]]></title>
@@ -14,7 +14,7 @@
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 04:32:04 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2026 05:25:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Rohingya cannot be left waiting for history to change]]></title>
@@ -22,7 +22,15 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-rohingya-cannot-be-left-waiting-history-change-4255931</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-rohingya-cannot-be-left-waiting-history-change-4255931</guid>
             <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 04:32:04 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2026 05:25:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Human rights cannot expire in six months]]></title>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/human-rights-cannot-expire-six-months-4255936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/human-rights-cannot-expire-six-months-4255936</guid>
+            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 05:25:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don't repeat old mistakes in labour migration to Malaysia]]></title>
@@ -63,16 +71,16 @@
             <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Let police do their job without fear]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/let-police-do-their-job-without-fear-4254936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/let-police-do-their-job-without-fear-4254936</guid>
-            <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Support families of missing fishermen]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/support-families-missing-fishermen-4255041</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/support-families-missing-fishermen-4255041</guid>
             <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Let police do their job without fear]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/let-police-do-their-job-without-fear-4254936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/let-police-do-their-job-without-fear-4254936</guid>
+            <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Let there be no impunity for sexual harassment]]></title>
@@ -90,12 +98,6 @@
             <title><![CDATA[Deadly crimes a nationwide issue]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/deadly-crimes-nationwide-issue-4253561</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/deadly-crimes-nationwide-issue-4253561</guid>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A fitting honour for Mirza Fakhrul]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/fitting-honour-mirza-fakhrul-4253361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fitting-honour-mirza-fakhrul-4253361</guid>
             <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
