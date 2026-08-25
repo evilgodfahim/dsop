@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 06:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 07:38:15 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 06:34:30 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 07:38:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Clear the cataract surgery backlog]]></title>
+            <description><![CDATA[Take eye care to rural patients, particularly elderly women]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/clear-the-cataract-surgery-backlog-4255921</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/clear-the-cataract-surgery-backlog-4255921</guid>
+            <pubDate>Tue, 25 Aug 2026 07:38:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[We need energy security, not just a fix for the current crisis]]></title>
-            <description><![CDATA[The global economy is facing an energy crisis due to supply disruptions amid the war in West Asia. Since energy, vital to economic security, has also become a key part of geopolitics, countries have become more vulnerable to energy shocks.]]></description>
+            <description><![CDATA[By Fahmida Khatun]]></description>
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 06:34:30 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2026 07:38:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Rohingya cannot be left waiting for history to change]]></title>
@@ -22,7 +29,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-rohingya-cannot-be-left-waiting-history-change-4255931</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-rohingya-cannot-be-left-waiting-history-change-4255931</guid>
             <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 06:34:30 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2026 07:38:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Human rights cannot expire in six months]]></title>
@@ -30,7 +37,15 @@
             <link>https://www.thedailystar.net/opinion/news/human-rights-cannot-expire-six-months-4255936</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/human-rights-cannot-expire-six-months-4255936</guid>
             <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 06:34:30 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2026 07:38:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Men must do more to curb violence against women]]></title>
+            <description><![CDATA[By Abu Afsarul Haider]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/men-must-do-more-curb-violence-against-women-4255941</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/men-must-do-more-curb-violence-against-women-4255941</guid>
+            <dc:creator><![CDATA[Abu Afsarul Haider]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 07:38:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don't repeat old mistakes in labour migration to Malaysia]]></title>
@@ -53,20 +68,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-ai-changing-the-pharmaceuticals-landscape-4255066</guid>
             <dc:creator><![CDATA[Dr. Md. Abu Zafor Sadek]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Extremism grows when faith, knowledge, and humanity fall out of balance]]></title>
-            <description><![CDATA[By AKM Ahsan Ullah]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/extremism-grows-when-faith-knowledge-and-humanity-fall-out-balance-4255106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/extremism-grows-when-faith-knowledge-and-humanity-fall-out-balance-4255106</guid>
-            <dc:creator><![CDATA[AKM Ahsan Ullah]]></dc:creator>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clear the cataract surgery backlog]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/clear-the-cataract-surgery-backlog-4255921</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/clear-the-cataract-surgery-backlog-4255921</guid>
-            <pubDate>Tue, 25 Aug 2026 06:34:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Support families of missing fishermen]]></title>
@@ -97,6 +98,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/deadly-crimes-nationwide-issue-4253561</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/deadly-crimes-nationwide-issue-4253561</guid>
             <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Bangladesh's entrepreneurs keep following the same path]]></title>
+            <description><![CDATA[By Sabrina Luthfa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-bangladeshs-entrepreneurs-keep-following-the-same-path-4255111</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladeshs-entrepreneurs-keep-following-the-same-path-4255111</guid>
+            <dc:creator><![CDATA[Sabrina Luthfa]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why our ports need a sustainability scorecard]]></title>
@@ -144,14 +153,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/personal-preferences-should-not-become-public-restrictions-4253571</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/personal-preferences-should-not-become-public-restrictions-4253571</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Business as usual is not an option in resolving the Rohingya crisis’]]></title>
-            <description><![CDATA[By Porimol Palma]]></description>
-            <link>https://www.thedailystar.net/opinion/interviews/news/business-usual-not-option-resolving-the-rohingya-crisis-4253581</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/business-usual-not-option-resolving-the-rohingya-crisis-4253581</guid>
-            <dc:creator><![CDATA[Porimol Palma]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
