@@ -4,16 +4,23 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 07:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 08:33:54 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 07:38:15 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 08:33:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Men must do more to curb violence against women]]></title>
+            <description><![CDATA[In 2025, according to data from Police Headquarters, at least 21,939 cases were filed across the country over allegations of violence against women and children.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/men-must-do-more-curb-violence-against-women-4255941</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/men-must-do-more-curb-violence-against-women-4255941</guid>
+            <dc:creator><![CDATA[Abu Afsarul Haider]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 08:33:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Clear the cataract surgery backlog]]></title>
-            <description><![CDATA[Take eye care to rural patients, particularly elderly women]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/clear-the-cataract-surgery-backlog-4255921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/clear-the-cataract-surgery-backlog-4255921</guid>
-            <pubDate>Tue, 25 Aug 2026 07:38:15 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2026 08:33:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We need energy security, not just a fix for the current crisis]]></title>
@@ -21,7 +28,7 @@
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 07:38:15 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2026 08:33:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Rohingya cannot be left waiting for history to change]]></title>
@@ -29,7 +36,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-rohingya-cannot-be-left-waiting-history-change-4255931</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-rohingya-cannot-be-left-waiting-history-change-4255931</guid>
             <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 07:38:15 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2026 08:33:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Human rights cannot expire in six months]]></title>
@@ -37,15 +44,7 @@
             <link>https://www.thedailystar.net/opinion/news/human-rights-cannot-expire-six-months-4255936</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/human-rights-cannot-expire-six-months-4255936</guid>
             <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 07:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Men must do more to curb violence against women]]></title>
-            <description><![CDATA[By Abu Afsarul Haider]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/men-must-do-more-curb-violence-against-women-4255941</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/men-must-do-more-curb-violence-against-women-4255941</guid>
-            <dc:creator><![CDATA[Abu Afsarul Haider]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 07:38:15 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2026 08:33:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don't repeat old mistakes in labour migration to Malaysia]]></title>
