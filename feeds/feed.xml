@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 02:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 03:42:08 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 02:14:55 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 03:42:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[We need energy security, not just a fix for the current crisis]]></title>
+            <description><![CDATA[The global economy is facing an energy crisis due to supply disruptions amid the war in West Asia. Since energy, vital to economic security, has also become a key part of geopolitics, countries have become more vulnerable to energy shocks.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 03:42:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Don't repeat old mistakes in labour migration to Malaysia]]></title>
-            <description><![CDATA[Dhaka, Kuala Lumpur must ensure a transparent, competitive recruitment process]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-repeat-old-mistakes-labour-migration-malaysia-4255781</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-repeat-old-mistakes-labour-migration-malaysia-4255781</guid>
             <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
@@ -62,14 +69,6 @@
             <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The case for recognising women’s matrimonial property rights]]></title>
-            <description><![CDATA[By Jeba Mobashwira]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-case-recognising-womens-matrimonial-property-rights-4254371</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-case-recognising-womens-matrimonial-property-rights-4254371</guid>
-            <dc:creator><![CDATA[Jeba Mobashwira]]></dc:creator>
-            <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Support families of missing fishermen]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/support-families-missing-fishermen-4255041</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/support-families-missing-fishermen-4255041</guid>
@@ -98,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/fitting-honour-mirza-fakhrul-4253361</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fitting-honour-mirza-fakhrul-4253361</guid>
             <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shipbreaking need not be deadly, but weak enforcement is making it so]]></title>
+            <description><![CDATA[By Sibbir AhmadAriful Islam Abir]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/shipbreaking-need-not-be-deadly-weak-enforcement-making-it-so-4254381</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/shipbreaking-need-not-be-deadly-weak-enforcement-making-it-so-4254381</guid>
+            <dc:creator><![CDATA[Sibbir AhmadAriful Islam Abir]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The eighth front: How Israel plans to occupy the American mind]]></title>
@@ -146,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/expectations-bnps-next-secretary-general-4252976</guid>
             <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
             <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are we ready for a ‘post-American’ West Asia?]]></title>
-            <description><![CDATA[By Hamidur Rashid Jamil]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/are-we-ready-post-american-west-asia-4252541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/are-we-ready-post-american-west-asia-4252541</guid>
-            <dc:creator><![CDATA[Hamidur Rashid Jamil]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
