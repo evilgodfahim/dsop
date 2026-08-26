@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 03:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 04:32:53 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 03:47:35 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 04:32:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Our health system is better resourced now. Why can’t it still deliver?]]></title>
@@ -14,7 +14,15 @@
             <link>https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</guid>
             <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 03:47:35 GMT</pubDate>
+            <pubDate>Wed, 26 Aug 2026 04:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20 years after Phulbari: Don't repeat the mistake in the name of energy security]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 04:32:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don’t let the artificial fertiliser crisis persist]]></title>
@@ -89,12 +97,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/plastic-producers-must-clean-their-own-mess-4254051</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/plastic-producers-must-clean-their-own-mess-4254051</guid>
             <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deadly crimes a nationwide issue]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/deadly-crimes-nationwide-issue-4253561</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/deadly-crimes-nationwide-issue-4253561</guid>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rohingya settlement: A ‘town’ we still call a camp]]></title>
