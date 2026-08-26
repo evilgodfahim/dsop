@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 05:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 06:36:03 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 05:26:56 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 06:36:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Our health system is better resourced now. Why can’t it still deliver?]]></title>
@@ -14,7 +14,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</guid>
             <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 05:26:56 GMT</pubDate>
+            <pubDate>Wed, 26 Aug 2026 06:36:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[20 years after Phulbari: Don't repeat the mistake in the name of energy security]]></title>
@@ -22,7 +22,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</guid>
             <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 05:26:56 GMT</pubDate>
+            <pubDate>Wed, 26 Aug 2026 06:36:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why char children need a different education policy]]></title>
@@ -30,7 +30,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-char-children-need-different-education-policy-4256841</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-char-children-need-different-education-policy-4256841</guid>
             <dc:creator><![CDATA[Shahadat Hussein]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 05:26:56 GMT</pubDate>
+            <pubDate>Wed, 26 Aug 2026 06:36:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don’t let the artificial fertiliser crisis persist]]></title>
@@ -61,12 +61,10 @@
             <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We need energy security, not just a fix for the current crisis]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Protect people from online loan scams]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/protect-people-online-loan-scams-4256811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-people-online-loan-scams-4256811</guid>
+            <pubDate>Wed, 26 Aug 2026 06:36:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don't repeat old mistakes in labour migration to Malaysia]]></title>
@@ -97,6 +95,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/plastic-producers-must-clean-their-own-mess-4254051</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/plastic-producers-must-clean-their-own-mess-4254051</guid>
             <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We need energy security, not just a fix for the current crisis]]></title>
+            <description><![CDATA[By Fahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Rohingya cannot be left waiting for history to change]]></title>
@@ -144,14 +150,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-our-ports-need-sustainability-scorecard-4254361</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-our-ports-need-sustainability-scorecard-4254361</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The case for recognising women’s matrimonial property rights]]></title>
-            <description><![CDATA[By Jeba Mobashwira]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-case-recognising-womens-matrimonial-property-rights-4254371</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-case-recognising-womens-matrimonial-property-rights-4254371</guid>
-            <dc:creator><![CDATA[Jeba Mobashwira]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>

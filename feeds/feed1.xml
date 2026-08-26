@@ -4,9 +4,9 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 05:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 06:36:06 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 05:26:58 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 06:36:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[AI chatbots are becoming experts at changing people's minds. What's their secret?]]></title>
@@ -14,13 +14,6 @@
             <link>https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret</link>
             <guid isPermaLink="true">https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret</guid>
             <pubDate>Thu, 20 Aug 2026 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scientific spat erupts over claim that bones have key immune vessels]]></title>
-            <description><![CDATA[Discovery of lymphatic tubes suggested new possibilities for bone healing, but challenge has prompted dueling papers and publication delay in prominent journal]]></description>
-            <link>https://www.science.org/content/article/scientific-spat-erupts-over-claim-bones-have-key-immune-vessels</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/scientific-spat-erupts-over-claim-bones-have-key-immune-vessels</guid>
-            <pubDate>Thu, 20 Aug 2026 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RAD51 stabilizes neutrophil extracellular traps to compartmentalize inflammation | Science]]></title>
