@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 04:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 05:26:56 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 04:32:53 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 05:26:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Our health system is better resourced now. Why can’t it still deliver?]]></title>
@@ -14,7 +14,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</guid>
             <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 04:32:53 GMT</pubDate>
+            <pubDate>Wed, 26 Aug 2026 05:26:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[20 years after Phulbari: Don't repeat the mistake in the name of energy security]]></title>
@@ -22,7 +22,15 @@
             <link>https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</guid>
             <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 04:32:53 GMT</pubDate>
+            <pubDate>Wed, 26 Aug 2026 05:26:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why char children need a different education policy]]></title>
+            <description><![CDATA[By Shahadat Hussein]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-char-children-need-different-education-policy-4256841</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-char-children-need-different-education-policy-4256841</guid>
+            <dc:creator><![CDATA[Shahadat Hussein]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 05:26:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don’t let the artificial fertiliser crisis persist]]></title>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Rohingya cannot be left waiting for history to change]]></title>
-            <description><![CDATA[By Farah Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-rohingya-cannot-be-left-waiting-history-change-4255931</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-rohingya-cannot-be-left-waiting-history-change-4255931</guid>
-            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Don't repeat old mistakes in labour migration to Malaysia]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-repeat-old-mistakes-labour-migration-malaysia-4255781</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-repeat-old-mistakes-labour-migration-malaysia-4255781</guid>
@@ -97,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/plastic-producers-must-clean-their-own-mess-4254051</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/plastic-producers-must-clean-their-own-mess-4254051</guid>
             <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Rohingya cannot be left waiting for history to change]]></title>
+            <description><![CDATA[By Farah Kabir]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-rohingya-cannot-be-left-waiting-history-change-4255931</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-rohingya-cannot-be-left-waiting-history-change-4255931</guid>
+            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rohingya settlement: A ‘town’ we still call a camp]]></title>
@@ -144,14 +152,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-case-recognising-womens-matrimonial-property-rights-4254371</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-case-recognising-womens-matrimonial-property-rights-4254371</guid>
             <dc:creator><![CDATA[Jeba Mobashwira]]></dc:creator>
-            <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shipbreaking need not be deadly, but weak enforcement is making it so]]></title>
-            <description><![CDATA[By Sibbir AhmadAriful Islam Abir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/shipbreaking-need-not-be-deadly-weak-enforcement-making-it-so-4254381</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/shipbreaking-need-not-be-deadly-weak-enforcement-making-it-so-4254381</guid>
-            <dc:creator><![CDATA[Sibbir AhmadAriful Islam Abir]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
