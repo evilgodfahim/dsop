@@ -4,17 +4,16 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Aug 2026 02:46:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 13:28:31 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Aug 2026 02:46:41 GMT</pubDate>
+        <pubDate>Thu, 27 Aug 2026 13:28:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Our health system is better resourced now. Why can’t it still deliver?]]></title>
-            <description><![CDATA[A hospital may own an X-ray machine, but that does not mean patients can get an X-ray.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</guid>
-            <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Nepal's grief is ours too]]></title>
+            <description><![CDATA[South Asian nations must build a common system of glacial monitoring, early warning.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/nepals-grief-ours-too-4257956</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/nepals-grief-ours-too-4257956</guid>
+            <pubDate>Thu, 27 Aug 2026 13:28:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can Invest Bangladesh live up to the expectations?]]></title>
@@ -25,11 +24,11 @@
             <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[20 years after Phulbari: Don't repeat the mistake in the name of energy security]]></title>
-            <description><![CDATA[By Kallol Mustafa]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</guid>
-            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <title><![CDATA[Our health system is better resourced now. Why can’t it still deliver?]]></title>
+            <description><![CDATA[By Rumana Huque]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</guid>
+            <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -38,6 +37,20 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-char-children-need-different-education-policy-4256841</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-char-children-need-different-education-policy-4256841</guid>
             <dc:creator><![CDATA[Shahadat Hussein]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Protect people from online loan scams]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/protect-people-online-loan-scams-4256811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-people-online-loan-scams-4256811</guid>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20 years after Phulbari: Don't repeat the mistake in the name of energy security]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -55,24 +68,10 @@
             <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Men must do more to curb violence against women]]></title>
-            <description><![CDATA[By Abu Afsarul Haider]]></description>
-            <link>https://www.thedailystar.net/opinion/news/men-must-do-more-curb-violence-against-women-4255941</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/men-must-do-more-curb-violence-against-women-4255941</guid>
-            <dc:creator><![CDATA[Abu Afsarul Haider]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Clear the cataract surgery backlog]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/clear-the-cataract-surgery-backlog-4255921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/clear-the-cataract-surgery-backlog-4255921</guid>
             <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protect people from online loan scams]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/protect-people-online-loan-scams-4256811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-people-online-loan-scams-4256811</guid>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don't repeat old mistakes in labour migration to Malaysia]]></title>
@@ -104,6 +103,14 @@
             <link>https://www.thedailystar.net/opinion/views/news/public-universities-must-not-become-instruments-political-power-4256461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/public-universities-must-not-become-instruments-political-power-4256461</guid>
             <dc:creator><![CDATA[Arif KabirUrmee ChakmaRaqib Chowdhury]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Men must do more to curb violence against women]]></title>
+            <description><![CDATA[By Abu Afsarul Haider]]></description>
+            <link>https://www.thedailystar.net/opinion/news/men-must-do-more-curb-violence-against-women-4255941</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/men-must-do-more-curb-violence-against-women-4255941</guid>
+            <dc:creator><![CDATA[Abu Afsarul Haider]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -144,14 +151,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/extremism-grows-when-faith-knowledge-and-humanity-fall-out-balance-4255106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/extremism-grows-when-faith-knowledge-and-humanity-fall-out-balance-4255106</guid>
             <dc:creator><![CDATA[AKM Ahsan Ullah]]></dc:creator>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Bangladesh's entrepreneurs keep following the same path]]></title>
-            <description><![CDATA[By Sabrina Luthfa]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-bangladeshs-entrepreneurs-keep-following-the-same-path-4255111</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladeshs-entrepreneurs-keep-following-the-same-path-4255111</guid>
-            <dc:creator><![CDATA[Sabrina Luthfa]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
