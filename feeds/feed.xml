@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Aug 2026 08:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 20:34:52 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Aug 2026 08:27:03 GMT</pubDate>
+        <pubDate>Fri, 28 Aug 2026 20:34:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Dhaka must reclaim its lost water bodies]]></title>
+            <description><![CDATA[Act now to protect the remaining hydrological network of the capital]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/dhaka-must-reclaim-its-lost-water-bodies-4258796</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dhaka-must-reclaim-its-lost-water-bodies-4258796</guid>
+            <pubDate>Fri, 28 Aug 2026 20:34:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[More LNG is not the answer to Bangladesh's energy crisis]]></title>
-            <description><![CDATA[The technical faults in one of the two floating storage and regasification units (FSRUs) in Bangladesh, detected on July 21 this year, have had a cascading effect on various sectors.]]></description>
+            <description><![CDATA[By Shafiqul Alam]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/more-lng-not-the-answer-bangladeshs-energy-crisis-4258201</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/more-lng-not-the-answer-bangladeshs-energy-crisis-4258201</guid>
             <dc:creator><![CDATA[Shafiqul Alam]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 08:27:03 GMT</pubDate>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Modern-day parenting needs better support]]></title>
@@ -22,7 +29,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/modern-day-parenting-needs-better-support-4258211</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/modern-day-parenting-needs-better-support-4258211</guid>
             <dc:creator><![CDATA[Anika Zerin Chowdhury]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 08:27:03 GMT</pubDate>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We need to prioritise future-ready skills over freelancing]]></title>
@@ -30,7 +37,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/we-need-prioritise-future-ready-skills-over-freelancing-4258216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-prioritise-future-ready-skills-over-freelancing-4258216</guid>
             <dc:creator><![CDATA[Zarif Faiaz]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 08:27:03 GMT</pubDate>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Pink Bus paradox and the price of women's safety]]></title>
@@ -38,7 +45,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-pink-bus-paradox-and-the-price-womens-safety-4258221</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-pink-bus-paradox-and-the-price-womens-safety-4258221</guid>
             <dc:creator><![CDATA[Nadia Afroze Disha]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 08:27:03 GMT</pubDate>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nepal's grief is ours too]]></title>
@@ -63,18 +70,10 @@
             <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why char children need a different education policy]]></title>
-            <description><![CDATA[By Shahadat Hussein]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-char-children-need-different-education-policy-4256841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-char-children-need-different-education-policy-4256841</guid>
-            <dc:creator><![CDATA[Shahadat Hussein]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It is time lawmakers side with the rivers]]></title>
+            <title><![CDATA[Time for lawmakers to side with the rivers]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/it-time-lawmakers-side-the-rivers-4258186</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/it-time-lawmakers-side-the-rivers-4258186</guid>
-            <pubDate>Fri, 28 Aug 2026 08:27:03 GMT</pubDate>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Protect people from online loan scams]]></title>
@@ -99,6 +98,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-repeat-old-mistakes-labour-migration-malaysia-4255781</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-repeat-old-mistakes-labour-migration-malaysia-4255781</guid>
             <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20 years after Phulbari: Don't repeat the mistake in the name of energy security]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why are humanitarian workers increasingly in the line of fire?]]></title>
@@ -145,14 +152,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-new-nhrc-law-should-widen-access-justice-not-restrict-it-4255936</guid>
             <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rohingya settlement: A ‘town’ we still call a camp]]></title>
-            <description><![CDATA[By Kazi Maruful Islam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/rohingya-settlement-town-we-still-call-camp-4255056</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rohingya-settlement-town-we-still-call-camp-4255056</guid>
-            <dc:creator><![CDATA[Kazi Maruful Islam]]></dc:creator>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
