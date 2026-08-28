@@ -4,15 +4,22 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Aug 2026 23:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 08:27:05 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Aug 2026 23:27:05 GMT</pubDate>
+        <pubDate>Fri, 28 Aug 2026 08:27:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Dreams of making drugs and tissues in space get closer to reality]]></title>
             <description><![CDATA[Maturing techniques and cheaper launches fuel microgravity research—and hopes of orbital manufacturing]]></description>
             <link>https://www.science.org/content/article/dreams-making-drugs-and-tissues-space-get-closer-reality</link>
             <guid isPermaLink="true">https://www.science.org/content/article/dreams-making-drugs-and-tissues-space-get-closer-reality</guid>
+            <pubDate>Thu, 27 Aug 2026 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change is strengthening El Niño, coral records suggest]]></title>
+            <description><![CDATA[1000-year archive from the Galápagos portends greater weather disruptions from the Pacific climate cycle]]></description>
+            <link>https://www.science.org/content/article/climate-change-strengthening-el-niño-coral-records-suggest</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/climate-change-strengthening-el-niño-coral-records-suggest</guid>
             <pubDate>Thu, 27 Aug 2026 19:00:00 GMT</pubDate>
         </item>
         <item>

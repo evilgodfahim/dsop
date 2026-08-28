@@ -4,16 +4,47 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Aug 2026 23:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 08:27:03 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Aug 2026 23:27:04 GMT</pubDate>
+        <pubDate>Fri, 28 Aug 2026 08:27:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[More LNG is not the answer to Bangladesh's energy crisis]]></title>
+            <description><![CDATA[The technical faults in one of the two floating storage and regasification units (FSRUs) in Bangladesh, detected on July 21 this year, have had a cascading effect on various sectors.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/more-lng-not-the-answer-bangladeshs-energy-crisis-4258201</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/more-lng-not-the-answer-bangladeshs-energy-crisis-4258201</guid>
+            <dc:creator><![CDATA[Shafiqul Alam]]></dc:creator>
+            <pubDate>Fri, 28 Aug 2026 08:27:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Modern-day parenting needs better support]]></title>
+            <description><![CDATA[By Anika Zerin Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/modern-day-parenting-needs-better-support-4258211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/modern-day-parenting-needs-better-support-4258211</guid>
+            <dc:creator><![CDATA[Anika Zerin Chowdhury]]></dc:creator>
+            <pubDate>Fri, 28 Aug 2026 08:27:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We need to prioritise future-ready skills over freelancing]]></title>
+            <description><![CDATA[By Zarif Faiaz]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-need-prioritise-future-ready-skills-over-freelancing-4258216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-prioritise-future-ready-skills-over-freelancing-4258216</guid>
+            <dc:creator><![CDATA[Zarif Faiaz]]></dc:creator>
+            <pubDate>Fri, 28 Aug 2026 08:27:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Pink Bus paradox and the price of women's safety]]></title>
+            <description><![CDATA[By Nadia Afroze Disha]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-pink-bus-paradox-and-the-price-womens-safety-4258221</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-pink-bus-paradox-and-the-price-womens-safety-4258221</guid>
+            <dc:creator><![CDATA[Nadia Afroze Disha]]></dc:creator>
+            <pubDate>Fri, 28 Aug 2026 08:27:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nepal's grief is ours too]]></title>
-            <description><![CDATA[South Asian nations must build a common system of glacial monitoring, early warning.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/nepals-grief-ours-too-4257956</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/nepals-grief-ours-too-4257956</guid>
-            <pubDate>Thu, 27 Aug 2026 23:27:04 GMT</pubDate>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can Invest Bangladesh live up to the expectations?]]></title>
@@ -40,31 +71,21 @@
             <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[It is time lawmakers side with the rivers]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/it-time-lawmakers-side-the-rivers-4258186</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/it-time-lawmakers-side-the-rivers-4258186</guid>
+            <pubDate>Fri, 28 Aug 2026 08:27:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Protect people from online loan scams]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/protect-people-online-loan-scams-4256811</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-people-online-loan-scams-4256811</guid>
             <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[20 years after Phulbari: Don't repeat the mistake in the name of energy security]]></title>
-            <description><![CDATA[By Kallol Mustafa]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</guid>
-            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Don’t let the artificial fertiliser crisis persist]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-the-artificial-fertiliser-crisis-persist-4256526</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-the-artificial-fertiliser-crisis-persist-4256526</guid>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The new NHRC law should widen access to justice, not restrict it]]></title>
-            <description><![CDATA[By Khan Khalid Adnan]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-new-nhrc-law-should-widen-access-justice-not-restrict-it-4255936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-new-nhrc-law-should-widen-access-justice-not-restrict-it-4255936</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -80,22 +101,10 @@
             <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Support families of missing fishermen]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/support-families-missing-fishermen-4255041</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/support-families-missing-fishermen-4255041</guid>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let police do their job without fear]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/let-police-do-their-job-without-fear-4254936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/let-police-do-their-job-without-fear-4254936</guid>
-            <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let there be no impunity for sexual harassment]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/let-there-be-no-impunity-sexual-harassment-4254356</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/let-there-be-no-impunity-sexual-harassment-4254356</guid>
-            <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Why are humanitarian workers increasingly in the line of fire?]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/why-are-humanitarian-workers-increasingly-the-line-fire-4256521</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-humanitarian-workers-increasingly-the-line-fire-4256521</guid>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Public universities must not become instruments of political power]]></title>
@@ -130,27 +139,19 @@
             <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The new NHRC law should widen access to justice, not restrict it]]></title>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
+            <link>https://www.thedailystar.net/opinion/news/the-new-nhrc-law-should-widen-access-justice-not-restrict-it-4255936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-new-nhrc-law-should-widen-access-justice-not-restrict-it-4255936</guid>
+            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rohingya settlement: A ‘town’ we still call a camp]]></title>
             <description><![CDATA[By Kazi Maruful Islam]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/rohingya-settlement-town-we-still-call-camp-4255056</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rohingya-settlement-town-we-still-call-camp-4255056</guid>
             <dc:creator><![CDATA[Kazi Maruful Islam]]></dc:creator>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How AI is changing the pharmaceuticals landscape]]></title>
-            <description><![CDATA[By Dr. Md. Abu Zafor Sadek]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-ai-changing-the-pharmaceuticals-landscape-4255066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-ai-changing-the-pharmaceuticals-landscape-4255066</guid>
-            <dc:creator><![CDATA[Dr. Md. Abu Zafor Sadek]]></dc:creator>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Extremism grows when faith, knowledge, and humanity fall out of balance]]></title>
-            <description><![CDATA[By AKM Ahsan Ullah]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/extremism-grows-when-faith-knowledge-and-humanity-fall-out-balance-4255106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/extremism-grows-when-faith-knowledge-and-humanity-fall-out-balance-4255106</guid>
-            <dc:creator><![CDATA[AKM Ahsan Ullah]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
