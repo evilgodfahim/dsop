@@ -4,16 +4,53 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Aug 2026 02:59:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 09:52:50 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Aug 2026 02:59:41 GMT</pubDate>
+        <pubDate>Sat, 29 Aug 2026 09:52:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Bangladesh needs to invest in home-based childcare]]></title>
+            <description><![CDATA[Every morning before work, Rima, a garment worker living on the outskirts of Dhaka, faces a painful dilemma: there is no safe place to leave her two-year-old daughter.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-invest-home-based-childcare-4258931</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-invest-home-based-childcare-4258931</guid>
+            <dc:creator><![CDATA[Golam Gilane]]></dc:creator>
+            <pubDate>Sat, 29 Aug 2026 09:52:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It is time to make menstrual leave a reality in Bangladesh]]></title>
+            <description><![CDATA[By Nazifa Tasmim]]></description>
+            <link>https://www.thedailystar.net/opinion/news/it-time-make-menstrual-leave-reality-bangladesh-4258941</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/it-time-make-menstrual-leave-reality-bangladesh-4258941</guid>
+            <dc:creator><![CDATA[Nazifa Tasmim]]></dc:creator>
+            <pubDate>Sat, 29 Aug 2026 09:52:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dhaka must reclaim its lost water bodies]]></title>
-            <description><![CDATA[Act now to protect the remaining hydrological network of the capital]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/dhaka-must-reclaim-its-lost-water-bodies-4258796</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dhaka-must-reclaim-its-lost-water-bodies-4258796</guid>
             <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lasting solutions for river erosion needed]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/lasting-solutions-river-erosion-needed-4258906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/lasting-solutions-river-erosion-needed-4258906</guid>
+            <pubDate>Sat, 29 Aug 2026 09:52:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nine years on, the Rohingya still don't have a safe road home]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/nine-years-the-rohingya-still-dont-have-safe-road-home-4258916</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/nine-years-the-rohingya-still-dont-have-safe-road-home-4258916</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 29 Aug 2026 09:52:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s gas crisis is also a logistics crisis]]></title>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-gas-crisis-also-logistics-crisis-4258936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-gas-crisis-also-logistics-crisis-4258936</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Sat, 29 Aug 2026 09:52:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[More LNG is not the answer to Bangladesh's energy crisis]]></title>
@@ -32,19 +69,9 @@
             <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We need to prioritise future-ready skills over freelancing]]></title>
-            <description><![CDATA[By Zarif Faiaz]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-need-prioritise-future-ready-skills-over-freelancing-4258216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-prioritise-future-ready-skills-over-freelancing-4258216</guid>
-            <dc:creator><![CDATA[Zarif Faiaz]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Pink Bus paradox and the price of women's safety]]></title>
-            <description><![CDATA[By Nadia Afroze Disha]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-pink-bus-paradox-and-the-price-womens-safety-4258221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-pink-bus-paradox-and-the-price-womens-safety-4258221</guid>
-            <dc:creator><![CDATA[Nadia Afroze Disha]]></dc:creator>
+            <title><![CDATA[Time for lawmakers to side with the rivers]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/it-time-lawmakers-side-the-rivers-4258186</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/it-time-lawmakers-side-the-rivers-4258186</guid>
             <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -52,28 +79,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/nepals-grief-ours-too-4257956</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/nepals-grief-ours-too-4257956</guid>
             <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Invest Bangladesh live up to the expectations?]]></title>
-            <description><![CDATA[By Rupayan Sarker]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/can-invest-bangladesh-live-the-expectations-4256826</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-invest-bangladesh-live-the-expectations-4256826</guid>
-            <dc:creator><![CDATA[Rupayan Sarker]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our health system is better resourced now. Why can’t it still deliver?]]></title>
-            <description><![CDATA[By Rumana Huque]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</guid>
-            <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Time for lawmakers to side with the rivers]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/it-time-lawmakers-side-the-rivers-4258186</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/it-time-lawmakers-side-the-rivers-4258186</guid>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Protect people from online loan scams]]></title>
@@ -94,10 +99,36 @@
             <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Don't repeat old mistakes in labour migration to Malaysia]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/dont-repeat-old-mistakes-labour-migration-malaysia-4255781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-repeat-old-mistakes-labour-migration-malaysia-4255781</guid>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Pink Bus paradox and the price of women's safety]]></title>
+            <description><![CDATA[By Nadia Afroze Disha]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-pink-bus-paradox-and-the-price-womens-safety-4258221</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-pink-bus-paradox-and-the-price-womens-safety-4258221</guid>
+            <dc:creator><![CDATA[Nadia Afroze Disha]]></dc:creator>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Invest Bangladesh live up to the expectations?]]></title>
+            <description><![CDATA[By Rupayan Sarker]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/can-invest-bangladesh-live-the-expectations-4256826</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-invest-bangladesh-live-the-expectations-4256826</guid>
+            <dc:creator><![CDATA[Rupayan Sarker]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our health system is better resourced now. Why can’t it still deliver?]]></title>
+            <description><![CDATA[By Rumana Huque]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</guid>
+            <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why char children need a different education policy]]></title>
+            <description><![CDATA[By Shahadat Hussein]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-char-children-need-different-education-policy-4256841</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-char-children-need-different-education-policy-4256841</guid>
+            <dc:creator><![CDATA[Shahadat Hussein]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[20 years after Phulbari: Don't repeat the mistake in the name of energy security]]></title>
@@ -119,38 +150,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/public-universities-must-not-become-instruments-political-power-4256461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/public-universities-must-not-become-instruments-political-power-4256461</guid>
             <dc:creator><![CDATA[Arif KabirUrmee ChakmaRaqib Chowdhury]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Men must do more to curb violence against women]]></title>
-            <description><![CDATA[By Abu Afsarul Haider]]></description>
-            <link>https://www.thedailystar.net/opinion/news/men-must-do-more-curb-violence-against-women-4255941</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/men-must-do-more-curb-violence-against-women-4255941</guid>
-            <dc:creator><![CDATA[Abu Afsarul Haider]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We need energy security, not just a fix for the current crisis]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Rohingya cannot be left waiting for history to change]]></title>
-            <description><![CDATA[By Farah Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-rohingya-cannot-be-left-waiting-history-change-4255931</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-rohingya-cannot-be-left-waiting-history-change-4255931</guid>
-            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The new NHRC law should widen access to justice, not restrict it]]></title>
-            <description><![CDATA[By Khan Khalid Adnan]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-new-nhrc-law-should-widen-access-justice-not-restrict-it-4255936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-new-nhrc-law-should-widen-access-justice-not-restrict-it-4255936</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
