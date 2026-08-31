@@ -4,25 +4,39 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 31 Aug 2026 06:31:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 14:43:12 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 31 Aug 2026 06:31:43 GMT</pubDate>
+        <pubDate>Mon, 31 Aug 2026 14:43:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Fixing our fragmented health data requires institutional leadership]]></title>
-            <description><![CDATA[Over the past decade and a half, Bangladesh has invested substantial public resources in digital health systems.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/fixing-our-fragmented-health-data-requires-institutional-leadership-4260521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fixing-our-fragmented-health-data-requires-institutional-leadership-4260521</guid>
-            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 06:31:43 GMT</pubDate>
+            <title><![CDATA[Is Bangladesh ready to access international climate finance?]]></title>
+            <description><![CDATA[When it comes to the eligibility for receiving support from international climate funds in order to address climate-induced loss and damage, Bangladesh indeed has a strong case.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-ready-access-international-climate-finance-4261261</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-ready-access-international-climate-finance-4261261</guid>
+            <dc:creator><![CDATA[Md. Shahidul Islam]]></dc:creator>
+            <pubDate>Mon, 31 Aug 2026 14:43:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[For a sustainable future, we must take energy efficiency seriously]]></title>
             <description><![CDATA[By Mohammad Alauddin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/sustainable-future-we-must-take-energy-efficiency-seriously-4260536</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/sustainable-future-we-must-take-energy-efficiency-seriously-4260536</guid>
+            <link>https://www.thedailystar.net/opinion/news/sustainable-future-we-must-take-energy-efficiency-seriously-4260536</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/sustainable-future-we-must-take-energy-efficiency-seriously-4260536</guid>
             <dc:creator><![CDATA[Mohammad Alauddin]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 06:31:43 GMT</pubDate>
+            <pubDate>Mon, 31 Aug 2026 14:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t let the citizen service centres sit idle]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-the-citizen-service-centres-sit-idle-4260511</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-the-citizen-service-centres-sit-idle-4260511</guid>
+            <pubDate>Mon, 31 Aug 2026 14:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fixing our fragmented health data requires institutional leadership]]></title>
+            <description><![CDATA[By Syed Abdul Hamid]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/fixing-our-fragmented-health-data-requires-institutional-leadership-4260521</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fixing-our-fragmented-health-data-requires-institutional-leadership-4260521</guid>
+            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
+            <pubDate>Mon, 31 Aug 2026 14:43:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh and Malaysia must break the recruitment syndicate’s grip]]></title>
@@ -30,7 +44,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-and-malaysia-must-break-the-recruitment-syndicates-grip-4260541</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-and-malaysia-must-break-the-recruitment-syndicates-grip-4260541</guid>
             <dc:creator><![CDATA[Shariful Hasan]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 06:31:43 GMT</pubDate>
+            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh should engage with Mecca pact, but not rush to join it]]></title>
@@ -38,7 +52,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-should-engage-mecca-pact-not-rush-join-it-4260571</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-should-engage-mecca-pact-not-rush-join-it-4260571</guid>
             <dc:creator><![CDATA[Nasir Uddin Ahmed]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 06:31:43 GMT</pubDate>
+            <pubDate>Mon, 31 Aug 2026 14:43:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Violent crime cannot become the norm]]></title>
@@ -47,26 +61,18 @@
             <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bangladesh needs a courtroom AI policy, and soon]]></title>
-            <description><![CDATA[By Md. Ziaur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-courtroom-ai-policy-and-soon-4259816</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-courtroom-ai-policy-and-soon-4259816</guid>
-            <dc:creator><![CDATA[Md. Ziaur Rahman]]></dc:creator>
+            <title><![CDATA[Could atmospheric water harvesting help Bangladesh tackle water scarcity?]]></title>
+            <description><![CDATA[By Sabbir Ahmad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/could-atmospheric-water-harvesting-help-bangladesh-tackle-water-scarcity-4260321</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/could-atmospheric-water-harvesting-help-bangladesh-tackle-water-scarcity-4260321</guid>
+            <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
             <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nepal flood shows why we must look further upstream]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/opinion/news/nepal-flood-shows-why-we-must-look-further-upstream-4259806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/nepal-flood-shows-why-we-must-look-further-upstream-4259806</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t let the citizen service centres sit idle]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-the-citizen-service-centres-sit-idle-4260511</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-the-citizen-service-centres-sit-idle-4260511</guid>
-            <pubDate>Mon, 31 Aug 2026 06:31:43 GMT</pubDate>
+            <title><![CDATA[Two rights bills deserve more than a rushed stamp of approval]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/two-rights-bills-deserve-more-rushed-stamp-approval-4261336</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/two-rights-bills-deserve-more-rushed-stamp-approval-4261336</guid>
+            <pubDate>Mon, 31 Aug 2026 14:43:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don’t let greed decide St Martin’s future]]></title>
@@ -93,10 +99,20 @@
             <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Time for lawmakers to side with the rivers]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/it-time-lawmakers-side-the-rivers-4258186</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/it-time-lawmakers-side-the-rivers-4258186</guid>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Nepal flood shows why we must look further upstream]]></title>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
+            <link>https://www.thedailystar.net/opinion/news/nepal-flood-shows-why-we-must-look-further-upstream-4259806</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/nepal-flood-shows-why-we-must-look-further-upstream-4259806</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[International Day of the Victims of Enforced Disappearances / A law against enforced disappearance cannot allow self-investigation]]></title>
+            <description><![CDATA[By Justice (retd) Moyeenul Islam Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/law-against-enforced-disappearance-cannot-allow-self-investigation-4259821</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/law-against-enforced-disappearance-cannot-allow-self-investigation-4259821</guid>
+            <dc:creator><![CDATA[Justice (retd) Moyeenul Islam Chowdhury]]></dc:creator>
+            <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Recognising enforced disappearance is not enough. We need accountability]]></title>
@@ -137,22 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-gas-crisis-also-logistics-crisis-4258936</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
             <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More LNG is not the answer to Bangladesh's energy crisis]]></title>
-            <description><![CDATA[By Shafiqul Alam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/more-lng-not-the-answer-bangladeshs-energy-crisis-4258201</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/more-lng-not-the-answer-bangladeshs-energy-crisis-4258201</guid>
-            <dc:creator><![CDATA[Shafiqul Alam]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modern-day parenting needs better support]]></title>
-            <description><![CDATA[By Anika Zerin Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/modern-day-parenting-needs-better-support-4258211</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/modern-day-parenting-needs-better-support-4258211</guid>
-            <dc:creator><![CDATA[Anika Zerin Chowdhury]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
