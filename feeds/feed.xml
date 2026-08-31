@@ -4,16 +4,47 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 31 Aug 2026 00:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 06:31:43 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 31 Aug 2026 00:07:18 GMT</pubDate>
+        <pubDate>Mon, 31 Aug 2026 06:31:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Fixing our fragmented health data requires institutional leadership]]></title>
+            <description><![CDATA[Over the past decade and a half, Bangladesh has invested substantial public resources in digital health systems.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/fixing-our-fragmented-health-data-requires-institutional-leadership-4260521</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fixing-our-fragmented-health-data-requires-institutional-leadership-4260521</guid>
+            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
+            <pubDate>Mon, 31 Aug 2026 06:31:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[For a sustainable future, we must take energy efficiency seriously]]></title>
+            <description><![CDATA[By Mohammad Alauddin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/sustainable-future-we-must-take-energy-efficiency-seriously-4260536</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/sustainable-future-we-must-take-energy-efficiency-seriously-4260536</guid>
+            <dc:creator><![CDATA[Mohammad Alauddin]]></dc:creator>
+            <pubDate>Mon, 31 Aug 2026 06:31:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh and Malaysia must break the recruitment syndicate’s grip]]></title>
+            <description><![CDATA[By Shariful Hasan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-and-malaysia-must-break-the-recruitment-syndicates-grip-4260541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-and-malaysia-must-break-the-recruitment-syndicates-grip-4260541</guid>
+            <dc:creator><![CDATA[Shariful Hasan]]></dc:creator>
+            <pubDate>Mon, 31 Aug 2026 06:31:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh should engage with Mecca pact, but not rush to join it]]></title>
+            <description><![CDATA[By Nasir Uddin Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-should-engage-mecca-pact-not-rush-join-it-4260571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-should-engage-mecca-pact-not-rush-join-it-4260571</guid>
+            <dc:creator><![CDATA[Nasir Uddin Ahmed]]></dc:creator>
+            <pubDate>Mon, 31 Aug 2026 06:31:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Violent crime cannot become the norm]]></title>
-            <description><![CDATA[Authorities must take effective measures to curb criminal activities.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/violent-crime-cannot-become-the-norm-4260331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/violent-crime-cannot-become-the-norm-4260331</guid>
-            <pubDate>Mon, 31 Aug 2026 00:07:18 GMT</pubDate>
+            <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh needs a courtroom AI policy, and soon]]></title>
@@ -32,19 +63,15 @@
             <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[International Day of the Victims of Enforced Disappearances / A law against enforced disappearance cannot allow self-investigation]]></title>
-            <description><![CDATA[By Justice (retd) Moyeenul Islam Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/law-against-enforced-disappearance-cannot-allow-self-investigation-4259821</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/law-against-enforced-disappearance-cannot-allow-self-investigation-4259821</guid>
-            <dc:creator><![CDATA[Justice (retd) Moyeenul Islam Chowdhury]]></dc:creator>
-            <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Don’t let the citizen service centres sit idle]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-the-citizen-service-centres-sit-idle-4260511</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-the-citizen-service-centres-sit-idle-4260511</guid>
+            <pubDate>Mon, 31 Aug 2026 06:31:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Recognising enforced disappearance is not enough. We need accountability]]></title>
-            <description><![CDATA[By Monorom Polok]]></description>
-            <link>https://www.thedailystar.net/opinion/news/recognising-enforced-disappearance-not-enough-we-need-accountability-4259826</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/recognising-enforced-disappearance-not-enough-we-need-accountability-4259826</guid>
-            <dc:creator><![CDATA[Monorom Polok]]></dc:creator>
+            <title><![CDATA[Don’t let greed decide St Martin’s future]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-greed-decide-st-martins-future-4259801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-greed-decide-st-martins-future-4259801</guid>
             <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -52,28 +79,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/we-need-better-strategy-weather-the-fallout-us-israel-war-iran-4259466</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-need-better-strategy-weather-the-fallout-us-israel-war-iran-4259466</guid>
             <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh needs to invest in home-based childcare]]></title>
-            <description><![CDATA[By Golam Gilane]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-invest-home-based-childcare-4258931</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-invest-home-based-childcare-4258931</guid>
-            <dc:creator><![CDATA[Golam Gilane]]></dc:creator>
-            <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It is time to make menstrual leave a reality in Bangladesh]]></title>
-            <description><![CDATA[By Nazifa Tasmim]]></description>
-            <link>https://www.thedailystar.net/opinion/news/it-time-make-menstrual-leave-reality-bangladesh-4258941</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/it-time-make-menstrual-leave-reality-bangladesh-4258941</guid>
-            <dc:creator><![CDATA[Nazifa Tasmim]]></dc:creator>
-            <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t let greed decide St Martin’s future]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-greed-decide-st-martins-future-4259801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-greed-decide-st-martins-future-4259801</guid>
-            <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dhaka must reclaim its lost water bodies]]></title>
@@ -94,10 +99,36 @@
             <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nepal's grief is ours too]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/nepals-grief-ours-too-4257956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/nepals-grief-ours-too-4257956</guid>
-            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Recognising enforced disappearance is not enough. We need accountability]]></title>
+            <description><![CDATA[By Monorom Polok]]></description>
+            <link>https://www.thedailystar.net/opinion/news/recognising-enforced-disappearance-not-enough-we-need-accountability-4259826</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/recognising-enforced-disappearance-not-enough-we-need-accountability-4259826</guid>
+            <dc:creator><![CDATA[Monorom Polok]]></dc:creator>
+            <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh needs to invest in home-based childcare]]></title>
+            <description><![CDATA[By Golam Gilane]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-invest-home-based-childcare-4258931</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-invest-home-based-childcare-4258931</guid>
+            <dc:creator><![CDATA[Golam Gilane]]></dc:creator>
+            <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It is time to make menstrual leave a reality in Bangladesh]]></title>
+            <description><![CDATA[By Nazifa Tasmim]]></description>
+            <link>https://www.thedailystar.net/opinion/news/it-time-make-menstrual-leave-reality-bangladesh-4258941</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/it-time-make-menstrual-leave-reality-bangladesh-4258941</guid>
+            <dc:creator><![CDATA[Nazifa Tasmim]]></dc:creator>
+            <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nine years on, the Rohingya still don't have a safe road home]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/nine-years-the-rohingya-still-dont-have-safe-road-home-4258916</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/nine-years-the-rohingya-still-dont-have-safe-road-home-4258916</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh’s gas crisis is also a logistics crisis]]></title>
@@ -122,38 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/modern-day-parenting-needs-better-support-4258211</guid>
             <dc:creator><![CDATA[Anika Zerin Chowdhury]]></dc:creator>
             <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We need to prioritise future-ready skills over freelancing]]></title>
-            <description><![CDATA[By Zarif Faiaz]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-need-prioritise-future-ready-skills-over-freelancing-4258216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-prioritise-future-ready-skills-over-freelancing-4258216</guid>
-            <dc:creator><![CDATA[Zarif Faiaz]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Pink Bus paradox and the price of women's safety]]></title>
-            <description><![CDATA[By Nadia Afroze Disha]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-pink-bus-paradox-and-the-price-womens-safety-4258221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-pink-bus-paradox-and-the-price-womens-safety-4258221</guid>
-            <dc:creator><![CDATA[Nadia Afroze Disha]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Invest Bangladesh live up to the expectations?]]></title>
-            <description><![CDATA[By Rupayan Sarker]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/can-invest-bangladesh-live-the-expectations-4256826</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-invest-bangladesh-live-the-expectations-4256826</guid>
-            <dc:creator><![CDATA[Rupayan Sarker]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our health system is better resourced now. Why can’t it still deliver?]]></title>
-            <description><![CDATA[By Rumana Huque]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</guid>
-            <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
