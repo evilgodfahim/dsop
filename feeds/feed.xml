@@ -4,16 +4,22 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 11:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 15:54:06 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Sep 2026 11:05:25 GMT</pubDate>
+        <pubDate>Tue, 01 Sep 2026 15:54:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Hurrah for some, pain for many]]></title>
+            <description><![CDATA[We understand that the new government found itself in a precarious position because the new pay scale was effectively committed to by the last administration.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/hurrah-some-pain-many-4262196</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/hurrah-some-pain-many-4262196</guid>
+            <pubDate>Tue, 01 Sep 2026 15:54:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What’s the point of having loud ‘silent’ zones?]]></title>
-            <description><![CDATA[Enforce noise pollution rules without delay]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/whats-the-point-having-loud-silent-zones-4261581</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/whats-the-point-having-loud-silent-zones-4261581</guid>
-            <pubDate>Tue, 01 Sep 2026 11:05:25 GMT</pubDate>
+            <pubDate>Tue, 01 Sep 2026 15:54:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tarique Rahman’s India visit and the end of automatic deference]]></title>
@@ -21,7 +27,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/tarique-rahmans-india-visit-and-the-end-automatic-deference-4261596</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tarique-rahmans-india-visit-and-the-end-automatic-deference-4261596</guid>
             <dc:creator><![CDATA[Shakeel Anwar]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 11:05:25 GMT</pubDate>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Weighing Bangladesh's options in the Mecca treaty]]></title>
@@ -29,7 +35,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/weighing-bangladeshs-options-the-mecca-treaty-4261621</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/weighing-bangladeshs-options-the-mecca-treaty-4261621</guid>
             <dc:creator><![CDATA[Ali Riaz]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 11:05:25 GMT</pubDate>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's keeping Bangladesh from becoming an agricultural export hub]]></title>
@@ -37,7 +43,7 @@
             <link>https://www.thedailystar.net/opinion/news/whats-keeping-bangladesh-becoming-agricultural-export-hub-4261611</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/whats-keeping-bangladesh-becoming-agricultural-export-hub-4261611</guid>
             <dc:creator><![CDATA[Ahmed Rifat Kabir Sristy]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 11:05:25 GMT</pubDate>
+            <pubDate>Tue, 01 Sep 2026 15:54:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is Bangladesh ready to access international climate finance?]]></title>
@@ -53,7 +59,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/diary-lawmaker-laws-rights-and-the-unmaking-them-4261646</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/diary-lawmaker-laws-rights-and-the-unmaking-them-4261646</guid>
             <dc:creator><![CDATA[Mir Ahmad Bin Quasem (Arman)]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 11:05:25 GMT</pubDate>
+            <pubDate>Tue, 01 Sep 2026 15:54:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[For a sustainable future, we must take energy efficiency seriously]]></title>
@@ -64,15 +70,15 @@
             <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Don’t let the citizen service centres sit idle]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-the-citizen-service-centres-sit-idle-4260511</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-the-citizen-service-centres-sit-idle-4260511</guid>
-            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Two rights bills deserve more than a rushed stamp of approval]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/two-rights-bills-deserve-more-rushed-stamp-approval-4261336</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/two-rights-bills-deserve-more-rushed-stamp-approval-4261336</guid>
+            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t let the citizen service centres sit idle]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-the-citizen-service-centres-sit-idle-4260511</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-the-citizen-service-centres-sit-idle-4260511</guid>
             <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -92,12 +98,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/we-need-better-strategy-weather-the-fallout-us-israel-war-iran-4259466</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-need-better-strategy-weather-the-fallout-us-israel-war-iran-4259466</guid>
             <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka must reclaim its lost water bodies]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/dhaka-must-reclaim-its-lost-water-bodies-4258796</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dhaka-must-reclaim-its-lost-water-bodies-4258796</guid>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh and Malaysia must break the recruitment syndicate’s grip]]></title>
