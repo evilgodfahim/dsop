@@ -4,17 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 05:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 10:21:54 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 05:19:39 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 10:21:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[A cautionary tale from Louisiana for the Padma barrage]]></title>
+            <description><![CDATA[In the 1980s, as a young geologist in Louisiana, I watched as a delta died. Louisiana’s coast loses a football field’s worth of of wetlands every 100 minutes.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/cautionary-tale-louisiana-the-padma-barrage-4262386</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/cautionary-tale-louisiana-the-padma-barrage-4262386</guid>
+            <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 10:21:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Agricultural aid must be better targeted]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/agricultural-aid-must-be-better-targeted-4262406</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/agricultural-aid-must-be-better-targeted-4262406</guid>
+            <pubDate>Wed, 02 Sep 2026 10:21:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[We take lab reports on trust. How can we make them more reliable?]]></title>
-            <description><![CDATA[When we get a physician-prescribed blood test done at a diagnostic centre, we usually assume the report to be correct.]]></description>
+            <description><![CDATA[By Mamudul Hasan Razu]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/we-take-lab-reports-trust-how-can-we-make-them-more-reliable-4262391</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-take-lab-reports-trust-how-can-we-make-them-more-reliable-4262391</guid>
             <dc:creator><![CDATA[Mamudul Hasan Razu]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 05:19:39 GMT</pubDate>
+            <pubDate>Wed, 02 Sep 2026 10:21:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hurrah for some, pain for many]]></title>
@@ -28,7 +42,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/what-nepals-devastating-floods-teach-us-about-climate-vulnerability-4262396</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-nepals-devastating-floods-teach-us-about-climate-vulnerability-4262396</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 05:19:39 GMT</pubDate>
+            <pubDate>Wed, 02 Sep 2026 10:21:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Rohingya need a unified strategy, not piecemeal efforts]]></title>
@@ -36,13 +50,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-rohingya-need-unified-strategy-not-piecemeal-efforts-4262401</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-rohingya-need-unified-strategy-not-piecemeal-efforts-4262401</guid>
             <dc:creator><![CDATA[Shahab Enam Khan]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 05:19:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Agricultural aid must be better targeted]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/agricultural-aid-must-be-better-targeted-4262406</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/agricultural-aid-must-be-better-targeted-4262406</guid>
-            <pubDate>Wed, 02 Sep 2026 05:19:39 GMT</pubDate>
+            <pubDate>Wed, 02 Sep 2026 10:21:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What’s the point of having loud ‘silent’ zones?]]></title>
@@ -56,14 +64,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/tarique-rahmans-india-visit-and-the-end-automatic-deference-4261596</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tarique-rahmans-india-visit-and-the-end-automatic-deference-4261596</guid>
             <dc:creator><![CDATA[Shakeel Anwar]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weighing Bangladesh's options in the Mecca treaty]]></title>
-            <description><![CDATA[By Ali Riaz]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/weighing-bangladeshs-options-the-mecca-treaty-4261621</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/weighing-bangladeshs-options-the-mecca-treaty-4261621</guid>
-            <dc:creator><![CDATA[Ali Riaz]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -95,6 +95,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/we-need-better-strategy-weather-the-fallout-us-israel-war-iran-4259466</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-need-better-strategy-weather-the-fallout-us-israel-war-iran-4259466</guid>
             <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's keeping Bangladesh from becoming an agricultural export hub]]></title>
+            <description><![CDATA[By Ahmed Rifat Kabir Sristy]]></description>
+            <link>https://www.thedailystar.net/opinion/news/whats-keeping-bangladesh-becoming-agricultural-export-hub-4261611</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/whats-keeping-bangladesh-becoming-agricultural-export-hub-4261611</guid>
+            <dc:creator><![CDATA[Ahmed Rifat Kabir Sristy]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is Bangladesh ready to access international climate finance?]]></title>
@@ -143,14 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-should-engage-mecca-pact-not-rush-join-it-4260571</guid>
             <dc:creator><![CDATA[Nasir Uddin Ahmed]]></dc:creator>
             <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could atmospheric water harvesting help Bangladesh tackle water scarcity?]]></title>
-            <description><![CDATA[By Sabbir Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/could-atmospheric-water-harvesting-help-bangladesh-tackle-water-scarcity-4260321</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/could-atmospheric-water-harvesting-help-bangladesh-tackle-water-scarcity-4260321</guid>
-            <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
-            <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
