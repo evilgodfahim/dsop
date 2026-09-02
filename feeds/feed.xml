@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 10:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 14:52:25 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 10:21:54 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 14:52:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A cautionary tale from Louisiana for the Padma barrage]]></title>
@@ -14,13 +14,13 @@
             <link>https://www.thedailystar.net/opinion/news/cautionary-tale-louisiana-the-padma-barrage-4262386</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/cautionary-tale-louisiana-the-padma-barrage-4262386</guid>
             <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 10:21:54 GMT</pubDate>
+            <pubDate>Wed, 02 Sep 2026 14:52:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Agricultural aid must be better targeted]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/agricultural-aid-must-be-better-targeted-4262406</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/agricultural-aid-must-be-better-targeted-4262406</guid>
-            <pubDate>Wed, 02 Sep 2026 10:21:54 GMT</pubDate>
+            <pubDate>Wed, 02 Sep 2026 14:52:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We take lab reports on trust. How can we make them more reliable?]]></title>
@@ -28,7 +28,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/we-take-lab-reports-trust-how-can-we-make-them-more-reliable-4262391</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-take-lab-reports-trust-how-can-we-make-them-more-reliable-4262391</guid>
             <dc:creator><![CDATA[Mamudul Hasan Razu]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 10:21:54 GMT</pubDate>
+            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hurrah for some, pain for many]]></title>
@@ -42,7 +42,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/what-nepals-devastating-floods-teach-us-about-climate-vulnerability-4262396</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-nepals-devastating-floods-teach-us-about-climate-vulnerability-4262396</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 10:21:54 GMT</pubDate>
+            <pubDate>Wed, 02 Sep 2026 14:52:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Rohingya need a unified strategy, not piecemeal efforts]]></title>
@@ -50,7 +50,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-rohingya-need-unified-strategy-not-piecemeal-efforts-4262401</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-rohingya-need-unified-strategy-not-piecemeal-efforts-4262401</guid>
             <dc:creator><![CDATA[Shahab Enam Khan]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 10:21:54 GMT</pubDate>
+            <pubDate>Wed, 02 Sep 2026 14:52:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What’s the point of having loud ‘silent’ zones?]]></title>
@@ -65,6 +65,12 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tarique-rahmans-india-visit-and-the-end-automatic-deference-4261596</guid>
             <dc:creator><![CDATA[Shakeel Anwar]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fix the gaps fuelling measles and dengue]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-gaps-fuelling-measles-and-dengue-4263041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-gaps-fuelling-measles-and-dengue-4263041</guid>
+            <pubDate>Wed, 02 Sep 2026 14:52:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two rights bills deserve more than a rushed stamp of approval]]></title>
@@ -89,12 +95,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-greed-decide-st-martins-future-4259801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-greed-decide-st-martins-future-4259801</guid>
             <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We need a better strategy to weather the fallout of US-Israel war on Iran]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/we-need-better-strategy-weather-the-fallout-us-israel-war-iran-4259466</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-need-better-strategy-weather-the-fallout-us-israel-war-iran-4259466</guid>
-            <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's keeping Bangladesh from becoming an agricultural export hub]]></title>
