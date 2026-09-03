@@ -4,16 +4,23 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 16:49:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 19:33:28 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 16:49:38 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 19:33:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Column by Mahfuz Anam / PM continues to build confidence, BNP corrodes it]]></title>
+            <description><![CDATA[What are the lessons of July charter that need to be implemented?]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/pm-continues-build-confidence-bnp-corrodes-it-4264251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/pm-continues-build-confidence-bnp-corrodes-it-4264251</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Thu, 03 Sep 2026 19:33:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Prioritise gas for export factories]]></title>
-            <description><![CDATA[Government must urgently reactivate idle oil and coal plants.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/prioritise-gas-export-factories-4264021</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/prioritise-gas-export-factories-4264021</guid>
-            <pubDate>Thu, 03 Sep 2026 16:49:38 GMT</pubDate>
+            <pubDate>Thu, 03 Sep 2026 19:33:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ninth pay scale / Govt jobs are getting better, but what about the private sector?]]></title>
@@ -35,7 +42,7 @@
             <title><![CDATA[Citizens’ personal data is not for sale]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/citizens-personal-data-not-sale-4263331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/citizens-personal-data-not-sale-4263331</guid>
-            <pubDate>Thu, 03 Sep 2026 16:49:38 GMT</pubDate>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A cautionary tale from Louisiana for the Padma barrage]]></title>
@@ -60,16 +67,16 @@
             <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hurrah for some, pain for many]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/hurrah-some-pain-many-4262196</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/hurrah-some-pain-many-4262196</guid>
-            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fix the gaps fuelling measles and dengue]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-gaps-fuelling-measles-and-dengue-4263041</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-gaps-fuelling-measles-and-dengue-4263041</guid>
             <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hurrah for some, pain for many]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/hurrah-some-pain-many-4262196</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/hurrah-some-pain-many-4262196</guid>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What’s the point of having loud ‘silent’ zones?]]></title>
@@ -88,12 +95,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-the-citizen-service-centres-sit-idle-4260511</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-the-citizen-service-centres-sit-idle-4260511</guid>
             <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Violent crime cannot become the norm]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/violent-crime-cannot-become-the-norm-4260331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/violent-crime-cannot-become-the-norm-4260331</guid>
-            <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Nepal’s devastating floods teach us about climate vulnerability]]></title>
