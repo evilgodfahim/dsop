@@ -4,13 +4,35 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 02:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 07:36:34 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 02:28:14 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 07:36:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Ninth pay scale / Govt jobs are getting better, but what about the private sector?]]></title>
+            <description><![CDATA[The just-approved ninth National Pay Scale settles one argument and opens another. Government employees now have their desired raise to be rolled out in three phases, with the first starting in July 2026.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/govt-jobs-are-getting-better-what-about-the-private-sector-4263341</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/govt-jobs-are-getting-better-what-about-the-private-sector-4263341</guid>
+            <dc:creator><![CDATA[Nafew Sajed Joy]]></dc:creator>
+            <pubDate>Thu, 03 Sep 2026 07:36:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s climate pledges need political ownership]]></title>
+            <description><![CDATA[By Ashish Barua]]></description>
+            <link>https://www.thedailystar.net/opinion/news/bangladeshs-climate-pledges-need-political-ownership-4263346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladeshs-climate-pledges-need-political-ownership-4263346</guid>
+            <dc:creator><![CDATA[Ashish Barua]]></dc:creator>
+            <pubDate>Thu, 03 Sep 2026 07:36:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Citizens’ personal data is not for sale]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/citizens-personal-data-not-sale-4263331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/citizens-personal-data-not-sale-4263331</guid>
+            <pubDate>Thu, 03 Sep 2026 07:36:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A cautionary tale from Louisiana for the Padma barrage]]></title>
-            <description><![CDATA[In the 1980s, as a young geologist in Louisiana, I watched as a delta died. Louisiana’s coast loses a football field’s worth of of wetlands every 100 minutes.]]></description>
+            <description><![CDATA[By Ahad Chowdhury]]></description>
             <link>https://www.thedailystar.net/opinion/news/cautionary-tale-louisiana-the-padma-barrage-4262386</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/cautionary-tale-louisiana-the-padma-barrage-4262386</guid>
             <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
@@ -45,11 +67,9 @@
             <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Rohingya need a unified strategy, not piecemeal efforts]]></title>
-            <description><![CDATA[By Shahab Enam Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-rohingya-need-unified-strategy-not-piecemeal-efforts-4262401</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-rohingya-need-unified-strategy-not-piecemeal-efforts-4262401</guid>
-            <dc:creator><![CDATA[Shahab Enam Khan]]></dc:creator>
+            <title><![CDATA[Fix the gaps fuelling measles and dengue]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-gaps-fuelling-measles-and-dengue-4263041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-gaps-fuelling-measles-and-dengue-4263041</guid>
             <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -57,20 +77,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/whats-the-point-having-loud-silent-zones-4261581</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/whats-the-point-having-loud-silent-zones-4261581</guid>
             <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tarique Rahman’s India visit and the end of automatic deference]]></title>
-            <description><![CDATA[By Shakeel Anwar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/tarique-rahmans-india-visit-and-the-end-automatic-deference-4261596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tarique-rahmans-india-visit-and-the-end-automatic-deference-4261596</guid>
-            <dc:creator><![CDATA[Shakeel Anwar]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fix the gaps fuelling measles and dengue]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-gaps-fuelling-measles-and-dengue-4263041</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-gaps-fuelling-measles-and-dengue-4263041</guid>
-            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two rights bills deserve more than a rushed stamp of approval]]></title>
@@ -91,10 +97,20 @@
             <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Don’t let greed decide St Martin’s future]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-greed-decide-st-martins-future-4259801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-greed-decide-st-martins-future-4259801</guid>
-            <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Rohingya need a unified strategy, not piecemeal efforts]]></title>
+            <description><![CDATA[By Shahab Enam Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-rohingya-need-unified-strategy-not-piecemeal-efforts-4262401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-rohingya-need-unified-strategy-not-piecemeal-efforts-4262401</guid>
+            <dc:creator><![CDATA[Shahab Enam Khan]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weighing Bangladesh's options in the Mecca treaty]]></title>
+            <description><![CDATA[By Ali Riaz]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/weighing-bangladeshs-options-the-mecca-treaty-4261621</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/weighing-bangladeshs-options-the-mecca-treaty-4261621</guid>
+            <dc:creator><![CDATA[Ali Riaz]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's keeping Bangladesh from becoming an agricultural export hub]]></title>
@@ -134,22 +150,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/fixing-our-fragmented-health-data-requires-institutional-leadership-4260521</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fixing-our-fragmented-health-data-requires-institutional-leadership-4260521</guid>
             <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh and Malaysia must break the recruitment syndicate’s grip]]></title>
-            <description><![CDATA[By Shariful Hasan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-and-malaysia-must-break-the-recruitment-syndicates-grip-4260541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-and-malaysia-must-break-the-recruitment-syndicates-grip-4260541</guid>
-            <dc:creator><![CDATA[Shariful Hasan]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh should engage with Mecca pact, but not rush to join it]]></title>
-            <description><![CDATA[By Nasir Uddin Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-should-engage-mecca-pact-not-rush-join-it-4260571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-should-engage-mecca-pact-not-rush-join-it-4260571</guid>
-            <dc:creator><![CDATA[Nasir Uddin Ahmed]]></dc:creator>
             <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
