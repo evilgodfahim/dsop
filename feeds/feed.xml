@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 07:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 12:27:10 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 07:36:34 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 12:27:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Prioritise gas for export factories]]></title>
+            <description><![CDATA[Government must urgently reactivate idle oil and coal plants.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/prioritise-gas-export-factories-4264021</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/prioritise-gas-export-factories-4264021</guid>
+            <pubDate>Thu, 03 Sep 2026 12:27:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ninth pay scale / Govt jobs are getting better, but what about the private sector?]]></title>
-            <description><![CDATA[The just-approved ninth National Pay Scale settles one argument and opens another. Government employees now have their desired raise to be rolled out in three phases, with the first starting in July 2026.]]></description>
+            <description><![CDATA[By Nafew Sajed Joy]]></description>
             <link>https://www.thedailystar.net/opinion/news/govt-jobs-are-getting-better-what-about-the-private-sector-4263341</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/govt-jobs-are-getting-better-what-about-the-private-sector-4263341</guid>
             <dc:creator><![CDATA[Nafew Sajed Joy]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 07:36:34 GMT</pubDate>
+            <pubDate>Thu, 03 Sep 2026 12:27:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh’s climate pledges need political ownership]]></title>
@@ -22,13 +29,13 @@
             <link>https://www.thedailystar.net/opinion/news/bangladeshs-climate-pledges-need-political-ownership-4263346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladeshs-climate-pledges-need-political-ownership-4263346</guid>
             <dc:creator><![CDATA[Ashish Barua]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 07:36:34 GMT</pubDate>
+            <pubDate>Thu, 03 Sep 2026 12:27:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Citizens’ personal data is not for sale]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/citizens-personal-data-not-sale-4263331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/citizens-personal-data-not-sale-4263331</guid>
-            <pubDate>Thu, 03 Sep 2026 07:36:34 GMT</pubDate>
+            <pubDate>Thu, 03 Sep 2026 12:27:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A cautionary tale from Louisiana for the Padma barrage]]></title>
@@ -59,14 +66,6 @@
             <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What Nepal’s devastating floods teach us about climate vulnerability]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-nepals-devastating-floods-teach-us-about-climate-vulnerability-4262396</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-nepals-devastating-floods-teach-us-about-climate-vulnerability-4262396</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fix the gaps fuelling measles and dengue]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-gaps-fuelling-measles-and-dengue-4263041</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-gaps-fuelling-measles-and-dengue-4263041</guid>
@@ -95,6 +94,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/violent-crime-cannot-become-the-norm-4260331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/violent-crime-cannot-become-the-norm-4260331</guid>
             <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Nepal’s devastating floods teach us about climate vulnerability]]></title>
+            <description><![CDATA[By Fahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-nepals-devastating-floods-teach-us-about-climate-vulnerability-4262396</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-nepals-devastating-floods-teach-us-about-climate-vulnerability-4262396</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Rohingya need a unified strategy, not piecemeal efforts]]></title>
@@ -142,14 +149,6 @@
             <link>https://www.thedailystar.net/opinion/news/sustainable-future-we-must-take-energy-efficiency-seriously-4260536</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/sustainable-future-we-must-take-energy-efficiency-seriously-4260536</guid>
             <dc:creator><![CDATA[Mohammad Alauddin]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fixing our fragmented health data requires institutional leadership]]></title>
-            <description><![CDATA[By Syed Abdul Hamid]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/fixing-our-fragmented-health-data-requires-institutional-leadership-4260521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fixing-our-fragmented-health-data-requires-institutional-leadership-4260521</guid>
-            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
             <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
