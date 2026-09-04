@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 00:41:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 05:25:03 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 00:41:16 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 05:25:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / PM continues to build confidence, BNP corrodes it]]></title>
@@ -14,7 +14,31 @@
             <link>https://www.thedailystar.net/opinion/views/news/pm-continues-build-confidence-bnp-corrodes-it-4264251</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/pm-continues-build-confidence-bnp-corrodes-it-4264251</guid>
             <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 00:41:16 GMT</pubDate>
+            <pubDate>Fri, 04 Sep 2026 05:25:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s digital transformation still needs human intermediaries]]></title>
+            <description><![CDATA[By GM Saiful Islam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-digital-transformation-still-needs-human-intermediaries-4264256</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-digital-transformation-still-needs-human-intermediaries-4264256</guid>
+            <dc:creator><![CDATA[GM Saiful Islam]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 05:25:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nepal’s claim for climate compensation and why it matters for us]]></title>
+            <description><![CDATA[By Mst Asma Mahmud]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/nepals-claim-climate-compensation-and-why-it-matters-us-4264261</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/nepals-claim-climate-compensation-and-why-it-matters-us-4264261</guid>
+            <dc:creator><![CDATA[Mst Asma Mahmud]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 05:25:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Time to draw up a reform roadmap for LDC graduatio]]></title>
+            <description><![CDATA[By AKM Wahiduzzaman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/time-draw-reform-roadmap-ldc-graduatio-4264266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-draw-reform-roadmap-ldc-graduatio-4264266</guid>
+            <dc:creator><![CDATA[AKM Wahiduzzaman]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 05:25:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prioritise gas for export factories]]></title>
@@ -45,31 +69,15 @@
             <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A cautionary tale from Louisiana for the Padma barrage]]></title>
-            <description><![CDATA[By Ahad Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/news/cautionary-tale-louisiana-the-padma-barrage-4262386</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/cautionary-tale-louisiana-the-padma-barrage-4262386</guid>
-            <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
+            <title><![CDATA[Fix the gaps fuelling measles and dengue]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-gaps-fuelling-measles-and-dengue-4263041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-gaps-fuelling-measles-and-dengue-4263041</guid>
             <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Agricultural aid must be better targeted]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/agricultural-aid-must-be-better-targeted-4262406</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/agricultural-aid-must-be-better-targeted-4262406</guid>
-            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We take lab reports on trust. How can we make them more reliable?]]></title>
-            <description><![CDATA[By Mamudul Hasan Razu]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-take-lab-reports-trust-how-can-we-make-them-more-reliable-4262391</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-take-lab-reports-trust-how-can-we-make-them-more-reliable-4262391</guid>
-            <dc:creator><![CDATA[Mamudul Hasan Razu]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fix the gaps fuelling measles and dengue]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-gaps-fuelling-measles-and-dengue-4263041</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-gaps-fuelling-measles-and-dengue-4263041</guid>
             <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -91,10 +99,20 @@
             <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Don’t let the citizen service centres sit idle]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-the-citizen-service-centres-sit-idle-4260511</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-the-citizen-service-centres-sit-idle-4260511</guid>
-            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[We take lab reports on trust. How can we make them more reliable?]]></title>
+            <description><![CDATA[By Mamudul Hasan Razu]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-take-lab-reports-trust-how-can-we-make-them-more-reliable-4262391</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-take-lab-reports-trust-how-can-we-make-them-more-reliable-4262391</guid>
+            <dc:creator><![CDATA[Mamudul Hasan Razu]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tarique Rahman’s India visit and the end of automatic deference]]></title>
+            <description><![CDATA[By Shakeel Anwar]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/tarique-rahmans-india-visit-and-the-end-automatic-deference-4261596</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tarique-rahmans-india-visit-and-the-end-automatic-deference-4261596</guid>
+            <dc:creator><![CDATA[Shakeel Anwar]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Nepal’s devastating floods teach us about climate vulnerability]]></title>
@@ -134,22 +152,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-ready-access-international-climate-finance-4261261</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-ready-access-international-climate-finance-4261261</guid>
             <dc:creator><![CDATA[Md. Shahidul Islam]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diary of a lawmaker: Laws for rights and the unmaking of them]]></title>
-            <description><![CDATA[By Mir Ahmad Bin Quasem]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/diary-lawmaker-laws-rights-and-the-unmaking-them-4261646</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/diary-lawmaker-laws-rights-and-the-unmaking-them-4261646</guid>
-            <dc:creator><![CDATA[Mir Ahmad Bin Quasem]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[For a sustainable future, we must take energy efficiency seriously]]></title>
-            <description><![CDATA[By Mohammad Alauddin]]></description>
-            <link>https://www.thedailystar.net/opinion/news/sustainable-future-we-must-take-energy-efficiency-seriously-4260536</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/sustainable-future-we-must-take-energy-efficiency-seriously-4260536</guid>
-            <dc:creator><![CDATA[Mohammad Alauddin]]></dc:creator>
             <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
