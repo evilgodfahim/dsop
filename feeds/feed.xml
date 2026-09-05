@@ -4,16 +4,23 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Sep 2026 00:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 05:09:26 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 05 Sep 2026 00:32:24 GMT</pubDate>
+        <pubDate>Sat, 05 Sep 2026 05:09:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[We must carry Shahed’s fight against corruption forward]]></title>
+            <description><![CDATA[There are reasons to be both sad and hopeful about Shahed Sharif Ahmed.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-must-carry-shaheds-fight-against-corruption-forward-4264981</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-carry-shaheds-fight-against-corruption-forward-4264981</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 05 Sep 2026 05:09:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Impunity is fuelling violence]]></title>
-            <description><![CDATA[Make sincere efforts to stop violence against women and children.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/impunity-fuelling-violence-4264821</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/impunity-fuelling-violence-4264821</guid>
-            <pubDate>Sat, 05 Sep 2026 00:32:24 GMT</pubDate>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / PM continues to build confidence, BNP corrodes it]]></title>
@@ -40,6 +47,12 @@
             <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Treat hazardous jobs as they are]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/treat-hazardous-jobs-they-are-4264971</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/treat-hazardous-jobs-they-are-4264971</guid>
+            <pubDate>Sat, 05 Sep 2026 05:09:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Time to draw up a reform roadmap for LDC graduation]]></title>
             <description><![CDATA[By AKM Wahiduzzaman]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/time-draw-reform-roadmap-ldc-graduation-4264266</link>
@@ -51,22 +64,6 @@
             <title><![CDATA[Prioritise gas for export factories]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/prioritise-gas-export-factories-4264021</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/prioritise-gas-export-factories-4264021</guid>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ninth pay scale / Govt jobs are getting better, but what about the private sector?]]></title>
-            <description><![CDATA[By Nafew Sajed Joy]]></description>
-            <link>https://www.thedailystar.net/opinion/news/govt-jobs-are-getting-better-what-about-the-private-sector-4263341</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/govt-jobs-are-getting-better-what-about-the-private-sector-4263341</guid>
-            <dc:creator><![CDATA[Nafew Sajed Joy]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s climate pledges need political ownership]]></title>
-            <description><![CDATA[By Ashish Barua]]></description>
-            <link>https://www.thedailystar.net/opinion/news/bangladeshs-climate-pledges-need-political-ownership-4263346</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladeshs-climate-pledges-need-political-ownership-4263346</guid>
-            <dc:creator><![CDATA[Ashish Barua]]></dc:creator>
             <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -98,6 +95,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/hurrah-some-pain-many-4262196</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/hurrah-some-pain-many-4262196</guid>
             <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ninth pay scale / Govt jobs are getting better, but what about the private sector?]]></title>
+            <description><![CDATA[By Nafew Sajed Joy]]></description>
+            <link>https://www.thedailystar.net/opinion/news/govt-jobs-are-getting-better-what-about-the-private-sector-4263341</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/govt-jobs-are-getting-better-what-about-the-private-sector-4263341</guid>
+            <dc:creator><![CDATA[Nafew Sajed Joy]]></dc:creator>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A cautionary tale from Louisiana for the Padma barrage]]></title>
+            <description><![CDATA[By Ahad Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/news/cautionary-tale-louisiana-the-padma-barrage-4262386</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/cautionary-tale-louisiana-the-padma-barrage-4262386</guid>
+            <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We take lab reports on trust. How can we make them more reliable?]]></title>
@@ -138,22 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/weighing-bangladeshs-options-the-mecca-treaty-4261621</guid>
             <dc:creator><![CDATA[Ali Riaz]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's keeping Bangladesh from becoming an agricultural export hub]]></title>
-            <description><![CDATA[By Ahmed Rifat Kabir Sristy]]></description>
-            <link>https://www.thedailystar.net/opinion/news/whats-keeping-bangladesh-becoming-agricultural-export-hub-4261611</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/whats-keeping-bangladesh-becoming-agricultural-export-hub-4261611</guid>
-            <dc:creator><![CDATA[Ahmed Rifat Kabir Sristy]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Bangladesh ready to access international climate finance?]]></title>
-            <description><![CDATA[By Md. Shahidul Islam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-ready-access-international-climate-finance-4261261</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-ready-access-international-climate-finance-4261261</guid>
-            <dc:creator><![CDATA[Md. Shahidul Islam]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
