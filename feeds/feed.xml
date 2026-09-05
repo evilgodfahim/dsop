@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Sep 2026 09:47:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 13:10:28 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 05 Sep 2026 09:47:31 GMT</pubDate>
+        <pubDate>Sat, 05 Sep 2026 13:10:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Address health-sector staffing shortages urgently]]></title>
+            <description><![CDATA[Shortage of staff causing services to fall apart throughout healthcare system]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/address-health-sector-staffing-shortages-urgently-4265396</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-health-sector-staffing-shortages-urgently-4265396</guid>
+            <pubDate>Sat, 05 Sep 2026 13:10:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The price of putting childhood on display on social media]]></title>
-            <description><![CDATA[Scroll through Facebook, Instagram, TikTok or YouTube, and you will rarely go far without seeing a baby.]]></description>
+            <description><![CDATA[By Jahin Siddiqui]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/the-price-putting-childhood-display-social-media-4264986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-price-putting-childhood-display-social-media-4264986</guid>
             <dc:creator><![CDATA[Jahin Siddiqui]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 09:47:31 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 13:10:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We must carry Shahed’s fight against corruption forward]]></title>
@@ -22,7 +29,7 @@
             <link>https://www.thedailystar.net/opinion/news/we-must-carry-shaheds-fight-against-corruption-forward-4264981</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/we-must-carry-shaheds-fight-against-corruption-forward-4264981</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 09:47:31 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 13:10:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We keep importing our energy security. Why not build it at home?]]></title>
@@ -30,13 +37,7 @@
             <link>https://www.thedailystar.net/opinion/news/we-keep-importing-our-energy-security-why-not-build-it-home-4264996</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/we-keep-importing-our-energy-security-why-not-build-it-home-4264996</guid>
             <dc:creator><![CDATA[Nur Nishat Anjum]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 09:47:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Treat hazardous jobs as they are]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/treat-hazardous-jobs-they-are-4264971</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/treat-hazardous-jobs-they-are-4264971</guid>
-            <pubDate>Sat, 05 Sep 2026 09:47:31 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 13:10:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End of the Messi era and a generation’s love of football]]></title>
@@ -44,7 +45,13 @@
             <link>https://www.thedailystar.net/opinion/news/end-the-messi-era-and-generations-love-football-4265001</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/end-the-messi-era-and-generations-love-football-4265001</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 09:47:31 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 13:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Treat hazardous jobs as they are]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/treat-hazardous-jobs-they-are-4264971</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/treat-hazardous-jobs-they-are-4264971</guid>
+            <pubDate>Sat, 05 Sep 2026 13:10:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Impunity is fuelling violence]]></title>
@@ -58,14 +65,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/pm-continues-build-confidence-bnp-corrodes-it-4264251</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/pm-continues-build-confidence-bnp-corrodes-it-4264251</guid>
             <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s digital transformation still needs human intermediaries]]></title>
-            <description><![CDATA[By GM Saiful Islam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-digital-transformation-still-needs-human-intermediaries-4264256</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-digital-transformation-still-needs-human-intermediaries-4264256</guid>
-            <dc:creator><![CDATA[GM Saiful Islam]]></dc:creator>
             <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -97,6 +96,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/agricultural-aid-must-be-better-targeted-4262406</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/agricultural-aid-must-be-better-targeted-4262406</guid>
             <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nepal’s claim for climate compensation and why it matters for us]]></title>
+            <description><![CDATA[By Mst Asma Mahmud]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/nepals-claim-climate-compensation-and-why-it-matters-us-4264261</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/nepals-claim-climate-compensation-and-why-it-matters-us-4264261</guid>
+            <dc:creator><![CDATA[Mst Asma Mahmud]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Time to draw up a reform roadmap for LDC graduation]]></title>
@@ -145,14 +152,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tarique-rahmans-india-visit-and-the-end-automatic-deference-4261596</guid>
             <dc:creator><![CDATA[Shakeel Anwar]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Nepal’s devastating floods teach us about climate vulnerability]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-nepals-devastating-floods-teach-us-about-climate-vulnerability-4262396</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-nepals-devastating-floods-teach-us-about-climate-vulnerability-4262396</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
