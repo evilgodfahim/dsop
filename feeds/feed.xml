@@ -4,17 +4,25 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Sep 2026 10:03:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 13:52:43 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Sep 2026 10:03:38 GMT</pubDate>
+        <pubDate>Sun, 06 Sep 2026 13:52:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Bangladesh’s ‘Tesla’ crisis is really a crisis of regulation]]></title>
+            <description><![CDATA[The goal is to make the existing transport sector safer and more accountable.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-tesla-crisis-really-crisis-regulation-4266211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-tesla-crisis-really-crisis-regulation-4266211</guid>
+            <dc:creator><![CDATA[Musrat Hossain Mithila]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 13:52:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Our universities face a crisis bigger than graduate employability]]></title>
-            <description><![CDATA[During my inaugural public lecture of the Education Reform Initiative (ERI) last month, I argued that the education system was failing to convert years of schooling into learning, skills, employment, and productivity—a broken chain that remains central to our graduate unemployment crisis.]]></description>
+            <description><![CDATA[By M Niaz Asadullah]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/our-universities-face-crisis-bigger-graduate-employability-4265606</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-universities-face-crisis-bigger-graduate-employability-4265606</guid>
             <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 10:03:38 GMT</pubDate>
+            <pubDate>Sun, 06 Sep 2026 13:52:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The tea industry must turn higher prices into sustainable growth]]></title>
@@ -22,7 +30,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-tea-industry-must-turn-higher-prices-sustainable-growth-4265581</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-tea-industry-must-turn-higher-prices-sustainable-growth-4265581</guid>
             <dc:creator><![CDATA[Md. Rashidul Islam]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 10:03:38 GMT</pubDate>
+            <pubDate>Sun, 06 Sep 2026 13:52:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sifat’s arrest under anti-terror law: Vulgarity is not terrorism]]></title>
@@ -30,7 +38,7 @@
             <link>https://www.thedailystar.net/opinion/news/sifats-arrest-under-anti-terror-law-vulgarity-not-terrorism-4265611</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/sifats-arrest-under-anti-terror-law-vulgarity-not-terrorism-4265611</guid>
             <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 10:03:38 GMT</pubDate>
+            <pubDate>Sun, 06 Sep 2026 13:52:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nepal disaster: South Asia must unite to confront a shared climate threat]]></title>
@@ -38,13 +46,13 @@
             <link>https://www.thedailystar.net/opinion/news/nepal-disaster-south-asia-must-unite-confront-shared-climate-threat-4265601</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/nepal-disaster-south-asia-must-unite-confront-shared-climate-threat-4265601</guid>
             <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 10:03:38 GMT</pubDate>
+            <pubDate>Sun, 06 Sep 2026 13:52:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Make disability inclusion a daily reality]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/make-disability-inclusion-daily-reality-4265576</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/make-disability-inclusion-daily-reality-4265576</guid>
-            <pubDate>Sun, 06 Sep 2026 10:03:38 GMT</pubDate>
+            <pubDate>Sun, 06 Sep 2026 13:52:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Address health-sector staffing shortages urgently]]></title>
@@ -58,14 +66,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-price-putting-childhood-display-social-media-4264986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-price-putting-childhood-display-social-media-4264986</guid>
             <dc:creator><![CDATA[Jahin Siddiqui]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We must carry Shahed’s fight against corruption forward]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/news/we-must-carry-shaheds-fight-against-corruption-forward-4264981</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/we-must-carry-shaheds-fight-against-corruption-forward-4264981</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
             <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -97,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/citizens-personal-data-not-sale-4263331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/citizens-personal-data-not-sale-4263331</guid>
             <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We keep importing our energy security. Why not build it at home?]]></title>
+            <description><![CDATA[By Nur Nishat Anjum]]></description>
+            <link>https://www.thedailystar.net/opinion/news/we-keep-importing-our-energy-security-why-not-build-it-home-4264996</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/we-keep-importing-our-energy-security-why-not-build-it-home-4264996</guid>
+            <dc:creator><![CDATA[Nur Nishat Anjum]]></dc:creator>
+            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End of the Messi era and a generation’s love of football]]></title>
@@ -144,14 +152,6 @@
             <link>https://www.thedailystar.net/opinion/news/bangladeshs-climate-pledges-need-political-ownership-4263346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladeshs-climate-pledges-need-political-ownership-4263346</guid>
             <dc:creator><![CDATA[Ashish Barua]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ninth pay scale / Govt jobs are getting better, but what about the private sector?]]></title>
-            <description><![CDATA[By Nafew Sajed Joy]]></description>
-            <link>https://www.thedailystar.net/opinion/news/govt-jobs-are-getting-better-what-about-the-private-sector-4263341</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/govt-jobs-are-getting-better-what-about-the-private-sector-4263341</guid>
-            <dc:creator><![CDATA[Nafew Sajed Joy]]></dc:creator>
             <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
