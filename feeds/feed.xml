@@ -4,13 +4,37 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 00:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 05:33:52 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 00:35:45 GMT</pubDate>
+        <pubDate>Mon, 07 Sep 2026 05:33:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Laldia can handle bigger ships, but can the inland network keep up?]]></title>
+            <description><![CDATA[The recent inauguration of the construction of the $550 million Laldia Container Terminal has rightly generated optimism. With modern equipment, substantial additional capacity, and the ability to accommodate vessels of up to 6,000 TEUs, Laldia could change what is physically possible at Chattogram port.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/laldia-can-handle-bigger-ships-can-the-inland-network-keep-4266466</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/laldia-can-handle-bigger-ships-can-the-inland-network-keep-4266466</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 05:33:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When can political rivals in Bangladesh safely distrust each other?]]></title>
+            <description><![CDATA[By Asif Bin Ali]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/when-can-political-rivals-bangladesh-safely-distrust-each-other-4266476</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-can-political-rivals-bangladesh-safely-distrust-each-other-4266476</guid>
+            <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 05:33:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ninth pay scale: A salary hike alone won't curb corruption in public service]]></title>
+            <description><![CDATA[By Md. Bakhtiar Uddin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/ninth-pay-scale-salary-hike-alone-wont-curb-corruption-public-service-4266481</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ninth-pay-scale-salary-hike-alone-wont-curb-corruption-public-service-4266481</guid>
+            <dc:creator><![CDATA[Md. Bakhtiar Uddin]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 05:33:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bangladesh’s ‘Tesla’ crisis is really a crisis of regulation]]></title>
-            <description><![CDATA[The goal is to make the existing transport sector safer and more accountable.]]></description>
+            <description><![CDATA[By Musrat Hossain Mithila]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-tesla-crisis-really-crisis-regulation-4266211</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-tesla-crisis-really-crisis-regulation-4266211</guid>
             <dc:creator><![CDATA[Musrat Hossain Mithila]]></dc:creator>
@@ -41,12 +65,10 @@
             <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nepal disaster: South Asia must unite to confront a shared climate threat]]></title>
-            <description><![CDATA[By Farah Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/news/nepal-disaster-south-asia-must-unite-confront-shared-climate-threat-4265601</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/nepal-disaster-south-asia-must-unite-confront-shared-climate-threat-4265601</guid>
-            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Routine audit at government offices a must]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/routine-audit-government-offices-must-4266456</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/routine-audit-government-offices-must-4266456</guid>
+            <pubDate>Mon, 07 Sep 2026 05:33:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Make disability inclusion a daily reality]]></title>
@@ -58,14 +80,6 @@
             <title><![CDATA[Address health-sector staffing shortages urgently]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/address-health-sector-staffing-shortages-urgently-4265396</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-health-sector-staffing-shortages-urgently-4265396</guid>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The price of putting childhood on display on social media]]></title>
-            <description><![CDATA[By Jahin Siddiqui]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-price-putting-childhood-display-social-media-4264986</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-price-putting-childhood-display-social-media-4264986</guid>
-            <dc:creator><![CDATA[Jahin Siddiqui]]></dc:creator>
             <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -87,16 +101,20 @@
             <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prioritise gas for export factories]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/prioritise-gas-export-factories-4264021</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/prioritise-gas-export-factories-4264021</guid>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[The price of putting childhood on display on social media]]></title>
+            <description><![CDATA[By Jahin Siddiqui]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-price-putting-childhood-display-social-media-4264986</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-price-putting-childhood-display-social-media-4264986</guid>
+            <dc:creator><![CDATA[Jahin Siddiqui]]></dc:creator>
+            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Citizens’ personal data is not for sale]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/citizens-personal-data-not-sale-4263331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/citizens-personal-data-not-sale-4263331</guid>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[We must carry Shahed’s fight against corruption forward]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/news/we-must-carry-shaheds-fight-against-corruption-forward-4264981</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/we-must-carry-shaheds-fight-against-corruption-forward-4264981</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We keep importing our energy security. Why not build it at home?]]></title>
@@ -137,22 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/nepals-claim-climate-compensation-and-why-it-matters-us-4264261</guid>
             <dc:creator><![CDATA[Mst Asma Mahmud]]></dc:creator>
             <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Time to draw up a reform roadmap for LDC graduation]]></title>
-            <description><![CDATA[By AKM Wahiduzzaman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/time-draw-reform-roadmap-ldc-graduation-4264266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-draw-reform-roadmap-ldc-graduation-4264266</guid>
-            <dc:creator><![CDATA[AKM Wahiduzzaman]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s climate pledges need political ownership]]></title>
-            <description><![CDATA[By Ashish Barua]]></description>
-            <link>https://www.thedailystar.net/opinion/news/bangladeshs-climate-pledges-need-political-ownership-4263346</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladeshs-climate-pledges-need-political-ownership-4263346</guid>
-            <dc:creator><![CDATA[Ashish Barua]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
