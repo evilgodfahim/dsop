@@ -4,16 +4,22 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 11:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 17:00:39 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 11:16:48 GMT</pubDate>
+        <pubDate>Mon, 07 Sep 2026 17:00:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Law and order must be strengthened]]></title>
+            <description><![CDATA[Words of assurance not enough to convince citizens]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/law-and-order-must-be-strengthened-4267151</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/law-and-order-must-be-strengthened-4267151</guid>
+            <pubDate>Mon, 07 Sep 2026 17:00:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Routine audit at government offices a must]]></title>
-            <description><![CDATA[Launch full investigation into the pension racket]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/routine-audit-government-offices-must-4266456</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/routine-audit-government-offices-must-4266456</guid>
-            <pubDate>Mon, 07 Sep 2026 11:16:48 GMT</pubDate>
+            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can MUN Alert help bring missing children home safely?]]></title>
@@ -21,7 +27,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/can-mun-alert-help-bring-missing-children-home-safely-4266471</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-mun-alert-help-bring-missing-children-home-safely-4266471</guid>
             <dc:creator><![CDATA[Shanjida Jahan Iftee]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 11:16:48 GMT</pubDate>
+            <pubDate>Mon, 07 Sep 2026 17:00:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When can political rivals in Bangladesh safely distrust each other?]]></title>
@@ -29,7 +35,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/when-can-political-rivals-bangladesh-safely-distrust-each-other-4266476</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-can-political-rivals-bangladesh-safely-distrust-each-other-4266476</guid>
             <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 11:16:48 GMT</pubDate>
+            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ninth pay scale: A salary hike alone won't curb corruption in public service]]></title>
@@ -37,7 +43,7 @@
             <link>https://www.thedailystar.net/opinion/news/ninth-pay-scale-salary-hike-alone-wont-curb-corruption-public-service-4266481</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/ninth-pay-scale-salary-hike-alone-wont-curb-corruption-public-service-4266481</guid>
             <dc:creator><![CDATA[Md. Bakhtiar Uddin]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 11:16:48 GMT</pubDate>
+            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Laldia can handle bigger ships, but can the inland network keep up?]]></title>
@@ -61,14 +67,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/our-universities-face-crisis-bigger-graduate-employability-4265606</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-universities-face-crisis-bigger-graduate-employability-4265606</guid>
             <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The tea industry must turn higher prices into sustainable growth]]></title>
-            <description><![CDATA[By Md. Rashidul Islam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-tea-industry-must-turn-higher-prices-sustainable-growth-4265581</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-tea-industry-must-turn-higher-prices-sustainable-growth-4265581</guid>
-            <dc:creator><![CDATA[Md. Rashidul Islam]]></dc:creator>
             <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -100,6 +98,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/protect-children-state-custody-4264246</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-children-state-custody-4264246</guid>
             <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sifat’s arrest under anti-terror law: Vulgarity is not terrorism]]></title>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
+            <link>https://www.thedailystar.net/opinion/news/sifats-arrest-under-anti-terror-law-vulgarity-not-terrorism-4265611</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/sifats-arrest-under-anti-terror-law-vulgarity-not-terrorism-4265611</guid>
+            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nepal disaster: South Asia must unite to confront a shared climate threat]]></title>
@@ -147,14 +153,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/pm-continues-build-confidence-bnp-corrodes-it-4264251</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/pm-continues-build-confidence-bnp-corrodes-it-4264251</guid>
             <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s digital transformation still needs human intermediaries]]></title>
-            <description><![CDATA[By GM Saiful Islam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-digital-transformation-still-needs-human-intermediaries-4264256</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-digital-transformation-still-needs-human-intermediaries-4264256</guid>
-            <dc:creator><![CDATA[GM Saiful Islam]]></dc:creator>
             <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
