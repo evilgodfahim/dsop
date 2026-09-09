@@ -4,17 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 10:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 14:58:05 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Sep 2026 10:34:11 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 14:58:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The RMG paradox: Growth, global dependence, and sustainability]]></title>
+            <description><![CDATA[The future of Bangladesh’s garment industry will be influenced by climate change, automation, artificial intelligence, environmental regulations, and changing consumer expectations.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-rmg-paradox-growth-global-dependence-and-sustainability-4268771</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-rmg-paradox-growth-global-dependence-and-sustainability-4268771</guid>
+            <dc:creator><![CDATA[Md Zafar Alam Bhuiyan]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 14:58:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Speaker's warning on standing committees deserves attention]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/speakers-warning-standing-committees-deserves-attention-4268766</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/speakers-warning-standing-committees-deserves-attention-4268766</guid>
+            <pubDate>Wed, 09 Sep 2026 14:58:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What good will abolishing Rab do if its machinery is not dismantled?]]></title>
-            <description><![CDATA[The Rapid Action Battalion (Rab) has long been the subject of serious controversy because of its involvement in enforced disappearances, extrajudicial killings, torture in secret detention facilities, and other grave human rights violations during the Awami League government’s tenure.]]></description>
+            <description><![CDATA[By Sharif Bhuiyan]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/what-good-will-abolishing-rab-do-if-its-machinery-not-dismantled-4268241</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-good-will-abolishing-rab-do-if-its-machinery-not-dismantled-4268241</guid>
             <dc:creator><![CDATA[Sharif Bhuiyan]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 10:34:11 GMT</pubDate>
+            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The fiscal risk of a pay rise without revenue reform]]></title>
@@ -22,7 +36,7 @@
             <link>https://www.thedailystar.net/opinion/news/the-fiscal-risk-pay-rise-without-revenue-reform-4268221</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-fiscal-risk-pay-rise-without-revenue-reform-4268221</guid>
             <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 10:34:11 GMT</pubDate>
+            <pubDate>Wed, 09 Sep 2026 14:58:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why are we weakening our human rights safeguards?]]></title>
@@ -30,7 +44,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-are-we-weakening-our-human-rights-safeguards-4268236</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-we-weakening-our-human-rights-safeguards-4268236</guid>
             <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 10:34:11 GMT</pubDate>
+            <pubDate>Wed, 09 Sep 2026 14:58:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who will pay for Nepal’s – and our – climate losses?]]></title>
@@ -38,7 +52,7 @@
             <link>https://www.thedailystar.net/opinion/views/mind-the-gap/news/who-will-pay-nepals-and-our-climate-losses-4268226</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/who-will-pay-nepals-and-our-climate-losses-4268226</guid>
             <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 10:34:11 GMT</pubDate>
+            <pubDate>Wed, 09 Sep 2026 14:58:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Literacy targets must reflect reality]]></title>
@@ -55,26 +69,10 @@
             <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rethinking debt management for developing countries]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/rethinking-debt-management-developing-countries-4267491</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/rethinking-debt-management-developing-countries-4267491</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the new plastic waste rules fall short for micro and cottage enterprises]]></title>
-            <description><![CDATA[By Md Rakibul Hasan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-the-new-plastic-waste-rules-fall-short-micro-and-cottage-enterprises-4267496</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-the-new-plastic-waste-rules-fall-short-micro-and-cottage-enterprises-4267496</guid>
-            <dc:creator><![CDATA[Md Rakibul Hasan]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Attack on Badhan quite alarming]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/attack-badhan-quite-alarming-4268216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/attack-badhan-quite-alarming-4268216</guid>
-            <pubDate>Wed, 09 Sep 2026 10:34:11 GMT</pubDate>
+            <pubDate>Wed, 09 Sep 2026 14:58:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Make remittance transfers cheaper]]></title>
@@ -99,6 +97,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/make-disability-inclusion-daily-reality-4265576</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/make-disability-inclusion-daily-reality-4265576</guid>
             <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the new plastic waste rules fall short for micro and cottage enterprises]]></title>
+            <description><![CDATA[By Md Rakibul Hasan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-the-new-plastic-waste-rules-fall-short-micro-and-cottage-enterprises-4267496</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-the-new-plastic-waste-rules-fall-short-micro-and-cottage-enterprises-4267496</guid>
+            <dc:creator><![CDATA[Md Rakibul Hasan]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[International Literacy Day /  Why Bangladesh needs a new approach to literacy]]></title>
+            <description><![CDATA[By Manzoor Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-bangladesh-needs-new-approach-literacy-4267501</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladesh-needs-new-approach-literacy-4267501</guid>
+            <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can MUN Alert help bring missing children home safely?]]></title>
@@ -139,22 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/laldia-can-handle-bigger-ships-can-the-inland-network-keep-4266466</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
             <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our universities face a crisis bigger than graduate employability]]></title>
-            <description><![CDATA[By M Niaz Asadullah]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/our-universities-face-crisis-bigger-graduate-employability-4265606</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-universities-face-crisis-bigger-graduate-employability-4265606</guid>
-            <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The tea industry must turn higher prices into sustainable growth]]></title>
-            <description><![CDATA[By Md. Rashidul Islam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-tea-industry-must-turn-higher-prices-sustainable-growth-4265581</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-tea-industry-must-turn-higher-prices-sustainable-growth-4265581</guid>
-            <dc:creator><![CDATA[Md. Rashidul Islam]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
