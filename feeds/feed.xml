@@ -4,17 +4,48 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 02:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 07:44:45 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Sep 2026 02:33:08 GMT</pubDate>
+        <pubDate>Thu, 10 Sep 2026 07:44:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Loan defaults and a championship we could do without]]></title>
-            <description><![CDATA[Scooping up the global championship in defaulted loans is no mean feat.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/open-sky/news/loan-defaults-and-championship-we-could-do-without-4268961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/open-sky/news/loan-defaults-and-championship-we-could-do-without-4268961</guid>
+            <title><![CDATA[Bandarban jail needs urgent expansion]]></title>
+            <description><![CDATA[It is quite concerning that the Bandarban District Jail is holding nearly five times the number of inmates it was designed to accommodate.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/bandarban-jail-needs-urgent-expansion-4268951</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bandarban-jail-needs-urgent-expansion-4268951</guid>
+            <pubDate>Thu, 10 Sep 2026 07:44:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Suicide Prevention Day / Why changing how we talk about suicide matters for prevention]]></title>
+            <description><![CDATA[By Shamsin Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-changing-how-we-talk-about-suicide-matters-prevention-4268991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-changing-how-we-talk-about-suicide-matters-prevention-4268991</guid>
+            <dc:creator><![CDATA[Shamsin Ahmed]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 07:44:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tea workers deserve fair wages, and BNP is pledge-bound to deliver them]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/tea-workers-deserve-fair-wages-and-bnp-pledge-bound-deliver-them-4268986</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tea-workers-deserve-fair-wages-and-bnp-pledge-bound-deliver-them-4268986</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 07:44:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Loan defaults and a world championship we did not need]]></title>
+            <description><![CDATA[By Birupaksha Paul]]></description>
+            <link>https://www.thedailystar.net/opinion/views/open-sky/news/loan-defaults-and-world-championship-we-did-not-need-4268961</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/open-sky/news/loan-defaults-and-world-championship-we-did-not-need-4268961</guid>
             <dc:creator><![CDATA[Birupaksha Paul]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 02:33:08 GMT</pubDate>
+            <pubDate>Thu, 10 Sep 2026 07:44:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ferdous Steel probe answered how the workers died, but not why]]></title>
+            <description><![CDATA[By Muhammed Ali Shahin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/ferdous-steel-probe-answered-how-the-workers-died-not-why-4268971</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ferdous-steel-probe-answered-how-the-workers-died-not-why-4268971</guid>
+            <dc:creator><![CDATA[Muhammed Ali Shahin]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 07:44:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The RMG paradox: Growth, global dependence, and sustainability]]></title>
@@ -36,30 +67,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/what-good-will-abolishing-rab-do-if-its-machinery-not-dismantled-4268241</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-good-will-abolishing-rab-do-if-its-machinery-not-dismantled-4268241</guid>
             <dc:creator><![CDATA[Sharif Bhuiyan]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The fiscal risk of a pay rise without revenue reform]]></title>
-            <description><![CDATA[By Selim Raihan]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-fiscal-risk-pay-rise-without-revenue-reform-4268221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-fiscal-risk-pay-rise-without-revenue-reform-4268221</guid>
-            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are we weakening our human rights safeguards?]]></title>
-            <description><![CDATA[By Kamal Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-are-we-weakening-our-human-rights-safeguards-4268236</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-we-weakening-our-human-rights-safeguards-4268236</guid>
-            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who will pay for Nepal’s – and our – climate losses?]]></title>
-            <description><![CDATA[By Noshin Nawal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/mind-the-gap/news/who-will-pay-nepals-and-our-climate-losses-4268226</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/who-will-pay-nepals-and-our-climate-losses-4268226</guid>
-            <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -93,10 +100,28 @@
             <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Make disability inclusion a daily reality]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/make-disability-inclusion-daily-reality-4265576</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/make-disability-inclusion-daily-reality-4265576</guid>
-            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Why are we weakening our human rights safeguards?]]></title>
+            <description><![CDATA[By Kamal Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-are-we-weakening-our-human-rights-safeguards-4268236</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-we-weakening-our-human-rights-safeguards-4268236</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who will pay for Nepal’s – and our – climate losses?]]></title>
+            <description><![CDATA[By Noshin Nawal]]></description>
+            <link>https://www.thedailystar.net/opinion/views/mind-the-gap/news/who-will-pay-nepals-and-our-climate-losses-4268226</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/who-will-pay-nepals-and-our-climate-losses-4268226</guid>
+            <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[134th birth anniversary of Suhrawardy / Suhrawardy and the tensions that shaped his politics]]></title>
+            <description><![CDATA[By Mohiuddin Ahmad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/suhrawardy-and-the-tensions-shaped-his-politics-4267506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/suhrawardy-and-the-tensions-shaped-his-politics-4267506</guid>
+            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rethinking debt management for developing countries]]></title>
@@ -129,30 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-mun-alert-help-bring-missing-children-home-safely-4266471</guid>
             <dc:creator><![CDATA[Shanjida Jahan Iftee]]></dc:creator>
             <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When can political rivals in Bangladesh safely distrust each other?]]></title>
-            <description><![CDATA[By Asif Bin Ali]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/when-can-political-rivals-bangladesh-safely-distrust-each-other-4266476</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-can-political-rivals-bangladesh-safely-distrust-each-other-4266476</guid>
-            <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ninth pay scale: A salary hike alone won't curb corruption in public service]]></title>
-            <description><![CDATA[By Md. Bakhtiar Uddin]]></description>
-            <link>https://www.thedailystar.net/opinion/news/ninth-pay-scale-salary-hike-alone-wont-curb-corruption-public-service-4266481</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/ninth-pay-scale-salary-hike-alone-wont-curb-corruption-public-service-4266481</guid>
-            <dc:creator><![CDATA[Md. Bakhtiar Uddin]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s ‘Tesla’ crisis is really a crisis of regulation]]></title>
-            <description><![CDATA[By Musrat Hossain Mithila]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-tesla-crisis-really-crisis-regulation-4266211</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-tesla-crisis-really-crisis-regulation-4266211</guid>
-            <dc:creator><![CDATA[Musrat Hossain Mithila]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
