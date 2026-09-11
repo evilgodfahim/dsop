@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 00:45:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 05:30:51 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Sep 2026 00:45:03 GMT</pubDate>
+        <pubDate>Fri, 11 Sep 2026 05:30:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / Are we not forgetting the genocide of the Palestinians?]]></title>
@@ -14,7 +14,23 @@
             <link>https://www.thedailystar.net/opinion/views/the-third-view/news/are-we-not-forgetting-the-genocide-the-palestinians-4269821</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/are-we-not-forgetting-the-genocide-the-palestinians-4269821</guid>
             <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 00:45:03 GMT</pubDate>
+            <pubDate>Fri, 11 Sep 2026 05:30:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[25 years after 9/11, how did the ‘war on terror’ change the US?]]></title>
+            <description><![CDATA[By Ali Riaz]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/25-years-after-911-how-did-the-war-terror-change-the-us-4269826</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/25-years-after-911-how-did-the-war-terror-change-the-us-4269826</guid>
+            <dc:creator><![CDATA[Ali Riaz]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 05:30:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I survived enforced disappearance. Parliament has now weakened the safeguards]]></title>
+            <description><![CDATA[By Mir Ahmad Bin Quasem]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/i-survived-enforced-disappearance-parliament-has-now-weakened-the-safeguards-4269831</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/i-survived-enforced-disappearance-parliament-has-now-weakened-the-safeguards-4269831</guid>
+            <dc:creator><![CDATA[Mir Ahmad Bin Quasem]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 05:30:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Record measles deaths warrant introspection]]></title>
@@ -53,22 +69,6 @@
             <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Loan defaults and a world championship we did not need]]></title>
-            <description><![CDATA[By Birupaksha Paul]]></description>
-            <link>https://www.thedailystar.net/opinion/views/open-sky/news/loan-defaults-and-world-championship-we-did-not-need-4268961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/open-sky/news/loan-defaults-and-world-championship-we-did-not-need-4268961</guid>
-            <dc:creator><![CDATA[Birupaksha Paul]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ferdous Steel probe answered how the workers died, but not why]]></title>
-            <description><![CDATA[By Muhammed Ali Shahin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/ferdous-steel-probe-answered-how-the-workers-died-not-why-4268971</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ferdous-steel-probe-answered-how-the-workers-died-not-why-4268971</guid>
-            <dc:creator><![CDATA[Muhammed Ali Shahin]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Speaker's warning on standing committees deserves attention]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/speakers-warning-standing-committees-deserves-attention-4268766</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/speakers-warning-standing-committees-deserves-attention-4268766</guid>
@@ -97,6 +97,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/law-and-order-must-be-strengthened-4267151</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/law-and-order-must-be-strengthened-4267151</guid>
             <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ferdous Steel probe answered how the workers died, but not why]]></title>
+            <description><![CDATA[By Muhammed Ali Shahin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/ferdous-steel-probe-answered-how-the-workers-died-not-why-4268971</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ferdous-steel-probe-answered-how-the-workers-died-not-why-4268971</guid>
+            <dc:creator><![CDATA[Muhammed Ali Shahin]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The RMG paradox: Growth, global dependence, and sustainability]]></title>
+            <description><![CDATA[By Md Zafar Alam Bhuiyan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-rmg-paradox-growth-global-dependence-and-sustainability-4268771</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-rmg-paradox-growth-global-dependence-and-sustainability-4268771</guid>
+            <dc:creator><![CDATA[Md Zafar Alam Bhuiyan]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What good will abolishing Rab do if its machinery is not dismantled?]]></title>
@@ -136,22 +152,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/suhrawardy-and-the-tensions-shaped-his-politics-4267506</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/suhrawardy-and-the-tensions-shaped-his-politics-4267506</guid>
             <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking debt management for developing countries]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/rethinking-debt-management-developing-countries-4267491</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/rethinking-debt-management-developing-countries-4267491</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the new plastic waste rules fall short for micro and cottage enterprises]]></title>
-            <description><![CDATA[By Md Rakibul Hasan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-the-new-plastic-waste-rules-fall-short-micro-and-cottage-enterprises-4267496</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-the-new-plastic-waste-rules-fall-short-micro-and-cottage-enterprises-4267496</guid>
-            <dc:creator><![CDATA[Md Rakibul Hasan]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
