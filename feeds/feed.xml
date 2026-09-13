@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Sep 2026 00:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Sep 2026 05:32:57 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Sep 2026 00:31:36 GMT</pubDate>
+        <pubDate>Sun, 13 Sep 2026 05:32:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What will remain ours in the age of AI?]]></title>
@@ -41,6 +41,12 @@
             <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[We need a long-term dengue control plan]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/we-need-long-term-dengue-control-plan-4271296</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-need-long-term-dengue-control-plan-4271296</guid>
+            <pubDate>Sun, 13 Sep 2026 05:32:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Redistribute unpaid care work]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/redistribute-unpaid-care-work-4270391</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/redistribute-unpaid-care-work-4270391</guid>
@@ -63,18 +69,10 @@
             <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I survived enforced disappearance. Parliament has now weakened the safeguards]]></title>
-            <description><![CDATA[By Mir Ahmad Bin Quasem]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/i-survived-enforced-disappearance-parliament-has-now-weakened-the-safeguards-4269831</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/i-survived-enforced-disappearance-parliament-has-now-weakened-the-safeguards-4269831</guid>
-            <dc:creator><![CDATA[Mir Ahmad Bin Quasem]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No to overreliance on imported seeds]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/no-overreliance-imported-seeds-4270981</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/no-overreliance-imported-seeds-4270981</guid>
-            <pubDate>Sun, 13 Sep 2026 00:31:36 GMT</pubDate>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A flawed formula for meritocracy]]></title>
@@ -98,6 +96,14 @@
             <title><![CDATA[Bandarban jail needs urgent expansion]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/bandarban-jail-needs-urgent-expansion-4268951</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bandarban-jail-needs-urgent-expansion-4268951</guid>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Suicide Prevention Day / Responsible suicide reporting is not just a professional matter. It can save lives]]></title>
+            <description><![CDATA[By Imdadul Haque Talukdar]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/responsible-suicide-reporting-not-just-professional-matter-it-can-save-lives-4269471</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/responsible-suicide-reporting-not-just-professional-matter-it-can-save-lives-4269471</guid>
+            <dc:creator><![CDATA[Imdadul Haque Talukdar]]></dc:creator>
             <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -146,14 +152,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/what-good-will-abolishing-rab-do-if-its-machinery-not-dismantled-4268241</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-good-will-abolishing-rab-do-if-its-machinery-not-dismantled-4268241</guid>
             <dc:creator><![CDATA[Sharif Bhuiyan]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The fiscal risk of a pay rise without revenue reform]]></title>
-            <description><![CDATA[By Selim Raihan]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-fiscal-risk-pay-rise-without-revenue-reform-4268221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-fiscal-risk-pay-rise-without-revenue-reform-4268221</guid>
-            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
