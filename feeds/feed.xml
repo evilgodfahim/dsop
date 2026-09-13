@@ -4,17 +4,25 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Sep 2026 10:54:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Sep 2026 14:45:31 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Sep 2026 10:54:24 GMT</pubDate>
+        <pubDate>Sun, 13 Sep 2026 14:45:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Views / What else must women do?]]></title>
+            <description><![CDATA[A woman’s profession should not depend on a politician’s religious expectations]]></description>
+            <link>https://www.thedailystar.net/opinion/news/what-else-must-women-do-4271641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/what-else-must-women-do-4271641</guid>
+            <dc:creator><![CDATA[Arafat Rahaman]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 14:45:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What the economics of happiness can teach us in Bangladesh]]></title>
-            <description><![CDATA[Although the term “economics of happiness” was conceptualised over half a century ago, it continues to pose an intellectual paradox for many.]]></description>
+            <description><![CDATA[By Rifat Ibne Jamal]]></description>
             <link>https://www.thedailystar.net/opinion/news/what-the-economics-happiness-can-teach-us-bangladesh-4271671</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/what-the-economics-happiness-can-teach-us-bangladesh-4271671</guid>
             <dc:creator><![CDATA[Rifat Ibne Jamal]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 10:54:24 GMT</pubDate>
+            <pubDate>Sun, 13 Sep 2026 14:45:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What we can learn from other countries to tackle our NPL crisis]]></title>
@@ -22,13 +30,13 @@
             <link>https://www.thedailystar.net/opinion/news/what-we-can-learn-other-countries-tackle-our-npl-crisis-4271301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/what-we-can-learn-other-countries-tackle-our-npl-crisis-4271301</guid>
             <dc:creator><![CDATA[Md Main Uddin]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 10:54:24 GMT</pubDate>
+            <pubDate>Sun, 13 Sep 2026 14:45:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We need a long-term dengue control plan]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/we-need-long-term-dengue-control-plan-4271296</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-need-long-term-dengue-control-plan-4271296</guid>
-            <pubDate>Sun, 13 Sep 2026 10:54:24 GMT</pubDate>
+            <pubDate>Sun, 13 Sep 2026 14:45:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A civil alternative for property transfers is a citizen’s right]]></title>
@@ -36,7 +44,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/civil-alternative-property-transfers-citizens-right-4271311</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/civil-alternative-property-transfers-citizens-right-4271311</guid>
             <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 10:54:24 GMT</pubDate>
+            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building a centralised digital health system for better care and accountability]]></title>
@@ -44,7 +52,7 @@
             <link>https://www.thedailystar.net/opinion/news/building-centralised-digital-health-system-better-care-and-accountability-4271321</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/building-centralised-digital-health-system-better-care-and-accountability-4271321</guid>
             <dc:creator><![CDATA[SM Ziauddin Hyder]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 10:54:24 GMT</pubDate>
+            <pubDate>Sun, 13 Sep 2026 14:45:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What will remain ours in the age of AI?]]></title>
@@ -63,12 +71,10 @@
             <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bangladesh's time to look south again]]></title>
-            <description><![CDATA[By Iftekhar Ul Karim]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-time-look-south-again-4270541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-time-look-south-again-4270541</guid>
-            <dc:creator><![CDATA[Iftekhar Ul Karim]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[The women quietly building Bangladesh]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/the-women-quietly-building-bangladesh-4271836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-women-quietly-building-bangladesh-4271836</guid>
+            <pubDate>Sun, 13 Sep 2026 14:45:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No to overreliance on imported seeds]]></title>
@@ -95,10 +101,12 @@
             <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Record measles deaths warrant introspection]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/record-measles-deaths-warrant-introspection-4269576</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/record-measles-deaths-warrant-introspection-4269576</guid>
-            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Measles has exposed the cracks beneath Bangladesh's immunisation success]]></title>
+            <description><![CDATA[By Ahmed Mushtaque Raza Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/measles-has-exposed-the-cracks-beneath-bangladeshs-immunisation-success-4270551</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/measles-has-exposed-the-cracks-beneath-bangladeshs-immunisation-success-4270551</guid>
+            <dc:creator><![CDATA[Ahmed Mushtaque Raza Chowdhury]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / Are we not forgetting the genocide of the Palestinians?]]></title>
@@ -146,14 +154,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/tea-workers-deserve-fair-wages-and-bnp-pledge-bound-deliver-them-4268986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tea-workers-deserve-fair-wages-and-bnp-pledge-bound-deliver-them-4268986</guid>
             <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Loan defaults and a world championship we did not need]]></title>
-            <description><![CDATA[By Birupaksha Paul]]></description>
-            <link>https://www.thedailystar.net/opinion/views/open-sky/news/loan-defaults-and-world-championship-we-did-not-need-4268961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/open-sky/news/loan-defaults-and-world-championship-we-did-not-need-4268961</guid>
-            <dc:creator><![CDATA[Birupaksha Paul]]></dc:creator>
             <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
