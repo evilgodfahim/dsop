@@ -4,17 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Sep 2026 05:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 11:26:30 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Sep 2026 05:37:46 GMT</pubDate>
+        <pubDate>Mon, 14 Sep 2026 11:26:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[1,000 measles deaths: What are we failing to learn?]]></title>
+            <description><![CDATA[When we see news reports that measles deaths have crossed 1,000, we pause, express concern, and discuss what should be done.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/1000-measles-deaths-what-are-we-failing-learn-4272071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/1000-measles-deaths-what-are-we-failing-learn-4272071</guid>
+            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A faster, cheaper path to rural justice]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/faster-cheaper-path-rural-justice-4272036</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/faster-cheaper-path-rural-justice-4272036</guid>
+            <pubDate>Mon, 14 Sep 2026 11:26:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New rights laws / New rights laws: Those who control evidence eventually control accountability]]></title>
-            <description><![CDATA[A state can criminalise enforced disappearance while preserving arrangements that make it difficult to prove the crime.]]></description>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/new-rights-laws-those-who-control-evidence-eventually-control-accountability-4272056</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-rights-laws-those-who-control-evidence-eventually-control-accountability-4272056</guid>
             <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 05:37:45 GMT</pubDate>
+            <pubDate>Mon, 14 Sep 2026 11:26:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Marriage, family visas, and the new face of trafficking]]></title>
@@ -22,21 +36,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/marriage-family-visas-and-the-new-face-trafficking-4272066</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/marriage-family-visas-and-the-new-face-trafficking-4272066</guid>
             <dc:creator><![CDATA[Shariful Hasan]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 05:37:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1,000 measles deaths: What are we failing to learn?]]></title>
-            <description><![CDATA[By Syed Abdul Hamid]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/1000-measles-deaths-what-are-we-failing-learn-4272071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/1000-measles-deaths-what-are-we-failing-learn-4272071</guid>
-            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 05:37:45 GMT</pubDate>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Views / What else must women do?]]></title>
             <description><![CDATA[By Arafat Rahaman]]></description>
-            <link>https://www.thedailystar.net/opinion/news/what-else-must-women-do-4271641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/what-else-must-women-do-4271641</guid>
+            <link>https://www.thedailystar.net/top-news/news/what-else-must-women-do-4271641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/top-news/news/what-else-must-women-do-4271641</guid>
             <dc:creator><![CDATA[Arafat Rahaman]]></dc:creator>
             <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
         </item>
@@ -60,14 +66,6 @@
             <title><![CDATA[We need a long-term dengue control plan]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/we-need-long-term-dengue-control-plan-4271296</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-need-long-term-dengue-control-plan-4271296</guid>
-            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A civil alternative for property transfers is a citizen’s right]]></title>
-            <description><![CDATA[By Asif Bin Ali]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/civil-alternative-property-transfers-citizens-right-4271311</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/civil-alternative-property-transfers-citizens-right-4271311</guid>
-            <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
             <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -99,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/we-must-change-the-narrative-around-suicide-4269816</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-must-change-the-narrative-around-suicide-4269816</guid>
             <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A civil alternative for property transfers is a citizen’s right]]></title>
+            <description><![CDATA[By Asif Bin Ali]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/civil-alternative-property-transfers-citizens-right-4271311</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/civil-alternative-property-transfers-citizens-right-4271311</guid>
+            <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What will remain ours in the age of AI?]]></title>
@@ -146,14 +152,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/25-years-after-911-how-did-the-war-terror-change-the-us-4269826</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/25-years-after-911-how-did-the-war-terror-change-the-us-4269826</guid>
             <dc:creator><![CDATA[Ali Riaz]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I survived enforced disappearance. Parliament has now weakened the safeguards]]></title>
-            <description><![CDATA[By Mir Ahmad Bin Quasem]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/i-survived-enforced-disappearance-parliament-has-now-weakened-the-safeguards-4269831</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/i-survived-enforced-disappearance-parliament-has-now-weakened-the-safeguards-4269831</guid>
-            <dc:creator><![CDATA[Mir Ahmad Bin Quasem]]></dc:creator>
             <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
