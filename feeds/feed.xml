@@ -4,17 +4,33 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 05:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 10:49:16 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 05:39:35 GMT</pubDate>
+        <pubDate>Tue, 15 Sep 2026 10:49:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[INTERNATIONAL DAY OF DEMOCRACY / Bangladesh’s next democratic step should be greater inclusion]]></title>
+            <description><![CDATA[Each union parishad has nine general wards and three reserved seats for women, elected by their communities. These reserved seats have opened an important route into public offices.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/bangladeshs-next-democratic-step-should-be-greater-inclusion-4273351</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladeshs-next-democratic-step-should-be-greater-inclusion-4273351</guid>
+            <dc:creator><![CDATA[Susan RyleStephen RodriquesGitanjali Singh]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 10:49:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How can we navigate a fragmented global geo-economic order?]]></title>
-            <description><![CDATA[The 81st session of the United Nations General Assembly (UNGA) began on September 8 amid profound geopolitical and geo-economic uncertainties.]]></description>
+            <description><![CDATA[By Fahmida Khatun]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/how-can-we-navigate-fragmented-global-geo-economic-order-4272856</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-can-we-navigate-fragmented-global-geo-economic-order-4272856</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 05:39:35 GMT</pubDate>
+            <pubDate>Tue, 15 Sep 2026 10:49:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh needs a comprehensive strategy to tackle cancer]]></title>
+            <description><![CDATA[By Rubaiul Murshed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-comprehensive-strategy-tackle-cancer-4272861</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-comprehensive-strategy-tackle-cancer-4272861</guid>
+            <dc:creator><![CDATA[Rubaiul Murshed]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 10:49:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Democracy’s new challenges and the difficult road to transition]]></title>
@@ -22,7 +38,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/democracys-new-challenges-and-the-difficult-road-transition-4272866</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/democracys-new-challenges-and-the-difficult-road-transition-4272866</guid>
             <dc:creator><![CDATA[Ali Riaz]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 05:39:35 GMT</pubDate>
+            <pubDate>Tue, 15 Sep 2026 10:49:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Citizens’ right to know and the long wait for an Information Commission]]></title>
@@ -30,7 +46,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/citizens-right-know-and-the-long-wait-information-commission-4272871</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/citizens-right-know-and-the-long-wait-information-commission-4272871</guid>
             <dc:creator><![CDATA[Dr Shamsul BariRuhi Naz]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 05:39:35 GMT</pubDate>
+            <pubDate>Tue, 15 Sep 2026 10:49:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[1,000 measles deaths: What are we failing to learn?]]></title>
@@ -55,18 +71,10 @@
             <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Marriage, family visas, and the new face of trafficking]]></title>
-            <description><![CDATA[By Shariful Hasan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/marriage-family-visas-and-the-new-face-trafficking-4272066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/marriage-family-visas-and-the-new-face-trafficking-4272066</guid>
-            <dc:creator><![CDATA[Shariful Hasan]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Act now to protect our national fish]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/act-now-protect-our-national-fish-4272851</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/act-now-protect-our-national-fish-4272851</guid>
-            <pubDate>Tue, 15 Sep 2026 05:39:35 GMT</pubDate>
+            <pubDate>Tue, 15 Sep 2026 10:49:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We don’t need another DSA playbook]]></title>
@@ -93,10 +101,12 @@
             <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A flawed formula for meritocracy]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/flawed-formula-meritocracy-4270521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/flawed-formula-meritocracy-4270521</guid>
-            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[What the economics of happiness can teach us in Bangladesh]]></title>
+            <description><![CDATA[By Rifat Ibne Jamal]]></description>
+            <link>https://www.thedailystar.net/opinion/news/what-the-economics-happiness-can-teach-us-bangladesh-4271671</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/what-the-economics-happiness-can-teach-us-bangladesh-4271671</guid>
+            <dc:creator><![CDATA[Rifat Ibne Jamal]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What we can learn from other countries to tackle our NPL crisis]]></title>
@@ -144,14 +154,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-time-look-south-again-4270541</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-time-look-south-again-4270541</guid>
             <dc:creator><![CDATA[Iftekhar Ul Karim]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Measles has exposed the cracks beneath Bangladesh's immunisation success]]></title>
-            <description><![CDATA[By Ahmed Mushtaque Raza Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/measles-has-exposed-the-cracks-beneath-bangladeshs-immunisation-success-4270551</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/measles-has-exposed-the-cracks-beneath-bangladeshs-immunisation-success-4270551</guid>
-            <dc:creator><![CDATA[Ahmed Mushtaque Raza Chowdhury]]></dc:creator>
             <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
