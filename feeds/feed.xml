@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 05:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 10:38:22 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Sep 2026 05:38:02 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 10:38:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Bangladesh must strategise carefully for the next Ganges treaty]]></title>
@@ -14,7 +14,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-strategise-carefully-the-next-ganges-treaty-4273826</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-strategise-carefully-the-next-ganges-treaty-4273826</guid>
             <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 05:38:02 GMT</pubDate>
+            <pubDate>Wed, 16 Sep 2026 10:38:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Preserve Gopalganj’s historic library]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/preserve-gopalganjs-historic-library-4273821</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/preserve-gopalganjs-historic-library-4273821</guid>
+            <pubDate>Wed, 16 Sep 2026 10:38:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Make child safety non-negotiable in residential madrasas]]></title>
@@ -22,7 +28,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/make-child-safety-non-negotiable-residential-madrasas-4273836</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/make-child-safety-non-negotiable-residential-madrasas-4273836</guid>
             <dc:creator><![CDATA[Abdulla Al Rahat]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 05:38:02 GMT</pubDate>
+            <pubDate>Wed, 16 Sep 2026 10:38:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why can’t farmers get fertiliser despite adequate government stocks?]]></title>
@@ -30,7 +36,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-cant-farmers-get-fertiliser-despite-adequate-government-stocks-4273841</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-cant-farmers-get-fertiliser-despite-adequate-government-stocks-4273841</guid>
             <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 05:38:02 GMT</pubDate>
+            <pubDate>Wed, 16 Sep 2026 10:38:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Higher viva marks may undermine fairness in public recruitment]]></title>
@@ -38,7 +44,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/higher-viva-marks-may-undermine-fairness-public-recruitment-4273846</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/higher-viva-marks-may-undermine-fairness-public-recruitment-4273846</guid>
             <dc:creator><![CDATA[Arafat Rahaman]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 05:38:02 GMT</pubDate>
+            <pubDate>Wed, 16 Sep 2026 10:38:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI’s own builders are calling for a slowdown, and they deserve to be heard]]></title>
@@ -62,14 +68,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/how-can-we-navigate-fragmented-global-geo-economic-order-4272856</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-can-we-navigate-fragmented-global-geo-economic-order-4272856</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh needs a comprehensive strategy to tackle cancer]]></title>
-            <description><![CDATA[By Rubaiul Murshed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-comprehensive-strategy-tackle-cancer-4272861</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-comprehensive-strategy-tackle-cancer-4272861</guid>
-            <dc:creator><![CDATA[Rubaiul Murshed]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -101,6 +99,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/the-women-quietly-building-bangladesh-4271836</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-women-quietly-building-bangladesh-4271836</guid>
             <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Democracy’s new challenges and the difficult road to transition]]></title>
+            <description><![CDATA[By Ali Riaz]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/democracys-new-challenges-and-the-difficult-road-transition-4272866</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/democracys-new-challenges-and-the-difficult-road-transition-4272866</guid>
+            <dc:creator><![CDATA[Ali Riaz]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Citizens’ right to know and the long wait for an Information Commission]]></title>
@@ -148,14 +154,6 @@
             <link>https://www.thedailystar.net/opinion/news/what-we-can-learn-other-countries-tackle-our-npl-crisis-4271301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/what-we-can-learn-other-countries-tackle-our-npl-crisis-4271301</guid>
             <dc:creator><![CDATA[Md Main Uddin]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a centralised digital health system for better care and accountability]]></title>
-            <description><![CDATA[By SM Ziauddin Hyder]]></description>
-            <link>https://www.thedailystar.net/opinion/news/building-centralised-digital-health-system-better-care-and-accountability-4271321</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/building-centralised-digital-health-system-better-care-and-accountability-4271321</guid>
-            <dc:creator><![CDATA[SM Ziauddin Hyder]]></dc:creator>
             <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
