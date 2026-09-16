@@ -4,13 +4,45 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 00:57:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 05:38:02 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Sep 2026 00:57:04 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 05:38:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Bangladesh must strategise carefully for the next Ganges treaty]]></title>
+            <description><![CDATA[For three decades, the Ganges Water Sharing Treaty has been the principal framework governing the most consequential shared-river relationship between Bangladesh and India.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-strategise-carefully-the-next-ganges-treaty-4273826</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-strategise-carefully-the-next-ganges-treaty-4273826</guid>
+            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 05:38:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make child safety non-negotiable in residential madrasas]]></title>
+            <description><![CDATA[By Abdulla Al Rahat]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/make-child-safety-non-negotiable-residential-madrasas-4273836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/make-child-safety-non-negotiable-residential-madrasas-4273836</guid>
+            <dc:creator><![CDATA[Abdulla Al Rahat]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 05:38:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why can’t farmers get fertiliser despite adequate government stocks?]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-cant-farmers-get-fertiliser-despite-adequate-government-stocks-4273841</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-cant-farmers-get-fertiliser-despite-adequate-government-stocks-4273841</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 05:38:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Higher viva marks may undermine fairness in public recruitment]]></title>
+            <description><![CDATA[By Arafat Rahaman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/higher-viva-marks-may-undermine-fairness-public-recruitment-4273846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/higher-viva-marks-may-undermine-fairness-public-recruitment-4273846</guid>
+            <dc:creator><![CDATA[Arafat Rahaman]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 05:38:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AI’s own builders are calling for a slowdown, and they deserve to be heard]]></title>
-            <description><![CDATA[We may still be far from autonomous superintelligence, but the pace itself creates a safety problem.]]></description>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/ais-own-builders-are-calling-slowdown-and-they-deserve-be-heard-4273456</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ais-own-builders-are-calling-slowdown-and-they-deserve-be-heard-4273456</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
@@ -41,36 +73,6 @@
             <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Democracy’s new challenges and the difficult road to transition]]></title>
-            <description><![CDATA[By Ali Riaz]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/democracys-new-challenges-and-the-difficult-road-transition-4272866</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/democracys-new-challenges-and-the-difficult-road-transition-4272866</guid>
-            <dc:creator><![CDATA[Ali Riaz]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Citizens’ right to know and the long wait for an Information Commission]]></title>
-            <description><![CDATA[By Dr Shamsul BariRuhi Naz]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/citizens-right-know-and-the-long-wait-information-commission-4272871</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/citizens-right-know-and-the-long-wait-information-commission-4272871</guid>
-            <dc:creator><![CDATA[Dr Shamsul BariRuhi Naz]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1,000 measles deaths: What are we failing to learn?]]></title>
-            <description><![CDATA[By Syed Abdul Hamid]]></description>
-            <link>https://www.thedailystar.net/opinion/news/1000-measles-deaths-what-are-we-failing-learn-4272071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/1000-measles-deaths-what-are-we-failing-learn-4272071</guid>
-            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A faster, cheaper path to rural justice]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/faster-cheaper-path-rural-justice-4272036</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/faster-cheaper-path-rural-justice-4272036</guid>
-            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ducsu’s politics of revisionism]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/ducsus-politics-revisionism-4273481</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ducsus-politics-revisionism-4273481</guid>
@@ -89,16 +91,40 @@
             <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A faster, cheaper path to rural justice]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/faster-cheaper-path-rural-justice-4272036</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/faster-cheaper-path-rural-justice-4272036</guid>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The women quietly building Bangladesh]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/the-women-quietly-building-bangladesh-4271836</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-women-quietly-building-bangladesh-4271836</guid>
             <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We need a long-term dengue control plan]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/we-need-long-term-dengue-control-plan-4271296</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-need-long-term-dengue-control-plan-4271296</guid>
-            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Citizens’ right to know and the long wait for an Information Commission]]></title>
+            <description><![CDATA[By Dr Shamsul BariRuhi Naz]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/citizens-right-know-and-the-long-wait-information-commission-4272871</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/citizens-right-know-and-the-long-wait-information-commission-4272871</guid>
+            <dc:creator><![CDATA[Dr Shamsul BariRuhi Naz]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1,000 measles deaths: What are we failing to learn?]]></title>
+            <description><![CDATA[By Syed Abdul Hamid]]></description>
+            <link>https://www.thedailystar.net/opinion/news/1000-measles-deaths-what-are-we-failing-learn-4272071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/1000-measles-deaths-what-are-we-failing-learn-4272071</guid>
+            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New rights laws / New rights laws: Those who control evidence eventually control accountability]]></title>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/new-rights-laws-those-who-control-evidence-eventually-control-accountability-4272056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-rights-laws-those-who-control-evidence-eventually-control-accountability-4272056</guid>
+            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Marriage, family visas, and the new face of trafficking]]></title>
@@ -131,30 +157,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/building-centralised-digital-health-system-better-care-and-accountability-4271321</guid>
             <dc:creator><![CDATA[SM Ziauddin Hyder]]></dc:creator>
             <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A civil alternative for property transfers is a citizen’s right]]></title>
-            <description><![CDATA[By Asif Bin Ali]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/civil-alternative-property-transfers-citizens-right-4271311</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/civil-alternative-property-transfers-citizens-right-4271311</guid>
-            <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What will remain ours in the age of AI?]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/what-will-remain-ours-the-age-ai-4270531</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/what-will-remain-ours-the-age-ai-4270531</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s El Niño risk is bigger than weather]]></title>
-            <description><![CDATA[By Sudeepto Roy]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-el-nino-risk-bigger-weather-4270556</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-el-nino-risk-bigger-weather-4270556</guid>
-            <dc:creator><![CDATA[Sudeepto Roy]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
