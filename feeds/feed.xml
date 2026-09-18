@@ -4,16 +4,39 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Sep 2026 00:56:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 05:31:15 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Sep 2026 00:56:49 GMT</pubDate>
+        <pubDate>Fri, 18 Sep 2026 05:31:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Without structural fixes, the one-crore job promise will remain hollow]]></title>
+            <description><![CDATA[Every government since 1990 has learned the same lesson the hard way: promising jobs is easy, creating them is not. In its 2026 election manifesto, BNP had pledged to create one crore jobs for educated youth within 18 months of taking office.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/without-structural-fixes-the-one-crore-job-promise-will-remain-hollow-4275801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/without-structural-fixes-the-one-crore-job-promise-will-remain-hollow-4275801</guid>
+            <dc:creator><![CDATA[Sibbir Ahmad]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 05:31:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Renewed push for open-pit mining in Phulbari ignores hard-earned lessons]]></title>
+            <description><![CDATA[By Anu Muhammad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/renewed-push-open-pit-mining-phulbari-ignores-hard-earned-lessons-4275821</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/renewed-push-open-pit-mining-phulbari-ignores-hard-earned-lessons-4275821</guid>
+            <dc:creator><![CDATA[Anu Muhammad]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 05:31:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abdur Razzaq’s memoir: Jamaat’s internal conflict for a 1971 apology]]></title>
+            <description><![CDATA[By David Bergman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/abdur-razzaqs-memoir-jamaats-internal-conflict-1971-apology-4275846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/abdur-razzaqs-memoir-jamaats-internal-conflict-1971-apology-4275846</guid>
+            <dc:creator><![CDATA[David Bergman]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 05:31:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Biman's fleet ambition needs a business case]]></title>
-            <description><![CDATA[Taxpayers deserve to know the cost before the state airline signs deals]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/bimans-fleet-ambition-needs-business-case-4275526</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bimans-fleet-ambition-needs-business-case-4275526</guid>
-            <pubDate>Fri, 18 Sep 2026 00:56:49 GMT</pubDate>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NAZA exposes what Israel wants hidden about the Gaza war]]></title>
@@ -40,36 +63,10 @@
             <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Teacher evaluation should improve teaching, not create a popularity contest]]></title>
-            <description><![CDATA[By Kazi ASM Nurul Huda]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/teacher-evaluation-should-improve-teaching-not-create-popularity-contest-4274766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/teacher-evaluation-should-improve-teaching-not-create-popularity-contest-4274766</guid>
-            <dc:creator><![CDATA[Kazi ASM Nurul Huda]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the decline in hilsa production tells us about our changing rivers]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-the-decline-hilsa-production-tells-us-about-our-changing-rivers-4274771</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-decline-hilsa-production-tells-us-about-our-changing-rivers-4274771</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We learn from history when we build systems to remember]]></title>
-            <description><![CDATA[By Hussain A Samad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-learn-history-when-we-build-systems-remember-4274556</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-learn-history-when-we-build-systems-remember-4274556</guid>
-            <dc:creator><![CDATA[Hussain A Samad]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh must strategise carefully for the next Ganges treaty]]></title>
-            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-strategise-carefully-the-next-ganges-treaty-4273826</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-strategise-carefully-the-next-ganges-treaty-4273826</guid>
-            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Don’t allow roads through Moheshkhali protected forest]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/dont-allow-roads-through-moheshkhali-protected-forest-4275796</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-allow-roads-through-moheshkhali-protected-forest-4275796</guid>
+            <pubDate>Fri, 18 Sep 2026 05:31:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coastal women need better chances]]></title>
@@ -102,6 +99,38 @@
             <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What the decline in hilsa production tells us about our changing rivers]]></title>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-the-decline-hilsa-production-tells-us-about-our-changing-rivers-4274771</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-decline-hilsa-production-tells-us-about-our-changing-rivers-4274771</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We learn from history when we build systems to remember]]></title>
+            <description><![CDATA[By Hussain A Samad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-learn-history-when-we-build-systems-remember-4274556</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-learn-history-when-we-build-systems-remember-4274556</guid>
+            <dc:creator><![CDATA[Hussain A Samad]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ecological overshoot and the limits of endless growth]]></title>
+            <description><![CDATA[By S Arzooman Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/ecological-overshoot-and-the-limits-endless-growth-4274341</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ecological-overshoot-and-the-limits-endless-growth-4274341</guid>
+            <dc:creator><![CDATA[S Arzooman Chowdhury]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh must strategise carefully for the next Ganges treaty]]></title>
+            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-strategise-carefully-the-next-ganges-treaty-4273826</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-strategise-carefully-the-next-ganges-treaty-4273826</guid>
+            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Make child safety non-negotiable in residential madrasas]]></title>
             <description><![CDATA[By Abdulla Al Rahat]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/make-child-safety-non-negotiable-residential-madrasas-4273836</link>
@@ -124,38 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/higher-viva-marks-may-undermine-fairness-public-recruitment-4273846</guid>
             <dc:creator><![CDATA[Arafat Rahaman]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI’s own builders are calling for a slowdown, and they deserve to be heard]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/ais-own-builders-are-calling-slowdown-and-they-deserve-be-heard-4273456</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ais-own-builders-are-calling-slowdown-and-they-deserve-be-heard-4273456</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can we navigate a fragmented global geo-economic order?]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-can-we-navigate-fragmented-global-geo-economic-order-4272856</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-can-we-navigate-fragmented-global-geo-economic-order-4272856</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh needs a comprehensive strategy to tackle cancer]]></title>
-            <description><![CDATA[By Rubaiul Murshed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-comprehensive-strategy-tackle-cancer-4272861</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-comprehensive-strategy-tackle-cancer-4272861</guid>
-            <dc:creator><![CDATA[Rubaiul Murshed]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Democracy’s new challenges and the difficult road to transition]]></title>
-            <description><![CDATA[By Ali Riaz]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/democracys-new-challenges-and-the-difficult-road-transition-4272866</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/democracys-new-challenges-and-the-difficult-road-transition-4272866</guid>
-            <dc:creator><![CDATA[Ali Riaz]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
