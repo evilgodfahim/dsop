@@ -4,17 +4,25 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 05:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 10:06:04 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Sep 2026 05:32:24 GMT</pubDate>
+        <pubDate>Sat, 19 Sep 2026 10:06:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Fixing Bangladesh's VAT cash squeeze without reversing reform]]></title>
+            <description><![CDATA[A sovereign rating is not a verdict on how rich a country is but a judgement about the reliability of its promises.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/fixing-bangladeshs-vat-cash-squeeze-without-reversing-reform-4276526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fixing-bangladeshs-vat-cash-squeeze-without-reversing-reform-4276526</guid>
+            <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 10:06:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bangladesh's population policy must go beyond family planning]]></title>
-            <description><![CDATA[For half a century, Bangladesh treated population management mostly as a medical issue. For half a century, that was true. The instruments were the clinic, the fieldworker and the contraceptive.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-population-policy-must-go-beyond-family-planning-4276521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-population-policy-must-go-beyond-family-planning-4276521</guid>
+            <description><![CDATA[By Md Nuruzzaman Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/news/bangladeshs-population-policy-must-go-beyond-family-planning-4276521</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladeshs-population-policy-must-go-beyond-family-planning-4276521</guid>
             <dc:creator><![CDATA[Md Nuruzzaman Khan]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 05:32:24 GMT</pubDate>
+            <pubDate>Sat, 19 Sep 2026 10:06:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Remove barriers that hold women back]]></title>
@@ -25,10 +33,10 @@
         <item>
             <title><![CDATA[Ducsu’s mandate is student representation, not administration]]></title>
             <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/ducsus-mandate-student-representation-not-administration-4276531</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/ducsus-mandate-student-representation-not-administration-4276531</guid>
+            <link>https://www.thedailystar.net/opinion/views/news/ducsus-mandate-student-representation-not-administration-4276531</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ducsus-mandate-student-representation-not-administration-4276531</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 05:32:24 GMT</pubDate>
+            <pubDate>Sat, 19 Sep 2026 10:06:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Without structural fixes, the one-crore job promise will remain hollow]]></title>
@@ -50,7 +58,7 @@
             <title><![CDATA[Only safe helmets should be marketed]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/only-safe-helmets-should-be-marketed-4276511</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/only-safe-helmets-should-be-marketed-4276511</guid>
-            <pubDate>Sat, 19 Sep 2026 05:32:24 GMT</pubDate>
+            <pubDate>Sat, 19 Sep 2026 10:06:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Renewed push for open-pit mining in Phulbari ignores hard-earned lessons]]></title>
@@ -58,14 +66,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/renewed-push-open-pit-mining-phulbari-ignores-hard-earned-lessons-4275821</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/renewed-push-open-pit-mining-phulbari-ignores-hard-earned-lessons-4275821</guid>
             <dc:creator><![CDATA[Anu Muhammad]]></dc:creator>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Abdur Razzaq’s memoir: Jamaat’s internal conflict for a 1971 apology]]></title>
-            <description><![CDATA[By David Bergman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/abdur-razzaqs-memoir-jamaats-internal-conflict-1971-apology-4275846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/abdur-razzaqs-memoir-jamaats-internal-conflict-1971-apology-4275846</guid>
-            <dc:creator><![CDATA[David Bergman]]></dc:creator>
             <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -97,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/ducsus-politics-revisionism-4273481</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ducsus-politics-revisionism-4273481</guid>
             <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['NAZA' exposes what Israel wants hidden about the Gaza war]]></title>
+            <description><![CDATA[By Yousef SY Ramadan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/naza-exposes-what-israel-wants-hidden-about-the-gaza-war-4275461</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/naza-exposes-what-israel-wants-hidden-about-the-gaza-war-4275461</guid>
+            <dc:creator><![CDATA[Yousef SY Ramadan]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Taxpayers should not have to bear the cost of bad loans]]></title>
@@ -144,14 +152,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/ecological-overshoot-and-the-limits-endless-growth-4274341</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ecological-overshoot-and-the-limits-endless-growth-4274341</guid>
             <dc:creator><![CDATA[S Arzooman Chowdhury]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh must strategise carefully for the next Ganges treaty]]></title>
-            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-strategise-carefully-the-next-ganges-treaty-4273826</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-strategise-carefully-the-next-ganges-treaty-4273826</guid>
-            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
