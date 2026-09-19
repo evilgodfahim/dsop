@@ -4,16 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 00:58:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 05:32:24 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Sep 2026 00:58:40 GMT</pubDate>
+        <pubDate>Sat, 19 Sep 2026 05:32:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Bangladesh's population policy must go beyond family planning]]></title>
+            <description><![CDATA[For half a century, Bangladesh treated population management mostly as a medical issue. For half a century, that was true. The instruments were the clinic, the fieldworker and the contraceptive.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-population-policy-must-go-beyond-family-planning-4276521</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-population-policy-must-go-beyond-family-planning-4276521</guid>
+            <dc:creator><![CDATA[Md Nuruzzaman Khan]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 05:32:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Remove barriers that hold women back]]></title>
-            <description><![CDATA[The government must do better in closing gender gaps, facilitate women’s participation]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/remove-barriers-hold-women-back-4276281</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/remove-barriers-hold-women-back-4276281</guid>
-            <pubDate>Sat, 19 Sep 2026 00:58:40 GMT</pubDate>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ducsu’s mandate is student representation, not administration]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/ducsus-mandate-student-representation-not-administration-4276531</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/ducsus-mandate-student-representation-not-administration-4276531</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 05:32:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Without structural fixes, the one-crore job promise will remain hollow]]></title>
@@ -32,6 +47,12 @@
             <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Only safe helmets should be marketed]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/only-safe-helmets-should-be-marketed-4276511</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/only-safe-helmets-should-be-marketed-4276511</guid>
+            <pubDate>Sat, 19 Sep 2026 05:32:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Renewed push for open-pit mining in Phulbari ignores hard-earned lessons]]></title>
             <description><![CDATA[By Anu Muhammad]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/renewed-push-open-pit-mining-phulbari-ignores-hard-earned-lessons-4275821</link>
@@ -48,32 +69,16 @@
             <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Biman's fleet ambition needs a business case]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/bimans-fleet-ambition-needs-business-case-4275526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bimans-fleet-ambition-needs-business-case-4275526</guid>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['NAZA' exposes what Israel wants hidden about the Gaza war]]></title>
-            <description><![CDATA[By Yousef SY Ramadan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/naza-exposes-what-israel-wants-hidden-about-the-gaza-war-4275461</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/naza-exposes-what-israel-wants-hidden-about-the-gaza-war-4275461</guid>
-            <dc:creator><![CDATA[Yousef SY Ramadan]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taxpayers should not have to bear the cost of bad loans]]></title>
-            <description><![CDATA[By M Kabir Hassan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/taxpayers-should-not-have-bear-the-cost-bad-loans-4274751</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/taxpayers-should-not-have-bear-the-cost-bad-loans-4274751</guid>
-            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Don’t allow roads through Moheshkhali protected forest]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-allow-roads-through-moheshkhali-protected-forest-4275796</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-allow-roads-through-moheshkhali-protected-forest-4275796</guid>
             <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biman's fleet ambition needs a business case]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/bimans-fleet-ambition-needs-business-case-4275526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bimans-fleet-ambition-needs-business-case-4275526</guid>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coastal women need better chances]]></title>
@@ -94,10 +99,20 @@
             <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Preserve Gopalganj’s historic library]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/preserve-gopalganjs-historic-library-4273821</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/preserve-gopalganjs-historic-library-4273821</guid>
-            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Taxpayers should not have to bear the cost of bad loans]]></title>
+            <description><![CDATA[By M Kabir Hassan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/taxpayers-should-not-have-bear-the-cost-bad-loans-4274751</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/taxpayers-should-not-have-bear-the-cost-bad-loans-4274751</guid>
+            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the measles vaccine drive exposed gaps in coverage and data]]></title>
+            <description><![CDATA[By Ashish Barua]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-the-measles-vaccine-drive-exposed-gaps-coverage-and-data-4274756</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-the-measles-vaccine-drive-exposed-gaps-coverage-and-data-4274756</guid>
+            <dc:creator><![CDATA[Ashish Barua]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teacher evaluation should improve teaching, not create a popularity contest]]></title>
@@ -137,22 +152,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-strategise-carefully-the-next-ganges-treaty-4273826</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-strategise-carefully-the-next-ganges-treaty-4273826</guid>
             <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make child safety non-negotiable in residential madrasas]]></title>
-            <description><![CDATA[By Abdulla Al Rahat]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/make-child-safety-non-negotiable-residential-madrasas-4273836</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/make-child-safety-non-negotiable-residential-madrasas-4273836</guid>
-            <dc:creator><![CDATA[Abdulla Al Rahat]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why can’t farmers get fertiliser despite adequate government stocks?]]></title>
-            <description><![CDATA[By Kallol Mustafa]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-cant-farmers-get-fertiliser-despite-adequate-government-stocks-4273841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-cant-farmers-get-fertiliser-despite-adequate-government-stocks-4273841</guid>
-            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
