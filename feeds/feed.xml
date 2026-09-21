@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2026 11:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 17:37:30 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Sep 2026 11:40:54 GMT</pubDate>
+        <pubDate>Mon, 21 Sep 2026 17:37:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Bidding process must be fair]]></title>
+            <description><![CDATA[Employ safeguards to curb corruption in public procurement.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/bidding-process-must-be-fair-4278891</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bidding-process-must-be-fair-4278891</guid>
+            <pubDate>Mon, 21 Sep 2026 17:37:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Does Payra Port have any business model?]]></title>
-            <description><![CDATA[Bangladesh spent Tk 15,691 crore developing Payra Port, which remains largely inactive.]]></description>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/does-payra-port-have-any-business-model-4278096</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/does-payra-port-have-any-business-model-4278096</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 11:40:54 GMT</pubDate>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Alzheimer’s Day / Bangladesh must prepare for its growing dementia crisis]]></title>
@@ -22,7 +29,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-prepare-its-growing-dementia-crisis-4278101</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-prepare-its-growing-dementia-crisis-4278101</guid>
             <dc:creator><![CDATA[Imdadul Haque Talukdar]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 11:40:54 GMT</pubDate>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why the new property law may be counterproductive]]></title>
@@ -30,7 +37,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-the-new-property-law-may-be-counterproductive-4278111</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-the-new-property-law-may-be-counterproductive-4278111</guid>
             <dc:creator><![CDATA[Ragib ShahriarKazi Tamrin Rashed]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 11:40:54 GMT</pubDate>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Policing cannot replace the community safety net our children need]]></title>
@@ -38,7 +45,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/policing-cannot-replace-the-community-safety-net-our-children-need-4278116</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/policing-cannot-replace-the-community-safety-net-our-children-need-4278116</guid>
             <dc:creator><![CDATA[Sazzad Siddiqui]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 11:40:54 GMT</pubDate>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bring Oprotim’s killers to justice]]></title>
@@ -63,18 +70,10 @@
             <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Give women athletes a market before asking them to earn their value]]></title>
-            <description><![CDATA[By Shafiq R Bhuiyan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/give-women-athletes-market-asking-them-earn-their-value-4277321</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/give-women-athletes-market-asking-them-earn-their-value-4277321</guid>
-            <dc:creator><![CDATA[Shafiq R Bhuiyan]]></dc:creator>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Space deficit mustn’t drive case backlogs]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/space-deficit-mustnt-drive-case-backlogs-4278091</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/space-deficit-mustnt-drive-case-backlogs-4278091</guid>
-            <pubDate>Mon, 21 Sep 2026 11:40:54 GMT</pubDate>
+            <pubDate>Mon, 21 Sep 2026 17:37:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prioritise building and maintaining public toilets]]></title>
@@ -99,6 +98,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/only-safe-helmets-should-be-marketed-4276511</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/only-safe-helmets-should-be-marketed-4276511</guid>
             <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We need a fairer global financial system for climate-vulnerable countries]]></title>
+            <description><![CDATA[By Mizan R Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-need-fairer-global-financial-system-climate-vulnerable-countries-4277326</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-fairer-global-financial-system-climate-vulnerable-countries-4277326</guid>
+            <dc:creator><![CDATA[Mizan R Khan]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ducsu’s mandate is student representation, not administration]]></title>
@@ -147,14 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/abdur-razzaqs-memoir-jamaats-internal-conflict-1971-apology-4275846</guid>
             <dc:creator><![CDATA[David Bergman]]></dc:creator>
             <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['NAZA' exposes what Israel wants hidden about the Gaza war]]></title>
-            <description><![CDATA[By Yousef SY Ramadan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/naza-exposes-what-israel-wants-hidden-about-the-gaza-war-4275461</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/naza-exposes-what-israel-wants-hidden-about-the-gaza-war-4275461</guid>
-            <dc:creator><![CDATA[Yousef SY Ramadan]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
