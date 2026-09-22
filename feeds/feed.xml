@@ -4,13 +4,44 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Sep 2026 00:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 05:43:20 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Sep 2026 00:28:50 GMT</pubDate>
+        <pubDate>Tue, 22 Sep 2026 05:43:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Managing Bangladesh’s latest fuel price shock]]></title>
+            <description><![CDATA[The government has increased the retail prices of all major fuels by Tk 20 per litre, effective from midnight on September 20.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/managing-bangladeshs-latest-fuel-price-shock-4279191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/managing-bangladeshs-latest-fuel-price-shock-4279191</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 05:43:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Car Free Day / Time to speak up against fossil fuel use]]></title>
+            <description><![CDATA[By Debra Efroymson]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/time-speak-against-fossil-fuel-use-4279211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-speak-against-fossil-fuel-use-4279211</guid>
+            <dc:creator><![CDATA[Debra Efroymson]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 05:43:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biman: An airline that flies on political fumes]]></title>
+            <description><![CDATA[By Arun Devnath]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/biman-airline-flies-political-fumes-4279221</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/biman-airline-flies-political-fumes-4279221</guid>
+            <dc:creator><![CDATA[Arun Devnath]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 05:43:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yaba is devouring our children, and we are still looking away]]></title>
+            <description><![CDATA[By Shahab Enam Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/yaba-devouring-our-children-and-we-are-still-looking-away-4279236</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/yaba-devouring-our-children-and-we-are-still-looking-away-4279236</guid>
+            <dc:creator><![CDATA[Shahab Enam Khan]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 05:43:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bidding process must be fair]]></title>
-            <description><![CDATA[Employ safeguards to curb corruption in public procurement.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/bidding-process-must-be-fair-4278891</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bidding-process-must-be-fair-4278891</guid>
             <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
@@ -40,11 +71,9 @@
             <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Policing cannot replace the community safety net our children need]]></title>
-            <description><![CDATA[By Sazzad Siddiqui]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/policing-cannot-replace-the-community-safety-net-our-children-need-4278116</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/policing-cannot-replace-the-community-safety-net-our-children-need-4278116</guid>
-            <dc:creator><![CDATA[Sazzad Siddiqui]]></dc:creator>
+            <title><![CDATA[Space deficit mustn’t drive case backlogs]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/space-deficit-mustnt-drive-case-backlogs-4278091</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/space-deficit-mustnt-drive-case-backlogs-4278091</guid>
             <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -52,28 +81,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/bring-oprotims-killers-justice-4277921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bring-oprotims-killers-justice-4277921</guid>
             <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Bangladesh needs a national health fund]]></title>
-            <description><![CDATA[By Syed Abdul Hamid]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-bangladesh-needs-national-health-fund-4277306</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladesh-needs-national-health-fund-4277306</guid>
-            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fixing Bangladesh's VAT cash squeeze without reversing reform]]></title>
-            <description><![CDATA[By Ashfaq Zaman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/fixing-bangladeshs-vat-cash-squeeze-without-reversing-reform-4276526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fixing-bangladeshs-vat-cash-squeeze-without-reversing-reform-4276526</guid>
-            <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Space deficit mustn’t drive case backlogs]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/space-deficit-mustnt-drive-case-backlogs-4278091</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/space-deficit-mustnt-drive-case-backlogs-4278091</guid>
-            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prioritise building and maintaining public toilets]]></title>
@@ -94,10 +101,28 @@
             <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Only safe helmets should be marketed]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/only-safe-helmets-should-be-marketed-4276511</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/only-safe-helmets-should-be-marketed-4276511</guid>
+            <title><![CDATA[Why Bangladesh needs a national health fund]]></title>
+            <description><![CDATA[By Syed Abdul Hamid]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-bangladesh-needs-national-health-fund-4277306</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladesh-needs-national-health-fund-4277306</guid>
+            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fixing Bangladesh's VAT cash squeeze without reversing reform]]></title>
+            <description><![CDATA[By Ashfaq Zaman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/fixing-bangladeshs-vat-cash-squeeze-without-reversing-reform-4276526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fixing-bangladeshs-vat-cash-squeeze-without-reversing-reform-4276526</guid>
+            <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
             <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Give women athletes a market before asking them to earn their value]]></title>
+            <description><![CDATA[By Shafiq R Bhuiyan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/give-women-athletes-market-asking-them-earn-their-value-4277321</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/give-women-athletes-market-asking-them-earn-their-value-4277321</guid>
+            <dc:creator><![CDATA[Shafiq R Bhuiyan]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We need a fairer global financial system for climate-vulnerable countries]]></title>
@@ -129,30 +154,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/without-structural-fixes-the-one-crore-job-promise-will-remain-hollow-4275801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/without-structural-fixes-the-one-crore-job-promise-will-remain-hollow-4275801</guid>
             <dc:creator><![CDATA[Sibbir Ahmad]]></dc:creator>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why regional diplomacy needs a feminist lens]]></title>
-            <description><![CDATA[By Farah Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-regional-diplomacy-needs-feminist-lens-4275806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-regional-diplomacy-needs-feminist-lens-4275806</guid>
-            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Renewed push for open-pit mining in Phulbari ignores hard-earned lessons]]></title>
-            <description><![CDATA[By Anu Muhammad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/renewed-push-open-pit-mining-phulbari-ignores-hard-earned-lessons-4275821</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/renewed-push-open-pit-mining-phulbari-ignores-hard-earned-lessons-4275821</guid>
-            <dc:creator><![CDATA[Anu Muhammad]]></dc:creator>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Abdur Razzaq’s memoir: Jamaat’s internal conflict for a 1971 apology]]></title>
-            <description><![CDATA[By David Bergman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/abdur-razzaqs-memoir-jamaats-internal-conflict-1971-apology-4275846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/abdur-razzaqs-memoir-jamaats-internal-conflict-1971-apology-4275846</guid>
-            <dc:creator><![CDATA[David Bergman]]></dc:creator>
             <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
