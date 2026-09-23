@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Sep 2026 07:07:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 13:13:06 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Sep 2026 07:07:55 GMT</pubDate>
+        <pubDate>Wed, 23 Sep 2026 13:13:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Amid narrowing choices, we need a credible economic strategy]]></title>
@@ -14,7 +14,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/amid-narrowing-choices-we-need-credible-economic-strategy-4280366</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/amid-narrowing-choices-we-need-credible-economic-strategy-4280366</guid>
             <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 07:07:55 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 13:13:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Time to put warning labels on unhealthy packaged foods]]></title>
@@ -22,7 +22,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/time-put-warning-labels-unhealthy-packaged-foods-4280381</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-put-warning-labels-unhealthy-packaged-foods-4280381</guid>
             <dc:creator><![CDATA[Mahbuba Rahman]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 07:07:55 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 13:13:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When did violence become so normal in Bangladesh?]]></title>
@@ -30,7 +30,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/when-did-violence-become-so-normal-bangladesh-4280386</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-did-violence-become-so-normal-bangladesh-4280386</guid>
             <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 07:07:55 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 13:13:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We must do more to protect boys from sexual abuse]]></title>
@@ -38,7 +38,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/we-must-do-more-protect-boys-sexual-abuse-4280391</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-do-more-protect-boys-sexual-abuse-4280391</guid>
             <dc:creator><![CDATA[Sina Akand]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 07:07:55 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 13:13:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Share the fuel-cost burden fairly]]></title>
@@ -69,10 +69,16 @@
             <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fuel price hikes can’t mean a free-for-all on transport fares]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fuel-price-hikes-cant-mean-free-all-transport-fares-4281081</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fuel-price-hikes-cant-mean-free-all-transport-fares-4281081</guid>
+            <pubDate>Wed, 23 Sep 2026 13:13:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Reliable data to fight dengue vital]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/reliable-data-fight-dengue-vital-4280361</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reliable-data-fight-dengue-vital-4280361</guid>
-            <pubDate>Wed, 23 Sep 2026 07:07:55 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 13:13:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bidding process must be fair]]></title>
@@ -93,10 +99,12 @@
             <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prioritise building and maintaining public toilets]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/prioritise-building-and-maintaining-public-toilets-4277296</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/prioritise-building-and-maintaining-public-toilets-4277296</guid>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Yaba is devouring our children, and we are still looking away]]></title>
+            <description><![CDATA[By Shahab Enam Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/news/yaba-devouring-our-children-and-we-are-still-looking-away-4279236</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/yaba-devouring-our-children-and-we-are-still-looking-away-4279236</guid>
+            <dc:creator><![CDATA[Shahab Enam Khan]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Biman: An airline that flies on political fumes]]></title>
@@ -145,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladesh-needs-national-health-fund-4277306</guid>
             <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
             <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fixing Bangladesh's VAT cash squeeze without reversing reform]]></title>
-            <description><![CDATA[By Ashfaq Zaman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/fixing-bangladeshs-vat-cash-squeeze-without-reversing-reform-4276526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fixing-bangladeshs-vat-cash-squeeze-without-reversing-reform-4276526</guid>
-            <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
