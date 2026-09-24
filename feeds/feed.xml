@@ -4,13 +4,45 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Sep 2026 00:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 05:44:15 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Sep 2026 00:12:23 GMT</pubDate>
+        <pubDate>Thu, 24 Sep 2026 05:44:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[A single digital ID can simplify life, but who will protect the data?]]></title>
+            <description><![CDATA[There is something almost surreal about how cheap privacy, especially data privacy, has become in Bangladesh.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/single-digital-id-can-simplify-life-who-will-protect-the-data-4281331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/single-digital-id-can-simplify-life-who-will-protect-the-data-4281331</guid>
+            <dc:creator><![CDATA[Zarif Faiaz]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 05:44:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We need reliable buyers to build more solar power]]></title>
+            <description><![CDATA[By Md. Sajid Hasan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-need-reliable-buyers-build-more-solar-power-4281356</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-reliable-buyers-build-more-solar-power-4281356</guid>
+            <dc:creator><![CDATA[Md. Sajid Hasan]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 05:44:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why burden citizens with higher fuel costs instead of cutting less urgent spending?]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-burden-citizens-higher-fuel-costs-instead-cutting-less-urgent-spending-4281371</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-burden-citizens-higher-fuel-costs-instead-cutting-less-urgent-spending-4281371</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 05:44:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[For women, ‘diversifying income’ can become another form of depletion]]></title>
+            <description><![CDATA[By Tasmiah T Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/women-diversifying-income-can-become-another-form-depletion-4281381</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/women-diversifying-income-can-become-another-form-depletion-4281381</guid>
+            <dc:creator><![CDATA[Tasmiah T Rahman]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 05:44:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Amid narrowing choices, we need a credible economic strategy]]></title>
-            <description><![CDATA[The three central banks responsible for setting the price of money globally recently took action in the same direction.]]></description>
+            <description><![CDATA[By M Kabir Hassan]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/amid-narrowing-choices-we-need-credible-economic-strategy-4280366</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/amid-narrowing-choices-we-need-credible-economic-strategy-4280366</guid>
             <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
@@ -41,6 +73,18 @@
             <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fuel price hikes can’t mean a free-for-all on transport fares]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fuel-price-hikes-cant-mean-free-all-transport-fares-4281081</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fuel-price-hikes-cant-mean-free-all-transport-fares-4281081</guid>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reliable data to fight dengue vital]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/reliable-data-fight-dengue-vital-4280361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reliable-data-fight-dengue-vital-4280361</guid>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Share the fuel-cost burden fairly]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/share-the-fuel-cost-burden-fairly-4279911</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/share-the-fuel-cost-burden-fairly-4279911</guid>
@@ -51,6 +95,12 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/no-school-should-be-without-toilets-4279186</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/no-school-should-be-without-toilets-4279186</guid>
             <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bidding process must be fair]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/bidding-process-must-be-fair-4278891</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bidding-process-must-be-fair-4278891</guid>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Opinion / Managing Bangladesh’s latest fuel price shock]]></title>
@@ -67,36 +117,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-speak-against-fossil-fuel-use-4279211</guid>
             <dc:creator><![CDATA[Debra Efroymson]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fuel price hikes can’t mean a free-for-all on transport fares]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/fuel-price-hikes-cant-mean-free-all-transport-fares-4281081</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fuel-price-hikes-cant-mean-free-all-transport-fares-4281081</guid>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reliable data to fight dengue vital]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/reliable-data-fight-dengue-vital-4280361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reliable-data-fight-dengue-vital-4280361</guid>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bidding process must be fair]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/bidding-process-must-be-fair-4278891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bidding-process-must-be-fair-4278891</guid>
-            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Space deficit mustn’t drive case backlogs]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/space-deficit-mustnt-drive-case-backlogs-4278091</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/space-deficit-mustnt-drive-case-backlogs-4278091</guid>
-            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bring Oprotim’s killers to justice]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/bring-oprotims-killers-justice-4277921</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bring-oprotims-killers-justice-4277921</guid>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yaba is devouring our children, and we are still looking away]]></title>
@@ -137,22 +157,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-the-new-property-law-may-be-counterproductive-4278111</guid>
             <dc:creator><![CDATA[Ragib ShahriarKazi Tamrin Rashed]]></dc:creator>
             <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Policing cannot replace the community safety net our children need]]></title>
-            <description><![CDATA[By Sazzad Siddiqui]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/policing-cannot-replace-the-community-safety-net-our-children-need-4278116</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/policing-cannot-replace-the-community-safety-net-our-children-need-4278116</guid>
-            <dc:creator><![CDATA[Sazzad Siddiqui]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Bangladesh needs a national health fund]]></title>
-            <description><![CDATA[By Syed Abdul Hamid]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-bangladesh-needs-national-health-fund-4277306</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladesh-needs-national-health-fund-4277306</guid>
-            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
