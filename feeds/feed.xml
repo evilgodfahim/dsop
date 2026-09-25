@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Sep 2026 01:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 06:57:59 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Sep 2026 01:05:08 GMT</pubDate>
+        <pubDate>Fri, 25 Sep 2026 06:57:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / The draft cyber law will restrict the media]]></title>
@@ -14,7 +14,23 @@
             <link>https://www.thedailystar.net/opinion/views/the-third-view/news/the-draft-cyber-law-will-restrict-the-media-4282196</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/the-draft-cyber-law-will-restrict-the-media-4282196</guid>
             <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 01:05:08 GMT</pubDate>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We tell women to speak up, but who defends them when they do?]]></title>
+            <description><![CDATA[By Tasneem Tayeb]]></description>
+            <link>https://www.thedailystar.net/opinion/views/closer-look/news/we-tell-women-speak-who-defends-them-when-they-do-4282201</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/we-tell-women-speak-who-defends-them-when-they-do-4282201</guid>
+            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 06:57:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oprotim's killing and the growing fear for our children’s safety]]></title>
+            <description><![CDATA[By Kazi ASM Nurul Huda]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/oprotims-killing-and-the-growing-fear-our-childrens-safety-4282206</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/oprotims-killing-and-the-growing-fear-our-childrens-safety-4282206</guid>
+            <dc:creator><![CDATA[Kazi ASM Nurul Huda]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 06:57:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rohingyas need the world’s support]]></title>
@@ -55,22 +71,6 @@
             <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Amid narrowing choices, we need a credible economic strategy]]></title>
-            <description><![CDATA[By M Kabir Hassan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/amid-narrowing-choices-we-need-credible-economic-strategy-4280366</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/amid-narrowing-choices-we-need-credible-economic-strategy-4280366</guid>
-            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Time to put warning labels on unhealthy packaged foods]]></title>
-            <description><![CDATA[By Mahbuba Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/time-put-warning-labels-unhealthy-packaged-foods-4280381</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-put-warning-labels-unhealthy-packaged-foods-4280381</guid>
-            <dc:creator><![CDATA[Mahbuba Rahman]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nine years without MRI service!]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/nine-years-without-mri-service-4281316</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/nine-years-without-mri-service-4281316</guid>
@@ -99,6 +99,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/no-school-should-be-without-toilets-4279186</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/no-school-should-be-without-toilets-4279186</guid>
             <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amid narrowing choices, we need a credible economic strategy]]></title>
+            <description><![CDATA[By M Kabir Hassan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/amid-narrowing-choices-we-need-credible-economic-strategy-4280366</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/amid-narrowing-choices-we-need-credible-economic-strategy-4280366</guid>
+            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Time to put warning labels on unhealthy packaged foods]]></title>
+            <description><![CDATA[By Mahbuba Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/time-put-warning-labels-unhealthy-packaged-foods-4280381</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-put-warning-labels-unhealthy-packaged-foods-4280381</guid>
+            <dc:creator><![CDATA[Mahbuba Rahman]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When did violence become so normal in Bangladesh?]]></title>
@@ -139,22 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/yaba-devouring-our-children-and-we-are-still-looking-away-4279236</guid>
             <dc:creator><![CDATA[Shahab Enam Khan]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biman: An airline that flies on political fumes]]></title>
-            <description><![CDATA[By Arun Devnath]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/biman-airline-flies-political-fumes-4279221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/biman-airline-flies-political-fumes-4279221</guid>
-            <dc:creator><![CDATA[Arun Devnath]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Payra Port have any business model?]]></title>
-            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/does-payra-port-have-any-business-model-4278096</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/does-payra-port-have-any-business-model-4278096</guid>
-            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
