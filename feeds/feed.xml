@@ -4,13 +4,50 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Sep 2026 02:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 08:22:25 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Sep 2026 02:58:16 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 08:22:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The system is failing our children]]></title>
+            <description><![CDATA[A forwarded message on a WhatsApp group recounted how guards recovered a child at a city hospital who was being secretly taken away from his mother.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/the-system-failing-our-children-4282946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-system-failing-our-children-4282946</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 08:22:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate action cannot accelerate without climate justice]]></title>
+            <description><![CDATA[By Farah Kabir]]></description>
+            <link>https://www.thedailystar.net/opinion/news/climate-action-cannot-accelerate-without-climate-justice-4282966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/climate-action-cannot-accelerate-without-climate-justice-4282966</guid>
+            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 08:22:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Protect RMG workers from rising heat]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/protect-rmg-workers-rising-heat-4282941</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-rmg-workers-rising-heat-4282941</guid>
+            <pubDate>Sat, 26 Sep 2026 08:22:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Before AI in education, make sure children can learn and reason]]></title>
+            <description><![CDATA[By M Niaz Asadullah]]></description>
+            <link>https://www.thedailystar.net/opinion/news/ai-education-make-sure-children-can-learn-and-reason-4282961</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/ai-education-make-sure-children-can-learn-and-reason-4282961</guid>
+            <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A-Challan can change how we manage public money]]></title>
+            <description><![CDATA[By Rizwana Tabassum]]></description>
+            <link>https://www.thedailystar.net/opinion/news/challan-can-change-how-we-manage-public-money-4282956</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/challan-can-change-how-we-manage-public-money-4282956</guid>
+            <dc:creator><![CDATA[Rizwana Tabassum]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 08:22:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dismantle the teen gangs in Cumilla]]></title>
-            <description><![CDATA[The growing threat of such gangs across the country demands urgent action.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/dismantle-the-teen-gangs-cumilla-4282781</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dismantle-the-teen-gangs-cumilla-4282781</guid>
             <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
@@ -32,11 +69,9 @@
             <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Oprotim's killing and the growing fear for our children’s safety]]></title>
-            <description><![CDATA[By Kazi ASM Nurul Huda]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/oprotims-killing-and-the-growing-fear-our-childrens-safety-4282206</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/oprotims-killing-and-the-growing-fear-our-childrens-safety-4282206</guid>
-            <dc:creator><![CDATA[Kazi ASM Nurul Huda]]></dc:creator>
+            <title><![CDATA[Reform promise must be kept]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/reform-promise-must-be-kept-4282191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reform-promise-must-be-kept-4282191</guid>
             <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -44,28 +79,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/rohingyas-need-the-worlds-support-4281986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rohingyas-need-the-worlds-support-4281986</guid>
             <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A single digital ID can simplify life, but who will protect the data?]]></title>
-            <description><![CDATA[By Zarif Faiaz]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/single-digital-id-can-simplify-life-who-will-protect-the-data-4281331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/single-digital-id-can-simplify-life-who-will-protect-the-data-4281331</guid>
-            <dc:creator><![CDATA[Zarif Faiaz]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We need reliable buyers to build more solar power]]></title>
-            <description><![CDATA[By Md. Sajid Hasan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-need-reliable-buyers-build-more-solar-power-4281356</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-reliable-buyers-build-more-solar-power-4281356</guid>
-            <dc:creator><![CDATA[Md. Sajid Hasan]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reform promise must be kept]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/reform-promise-must-be-kept-4282191</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reform-promise-must-be-kept-4282191</guid>
-            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nine years without MRI service!]]></title>
@@ -86,16 +99,28 @@
             <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Share the fuel-cost burden fairly]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/share-the-fuel-cost-burden-fairly-4279911</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/share-the-fuel-cost-burden-fairly-4279911</guid>
-            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[A single digital ID can simplify life, but who will protect the data?]]></title>
+            <description><![CDATA[By Zarif Faiaz]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/single-digital-id-can-simplify-life-who-will-protect-the-data-4281331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/single-digital-id-can-simplify-life-who-will-protect-the-data-4281331</guid>
+            <dc:creator><![CDATA[Zarif Faiaz]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No school should be without toilets]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/no-school-should-be-without-toilets-4279186</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/no-school-should-be-without-toilets-4279186</guid>
-            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[We need reliable buyers to build more solar power]]></title>
+            <description><![CDATA[By Md. Sajid Hasan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-need-reliable-buyers-build-more-solar-power-4281356</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-reliable-buyers-build-more-solar-power-4281356</guid>
+            <dc:creator><![CDATA[Md. Sajid Hasan]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why burden citizens with higher fuel costs instead of cutting less urgent expenses?]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-burden-citizens-higher-fuel-costs-instead-cutting-less-urgent-expenses-4281371</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-burden-citizens-higher-fuel-costs-instead-cutting-less-urgent-expenses-4281371</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[For women, ‘diversifying income’ can become another form of depletion]]></title>
@@ -128,30 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-put-warning-labels-unhealthy-packaged-foods-4280381</guid>
             <dc:creator><![CDATA[Mahbuba Rahman]]></dc:creator>
             <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When did violence become so normal in Bangladesh?]]></title>
-            <description><![CDATA[By Asif Bin Ali]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/when-did-violence-become-so-normal-bangladesh-4280386</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-did-violence-become-so-normal-bangladesh-4280386</guid>
-            <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We must do more to protect boys from sexual abuse]]></title>
-            <description><![CDATA[By Sina Akand]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-must-do-more-protect-boys-sexual-abuse-4280391</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-do-more-protect-boys-sexual-abuse-4280391</guid>
-            <dc:creator><![CDATA[Sina Akand]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion / Managing Bangladesh’s latest fuel price shock]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/managing-bangladeshs-latest-fuel-price-shock-4279191</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/managing-bangladeshs-latest-fuel-price-shock-4279191</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
