@@ -4,33 +4,30 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Sep 2026 06:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 13:38:47 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Sep 2026 06:29:52 GMT</pubDate>
+        <pubDate>Tue, 29 Sep 2026 13:38:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Building stronger institutions is key to post-LDC growth]]></title>
-            <description><![CDATA[Since independence, Bangladesh has transformed from one of the world’s poorest nations into a more stable and diversified economy driven by manufacturing, exports, remittances, and services, alongside notable social progress.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/building-stronger-institutions-key-post-ldc-growth-4285406</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/building-stronger-institutions-key-post-ldc-growth-4285406</guid>
-            <dc:creator><![CDATA[Christian Brix MøllerFahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 06:29:52 GMT</pubDate>
+            <title><![CDATA[Policing teen delinquency needs caution]]></title>
+            <description><![CDATA[A balanced strategy is needed to deal with juvenile crimes.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/policing-teen-delinquency-needs-caution-4285971</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/policing-teen-delinquency-needs-caution-4285971</guid>
+            <pubDate>Tue, 29 Sep 2026 13:38:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Invest in wetlands for growth and resilience]]></title>
-            <description><![CDATA[By Scott MorrisMusonda Mumba]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/invest-wetlands-growth-and-resilience-4285446</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/invest-wetlands-growth-and-resilience-4285446</guid>
-            <dc:creator><![CDATA[Scott MorrisMusonda Mumba]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 06:29:52 GMT</pubDate>
+            <title><![CDATA[Bangladesh’s UN moment must become more than a speech]]></title>
+            <description><![CDATA[By M Kabir Hassan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-un-moment-must-become-more-speech-4285956</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-un-moment-must-become-more-speech-4285956</guid>
+            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 13:38:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How public schools can protect children from extreme heat]]></title>
-            <description><![CDATA[By Maisha Bint Salam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-public-schools-can-protect-children-extreme-heat-4285451</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-public-schools-can-protect-children-extreme-heat-4285451</guid>
-            <dc:creator><![CDATA[Maisha Bint Salam]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 06:29:52 GMT</pubDate>
+            <title><![CDATA[End the deadlock at the Information Commission]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/end-the-deadlock-the-information-commission-4285401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-the-deadlock-the-information-commission-4285401</guid>
+            <pubDate>Tue, 29 Sep 2026 13:38:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is our fiscal system addressing inherited inequality?]]></title>
@@ -38,43 +35,37 @@
             <link>https://www.thedailystar.net/opinion/views/news/our-fiscal-system-addressing-inherited-inequality-4285466</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-fiscal-system-addressing-inherited-inequality-4285466</guid>
             <dc:creator><![CDATA[Tahsin Rifat]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 06:29:52 GMT</pubDate>
+            <pubDate>Tue, 29 Sep 2026 13:38:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Invest in wetlands for growth and resilience]]></title>
+            <description><![CDATA[By Scott MorrisMusonda Mumba]]></description>
+            <link>https://www.thedailystar.net/opinion/news/invest-wetlands-growth-and-resilience-4285446</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/invest-wetlands-growth-and-resilience-4285446</guid>
+            <dc:creator><![CDATA[Scott MorrisMusonda Mumba]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 13:38:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How public schools can protect children from extreme heat]]></title>
+            <description><![CDATA[By Maisha Bint Salam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-public-schools-can-protect-children-extreme-heat-4285451</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-public-schools-can-protect-children-extreme-heat-4285451</guid>
+            <dc:creator><![CDATA[Maisha Bint Salam]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 13:38:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building stronger institutions is key to post-LDC growth]]></title>
+            <description><![CDATA[By Christian Brix MøllerFahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/building-stronger-institutions-key-post-ldc-growth-4285406</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/building-stronger-institutions-key-post-ldc-growth-4285406</guid>
+            <dc:creator><![CDATA[Christian Brix MøllerFahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 13:38:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is violent crime being normalised?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/violent-crime-being-normalised-4285201</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/violent-crime-being-normalised-4285201</guid>
             <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Media reform and journalism protection law can help counter disinformation]]></title>
-            <description><![CDATA[By Kamal Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/media-reform-and-journalism-protection-law-can-help-counter-disinformation-4284551</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/media-reform-and-journalism-protection-law-can-help-counter-disinformation-4284551</guid>
-            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The answer to children’s online risks is not a social media ban]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-answer-childrens-online-risks-not-social-media-ban-4284576</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-answer-childrens-online-risks-not-social-media-ban-4284576</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI’s hidden water cost, and why it matters]]></title>
-            <description><![CDATA[By Fatema Tuz ZuhraHurmetun Nesa Labiba]]></description>
-            <link>https://www.thedailystar.net/opinion/news/ais-hidden-water-cost-and-why-it-matters-4284571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/ais-hidden-water-cost-and-why-it-matters-4284571</guid>
-            <dc:creator><![CDATA[Fatema Tuz ZuhraHurmetun Nesa Labiba]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[End Information Commission paralysis]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/end-information-commission-paralysis-4285401</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-information-commission-paralysis-4285401</guid>
-            <pubDate>Tue, 29 Sep 2026 06:29:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Attack on Radda MCH-FP centre condemnable]]></title>
@@ -98,6 +89,36 @@
             <title><![CDATA[Police must act on evidence alone]]></title>
             <link>https://www.thedailystar.net/opinion/news/police-must-act-evidence-alone-4284541</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/police-must-act-evidence-alone-4284541</guid>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Protect RMG workers from rising heat]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/protect-rmg-workers-rising-heat-4282941</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-rmg-workers-rising-heat-4282941</guid>
+            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The answer to children’s online risks is not a social media ban]]></title>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-answer-childrens-online-risks-not-social-media-ban-4284576</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-answer-childrens-online-risks-not-social-media-ban-4284576</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI’s hidden water cost, and why it matters]]></title>
+            <description><![CDATA[By Fatema Tuz ZuhraHurmetun Nesa Labiba]]></description>
+            <link>https://www.thedailystar.net/opinion/news/ais-hidden-water-cost-and-why-it-matters-4284571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/ais-hidden-water-cost-and-why-it-matters-4284571</guid>
+            <dc:creator><![CDATA[Fatema Tuz ZuhraHurmetun Nesa Labiba]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[International Day for Universal Access to Information / Nothing justifies the two-year vacancy at the Information Commission]]></title>
+            <description><![CDATA[By Shamsul BariRuhi Naz]]></description>
+            <link>https://www.thedailystar.net/opinion/news/nothing-justifies-the-two-year-vacancy-the-information-commission-4284601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/nothing-justifies-the-two-year-vacancy-the-information-commission-4284601</guid>
+            <dc:creator><![CDATA[Shamsul BariRuhi Naz]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -131,30 +152,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-our-rivers-still-dying-despite-so-many-projects-4283721</guid>
             <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
             <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Before AI in education, make sure children can learn and reason]]></title>
-            <description><![CDATA[By M Niaz Asadullah]]></description>
-            <link>https://www.thedailystar.net/opinion/news/ai-education-make-sure-children-can-learn-and-reason-4282961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/ai-education-make-sure-children-can-learn-and-reason-4282961</guid>
-            <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The system is failing our children]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-system-failing-our-children-4282946</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-system-failing-our-children-4282946</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate action cannot accelerate without climate justice]]></title>
-            <description><![CDATA[By Farah Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/news/climate-action-cannot-accelerate-without-climate-justice-4282966</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/climate-action-cannot-accelerate-without-climate-justice-4282966</guid>
-            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
