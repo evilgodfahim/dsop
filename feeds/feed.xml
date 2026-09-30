@@ -4,16 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Sep 2026 23:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 03:27:07 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Sep 2026 23:20:15 GMT</pubDate>
+        <pubDate>Wed, 30 Sep 2026 03:27:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[What 2026 BNP can learn from 2002 BNP about talking law and order]]></title>
+            <description><![CDATA[In October 2002, marking one year in office during BNP’s second term, the then Prime Minister Khaleda Zia went on state television and radio and told the country that law and order had not improved as fast or as much as people had expected, and her government needed more time to fix it.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-2026-bnp-can-learn-2002-bnp-about-talking-law-and-order-4286311</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-2026-bnp-can-learn-2002-bnp-about-talking-law-and-order-4286311</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 03:27:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[National Girl Child Day / Can we give our daughters the life they deserve?]]></title>
+            <description><![CDATA[By Afia Jahin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/can-we-give-our-daughters-the-life-they-deserve-4286316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-we-give-our-daughters-the-life-they-deserve-4286316</guid>
+            <dc:creator><![CDATA[Afia Jahin]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 03:27:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Policing teen delinquency needs caution]]></title>
-            <description><![CDATA[A balanced strategy is needed to deal with juvenile crimes.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/policing-teen-delinquency-needs-caution-4285971</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/policing-teen-delinquency-needs-caution-4285971</guid>
-            <pubDate>Tue, 29 Sep 2026 23:20:15 GMT</pubDate>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh’s UN moment must become more than a speech]]></title>
@@ -21,7 +36,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-un-moment-must-become-more-speech-4285956</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-un-moment-must-become-more-speech-4285956</guid>
             <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 23:20:15 GMT</pubDate>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End the deadlock at the Information Commission]]></title>
@@ -51,14 +66,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/how-public-schools-can-protect-children-extreme-heat-4285451</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-public-schools-can-protect-children-extreme-heat-4285451</guid>
             <dc:creator><![CDATA[Maisha Bint Salam]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building stronger institutions is key to post-LDC growth]]></title>
-            <description><![CDATA[By Christian Brix MøllerFahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/building-stronger-institutions-key-post-ldc-growth-4285406</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/building-stronger-institutions-key-post-ldc-growth-4285406</guid>
-            <dc:creator><![CDATA[Christian Brix MøllerFahmida Khatun]]></dc:creator>
             <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -92,10 +99,12 @@
             <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Protect RMG workers from rising heat]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/protect-rmg-workers-rising-heat-4282941</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-rmg-workers-rising-heat-4282941</guid>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Media reform and journalism protection law can help counter disinformation]]></title>
+            <description><![CDATA[By Kamal Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/media-reform-and-journalism-protection-law-can-help-counter-disinformation-4284551</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/media-reform-and-journalism-protection-law-can-help-counter-disinformation-4284551</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The answer to children’s online risks is not a social media ban]]></title>
@@ -143,14 +152,6 @@
             <link>https://www.thedailystar.net/opinion/news/naza-israels-war-witnesses-and-media-complicity-4283726</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/naza-israels-war-witnesses-and-media-complicity-4283726</guid>
             <dc:creator><![CDATA[Jamal Kanj]]></dc:creator>
-            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Rivers Day / Why are our rivers still dying despite so many projects?]]></title>
-            <description><![CDATA[By Ahad Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-are-our-rivers-still-dying-despite-so-many-projects-4283721</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-our-rivers-still-dying-despite-so-many-projects-4283721</guid>
-            <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
             <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
