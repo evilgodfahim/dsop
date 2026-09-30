@@ -4,17 +4,33 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Sep 2026 03:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 10:10:59 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Sep 2026 03:27:07 GMT</pubDate>
+        <pubDate>Wed, 30 Sep 2026 10:10:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Why cheaper credit is not enough to spur private investment]]></title>
+            <description><![CDATA[Sohel Parvez and Jagaran Chakma, in a report published in The Daily Star on September 19, asked why cheaper money is failing to unlock private investment in Bangladesh.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-cheaper-credit-not-enough-spur-private-investment-4286266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-cheaper-credit-not-enough-spur-private-investment-4286266</guid>
+            <dc:creator><![CDATA[Abdullah A Dewan]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 10:10:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Businesses can help close the public toilet gap, but oversight is key]]></title>
+            <description><![CDATA[By Debra Efroymson]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/businesses-can-help-close-the-public-toilet-gap-oversight-key-4286276</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/businesses-can-help-close-the-public-toilet-gap-oversight-key-4286276</guid>
+            <dc:creator><![CDATA[Debra Efroymson]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 10:10:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What 2026 BNP can learn from 2002 BNP about talking law and order]]></title>
-            <description><![CDATA[In October 2002, marking one year in office during BNP’s second term, the then Prime Minister Khaleda Zia went on state television and radio and told the country that law and order had not improved as fast or as much as people had expected, and her government needed more time to fix it.]]></description>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/what-2026-bnp-can-learn-2002-bnp-about-talking-law-and-order-4286311</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-2026-bnp-can-learn-2002-bnp-about-talking-law-and-order-4286311</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Wed, 30 Sep 2026 03:27:07 GMT</pubDate>
+            <pubDate>Wed, 30 Sep 2026 10:10:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[National Girl Child Day / Can we give our daughters the life they deserve?]]></title>
@@ -22,7 +38,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/can-we-give-our-daughters-the-life-they-deserve-4286316</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-we-give-our-daughters-the-life-they-deserve-4286316</guid>
             <dc:creator><![CDATA[Afia Jahin]]></dc:creator>
-            <pubDate>Wed, 30 Sep 2026 03:27:07 GMT</pubDate>
+            <pubDate>Wed, 30 Sep 2026 10:10:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Policing teen delinquency needs caution]]></title>
@@ -53,20 +69,10 @@
             <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Invest in wetlands for growth and resilience]]></title>
-            <description><![CDATA[By Scott MorrisMusonda Mumba]]></description>
-            <link>https://www.thedailystar.net/opinion/news/invest-wetlands-growth-and-resilience-4285446</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/invest-wetlands-growth-and-resilience-4285446</guid>
-            <dc:creator><![CDATA[Scott MorrisMusonda Mumba]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How public schools can protect children from extreme heat]]></title>
-            <description><![CDATA[By Maisha Bint Salam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-public-schools-can-protect-children-extreme-heat-4285451</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-public-schools-can-protect-children-extreme-heat-4285451</guid>
-            <dc:creator><![CDATA[Maisha Bint Salam]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Pay rape response workers urgently]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/pay-rape-response-workers-urgently-4286251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/pay-rape-response-workers-urgently-4286251</guid>
+            <pubDate>Wed, 30 Sep 2026 10:10:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is violent crime being normalised?]]></title>
@@ -93,10 +99,20 @@
             <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Police must act on evidence alone]]></title>
-            <link>https://www.thedailystar.net/opinion/news/police-must-act-evidence-alone-4284541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/police-must-act-evidence-alone-4284541</guid>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Invest in wetlands for growth and resilience]]></title>
+            <description><![CDATA[By Scott MorrisMusonda Mumba]]></description>
+            <link>https://www.thedailystar.net/opinion/news/invest-wetlands-growth-and-resilience-4285446</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/invest-wetlands-growth-and-resilience-4285446</guid>
+            <dc:creator><![CDATA[Scott MorrisMusonda Mumba]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How public schools can protect children from extreme heat]]></title>
+            <description><![CDATA[By Maisha Bint Salam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-public-schools-can-protect-children-extreme-heat-4285451</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-public-schools-can-protect-children-extreme-heat-4285451</guid>
+            <dc:creator><![CDATA[Maisha Bint Salam]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Media reform and journalism protection law can help counter disinformation]]></title>
@@ -136,22 +152,6 @@
             <link>https://www.thedailystar.net/opinion/news/tourism-changes-lets-not-lose-sight-why-we-travel-4283711</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/tourism-changes-lets-not-lose-sight-why-we-travel-4283711</guid>
             <dc:creator><![CDATA[Sifat Afrin Shams]]></dc:creator>
-            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking how the logistics sector absorbs diesel price hikes]]></title>
-            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/rethinking-how-the-logistics-sector-absorbs-diesel-price-hikes-4283706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-how-the-logistics-sector-absorbs-diesel-price-hikes-4283706</guid>
-            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NAZA, Israel’s war on witnesses, and media complicity]]></title>
-            <description><![CDATA[By Jamal Kanj]]></description>
-            <link>https://www.thedailystar.net/opinion/news/naza-israels-war-witnesses-and-media-complicity-4283726</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/naza-israels-war-witnesses-and-media-complicity-4283726</guid>
-            <dc:creator><![CDATA[Jamal Kanj]]></dc:creator>
             <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
