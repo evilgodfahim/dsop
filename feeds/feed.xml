@@ -4,13 +4,44 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Oct 2026 00:59:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 07:00:20 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 01 Oct 2026 00:59:17 GMT</pubDate>
+        <pubDate>Thu, 01 Oct 2026 07:00:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Bangladesh needs to reform its trade policy to boost exports]]></title>
+            <description><![CDATA[Traditional protection is becoming costly in the pursuit of competitiveness]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-reform-its-trade-policy-boost-exports-4287421</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-reform-its-trade-policy-boost-exports-4287421</guid>
+            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 07:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[International Day of Older Persons / The elderly deserve dignity, not just care or support]]></title>
+            <description><![CDATA[By Laila Karim]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-elderly-deserve-dignity-not-just-care-or-support-4287426</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-elderly-deserve-dignity-not-just-care-or-support-4287426</guid>
+            <dc:creator><![CDATA[Laila Karim]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 07:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Radda attack shows the dangers of rising parallel power]]></title>
+            <description><![CDATA[By Tasneem Tayeb]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-radda-attack-shows-the-dangers-rising-parallel-power-4287431</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-radda-attack-shows-the-dangers-rising-parallel-power-4287431</guid>
+            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 07:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Time to fix the anthrax vaccination strategy]]></title>
+            <description><![CDATA[By Mostafa Shabuj]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/time-fix-the-anthrax-vaccination-strategy-4287436</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-fix-the-anthrax-vaccination-strategy-4287436</guid>
+            <dc:creator><![CDATA[Mostafa Shabuj]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 07:00:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Attack on UPL is an attack on free speech]]></title>
-            <description><![CDATA[The government must protect publishers and punish the attackers]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/attack-upl-attack-free-speech-4287071</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/attack-upl-attack-free-speech-4287071</guid>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
@@ -40,31 +71,15 @@
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[National Girl Child Day / Can we give our daughters the life they deserve?]]></title>
-            <description><![CDATA[By Afia Jahin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/can-we-give-our-daughters-the-life-they-deserve-4286316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-we-give-our-daughters-the-life-they-deserve-4286316</guid>
-            <dc:creator><![CDATA[Afia Jahin]]></dc:creator>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[How long must Ramu wait for justice?]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/how-long-must-ramu-wait-justice-4287416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-long-must-ramu-wait-justice-4287416</guid>
+            <pubDate>Thu, 01 Oct 2026 07:00:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Policing teen delinquency needs caution]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/policing-teen-delinquency-needs-caution-4285971</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/policing-teen-delinquency-needs-caution-4285971</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s UN moment must become more than a speech]]></title>
-            <description><![CDATA[By M Kabir Hassan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-un-moment-must-become-more-speech-4285956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-un-moment-must-become-more-speech-4285956</guid>
-            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[End the deadlock at the Information Commission]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/end-the-deadlock-the-information-commission-4285401</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-the-deadlock-the-information-commission-4285401</guid>
             <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -74,28 +89,32 @@
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[End the deadlock at the Information Commission]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/end-the-deadlock-the-information-commission-4285401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-the-deadlock-the-information-commission-4285401</guid>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is violent crime being normalised?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/violent-crime-being-normalised-4285201</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/violent-crime-being-normalised-4285201</guid>
             <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Attack on Radda MCH-FP centre condemnable]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/attack-radda-mch-fp-centre-condemnable-4284256</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/attack-radda-mch-fp-centre-condemnable-4284256</guid>
-            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[National Girl Child Day / Can we give our daughters the life they deserve?]]></title>
+            <description><![CDATA[By Afia Jahin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/can-we-give-our-daughters-the-life-they-deserve-4286316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-we-give-our-daughters-the-life-they-deserve-4286316</guid>
+            <dc:creator><![CDATA[Afia Jahin]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Act before anthrax spreads further]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/act-anthrax-spreads-further-4283701</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/act-anthrax-spreads-further-4283701</guid>
-            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We must break the cyber-scam networks]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/we-must-break-the-cyber-scam-networks-4283436</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-must-break-the-cyber-scam-networks-4283436</guid>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Bangladesh’s UN moment must become more than a speech]]></title>
+            <description><![CDATA[By M Kabir Hassan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-un-moment-must-become-more-speech-4285956</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-un-moment-must-become-more-speech-4285956</guid>
+            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building stronger institutions is key to post-LDC growth]]></title>
@@ -135,22 +154,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/media-reform-and-journalism-protection-law-can-help-counter-disinformation-4284551</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/media-reform-and-journalism-protection-law-can-help-counter-disinformation-4284551</guid>
             <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The answer to children’s online risks is not a social media ban]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-answer-childrens-online-risks-not-social-media-ban-4284576</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-answer-childrens-online-risks-not-social-media-ban-4284576</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI’s hidden water cost, and why it matters]]></title>
-            <description><![CDATA[By Fatema Tuz ZuhraHurmetun Nesa Labiba]]></description>
-            <link>https://www.thedailystar.net/opinion/news/ais-hidden-water-cost-and-why-it-matters-4284571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/ais-hidden-water-cost-and-why-it-matters-4284571</guid>
-            <dc:creator><![CDATA[Fatema Tuz ZuhraHurmetun Nesa Labiba]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
