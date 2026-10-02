@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Oct 2026 13:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 18:52:38 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Oct 2026 13:26:41 GMT</pubDate>
+        <pubDate>Fri, 02 Oct 2026 18:52:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Ferdousy Ahmed’s resignation a welcome move]]></title>
+            <description><![CDATA[This should send a strong message against abuse of power]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/ferdousy-ahmeds-resignation-welcome-move-4288766</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ferdousy-ahmeds-resignation-welcome-move-4288766</guid>
+            <pubDate>Fri, 02 Oct 2026 18:52:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Time for a comprehensive law to regulate unhealthy foods]]></title>
-            <description><![CDATA[The country’s nutrition problem is becoming harder to ignore.]]></description>
+            <description><![CDATA[By Rumana HuqueSM Abdullah]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/time-comprehensive-law-regulate-unhealthy-foods-4288146</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-comprehensive-law-regulate-unhealthy-foods-4288146</guid>
             <dc:creator><![CDATA[Rumana HuqueSM Abdullah]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 13:26:41 GMT</pubDate>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We need smarter networks for a more connected Bangladesh]]></title>
@@ -22,7 +29,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/we-need-smarter-networks-more-connected-bangladesh-4288151</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-smarter-networks-more-connected-bangladesh-4288151</guid>
             <dc:creator><![CDATA[Johan Buse]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 13:26:41 GMT</pubDate>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The UPL incident shows how to ban a book without banning it]]></title>
@@ -30,7 +37,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-upl-incident-shows-how-ban-book-without-banning-it-4288156</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-upl-incident-shows-how-ban-book-without-banning-it-4288156</guid>
             <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 13:26:41 GMT</pubDate>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rape culture and the ordinary men who sustain it]]></title>
@@ -38,7 +45,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/rape-culture-and-the-ordinary-men-who-sustain-it-4288166</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rape-culture-and-the-ordinary-men-who-sustain-it-4288166</guid>
             <dc:creator><![CDATA[Maisha Islam]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 13:26:41 GMT</pubDate>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Develop a state-led elderly care system]]></title>
@@ -63,18 +70,10 @@
             <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Radda attack shows the dangers of rising parallel power]]></title>
-            <description><![CDATA[By Tasneem Tayeb]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-radda-attack-shows-the-dangers-rising-parallel-power-4287431</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-radda-attack-shows-the-dangers-rising-parallel-power-4287431</guid>
-            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Make evictions work for a change]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/make-evictions-work-change-4288141</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/make-evictions-work-change-4288141</guid>
-            <pubDate>Fri, 02 Oct 2026 13:26:41 GMT</pubDate>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How long must Ramu wait for justice?]]></title>
@@ -99,6 +98,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/pay-rape-response-workers-urgently-4286251</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/pay-rape-response-workers-urgently-4286251</guid>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Time to fix the anthrax vaccination strategy]]></title>
+            <description><![CDATA[By Mostafa Shabuj]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/time-fix-the-anthrax-vaccination-strategy-4287436</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-fix-the-anthrax-vaccination-strategy-4287436</guid>
+            <dc:creator><![CDATA[Mostafa Shabuj]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How can we become technology creators, not just users?]]></title>
@@ -146,14 +153,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-un-moment-must-become-more-speech-4285956</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-un-moment-must-become-more-speech-4285956</guid>
             <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building stronger institutions is key to post-LDC growth]]></title>
-            <description><![CDATA[By Christian Brix MøllerFahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/building-stronger-institutions-key-post-ldc-growth-4285406</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/building-stronger-institutions-key-post-ldc-growth-4285406</guid>
-            <dc:creator><![CDATA[Christian Brix MøllerFahmida Khatun]]></dc:creator>
             <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
