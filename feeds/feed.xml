@@ -4,25 +4,40 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Oct 2026 08:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 17:41:09 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Oct 2026 08:04:27 GMT</pubDate>
+        <pubDate>Mon, 05 Oct 2026 17:41:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[An outrageous display of hostility towards journalists]]></title>
+            <description><![CDATA[This resentment is not confined to the ruling party]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/outrageous-display-hostility-towards-journalists-4291071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/outrageous-display-hostility-towards-journalists-4291071</guid>
+            <pubDate>Mon, 05 Oct 2026 17:41:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From public recording to public humiliation: Where do we draw the line?]]></title>
+            <description><![CDATA[By Md. Kawsar Uddin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/public-recording-public-humiliation-where-do-we-draw-the-line-4291026</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/public-recording-public-humiliation-where-do-we-draw-the-line-4291026</guid>
+            <dc:creator><![CDATA[Md. Kawsar Uddin]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 17:41:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[World Teachers’ Day / Teachers must be the pivot of change in our education system]]></title>
-            <description><![CDATA[The theme for World Teachers’ Day 2026 is “Standing with teachers: 60 years of protecting the profession, advancing its status and shaping our futures.”]]></description>
+            <description><![CDATA[By Manzoor Ahmed]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/teachers-must-be-the-pivot-change-our-education-system-4290501</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/teachers-must-be-the-pivot-change-our-education-system-4290501</guid>
             <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 08:04:27 GMT</pubDate>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World Teachers' Day / Teaching is serious business. It takes commitment, not just expertise]]></title>
+            <title><![CDATA[World Teachers' Day / Teaching needs pedagogical skills, not just subject knowledge]]></title>
             <description><![CDATA[By Shafiq R Bhuiyan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/teaching-serious-business-it-takes-commitment-not-just-expertise-4290506</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/teaching-serious-business-it-takes-commitment-not-just-expertise-4290506</guid>
+            <link>https://www.thedailystar.net/opinion/views/news/teaching-needs-pedagogical-skills-not-just-subject-knowledge-4290506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/teaching-needs-pedagogical-skills-not-just-subject-knowledge-4290506</guid>
             <dc:creator><![CDATA[Shafiq R Bhuiyan]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 08:04:27 GMT</pubDate>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Biman needs more than new aircraft to compete globally]]></title>
@@ -30,13 +45,13 @@
             <link>https://www.thedailystar.net/opinion/news/biman-needs-more-new-aircraft-compete-globally-4290511</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/biman-needs-more-new-aircraft-compete-globally-4290511</guid>
             <dc:creator><![CDATA[Zarif Faiaz]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 08:04:27 GMT</pubDate>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Syndicates mustn’t control slum utilities]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/syndicates-mustnt-control-slum-utilities-4290496</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/syndicates-mustnt-control-slum-utilities-4290496</guid>
-            <pubDate>Mon, 05 Oct 2026 08:04:27 GMT</pubDate>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Feminism isn’t what we consume, it’s what we practise and fight for]]></title>
@@ -44,7 +59,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/feminism-isnt-what-we-consume-its-what-we-practise-and-fight-4290516</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/feminism-isnt-what-we-consume-its-what-we-practise-and-fight-4290516</guid>
             <dc:creator><![CDATA[Adrita Islam]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 08:04:27 GMT</pubDate>
+            <pubDate>Mon, 05 Oct 2026 17:41:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paperless by December? Chattogram port must get the transition right]]></title>
@@ -52,22 +67,6 @@
             <link>https://www.thedailystar.net/opinion/news/paperless-december-chattogram-port-must-get-the-transition-right-4289731</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/paperless-december-chattogram-port-must-get-the-transition-right-4289731</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Development cannot come at the cost of human lives]]></title>
-            <description><![CDATA[By Jahid Nur]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/development-cannot-come-the-cost-human-lives-4289741</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/development-cannot-come-the-cost-human-lives-4289741</guid>
-            <dc:creator><![CDATA[Jahid Nur]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How long can farmers keep producing as costs keep rising?]]></title>
-            <description><![CDATA[By Mostafa Shabuj]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-long-can-farmers-keep-producing-costs-keep-rising-4289746</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-long-can-farmers-keep-producing-costs-keep-rising-4289746</guid>
-            <dc:creator><![CDATA[Mostafa Shabuj]]></dc:creator>
             <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -99,6 +98,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/ferdousy-ahmeds-resignation-welcome-move-4288766</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ferdousy-ahmeds-resignation-welcome-move-4288766</guid>
             <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How long can farmers keep producing as costs keep rising?]]></title>
+            <description><![CDATA[By Mostafa Shabuj]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-long-can-farmers-keep-producing-costs-keep-rising-4289746</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-long-can-farmers-keep-producing-costs-keep-rising-4289746</guid>
+            <dc:creator><![CDATA[Mostafa Shabuj]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rare wildlife found in Inani puts our conservation efforts to the test]]></title>
+            <description><![CDATA[By Nafew Sajed Joy]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/rare-wildlife-found-inani-puts-our-conservation-efforts-the-test-4289751</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rare-wildlife-found-inani-puts-our-conservation-efforts-the-test-4289751</guid>
+            <dc:creator><![CDATA[Nafew Sajed Joy]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What teachers need beyond recognition]]></title>
@@ -138,22 +153,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/time-comprehensive-law-regulate-unhealthy-foods-4288146</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-comprehensive-law-regulate-unhealthy-foods-4288146</guid>
             <dc:creator><![CDATA[Rumana HuqueSM Abdullah]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We need smarter networks for a more connected Bangladesh]]></title>
-            <description><![CDATA[By Johan Buse]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-need-smarter-networks-more-connected-bangladesh-4288151</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-smarter-networks-more-connected-bangladesh-4288151</guid>
-            <dc:creator><![CDATA[Johan Buse]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The UPL incident shows how to ban a book without banning it]]></title>
-            <description><![CDATA[By Asif Bin Ali]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-upl-incident-shows-how-ban-book-without-banning-it-4288156</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-upl-incident-shows-how-ban-book-without-banning-it-4288156</guid>
-            <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
             <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
