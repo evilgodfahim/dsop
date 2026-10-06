@@ -4,17 +4,25 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Oct 2026 04:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 11:39:36 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Oct 2026 04:16:43 GMT</pubDate>
+        <pubDate>Tue, 06 Oct 2026 11:39:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Amid fiscal constraints, we must spend better on infrastructure]]></title>
+            <title><![CDATA[Amid fiscal constraints, we must make every infrastructure project count]]></title>
             <description><![CDATA[Infrastructure is critical for economic transformation.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/amid-fiscal-constraints-we-must-spend-better-infrastructure-4291271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/amid-fiscal-constraints-we-must-spend-better-infrastructure-4291271</guid>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/amid-fiscal-constraints-we-must-make-every-infrastructure-project-count-4291271</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/amid-fiscal-constraints-we-must-make-every-infrastructure-project-count-4291271</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 04:16:43 GMT</pubDate>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What keeps counterfeit products flowing into our markets?]]></title>
+            <description><![CDATA[By Maisha Farjana Anika]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-keeps-counterfeit-products-flowing-our-markets-4291276</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-keeps-counterfeit-products-flowing-our-markets-4291276</guid>
+            <dc:creator><![CDATA[Maisha Farjana Anika]]></dc:creator>
+            <pubDate>Tue, 06 Oct 2026 11:39:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can BNP protect journalists from its own rank and file?]]></title>
@@ -22,7 +30,15 @@
             <link>https://www.thedailystar.net/opinion/views/news/can-bnp-protect-journalists-its-own-rank-and-file-4291281</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-bnp-protect-journalists-its-own-rank-and-file-4291281</guid>
             <dc:creator><![CDATA[Arafat Rahaman]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 04:16:43 GMT</pubDate>
+            <pubDate>Tue, 06 Oct 2026 11:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our geodiversity deserves protection, just like our biodiversity]]></title>
+            <description><![CDATA[By Rajib Kumar Saha]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/our-geodiversity-deserves-protection-just-our-biodiversity-4291286</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-geodiversity-deserves-protection-just-our-biodiversity-4291286</guid>
+            <dc:creator><![CDATA[Rajib Kumar Saha]]></dc:creator>
+            <pubDate>Tue, 06 Oct 2026 11:39:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An outrageous display of hostility towards journalists]]></title>
@@ -58,15 +74,7 @@
             <title><![CDATA[Stop rewarding LPG market manipulation]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/stop-rewarding-lpg-market-manipulation-4291266</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/stop-rewarding-lpg-market-manipulation-4291266</guid>
-            <pubDate>Tue, 06 Oct 2026 04:16:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biman needs more than new aircraft to compete globally]]></title>
-            <description><![CDATA[By Zarif Faiaz]]></description>
-            <link>https://www.thedailystar.net/opinion/news/biman-needs-more-new-aircraft-compete-globally-4290511</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/biman-needs-more-new-aircraft-compete-globally-4290511</guid>
-            <dc:creator><![CDATA[Zarif Faiaz]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 06 Oct 2026 11:39:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End the black market in child adoption]]></title>
@@ -93,10 +101,12 @@
             <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why are we failing to contain dengue?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/why-are-we-failing-contain-dengue-4288866</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-are-we-failing-contain-dengue-4288866</guid>
-            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Paperless by December? Chattogram port must get the transition right]]></title>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/news/paperless-december-chattogram-port-must-get-the-transition-right-4289731</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/paperless-december-chattogram-port-must-get-the-transition-right-4289731</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Feminism isn’t what we consume, it’s what we practise and fight for]]></title>
@@ -144,14 +154,6 @@
             <link>https://www.thedailystar.net/opinion/news/seeking-justice-should-not-become-burden-abuse-survivors-4288886</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/seeking-justice-should-not-become-burden-abuse-survivors-4288886</guid>
             <dc:creator><![CDATA[Ashfaq Ferdous]]></dc:creator>
-            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To end learning poverty, we must embrace global assessments]]></title>
-            <description><![CDATA[By M Niaz Asadullah]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/end-learning-poverty-we-must-embrace-global-assessments-4288891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/end-learning-poverty-we-must-embrace-global-assessments-4288891</guid>
-            <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
