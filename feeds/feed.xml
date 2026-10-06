@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Oct 2026 11:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 17:43:59 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Oct 2026 11:39:36 GMT</pubDate>
+        <pubDate>Tue, 06 Oct 2026 17:43:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Restore teachers’ status and dignity]]></title>
+            <description><![CDATA[Dignity without decent pay cannot be achieved.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/restore-teachers-status-and-dignity-4292011</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/restore-teachers-status-and-dignity-4292011</guid>
+            <pubDate>Tue, 06 Oct 2026 17:43:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Amid fiscal constraints, we must make every infrastructure project count]]></title>
-            <description><![CDATA[Infrastructure is critical for economic transformation.]]></description>
+            <description><![CDATA[By Fahmida Khatun]]></description>
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/amid-fiscal-constraints-we-must-make-every-infrastructure-project-count-4291271</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/amid-fiscal-constraints-we-must-make-every-infrastructure-project-count-4291271</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
@@ -22,7 +29,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/what-keeps-counterfeit-products-flowing-our-markets-4291276</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-keeps-counterfeit-products-flowing-our-markets-4291276</guid>
             <dc:creator><![CDATA[Maisha Farjana Anika]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 11:39:36 GMT</pubDate>
+            <pubDate>Tue, 06 Oct 2026 17:43:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can BNP protect journalists from its own rank and file?]]></title>
@@ -30,7 +37,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/can-bnp-protect-journalists-its-own-rank-and-file-4291281</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-bnp-protect-journalists-its-own-rank-and-file-4291281</guid>
             <dc:creator><![CDATA[Arafat Rahaman]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 11:39:36 GMT</pubDate>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Our geodiversity deserves protection, just like our biodiversity]]></title>
@@ -38,7 +45,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/our-geodiversity-deserves-protection-just-our-biodiversity-4291286</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-geodiversity-deserves-protection-just-our-biodiversity-4291286</guid>
             <dc:creator><![CDATA[Rajib Kumar Saha]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 11:39:36 GMT</pubDate>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An outrageous display of hostility towards journalists]]></title>
@@ -63,18 +70,10 @@
             <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World Teachers' Day / Teaching needs pedagogical skills, not just subject knowledge]]></title>
-            <description><![CDATA[By Shafiq R Bhuiyan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/teaching-needs-pedagogical-skills-not-just-subject-knowledge-4290506</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/teaching-needs-pedagogical-skills-not-just-subject-knowledge-4290506</guid>
-            <dc:creator><![CDATA[Shafiq R Bhuiyan]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Stop rewarding LPG market manipulation]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/stop-rewarding-lpg-market-manipulation-4291266</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/stop-rewarding-lpg-market-manipulation-4291266</guid>
-            <pubDate>Tue, 06 Oct 2026 11:39:36 GMT</pubDate>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End the black market in child adoption]]></title>
@@ -98,6 +97,14 @@
             <title><![CDATA[Syndicates mustn’t control slum utilities]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/syndicates-mustnt-control-slum-utilities-4290496</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/syndicates-mustnt-control-slum-utilities-4290496</guid>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biman needs more than new aircraft to compete globally]]></title>
+            <description><![CDATA[By Zarif Faiaz]]></description>
+            <link>https://www.thedailystar.net/opinion/news/biman-needs-more-new-aircraft-compete-globally-4290511</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/biman-needs-more-new-aircraft-compete-globally-4290511</guid>
+            <dc:creator><![CDATA[Zarif Faiaz]]></dc:creator>
             <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -146,14 +153,6 @@
             <link>https://www.thedailystar.net/opinion/news/what-teachers-need-beyond-recognition-4288871</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/what-teachers-need-beyond-recognition-4288871</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seeking justice should not become a burden for abuse survivors]]></title>
-            <description><![CDATA[By Ashfaq Ferdous]]></description>
-            <link>https://www.thedailystar.net/opinion/news/seeking-justice-should-not-become-burden-abuse-survivors-4288886</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/seeking-justice-should-not-become-burden-abuse-survivors-4288886</guid>
-            <dc:creator><![CDATA[Ashfaq Ferdous]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
