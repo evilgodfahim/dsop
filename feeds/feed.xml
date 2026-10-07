@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2026 08:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 15:58:55 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 07 Oct 2026 08:09:32 GMT</pubDate>
+        <pubDate>Wed, 07 Oct 2026 15:58:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Migrant workers need stronger safeguards]]></title>
+            <description><![CDATA[Thousands are dying abroad, raising concerns about workers’ safety]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/migrant-workers-need-stronger-safeguards-4292976</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/migrant-workers-need-stronger-safeguards-4292976</guid>
+            <pubDate>Wed, 07 Oct 2026 15:58:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The cost of leaving the LPG market to private control]]></title>
-            <description><![CDATA[Forcing consumers to pay higher prices for an essential commodity by reducing supply and creating an artificial shortage in the market, to which the government subsequently responds by formally raising the commodity’s price, is a known tactic that was used repeatedly—be it for soybean oil, sugar or LPG—under the Awami League government.]]></description>
+            <description><![CDATA[By Kallol Mustafa]]></description>
             <link>https://www.thedailystar.net/opinion/news/the-cost-leaving-the-lpg-market-private-control-4292281</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-cost-leaving-the-lpg-market-private-control-4292281</guid>
             <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 08:09:32 GMT</pubDate>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Cotton Day / Can cotton diplomacy transform our textile prospects?]]></title>
@@ -22,13 +29,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/can-cotton-diplomacy-transform-our-textile-prospects-4292286</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-cotton-diplomacy-transform-our-textile-prospects-4292286</guid>
             <dc:creator><![CDATA[Iftekhar Ul Karim]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 08:09:32 GMT</pubDate>
+            <pubDate>Wed, 07 Oct 2026 15:58:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rein in the resort boom]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/rein-the-resort-boom-4292276</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rein-the-resort-boom-4292276</guid>
-            <pubDate>Wed, 07 Oct 2026 08:09:32 GMT</pubDate>
+            <pubDate>Wed, 07 Oct 2026 15:58:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can ICT prosecutors turn press questions into a crime against humanity?]]></title>
@@ -36,7 +43,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/can-ict-prosecutors-turn-press-questions-crime-against-humanity-4292291</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-ict-prosecutors-turn-press-questions-crime-against-humanity-4292291</guid>
             <dc:creator><![CDATA[David Bergman]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 08:09:32 GMT</pubDate>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One law for the powerful, another for the rest?]]></title>
@@ -44,7 +51,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/one-law-the-powerful-another-the-rest-4292296</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/one-law-the-powerful-another-the-rest-4292296</guid>
             <dc:creator><![CDATA[Mir Ahmad Bin Quasem]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 08:09:32 GMT</pubDate>
+            <pubDate>Wed, 07 Oct 2026 15:58:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Restore teachers’ status and dignity]]></title>
@@ -58,14 +65,6 @@
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/amid-fiscal-constraints-we-must-make-every-infrastructure-project-count-4291271</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/amid-fiscal-constraints-we-must-make-every-infrastructure-project-count-4291271</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What keeps counterfeit products flowing into our markets?]]></title>
-            <description><![CDATA[By Maisha Farjana Anika]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-keeps-counterfeit-products-flowing-our-markets-4291276</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-keeps-counterfeit-products-flowing-our-markets-4291276</guid>
-            <dc:creator><![CDATA[Maisha Farjana Anika]]></dc:creator>
             <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -97,6 +96,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/childcare-key-our-economic-progress-4289401</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/childcare-key-our-economic-progress-4289401</guid>
             <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can BNP protect journalists from its own rank and file?]]></title>
+            <description><![CDATA[By Arafat Rahaman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/can-bnp-protect-journalists-its-own-rank-and-file-4291281</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-bnp-protect-journalists-its-own-rank-and-file-4291281</guid>
+            <dc:creator><![CDATA[Arafat Rahaman]]></dc:creator>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Our geodiversity deserves protection, just like our biodiversity]]></title>
@@ -145,14 +152,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/paperless-december-chattogram-port-must-get-the-transition-right-4289731</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
             <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Feminism isn’t what we consume, it’s what we practise and fight for]]></title>
-            <description><![CDATA[By Adrita Islam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/feminism-isnt-what-we-consume-its-what-we-practise-and-fight-4290516</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/feminism-isnt-what-we-consume-its-what-we-practise-and-fight-4290516</guid>
-            <dc:creator><![CDATA[Adrita Islam]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
