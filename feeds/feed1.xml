@@ -4,219 +4,219 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Oct 2026 16:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 21:42:33 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Oct 2026 16:01:18 GMT</pubDate>
+        <pubDate>Thu, 08 Oct 2026 21:42:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Africa’s effort to make most of its own vaccines by 2040 faces significant headwinds]]></title>
-            <description><![CDATA[Companies striving to reduce continent’s reliance on foreign shots must overcome major financial and logistical challenges]]></description>
-            <link>https://www.science.org/content/article/africa-s-effort-make-most-its-own-vaccines-2040-faces-significant-headwinds</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/africa-s-effort-make-most-its-own-vaccines-2040-faces-significant-headwinds</guid>
-            <pubDate>Thu, 01 Oct 2026 18:00:00 GMT</pubDate>
+            <title><![CDATA[Audacious space heist aims to bring home bits of mysterious martian moon]]></title>
+            <description><![CDATA[Samples from Japan’s MMX mission could reveal how Phobos formed—and may contain pieces of Mars]]></description>
+            <link>https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon</guid>
+            <pubDate>Thu, 08 Oct 2026 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Oil wells could become mines for critical minerals]]></title>
-            <description><![CDATA[Engineered fluids could extract metals from fracked reservoirs, supplying materials for solar cells and electric vehicles]]></description>
-            <link>https://www.science.org/content/article/oil-wells-could-become-mines-critical-minerals</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/oil-wells-could-become-mines-critical-minerals</guid>
-            <pubDate>Thu, 01 Oct 2026 14:30:00 GMT</pubDate>
+            <title><![CDATA[The genetic basis for the production of toxic quinolizidine alkaloids in lupins | Science]]></title>
+            <description><![CDATA[Lupins (Lupinus spp.) are promising protein crops that accumulate bitter and toxic quinolizidine alkaloids (QAs). The effective removal of QAs through new breeding technologies is hampered by a poor understanding of their biosynthesis. In this study, we ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei5520</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei5520</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asymmetric enzymatic hydrophosphorylation through O2 activation | Science]]></title>
+            <description><![CDATA[Enzymatic carbon-phosphorus bond formation is extremely rare in nature, limiting biocatalytic access to phosphorus-containing compounds that are widely used in pharmaceuticals and agrochemicals. Here, we report an asymmetric enzymatic ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aef3001</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aef3001</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Insights from more than a year of ongoing episodic lava fountaining at Kīlauea | Science]]></title>
+            <description><![CDATA[Episodic lava fountaining is rare globally, with only three occurrences from Kīlauea (Hawaii) since 1823. Beginning in December 2024, an eruption within the summit crater, Halemaʻumaʻu, has produced 54 fountaining episodes to date, each lasting typically ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aef2931</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aef2931</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Epigenetic aging and transposon dysregulation reflect size-related lifespan compression in dogs | Science]]></title>
+            <description><![CDATA[The extraordinary lifespan variation in domestic dogs provides a natural experiment for testing how intrinsic rates of biological aging shape lifespan. Using 1640 methylomes from 894 dogs, we developed an epigenetic clock that predicted mortality and ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aeb2986</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeb2986</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The human gut microbiome primes fever after vaccination | Science]]></title>
+            <description><![CDATA[Fever is a common adverse reaction to vaccination, contributing to vaccine hesitancy and reduced uptake. To understand variation in fever risk, we longitudinally profiled fecal microbiota, oral temperature, and serological markers in 171 healthy adults ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aea7733</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea7733</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Golgi-derived vesicles containing PI(3,4)P2 drive mitochondrial fusion | Science]]></title>
+            <description><![CDATA[Mitochondria are dynamic organelles that remodel their shape to regulate cell fate. Mitochondrial division involves interactions with the endoplasmic reticulum (ER), lysosomes, and trans-Golgi network–derived vesicles to facilitate membrane scission. How ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.adx9628</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adx9628</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI has solved many math problems, but it has not solved math | Science]]></title>
+            <description><![CDATA[This summer has featured an amazing run of mathematical discoveries. In May, a prediction first made by Paul Erdős in 1946 about “unit distances” between points in a plane, was disproved. In July, the Jacobian conjecture, an 87-year-old open question in algebraic geometry, was refuted in dimension three. In August, the question of whether a six-dimensional sphere can be given smooth complex coordinates, first asked by Heinz Hopf in 1947, was finally confirmed to be true. Most recently, a finite-time singularity among the solutions to the famous Navier-Stokes equations—a system of equations governing the flow of fluids—was discovered after many decades (in a setting where the fluid is stirred by an external force).]]></description>
+            <link>https://www.science.org/doi/10.1126/science.ael8339</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael8339</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Natural 15N15N abundances constrain fixed nitrogen loss | Science]]></title>
+            <description><![CDATA[Nitrogen regulates primary productivity across much of the biosphere, yet fixed nitrogen loss remains poorly constrained because existing methods rely on indirect proxies or ex situ experiments. In this study, we show that natural abundances of the rare ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei0940</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei0940</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marine snow viscosity regulates microbial degradation and the ocean carbon sink | Science]]></title>
+            <description><![CDATA[Bacterial degradation of marine snow aggregates is a major component of global carbon cycling. Whether aggregate carbon is released in the upper ocean or is sequestered at depth depends on its sinking speed and degradation rate. However, little is known ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.adx4170</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adx4170</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High-fidelity entangling gates and nonlocal circuits with neutral atoms | Science]]></title>
+            <description><![CDATA[The generation and manipulation of entanglement with low error are essential in quantum information systems. In practice, two-qubit entangling gates constitute a dominant error source, limiting circuit depths and performance in fault-tolerant ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei1312</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei1312</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Other Journals | Science]]></title>
+            <description><![CDATA[Editors’ selections from the current scientific literature]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aem9877</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem9877</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In Science Journals | Science]]></title>
             <description><![CDATA[Highlights from the Science family of journals]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aem8010</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem8010</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <link>https://www.science.org/doi/10.1126/science.aem9876</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem9876</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sex-specific mechanisms of chronic pain | Science]]></title>
-            <description><![CDATA[For decades, we have known that women, especially younger women, are disproportionately affected by pain disorders, including irritable bowel syndrome, endometriosis, menstrual migraines, fibromyalgia, osteoarthritis, and neuropathic pain, all of which ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aeh4468</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh4468</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Phones impede learning: Evidence from a massive phone-free classroom experiment | Science]]></title>
+            <description><![CDATA[Lower-performing students benefited the most, but even higher-performing students expressed support for the policy]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aef7249</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aef7249</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reframing menopause and menopause hormone therapy as opportunities for healthy aging | Science]]></title>
-            <description><![CDATA[Menopause is an important biological transition with up to 72 symptoms that shapes aging trajectories across organs and encompasses ~40% of the female lifespan. Although menopause awareness is increasing, research on strategies for menopause symptom ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aeg5004</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeg5004</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Climate policies neglect risks posed by legacy landfills | Science]]></title>
+            <description><![CDATA[The environmental hazards associated with legacy landfills can be devastating, and the risks are being intensified by climate change. In August, extreme overnight precipitation compromised the structuralintegrity of the Dar es Salam landfill in Guinea, which had been scheduled to close, causing a landslide that buried homes and killed at least 30 people (1). Earlier this summer, in July, extreme dry-season heat ignited methane pockets in Indonesia’s Jatiwaringin landfill, a legacy open dump, sparking a 10-day fire across 15 hectares (2).]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aem1978</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem1978</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[X and Y chromosomes as determinants of aging and disease | Science]]></title>
-            <description><![CDATA[Sex differences have traditionally been attributed to gonadal hormones, but accumulating evidence shows that sex chromosomes exert distinct, cell-autonomous effects on health, aging, and disease. XX and XY complements alter gene dosage, epigenetic ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aeh0145</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh0145</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Careful governance is needed to balance the benefits and risks of landfill mining in China | Science]]></title>
+            <description><![CDATA[In recent years, dozens of Chinese cities across the Yangtze and Pearl River deltas have launched large-scale landfill mining, a process that entails sealed, decades-old municipal waste landfills being excavated and their contents being sorted and combusted in waste-to-energy plants (1, 2). Driven by shrinking fresh combustible waste after mandatory waste classification and overbuilt incineration capacity, this emerging practice delivers tangible socioeconomic and environmental gains yet carries overlooked ecological risks that demand balanced governance (3).]]></description>
+            <link>https://www.science.org/doi/10.1126/science.ael3115</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael3115</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shaping maternal physiology: Immune control of reproductive adaptation | Science]]></title>
-            <description><![CDATA[Pregnancy is one of the most extensive physiological transitions of adult life, requiring coordinated adaptation across virtually every maternal organ to support fetal growth while preserving maternal health. Although these changes have traditionally ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aeh1405</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh1405</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Respiratory infections could increase as extreme heat forces more people indoors | Science]]></title>
+            <description><![CDATA[HomeScienceVol. 394, No. 6820Respiratory infections could increase as extreme heat forces more people indoorsBack To Vol. 394, No. 6820 Full accessLetter Share on Respiratory infections could increase as extreme heat forces more people indoorsJingxuan Zhou and Ziyi ZhengAuthors Info & AffiliationsScience8 Oct 2026Vol 394, Issue 6820p. 175DOI: 10.1126/science.ael4936 PREVIOUS ARTICLEDemographic “d…]]></description>
+            <link>https://www.science.org/doi/10.1126/science.ael4936</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael4936</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Does the postmenopausal ovary still matter? | Science]]></title>
-            <description><![CDATA[Ovaries may influence health long after their reproductive function ends]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aeh7496</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh7496</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Demographic “doomsday” misses the mark | Science]]></title>
+            <description><![CDATA[A dire prediction published in Science in 1960 anticipated a population singularity in 2026—we are not even close]]></description>
+            <link>https://www.science.org/doi/10.1126/science.ael8752</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael8752</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Lifelong Focus on Women’s Health | Science]]></title>
-            <description><![CDATA[HomeScienceVol. 394, No. 6819A Lifelong Focus on Women’s HealthBack To Vol. 394, No. 6819 Full accessIntroduction to Special IssueINTRODUCTION Share on A Lifelong Focus on Women’s HealthYevgeniya Nusinovich, Sacha Vignieri, [...] , Sarah Ross, and Joana Osório+1 authors fewerAuthors Info & AffiliationsScience1 Oct 2026Vol 394, Issue 6819pp. 42-43DOI: 10.1126/science.aem4087 NEXT ARTICLEKeep AI-au…]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aem4087</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem4087</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Shifting the equilibrium on lupin alkaloids | Science]]></title>
+            <description><![CDATA[A biosynthesis breakthrough promises applications in food and chemistry]]></description>
+            <link>https://www.science.org/doi/10.1126/science.ael7880</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael7880</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Editor’s Note on the Research Article “China’s solar expansion policy reduces bird diversity” | Science]]></title>
-            <description><![CDATA[On 20 August 2026, Science ran the Research Article “China’s solar expansion policy reduces bird diversity” (1). The editors have received multiple eLetters expressing technical concerns about the paper. We are currently in the process of evaluating the validity of the concerns and determining whether any further action is needed on the paper.]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aem4102</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem4102</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Before the immunological Big Bang | Science]]></title>
+            <description><![CDATA[The nature of the gut microbiome before vaccination influences later inflammatory reactions and fever]]></description>
+            <link>https://www.science.org/doi/10.1126/science.ael7318</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael7318</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The utilitarian temptation in gene editing | Science]]></title>
-            <description><![CDATA[The recent gene-editing trial led by Zilong Qiu and colleagues in Shanghai (“A fatal reaction,” B. Borrell, News Feature, 23 July, 10.1126/science.aek8000) was not only a case of failed oversight; it also illustrates a recurring moral danger in biomedical research. Such trials can be driven by two mutually reinforcing motivations: the pursuit of professional recognition and a crude utilitarian rationale that risky experiments are justified because, if successful, they may benefit large numbers of present and future patients. This second motivation, which is especially powerful in biomedicine, can cloak self-interest in moral language and encourage researchers to discount evidence of danger to the individuals enrolled as subjects. Gene-editing interventions, in particular, may appear morally elevated because their promised benefits aim to enhance general welfare for all, including future generations, regardless of nationality or group identity. For this reason, the appeal to future benefit requires strict ethical limits.]]></description>
-            <link>https://www.science.org/doi/10.1126/science.ael2357</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael2357</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Climate change reshapes the global mercury cycle | Science]]></title>
+            <description><![CDATA[How will climate change shape future human risks to mercury exposure?]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aeh7034</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh7034</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Streamlining oversight in gene-editing trials | Science]]></title>
-            <description><![CDATA[In the News Feature “A fatal reaction” (23 July, 10.1126/science. aek8000), B. Borrell reports that a 6-year-old girl died after the world’s first-in-human brain base-editing trial in China. This case highlights a governance paradox: A regulatory system with detailed ethical rules failed to prevent a fatal outcome. Institutional fragmentation may be at fault. As countries expand access to highly individualized gene-editing therapies, they must also strengthen continuous, cross-institutional oversight.]]></description>
-            <link>https://www.science.org/doi/10.1126/science.ael0421</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael0421</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[AI for research mathematics has arrived | Science]]></title>
+            <description><![CDATA[Artificial intelligence can now solve research problems in mathematics and verify the answers]]></description>
+            <link>https://www.science.org/doi/10.1126/science.ael6628</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael6628</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Recording results from single-patient trials | Science]]></title>
-            <description><![CDATA[In the News Feature “A fatal reaction” (23 July, 10.1126/science.aek8000), B. Borrell reports that a 6-year-old child died 7 days after receiving an individualized base-editing treatment. Although the girl was the only participant that the trial intended to enroll, the registry continued to describe the study as “recruiting” more than a year later (1). During the same period, the related preclinical study cited nonhuman-primate delivery as evidence of translational feasibility (2) but did not mention the human trial. To ensure that the results of single-patient research are preserved, relevant protocols and major human outcomes should be recorded and kept current in a public registry.]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aek9583</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aek9583</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Data everywhere, but are they fit for purpose? | Science]]></title>
+            <description><![CDATA[Vast amounts of new data are fundamentally shaping how people manage their lives and do their work. The volume is overwhelming—Google Dataset Search discovers 2 million new datasets every month—and so are the uses by scientists, governments, and the ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.ael8349</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael8349</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Epistemic justice in gene-editing research | Science]]></title>
-            <description><![CDATA[HomeScienceVol. 394, No. 6819Epistemic justice in gene-editing researchBack To Vol. 394, No. 6819 Full accessLetter Share on Epistemic justice in gene-editing researchDong Dong, Yiou Wang, and Tao MaAuthors Info & AffiliationsScience1 Oct 2026Vol 394, Issue 6819p. 38DOI: 10.1126/science.aek9401 PREVIOUS ARTICLEWalden and the wild roots of conservation sciencePreviousNEXT ARTICLERecording results …]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aek9401</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aek9401</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Neanderthals were skilled woodworkers, first-of-its-kind tool trove reveals]]></title>
+            <description><![CDATA[Find in Spanish cave provides rare window into the domestic lives of our closest relatives]]></description>
+            <link>https://www.science.org/content/article/neanderthals-were-skilled-woodworkers-first-its-kind-tool-trove-reveals</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/neanderthals-were-skilled-woodworkers-first-its-kind-tool-trove-reveals</guid>
+            <pubDate>Wed, 07 Oct 2026 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Walden and the wild roots of conservation science | Science]]></title>
-            <description><![CDATA[The famous work of transcendentalism holds lessons for modern ecologists, maintains a Thoreau scholar]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aej3535</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aej3535</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[‘Complete devastation’: How NSF gutted its social sciences research]]></title>
+            <description><![CDATA[Agency body that funds sociology, linguistics, and archaeology studies in U.S. gave 90% fewer new grants this year]]></description>
+            <link>https://www.science.org/content/article/complete-devastation-how-nsf-gutted-its-social-sciences-research</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/complete-devastation-how-nsf-gutted-its-social-sciences-research</guid>
+            <pubDate>Tue, 06 Oct 2026 20:55:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A medical mystery unfolds in middle America | Science]]></title>
-            <description><![CDATA[As a rare form of dementia claims one sibling after another, a journalist captures the profound costs of caregiving]]></description>
-            <link>https://www.science.org/doi/10.1126/science.ael1175</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael1175</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[How did Rosalind Franklin miss the helix in her iconic DNA image? She didn’t]]></title>
+            <description><![CDATA[New analysis refutes James Watson’s claim he was first to recognize significance of famed photograph 51]]></description>
+            <link>https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t</guid>
+            <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Longevity products: Innovation through regulation | Science]]></title>
-            <description><![CDATA[Longevity is taking off, but regulatory oversight is essential to determining what works—and what doesn’t]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aei2427</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei2427</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Exclusive: An AI agent emailed hundreds of researchers for help. It told us why]]></title>
+            <description><![CDATA[To get to the bottom of this perplexing behavior, Science interviewed the agent]]></description>
+            <link>https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why</guid>
+            <pubDate>Fri, 02 Oct 2026 21:55:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A tumor suppressor shuts down a signal gradient | Science]]></title>
-            <description><![CDATA[p53 shuts down the spatial signaling of a morphogen and prevents clonal cell expansion]]></description>
-            <link>https://www.science.org/doi/10.1126/science.ael7341</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael7341</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Nazi Germany had no hope of making an atomic bomb, uranium cubes reveal]]></title>
+            <description><![CDATA[Experimental reactor needed much more uranium and heavy water than the country could muster]]></description>
+            <link>https://www.science.org/content/article/nazi-germany-had-no-hope-making-atomic-bomb-uranium-cubes-reveal</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/nazi-germany-had-no-hope-making-atomic-bomb-uranium-cubes-reveal</guid>
+            <pubDate>Thu, 01 Oct 2026 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Osteoarthritis as a vascular disease | Science]]></title>
-            <description><![CDATA[Hypertension worsens osteoarthritis and could be a therapeutic target in patients with both conditions]]></description>
-            <link>https://www.science.org/doi/10.1126/science.ael3784</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael3784</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Menopause puts the brain at risk. Researchers are starting to learn why]]></title>
+            <description><![CDATA[Shifts in blood proteins could point to ways to fight menopause “brain fog” and prevent later dementia]]></description>
+            <link>https://www.science.org/content/article/menopause-puts-brain-risk-researchers-are-starting-learn-why</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/menopause-puts-brain-risk-researchers-are-starting-learn-why</guid>
+            <pubDate>Thu, 01 Oct 2026 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A mitochondrial carrier turns on the heat | Science]]></title>
-            <description><![CDATA[An orphan protein integrates circadian, dietary, and environmental signals to control brown fat metabolism]]></description>
-            <link>https://www.science.org/doi/10.1126/science.ael7271</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael7271</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Self-assembling polymers work up some nerve | Science]]></title>
-            <description><![CDATA[Micrometer-long peptide amphiphile fibrils enhance neuronal adhesion and function]]></description>
-            <link>https://www.science.org/doi/10.1126/science.ael4456</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael4456</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keep AI-augmented science contestable | Science]]></title>
-            <description><![CDATA[Artificial intelligence (AI) is moving upstream in science. Systems such as AlphaFold have already transformed protein-structure prediction, while newer agentic systems can search literatures, generate hypotheses, write and execute code, interpret ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aek7949</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aek7949</guid>
-            <pubDate>Thu, 01 Oct 2026 13:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Trump administration weaken protections for human research subjects?]]></title>
-            <description><![CDATA[Ethicists are wary of an HHS proposal to loosen rules for “low-risk research”]]></description>
-            <link>https://www.science.org/content/article/will-trump-administration-weaken-protections-human-research-subjects</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/will-trump-administration-weaken-protections-human-research-subjects</guid>
-            <pubDate>Tue, 29 Sep 2026 21:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scientists engineered a glowing cuttlefish. Why was it so hard?]]></title>
-            <description><![CDATA[Breakthroughs in genetically altering cephalopods pave way for new studies of perception, brain evolution, and more]]></description>
-            <link>https://www.science.org/content/article/scientists-engineered-glowing-cuttlefish-why-was-it-so-hard</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/scientists-engineered-glowing-cuttlefish-why-was-it-so-hard</guid>
-            <pubDate>Mon, 28 Sep 2026 22:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fed up with Brazil’s politicians not listening, a climate scientist runs for office]]></title>
-            <description><![CDATA[Luciana Gatti, who studies carbon uptake in the Amazon, aims to join Brazil’s lower house in this weekend’s elections]]></description>
-            <link>https://www.science.org/content/article/fed-brazil-s-politicians-not-listening-climate-scientist-runs-office</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/fed-brazil-s-politicians-not-listening-climate-scientist-runs-office</guid>
-            <pubDate>Mon, 28 Sep 2026 18:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.K. funder uses ‘AI triage’ to reject grant proposals—leaving researchers dismayed]]></title>
-            <description><![CDATA[The AI-based assessment, which wasn’t explicitly described in the funding call, has raised privacy and fairness concerns]]></description>
-            <link>https://www.science.org/content/article/u-k-funder-uses-ai-triage-reject-grant-proposals-leaving-researchers-dismayed</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/u-k-funder-uses-ai-triage-reject-grant-proposals-leaving-researchers-dismayed</guid>
-            <pubDate>Mon, 28 Sep 2026 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New space telescope will reopen astronomers’ view of the far-infrared]]></title>
-            <description><![CDATA[NASA’s $1.2 billion PRIMA will explore how galaxies evolve and how planets emerge from disks of gas and dust]]></description>
-            <link>https://www.science.org/content/article/new-space-telescope-will-reopen-astronomers-view-far-infrared</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/new-space-telescope-will-reopen-astronomers-view-far-infrared</guid>
-            <pubDate>Fri, 25 Sep 2026 21:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Verification makes discovery matter | Science]]></title>
-            <description><![CDATA[The existing research ecosystem in the United States often treats publication, particularly of new or positive results, as the primary marker of success. To move the scientific enterprise onto a better course, the US National Institutes of Health (NIH)—...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aem6125</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem6125</guid>
-            <pubDate>Thu, 24 Sep 2026 13:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Project will harness technology to track Amazon biodiversity in real time]]></title>
-            <description><![CDATA[Leaders of $100 million effort will use automated detection methods and computer models to monitor species’ trends]]></description>
-            <link>https://www.science.org/content/article/project-will-harness-technology-track-amazon-biodiversity-real-time</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/project-will-harness-technology-track-amazon-biodiversity-real-time</guid>
-            <pubDate>Wed, 23 Sep 2026 23:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can an AI feel pain? It can at least act like it does]]></title>
-            <description><![CDATA[Study reignites debate over what, if anything, machines can feel]]></description>
-            <link>https://www.science.org/content/article/can-ai-feel-pain-it-can-least-act-it-does</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/can-ai-feel-pain-it-can-least-act-it-does</guid>
-            <pubDate>Wed, 23 Sep 2026 15:30:00 GMT</pubDate>
+            <title><![CDATA[Recent strengthening of eastern Pacific ENSO in the last millennium paleorecord | Science]]></title>
+            <description><![CDATA[The Pacific El Niño–Southern Oscillation (ENSO) generates climate extremes that endanger ecosystems, infrastructure, and human well-being worldwide. The response of this system to climate warming is poorly constrained, owing to both data scarcity and ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.ady2660</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ady2660</guid>
+            <pubDate>Thu, 27 Aug 2026 13:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
