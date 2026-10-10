@@ -4,16 +4,47 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Oct 2026 00:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 06:35:53 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Oct 2026 00:25:01 GMT</pubDate>
+        <pubDate>Sat, 10 Oct 2026 06:35:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[World Mental Health Day / Who listens when mental health struggles disrupt daily life?]]></title>
+            <description><![CDATA[Ask a Bangladeshi newspaper reader to picture a mental health story. Perhaps a psychiatrist’s quote comes to mind, a helpline number, or a headline about a student’s death.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/who-listens-when-mental-health-struggles-disrupt-daily-life-4294691</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/who-listens-when-mental-health-struggles-disrupt-daily-life-4294691</guid>
+            <dc:creator><![CDATA[Mahiya Tabassum]]></dc:creator>
+            <pubDate>Sat, 10 Oct 2026 06:35:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The right to belong should not depend on moral policing]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-right-belong-should-not-depend-moral-policing-4294666</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-right-belong-should-not-depend-moral-policing-4294666</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 10 Oct 2026 06:35:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The real solution to our garbage problem lies in governance]]></title>
+            <description><![CDATA[By Abdullah A Dewan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-real-solution-our-garbage-problem-lies-governance-4294676</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-real-solution-our-garbage-problem-lies-governance-4294676</guid>
+            <dc:creator><![CDATA[Abdullah A Dewan]]></dc:creator>
+            <pubDate>Sat, 10 Oct 2026 06:35:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Mental Health Day / ‘New mothers must be supported to recover in every way, not just physically’]]></title>
+            <description><![CDATA[By Afia Jahin]]></description>
+            <link>https://www.thedailystar.net/opinion/interviews/news/new-mothers-must-be-supported-recover-every-way-not-just-physically-4294686</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/new-mothers-must-be-supported-recover-every-way-not-just-physically-4294686</guid>
+            <dc:creator><![CDATA[Afia Jahin]]></dc:creator>
+            <pubDate>Sat, 10 Oct 2026 06:35:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ensure speedy trials for women and children]]></title>
-            <description><![CDATA[Monitoring cell urgently needed to ensure timely justice in violence cases.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/ensure-speedy-trials-women-and-children-4294421</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-speedy-trials-women-and-children-4294421</guid>
-            <pubDate>Sat, 10 Oct 2026 00:25:01 GMT</pubDate>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / Ruling party-opposition relations are key to institutionalising democracy]]></title>
@@ -40,11 +71,9 @@
             <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Better healthcare needs clearer communication with patients]]></title>
-            <description><![CDATA[By AKM Iqbal Bahar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/better-healthcare-needs-clearer-communication-patients-4294156</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/better-healthcare-needs-clearer-communication-patients-4294156</guid>
-            <dc:creator><![CDATA[AKM Iqbal Bahar]]></dc:creator>
+            <title><![CDATA[Alarming rise in cancer cases, deaths]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/alarming-rise-cancer-cases-deaths-4294111</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/alarming-rise-cancer-cases-deaths-4294111</guid>
             <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -52,28 +81,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/reset-priorities-help-the-poor-and-vulnerable-4293811</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reset-priorities-help-the-poor-and-vulnerable-4293811</guid>
             <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SATIRE / Online shopping and other tests of faith]]></title>
-            <description><![CDATA[By Aasha Mehreen Amin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/online-shopping-and-other-tests-faith-4293586</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/online-shopping-and-other-tests-faith-4293586</guid>
-            <dc:creator><![CDATA[Aasha Mehreen Amin]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finding my mother again: Reflections on caregiving, connection, and mental wellbeing]]></title>
-            <description><![CDATA[By Tahera Jabeen]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/finding-my-mother-again-reflections-caregiving-connection-and-mental-wellbeing-4293606</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/finding-my-mother-again-reflections-caregiving-connection-and-mental-wellbeing-4293606</guid>
-            <dc:creator><![CDATA[Tahera Jabeen]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alarming rise in cancer cases, deaths]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/alarming-rise-cancer-cases-deaths-4294111</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/alarming-rise-cancer-cases-deaths-4294111</guid>
-            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This is no way to run our universities]]></title>
@@ -94,10 +101,28 @@
             <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rein in the resort boom]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/rein-the-resort-boom-4292276</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rein-the-resort-boom-4292276</guid>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[SATIRE / Online shopping and other tests of faith]]></title>
+            <description><![CDATA[By Aasha Mehreen Amin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/online-shopping-and-other-tests-faith-4293586</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/online-shopping-and-other-tests-faith-4293586</guid>
+            <dc:creator><![CDATA[Aasha Mehreen Amin]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finding my mother again: Reflections on caregiving, connection, and mental wellbeing]]></title>
+            <description><![CDATA[By Tahera Jabeen]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/finding-my-mother-again-reflections-caregiving-connection-and-mental-wellbeing-4293606</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/finding-my-mother-again-reflections-caregiving-connection-and-mental-wellbeing-4293606</guid>
+            <dc:creator><![CDATA[Tahera Jabeen]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crackdowns alone cannot rein in teen gangs for long]]></title>
+            <description><![CDATA[By Naznin Tithi]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/crackdowns-alone-cannot-rein-teen-gangs-long-4293276</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/crackdowns-alone-cannot-rein-teen-gangs-long-4293276</guid>
+            <dc:creator><![CDATA[Naznin Tithi]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Any cyber law reform must uphold digital rights, not undermine them]]></title>
@@ -129,30 +154,6 @@
             <link>https://www.thedailystar.net/opinion/news/the-cost-leaving-the-lpg-market-private-control-4292281</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-cost-leaving-the-lpg-market-private-control-4292281</guid>
             <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Cotton Day / Can cotton diplomacy transform our textile prospects?]]></title>
-            <description><![CDATA[By Iftekhar Ul Karim]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/can-cotton-diplomacy-transform-our-textile-prospects-4292286</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-cotton-diplomacy-transform-our-textile-prospects-4292286</guid>
-            <dc:creator><![CDATA[Iftekhar Ul Karim]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can ICT prosecutors turn press questions into a crime against humanity?]]></title>
-            <description><![CDATA[By David Bergman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/can-ict-prosecutors-turn-press-questions-crime-against-humanity-4292291</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-ict-prosecutors-turn-press-questions-crime-against-humanity-4292291</guid>
-            <dc:creator><![CDATA[David Bergman]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One law for the powerful, another for the rest?]]></title>
-            <description><![CDATA[By Mir Ahmad Bin Quasem]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/one-law-the-powerful-another-the-rest-4292296</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/one-law-the-powerful-another-the-rest-4292296</guid>
-            <dc:creator><![CDATA[Mir Ahmad Bin Quasem]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
