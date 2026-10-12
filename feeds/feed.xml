@@ -4,17 +4,40 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Oct 2026 03:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 11:32:31 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Oct 2026 03:43:56 GMT</pubDate>
+        <pubDate>Mon, 12 Oct 2026 11:32:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Taxing microsavings risks undermining financial inclusion for the poor]]></title>
-            <description><![CDATA[“Financial inclusion” is the buzzword that has been used to increase the number of banks in Bangladesh.]]></description>
+            <title><![CDATA[Low-income families need more support]]></title>
+            <description><![CDATA[Expand safety nets to prevent a larger slip into poverty]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/low-income-families-need-more-support-4296316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/low-income-families-need-more-support-4296316</guid>
+            <pubDate>Mon, 12 Oct 2026 11:32:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taxing microsavings risks undermining financial inclusion of the poor]]></title>
+            <description><![CDATA[By Md Main Uddin]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/taxing-microsavings-risks-undermining-financial-inclusion-the-poor-4296321</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/taxing-microsavings-risks-undermining-financial-inclusion-the-poor-4296321</guid>
             <dc:creator><![CDATA[Md Main Uddin]]></dc:creator>
-            <pubDate>Mon, 12 Oct 2026 03:43:56 GMT</pubDate>
+            <pubDate>Mon, 12 Oct 2026 11:32:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can sand-filling help coastal households adapt to salinity?]]></title>
+            <description><![CDATA[By Md Ayatullah Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/can-sand-filling-help-coastal-households-adapt-salinity-4296331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-sand-filling-help-coastal-households-adapt-salinity-4296331</guid>
+            <dc:creator><![CDATA[Md Ayatullah Khan]]></dc:creator>
+            <pubDate>Mon, 12 Oct 2026 11:32:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Modernise flood damage assessments to protect haor farmers]]></title>
+            <description><![CDATA[By Niaz Md. Farhat Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/modernise-flood-damage-assessments-protect-haor-farmers-4296361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/modernise-flood-damage-assessments-protect-haor-farmers-4296361</guid>
+            <dc:creator><![CDATA[Niaz Md. Farhat Rahman]]></dc:creator>
+            <pubDate>Mon, 12 Oct 2026 11:32:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How much longer must we wait for press freedom?]]></title>
@@ -22,7 +45,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/how-much-longer-must-we-wait-press-freedom-4296346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-much-longer-must-we-wait-press-freedom-4296346</guid>
             <dc:creator><![CDATA[Matiur Rahman]]></dc:creator>
-            <pubDate>Mon, 12 Oct 2026 03:43:56 GMT</pubDate>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strengthening consumer protection must go beyond mobile court raids]]></title>
@@ -47,30 +70,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tea-workers-deserve-say-reforms-their-industry-4295486</guid>
             <dc:creator><![CDATA[Philip Gain]]></dc:creator>
             <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[International Day of the Girl Child / Valuing daughters means sharing the responsibility of care]]></title>
-            <description><![CDATA[By M Niaz Asadullah]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/valuing-daughters-means-sharing-the-responsibility-care-4295496</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/valuing-daughters-means-sharing-the-responsibility-care-4295496</guid>
-            <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beware machines that always take our side]]></title>
-            <description><![CDATA[By Monir Hossen]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/beware-machines-always-take-our-side-4295481</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/beware-machines-always-take-our-side-4295481</guid>
-            <dc:creator><![CDATA[Monir Hossen]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Mental Health Day  / We must prevent overreliance on AI chatbots for emotional support]]></title>
-            <description><![CDATA[By Imdadul Haque Talukdar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-must-prevent-overreliance-ai-chatbots-emotional-support-4295096</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-prevent-overreliance-ai-chatbots-emotional-support-4295096</guid>
-            <dc:creator><![CDATA[Imdadul Haque Talukdar]]></dc:creator>
-            <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why can’t the state keep girls safe?]]></title>
@@ -103,6 +102,30 @@
             <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Beware machines that always take our side]]></title>
+            <description><![CDATA[By Monir Hossen]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/beware-machines-always-take-our-side-4295481</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/beware-machines-always-take-our-side-4295481</guid>
+            <dc:creator><![CDATA[Monir Hossen]]></dc:creator>
+            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Mental Health Day  / We must prevent overreliance on AI chatbots for emotional support]]></title>
+            <description><![CDATA[By Imdadul Haque Talukdar]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-must-prevent-overreliance-ai-chatbots-emotional-support-4295096</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-prevent-overreliance-ai-chatbots-emotional-support-4295096</guid>
+            <dc:creator><![CDATA[Imdadul Haque Talukdar]]></dc:creator>
+            <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Mental Health Day / Who listens when mental health struggles disrupt daily life?]]></title>
+            <description><![CDATA[By Mahiya Tabassum]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/who-listens-when-mental-health-struggles-disrupt-daily-life-4294691</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/who-listens-when-mental-health-struggles-disrupt-daily-life-4294691</guid>
+            <dc:creator><![CDATA[Mahiya Tabassum]]></dc:creator>
+            <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The real solution to our garbage problem lies in governance]]></title>
             <description><![CDATA[By Abdullah A Dewan]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/the-real-solution-our-garbage-problem-lies-governance-4294676</link>
@@ -133,30 +156,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/effective-cyber-policing-needs-expertise-and-safeguards-4294131</guid>
             <dc:creator><![CDATA[Md Nazmul Hossain Sefat]]></dc:creator>
             <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Bangladesh needs a civil legal framework for adoption]]></title>
-            <description><![CDATA[By Noshin Nawal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/mind-the-gap/news/why-bangladesh-needs-civil-legal-framework-adoption-4294141</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/why-bangladesh-needs-civil-legal-framework-adoption-4294141</guid>
-            <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Better healthcare needs clearer communication with patients]]></title>
-            <description><![CDATA[By AKM Iqbal Bahar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/better-healthcare-needs-clearer-communication-patients-4294156</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/better-healthcare-needs-clearer-communication-patients-4294156</guid>
-            <dc:creator><![CDATA[AKM Iqbal Bahar]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SATIRE / Online shopping and other tests of faith]]></title>
-            <description><![CDATA[By Aasha Mehreen Amin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/online-shopping-and-other-tests-faith-4293586</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/online-shopping-and-other-tests-faith-4293586</guid>
-            <dc:creator><![CDATA[Aasha Mehreen Amin]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
