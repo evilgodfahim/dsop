@@ -4,9 +4,9 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 12:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 17:43:06 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Oct 2026 12:40:54 GMT</pubDate>
+        <pubDate>Wed, 14 Oct 2026 17:43:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Audacious space heist aims to bring home bits of mysterious martian moon]]></title>
@@ -62,6 +62,13 @@
             <description><![CDATA[This summer has featured an amazing run of mathematical discoveries. In May, a prediction first made by Paul Erdős in 1946 about “unit distances” between points in a plane, was disproved. In July, the Jacobian conjecture, an 87-year-old open question in algebraic geometry, was refuted in dimension three. In August, the question of whether a six-dimensional sphere can be given smooth complex coordinates, first asked by Heinz Hopf in 1947, was finally confirmed to be true. Most recently, a finite-time singularity among the solutions to the famous Navier-Stokes equations—a system of equations governing the flow of fluids—was discovered after many decades (in a setting where the fluid is stirred by an external force).]]></description>
             <link>https://www.science.org/doi/10.1126/science.ael8339</link>
             <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael8339</guid>
+            <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Natural 15N15N abundances constrain fixed nitrogen loss | Science]]></title>
+            <description><![CDATA[Nitrogen regulates primary productivity across much of the biosphere, yet fixed nitrogen loss remains poorly constrained because existing methods rely on indirect proxies or ex situ experiments. In this study, we show that natural abundances of the rare ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei0940</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei0940</guid>
             <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
