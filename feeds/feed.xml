@@ -4,17 +4,25 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 05:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 10:40:38 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Oct 2026 05:27:08 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 10:40:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[White Cane Safety Day / Make streets safer for white cane users]]></title>
+            <description><![CDATA[For many people, a white cane may look like a simple stick. But for a person with a visual disability, it can mean the difference between staying home and participating in education, employment, and public life.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/make-streets-safer-white-cane-users-4299346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/make-streets-safer-white-cane-users-4299346</guid>
+            <dc:creator><![CDATA[Vashkar Bhattacharjee]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 10:40:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Constitutional reform is more than a parliamentary numbers game]]></title>
-            <description><![CDATA[Despite strong objections from the Jamaat-led opposition, the constitutional reform process initiated by the ruling party seems to be moving forward with a December deadline in mind.]]></description>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/constitutional-reform-more-parliamentary-numbers-game-4298851</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/constitutional-reform-more-parliamentary-numbers-game-4298851</guid>
             <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Thu, 15 Oct 2026 05:27:08 GMT</pubDate>
+            <pubDate>Thu, 15 Oct 2026 10:40:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[As the world rediscovers industrial policy, we must rethink protectionism]]></title>
@@ -22,19 +30,25 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-world-rediscovers-industrial-policy-we-must-rethink-protectionism-4298856</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-world-rediscovers-industrial-policy-we-must-rethink-protectionism-4298856</guid>
             <dc:creator><![CDATA[Abdur Razzaque]]></dc:creator>
-            <pubDate>Thu, 15 Oct 2026 05:27:08 GMT</pubDate>
+            <pubDate>Thu, 15 Oct 2026 10:40:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[International Day of Rural Women / Recognition of women’s role as the engine of rural life is long overdue]]></title>
             <link>https://www.thedailystar.net/opinion/views/news/recognition-womens-role-the-engine-rural-life-long-overdue-4298861</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/recognition-womens-role-the-engine-rural-life-long-overdue-4298861</guid>
-            <pubDate>Thu, 15 Oct 2026 05:27:08 GMT</pubDate>
+            <pubDate>Thu, 15 Oct 2026 10:40:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fertiliser subsidies need a rethink]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/fertiliser-subsidies-need-rethink-4298666</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fertiliser-subsidies-need-rethink-4298666</guid>
             <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Child marriage law should be reformed]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/child-marriage-law-should-be-reformed-4298846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/child-marriage-law-should-be-reformed-4298846</guid>
+            <pubDate>Thu, 15 Oct 2026 10:40:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The case for transparent AI use in journalism]]></title>
@@ -50,20 +64,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/can-government-and-fishers-work-together-restore-hilsa-abundance-4298031</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-government-and-fishers-work-together-restore-hilsa-abundance-4298031</guid>
             <dc:creator><![CDATA[Mir Mohammad Ali]]></dc:creator>
-            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Child marriage law should be reformed]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/child-marriage-law-should-be-reformed-4298846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/child-marriage-law-should-be-reformed-4298846</guid>
-            <pubDate>Thu, 15 Oct 2026 05:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protecting farmers from heat stress is also part of climate adaptation]]></title>
-            <description><![CDATA[By Shahrina Akhtar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/protecting-farmers-heat-stress-also-part-climate-adaptation-4298036</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/protecting-farmers-heat-stress-also-part-climate-adaptation-4298036</guid>
-            <dc:creator><![CDATA[Shahrina Akhtar]]></dc:creator>
             <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -95,6 +95,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/low-income-families-need-more-support-4296316</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/low-income-families-need-more-support-4296316</guid>
             <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What India’s current protests mean, and what they do not]]></title>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-indias-current-protests-mean-and-what-they-do-not-4298041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-indias-current-protests-mean-and-what-they-do-not-4298041</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why does Bangladesh keep starting from scratch in policymaking?]]></title>
@@ -142,14 +150,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/how-much-longer-must-we-wait-press-freedom-4296346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-much-longer-must-we-wait-press-freedom-4296346</guid>
             <dc:creator><![CDATA[Matiur Rahman]]></dc:creator>
-            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modernise flood damage assessments to protect haor farmers]]></title>
-            <description><![CDATA[By Niaz Md. Farhat Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/modernise-flood-damage-assessments-protect-haor-farmers-4296361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/modernise-flood-damage-assessments-protect-haor-farmers-4296361</guid>
-            <dc:creator><![CDATA[Niaz Md. Farhat Rahman]]></dc:creator>
             <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
