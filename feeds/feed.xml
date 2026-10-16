@@ -4,13 +4,34 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 00:56:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 05:20:56 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Oct 2026 00:56:00 GMT</pubDate>
+        <pubDate>Fri, 16 Oct 2026 05:20:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[World Food Day / Who will feed the farmers who feed the nation?]]></title>
+            <description><![CDATA[Last month, the United Nations Food and Agriculture Organization (FAO) classified Bangladesh’s food security situation as being in crisis, meaning that many people are at risk of acute food insecurity and malnutrition.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/who-will-feed-the-farmers-who-feed-the-nation-4299836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/who-will-feed-the-farmers-who-feed-the-nation-4299836</guid>
+            <dc:creator><![CDATA[Mostafa Shabuj]]></dc:creator>
+            <pubDate>Fri, 16 Oct 2026 05:20:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Bangladesh can learn from the 2026 economics Nobel-winning research]]></title>
+            <description><![CDATA[By Fahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/what-bangladesh-can-learn-the-2026-economics-nobel-winning-research-4299866</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/what-bangladesh-can-learn-the-2026-economics-nobel-winning-research-4299866</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Fri, 16 Oct 2026 05:20:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Some form of change will have to happen following India protests’]]></title>
+            <link>https://www.thedailystar.net/opinion/interviews/news/some-form-change-will-have-happen-following-india-protests-4299871</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/some-form-change-will-have-happen-following-india-protests-4299871</guid>
+            <pubDate>Fri, 16 Oct 2026 05:20:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Reverse the decline in secondary school enrolment]]></title>
-            <description><![CDATA[The government must take effective measures to keep students in school]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/reverse-the-decline-secondary-school-enrolment-4299526</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reverse-the-decline-secondary-school-enrolment-4299526</guid>
             <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
@@ -40,18 +61,10 @@
             <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[International Day of Rural Women / Recognition of women’s role as the engine of rural life is long overdue]]></title>
-            <description><![CDATA[By Pavel Partha]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/recognition-womens-role-the-engine-rural-life-long-overdue-4298861</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/recognition-womens-role-the-engine-rural-life-long-overdue-4298861</guid>
-            <dc:creator><![CDATA[Pavel Partha]]></dc:creator>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fertiliser subsidies need a rethink]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/fertiliser-subsidies-need-rethink-4298666</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fertiliser-subsidies-need-rethink-4298666</guid>
-            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Garment workers deserve a living wage]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/garment-workers-deserve-living-wage-4299831</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/garment-workers-deserve-living-wage-4299831</guid>
+            <pubDate>Fri, 16 Oct 2026 05:20:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Child marriage law should be reformed]]></title>
@@ -60,11 +73,9 @@
             <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The case for transparent AI use in journalism]]></title>
-            <description><![CDATA[By Nafew Sajed Joy]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-case-transparent-ai-use-journalism-4298601</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-case-transparent-ai-use-journalism-4298601</guid>
-            <dc:creator><![CDATA[Nafew Sajed Joy]]></dc:creator>
+            <title><![CDATA[Fertiliser subsidies need a rethink]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fertiliser-subsidies-need-rethink-4298666</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fertiliser-subsidies-need-rethink-4298666</guid>
             <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -86,16 +97,20 @@
             <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BNP must enforce intra-party discipline]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/bnp-must-enforce-intra-party-discipline-4296996</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bnp-must-enforce-intra-party-discipline-4296996</guid>
-            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[The case for transparent AI use in journalism]]></title>
+            <description><![CDATA[By Nafew Sajed Joy]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-case-transparent-ai-use-journalism-4298601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-case-transparent-ai-use-journalism-4298601</guid>
+            <dc:creator><![CDATA[Nafew Sajed Joy]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Low-income families need more support]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/low-income-families-need-more-support-4296316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/low-income-families-need-more-support-4296316</guid>
-            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Can government and fishers work together to restore hilsa abundance?]]></title>
+            <description><![CDATA[By Mir Mohammad Ali]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/can-government-and-fishers-work-together-restore-hilsa-abundance-4298031</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-government-and-fishers-work-together-restore-hilsa-abundance-4298031</guid>
+            <dc:creator><![CDATA[Mir Mohammad Ali]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Protecting farmers from heat stress is also part of climate adaptation]]></title>
@@ -136,22 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/stop-attacks-campus-journalists-and-ensure-accountability-4297346</guid>
             <dc:creator><![CDATA[Md Asaduz Zaman]]></dc:creator>
             <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taxing microsavings risks undermining financial inclusion of the poor]]></title>
-            <description><![CDATA[By Md Main Uddin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/taxing-microsavings-risks-undermining-financial-inclusion-the-poor-4296321</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/taxing-microsavings-risks-undermining-financial-inclusion-the-poor-4296321</guid>
-            <dc:creator><![CDATA[Md Main Uddin]]></dc:creator>
-            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can sand-filling help coastal households adapt to salinity?]]></title>
-            <description><![CDATA[By Md Ayatullah Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/can-sand-filling-help-coastal-households-adapt-salinity-4296331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-sand-filling-help-coastal-households-adapt-salinity-4296331</guid>
-            <dc:creator><![CDATA[Md Ayatullah Khan]]></dc:creator>
-            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
