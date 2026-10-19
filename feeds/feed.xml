@@ -4,13 +4,29 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 00:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 05:34:11 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Oct 2026 00:40:38 GMT</pubDate>
+        <pubDate>Mon, 19 Oct 2026 05:34:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[We can't end child marriage without closing legal loopholes]]></title>
+            <description><![CDATA[Nearly a decade after the Child Marriage Restraint Act, 2017 was enacted, its contradictions expose a deeper failure: the state punishes child marriage without guaranteeing children protection, justice or a way out.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/mind-the-gap/news/we-cant-end-child-marriage-without-closing-legal-loopholes-4302001</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/we-cant-end-child-marriage-without-closing-legal-loopholes-4302001</guid>
+            <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 05:34:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The economics of saying no in marriage]]></title>
+            <description><![CDATA[By Tasneem Tayeb]]></description>
+            <link>https://www.thedailystar.net/opinion/views/closer-look/news/the-economics-saying-no-marriage-4302016</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/the-economics-saying-no-marriage-4302016</guid>
+            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 05:34:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Social media witch-hunts must not replace dialogue or due process]]></title>
-            <description><![CDATA[Recently, Tasneem Siraj Mahboob, an associate professor in Dhaka University’s Department of English, was relieved of her teaching duties following a complaint that she had made inappropriate remarks to a female student about her clothing.]]></description>
+            <description><![CDATA[By Sara Hossain]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/social-media-witch-hunts-must-not-replace-dialogue-or-due-process-4301146</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/social-media-witch-hunts-must-not-replace-dialogue-or-due-process-4301146</guid>
             <dc:creator><![CDATA[Sara Hossain]]></dc:creator>
@@ -41,6 +57,12 @@
             <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Yet another preventable tragedy]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/yet-another-preventable-tragedy-4301986</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/yet-another-preventable-tragedy-4301986</guid>
+            <pubDate>Mon, 19 Oct 2026 05:34:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bangladesh must answer for workers trafficked to war]]></title>
             <description><![CDATA[By Shamsad Mortuza]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-answer-workers-trafficked-war-4300386</link>
@@ -49,32 +71,10 @@
             <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An active Information Commission is vital to democracy]]></title>
-            <description><![CDATA[By Dr Shamsul BariRuhi Naz]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/active-information-commission-vital-democracy-4300406</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/active-information-commission-vital-democracy-4300406</guid>
-            <dc:creator><![CDATA[Dr Shamsul BariRuhi Naz]]></dc:creator>
-            <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[International Day for the Eradication of Poverty / Why is our economic growth failing to reduce poverty?]]></title>
-            <description><![CDATA[By Selim Raihan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-our-economic-growth-failing-reduce-poverty-4300401</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-our-economic-growth-failing-reduce-poverty-4300401</guid>
-            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
-            <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When can journos report without fear?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/when-can-journos-report-without-fear-4300381</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/when-can-journos-report-without-fear-4300381</guid>
-            <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[An alarming misuse of authority]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/alarming-misuse-authority-4301796</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/alarming-misuse-authority-4301796</guid>
-            <pubDate>Mon, 19 Oct 2026 00:40:38 GMT</pubDate>
+            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Riyadh owes Dhaka a clear explanation]]></title>
@@ -89,16 +89,32 @@
             <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[When can journos report without fear?]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/when-can-journos-report-without-fear-4300381</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/when-can-journos-report-without-fear-4300381</guid>
+            <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The measles outbreak is a dismal scandal]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/the-measles-outbreak-dismal-scandal-4300271</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-measles-outbreak-dismal-scandal-4300271</guid>
             <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Garment workers deserve a living wage]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/garment-workers-deserve-living-wage-4299831</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/garment-workers-deserve-living-wage-4299831</guid>
-            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[International Day for the Eradication of Poverty / Why is our economic growth failing to reduce poverty?]]></title>
+            <description><![CDATA[By Selim Raihan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-our-economic-growth-failing-reduce-poverty-4300401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-our-economic-growth-failing-reduce-poverty-4300401</guid>
+            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
+            <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to make climate finance more equitable]]></title>
+            <description><![CDATA[By Mohammad Emran Hasan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-make-climate-finance-more-equitable-4300396</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-make-climate-finance-more-equitable-4300396</guid>
+            <dc:creator><![CDATA[Mohammad Emran Hasan]]></dc:creator>
+            <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Food Day / Who will feed the farmers who feed the nation?]]></title>
@@ -138,22 +154,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/constitutional-reform-more-parliamentary-numbers-game-4298851</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/constitutional-reform-more-parliamentary-numbers-game-4298851</guid>
             <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As the world rediscovers industrial policy, we must rethink protectionism]]></title>
-            <description><![CDATA[By Abdur Razzaque]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-world-rediscovers-industrial-policy-we-must-rethink-protectionism-4298856</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-world-rediscovers-industrial-policy-we-must-rethink-protectionism-4298856</guid>
-            <dc:creator><![CDATA[Abdur Razzaque]]></dc:creator>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[International Day of Rural Women / Recognition of women’s role as the engine of rural life is long overdue]]></title>
-            <description><![CDATA[By Pavel Partha]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/recognition-womens-role-the-engine-rural-life-long-overdue-4298861</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/recognition-womens-role-the-engine-rural-life-long-overdue-4298861</guid>
-            <dc:creator><![CDATA[Pavel Partha]]></dc:creator>
             <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
