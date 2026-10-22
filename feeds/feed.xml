@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 12:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 17:48:06 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Oct 2026 12:44:51 GMT</pubDate>
+        <pubDate>Thu, 22 Oct 2026 17:48:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Keep politics out of hospital expansion]]></title>
+            <description><![CDATA[New hospital beds should go where patients are]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/keep-politics-out-hospital-expansion-4305036</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/keep-politics-out-hospital-expansion-4305036</guid>
+            <pubDate>Thu, 22 Oct 2026 17:48:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Before being satisfied with law and order, ask if citizens feel safer]]></title>
-            <description><![CDATA[Amid the prevailing doom and gloom over the worsening cost-of-living crisis, the administration has offered news that could be encouraging.]]></description>
+            <description><![CDATA[By Kamal Ahmed]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/being-satisfied-law-and-order-ask-if-citizens-feel-safer-4304361</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/being-satisfied-law-and-order-ask-if-citizens-feel-safer-4304361</guid>
             <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 12:44:51 GMT</pubDate>
+            <pubDate>Thu, 22 Oct 2026 17:48:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate resilience must not come at the cost of women’s debt]]></title>
@@ -22,7 +29,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/climate-resilience-must-not-come-the-cost-womens-debt-4304366</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/climate-resilience-must-not-come-the-cost-womens-debt-4304366</guid>
             <dc:creator><![CDATA[Shahrina Akhtar]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 12:44:51 GMT</pubDate>
+            <pubDate>Thu, 22 Oct 2026 17:48:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Tuptup tragedy and the growing cost of regulatory inaction]]></title>
@@ -30,13 +37,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-tuptup-tragedy-and-the-growing-cost-regulatory-inaction-4304371</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-tuptup-tragedy-and-the-growing-cost-regulatory-inaction-4304371</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 12:44:51 GMT</pubDate>
+            <pubDate>Thu, 22 Oct 2026 17:48:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Forests need more than paper promises]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/forests-need-more-paper-promises-4304356</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/forests-need-more-paper-promises-4304356</guid>
-            <pubDate>Thu, 22 Oct 2026 12:44:51 GMT</pubDate>
+            <pubDate>Thu, 22 Oct 2026 17:48:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[National Road Safety Day / Our road safety problem is not a lack of laws, but a lack of enforcement]]></title>
@@ -44,7 +51,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/our-road-safety-problem-not-lack-laws-lack-enforcement-4304376</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-road-safety-problem-not-lack-laws-lack-enforcement-4304376</guid>
             <dc:creator><![CDATA[Monorom Polok]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 12:44:51 GMT</pubDate>
+            <pubDate>Thu, 22 Oct 2026 17:48:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End this cycle of fatal road crashes]]></title>
@@ -61,18 +68,10 @@
             <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When did play stop being a part of childhood?]]></title>
-            <description><![CDATA[By Ruhina Binta A Ghani]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/when-did-play-stop-being-part-childhood-4303546</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-did-play-stop-being-part-childhood-4303546</guid>
-            <dc:creator><![CDATA[Ruhina Binta A Ghani]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Maintain what’s built before building more]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/maintain-whats-built-building-more-4303531</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/maintain-whats-built-building-more-4303531</guid>
-            <pubDate>Thu, 22 Oct 2026 12:44:51 GMT</pubDate>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ishraque’s resignation is a welcome decision]]></title>
@@ -97,6 +96,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/yet-another-preventable-tragedy-4301986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/yet-another-preventable-tragedy-4301986</guid>
             <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When did play stop being a part of childhood?]]></title>
+            <description><![CDATA[By Ruhina Binta A Ghani]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/when-did-play-stop-being-part-childhood-4303546</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-did-play-stop-being-part-childhood-4303546</guid>
+            <dc:creator><![CDATA[Ruhina Binta A Ghani]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reform NGO funding to help grassroots organisations survive]]></title>
@@ -145,14 +152,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-cop31-deliver-climate-finance-and-trade-justice-4302811</guid>
             <dc:creator><![CDATA[Palash Kanti Das]]></dc:creator>
             <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biman should bring its US service closer to Bangladeshis]]></title>
-            <description><![CDATA[By Delaware Arif]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/biman-should-bring-its-us-service-closer-bangladeshis-4302551</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/biman-should-bring-its-us-service-closer-bangladeshis-4302551</guid>
-            <dc:creator><![CDATA[Delaware Arif]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
