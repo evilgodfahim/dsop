@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Oct 2026 10:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 15:35:19 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Oct 2026 10:50:24 GMT</pubDate>
+        <pubDate>Fri, 23 Oct 2026 15:35:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Cancellation of BRT project needs scrutiny]]></title>
+            <description><![CDATA[The government must weigh all options and ensure accountability]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/cancellation-brt-project-needs-scrutiny-4305761</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/cancellation-brt-project-needs-scrutiny-4305761</guid>
+            <pubDate>Fri, 23 Oct 2026 15:35:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New information commission faces a bigger task than clearing complaints]]></title>
-            <description><![CDATA[After more than two years of uncertainty, Bangladesh finally has a new Information Commission. We congratulate the newly appointed chief information commissioner—the country’s first woman to hold the post—and the two other commissioners, and wish them success.]]></description>
+            <description><![CDATA[By Shamsul BariRuhi Naz]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/new-information-commission-faces-bigger-task-clearing-complaints-4305321</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-information-commission-faces-bigger-task-clearing-complaints-4305321</guid>
             <dc:creator><![CDATA[Shamsul BariRuhi Naz]]></dc:creator>
@@ -52,7 +59,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/being-satisfied-law-and-order-ask-if-citizens-feel-safer-4304361</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/being-satisfied-law-and-order-ask-if-citizens-feel-safer-4304361</guid>
             <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Fri, 23 Oct 2026 10:50:24 GMT</pubDate>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate resilience must not come at the cost of women’s debt]]></title>
@@ -60,14 +67,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/climate-resilience-must-not-come-the-cost-womens-debt-4304366</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/climate-resilience-must-not-come-the-cost-womens-debt-4304366</guid>
             <dc:creator><![CDATA[Shahrina Akhtar]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Tuptup tragedy and the growing cost of regulatory inaction]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-tuptup-tragedy-and-the-growing-cost-regulatory-inaction-4304371</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-tuptup-tragedy-and-the-growing-cost-regulatory-inaction-4304371</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
             <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -80,7 +79,7 @@
             <title><![CDATA[Forests need more than paper promises]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/forests-need-more-paper-promises-4304356</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/forests-need-more-paper-promises-4304356</guid>
-            <pubDate>Fri, 23 Oct 2026 10:50:24 GMT</pubDate>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End this cycle of fatal road crashes]]></title>
@@ -99,6 +98,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/ishraques-resignation-welcome-decision-4303391</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ishraques-resignation-welcome-decision-4303391</guid>
             <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Tuptup tragedy and the growing cost of regulatory inaction]]></title>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-tuptup-tragedy-and-the-growing-cost-regulatory-inaction-4304371</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-tuptup-tragedy-and-the-growing-cost-regulatory-inaction-4304371</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[National Road Safety Day / Our road safety problem is not a lack of laws, but a lack of enforcement]]></title>
@@ -146,14 +153,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/imf-world-bank-meetings-more-diagnosis-limited-relief-bangladesh-4302796</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/imf-world-bank-meetings-more-diagnosis-limited-relief-bangladesh-4302796</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A lasting safe water system must be the goal, not more projects]]></title>
-            <description><![CDATA[By Ashraf DewanMo Hoque]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/lasting-safe-water-system-must-be-the-goal-not-more-projects-4302801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/lasting-safe-water-system-must-be-the-goal-not-more-projects-4302801</guid>
-            <dc:creator><![CDATA[Ashraf DewanMo Hoque]]></dc:creator>
             <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
