@@ -4,16 +4,39 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 00:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 05:51:19 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Oct 2026 00:09:27 GMT</pubDate>
+        <pubDate>Tue, 27 Oct 2026 05:51:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Without reform, Bangladesh cannot escape the low growth trap]]></title>
+            <description><![CDATA[The latest growth forecasts from international organisations are troubling: Bangladesh may not just grow more slowly this year, but its economy could remain weak for years—unless its underlying problems are addressed.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/without-reform-bangladesh-cannot-escape-the-low-growth-trap-4308181</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/without-reform-bangladesh-cannot-escape-the-low-growth-trap-4308181</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 05:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We must make formalisation easier than staying in the cash economy]]></title>
+            <description><![CDATA[By M Kabir Hassan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-must-make-formalisation-easier-staying-the-cash-economy-4308216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-make-formalisation-easier-staying-the-cash-economy-4308216</guid>
+            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 05:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh needs a strategy to wean itself off imported gas]]></title>
+            <description><![CDATA[By Rassiq Aziz KabirIsmot Hasnine Masrur E Khuda]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-strategy-wean-itself-imported-gas-4308246</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-strategy-wean-itself-imported-gas-4308246</guid>
+            <dc:creator><![CDATA[Rassiq Aziz KabirIsmot Hasnine Masrur E Khuda]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 05:51:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Motherhood must not end sporting careers]]></title>
-            <description><![CDATA[BCB should introduce a formal maternity policy without delay.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/motherhood-must-not-end-sporting-careers-4307831</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/motherhood-must-not-end-sporting-careers-4307831</guid>
-            <pubDate>Tue, 27 Oct 2026 00:09:27 GMT</pubDate>
+            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A roadmap for closing the skills gap in our logistics sector]]></title>
@@ -40,11 +63,15 @@
             <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Crop insurance needs a clear plan before it can take off]]></title>
-            <description><![CDATA[By Swarupam Barua]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/crop-insurance-needs-clear-plan-it-can-take-4307416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/crop-insurance-needs-clear-plan-it-can-take-4307416</guid>
-            <dc:creator><![CDATA[Swarupam Barua]]></dc:creator>
+            <title><![CDATA[Profits must not trump conservation]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/profits-must-not-trump-conservation-4308176</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/profits-must-not-trump-conservation-4308176</guid>
+            <pubDate>Tue, 27 Oct 2026 05:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why risk relaxing environmental safeguards in shipbreaking?]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/why-risk-relaxing-environmental-safeguards-shipbreaking-4307301</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-risk-relaxing-environmental-safeguards-shipbreaking-4307301</guid>
             <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -52,28 +79,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/ramp-health-worker-recruitment-4307081</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ramp-health-worker-recruitment-4307081</guid>
             <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Bangladesh needs legal literacy in its schools]]></title>
-            <description><![CDATA[By Thohedul Alam Nowel]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-bangladesh-needs-legal-literacy-its-schools-4307001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladesh-needs-legal-literacy-its-schools-4307001</guid>
-            <dc:creator><![CDATA[Thohedul Alam Nowel]]></dc:creator>
-            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Patients' need, not political clout, should guide hospital expansion]]></title>
-            <description><![CDATA[By Syed Abdul Hamid]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/patients-need-not-political-clout-should-guide-hospital-expansion-4306596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/patients-need-not-political-clout-should-guide-hospital-expansion-4306596</guid>
-            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
-            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why risk relaxing environmental safeguards in shipbreaking?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/why-risk-relaxing-environmental-safeguards-shipbreaking-4307301</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-risk-relaxing-environmental-safeguards-shipbreaking-4307301</guid>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ensure transparency in BR online ticketing]]></title>
@@ -94,10 +99,28 @@
             <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cancellation of BRT project needs scrutiny]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/cancellation-brt-project-needs-scrutiny-4305761</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/cancellation-brt-project-needs-scrutiny-4305761</guid>
-            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Why Bangladesh needs legal literacy in its schools]]></title>
+            <description><![CDATA[By Thohedul Alam Nowel]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-bangladesh-needs-legal-literacy-its-schools-4307001</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-bangladesh-needs-legal-literacy-its-schools-4307001</guid>
+            <dc:creator><![CDATA[Thohedul Alam Nowel]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Patients' need, not political clout, should guide hospital expansion]]></title>
+            <description><![CDATA[By Syed Abdul Hamid]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/patients-need-not-political-clout-should-guide-hospital-expansion-4306596</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/patients-need-not-political-clout-should-guide-hospital-expansion-4306596</guid>
+            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 'time tax' we have to pay every day]]></title>
+            <description><![CDATA[By Md. Bakhtiar Uddin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-time-tax-we-have-pay-every-day-4306601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-time-tax-we-have-pay-every-day-4306601</guid>
+            <dc:creator><![CDATA[Md. Bakhtiar Uddin]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Police and media have no right to shame detainees]]></title>
@@ -130,30 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/public-spectacles-and-hidden-crime-masters-4305911</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
             <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From alliance to rivalry, where do BNP and Jamaat go from here?]]></title>
-            <description><![CDATA[By Mohiuddin Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/alliance-rivalry-where-do-bnp-and-jamaat-go-here-4305926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/alliance-rivalry-where-do-bnp-and-jamaat-go-here-4305926</guid>
-            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Bank-IMF Meetings / Bangkok’s promises and the developing world’s funding gap]]></title>
-            <description><![CDATA[By Mizan R Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangkoks-promises-and-the-developing-worlds-funding-gap-4305931</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangkoks-promises-and-the-developing-worlds-funding-gap-4305931</guid>
-            <dc:creator><![CDATA[Mizan R Khan]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New information commission faces a bigger task than clearing complaints]]></title>
-            <description><![CDATA[By Shamsul BariRuhi Naz]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/new-information-commission-faces-bigger-task-clearing-complaints-4305321</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-information-commission-faces-bigger-task-clearing-complaints-4305321</guid>
-            <dc:creator><![CDATA[Shamsul BariRuhi Naz]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

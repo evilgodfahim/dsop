@@ -4,9 +4,9 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 00:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 05:51:21 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Oct 2026 00:09:29 GMT</pubDate>
+        <pubDate>Tue, 27 Oct 2026 05:51:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Meet the former FBI agent behind NIH’s targeting of Chinese scientists]]></title>
@@ -154,6 +154,13 @@
             <link>https://www.science.org/content/article/inside-science-robo-ump-revolutionizing-baseball</link>
             <guid isPermaLink="true">https://www.science.org/content/article/inside-science-robo-ump-revolutionizing-baseball</guid>
             <pubDate>Wed, 21 Oct 2026 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As Ebola epidemic rages, Congo bets on high-stakes ‘hope’ vaccine trial]]></title>
+            <description><![CDATA[Study will first test a “mismatched” vaccine, but Bundibugyo-specific shots may be added as early as next month]]></description>
+            <link>https://www.science.org/content/article/ebola-epidemic-rages-congo-bets-high-stakes-hope-vaccine-trial</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/ebola-epidemic-rages-congo-bets-high-stakes-hope-vaccine-trial</guid>
+            <pubDate>Tue, 20 Oct 2026 21:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Biologist David Sabatini wins $6 million in defamation lawsuit]]></title>
