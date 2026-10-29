@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 10:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 17:14:13 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Oct 2026 10:38:31 GMT</pubDate>
+        <pubDate>Thu, 29 Oct 2026 17:14:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Mob violence will not end without justice]]></title>
+            <description><![CDATA[The government must ensure swift investigations and punishment]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/mob-violence-will-not-end-without-justice-4310661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/mob-violence-will-not-end-without-justice-4310661</guid>
+            <pubDate>Thu, 29 Oct 2026 17:14:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Time to count unpaid care in our economy]]></title>
-            <description><![CDATA[Notably, expanding the care economy must not simply transfer unpaid work from one group of women to another group of poorly paid women.]]></description>
+            <description><![CDATA[By Golam Gilane]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/time-count-unpaid-care-our-economy-4310511</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-count-unpaid-care-our-economy-4310511</guid>
             <dc:creator><![CDATA[Golam Gilane]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 10:38:31 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2026 17:14:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh cannot wait two years to manage its energy demand]]></title>
@@ -22,7 +29,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-cannot-wait-two-years-manage-its-energy-demand-4310021</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-cannot-wait-two-years-manage-its-energy-demand-4310021</guid>
             <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 10:38:31 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dhaka needs traffic discipline, not just new transport initiatives]]></title>
@@ -30,7 +37,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/dhaka-needs-traffic-discipline-not-just-new-transport-initiatives-4310046</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dhaka-needs-traffic-discipline-not-just-new-transport-initiatives-4310046</guid>
             <dc:creator><![CDATA[Sajedul Hoq]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 10:38:31 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2026 17:14:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Expanding hospitals is not enough. We must plan healthcare resources better]]></title>
@@ -38,7 +45,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/expanding-hospitals-not-enough-we-must-plan-healthcare-resources-better-4310066</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/expanding-hospitals-not-enough-we-must-plan-healthcare-resources-better-4310066</guid>
             <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 10:38:31 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What outcomes can COP31 realistically deliver?]]></title>
@@ -46,7 +53,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/what-outcomes-can-cop31-realistically-deliver-4310076</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-outcomes-can-cop31-realistically-deliver-4310076</guid>
             <dc:creator><![CDATA[Mizan R Khan]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 10:38:31 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Plan better to prevent recurring outbreaks]]></title>
@@ -63,18 +70,10 @@
             <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Madrasa abuse reports demand a reckoning, not just moral outrage]]></title>
-            <description><![CDATA[By Samia Jaman Karobi]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/madrasa-abuse-reports-demand-reckoning-not-just-moral-outrage-4309051</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/madrasa-abuse-reports-demand-reckoning-not-just-moral-outrage-4309051</guid>
-            <dc:creator><![CDATA[Samia Jaman Karobi]]></dc:creator>
-            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Don’t let Khulna’s security crisis deepen]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-khulnas-security-crisis-deepen-4310011</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-khulnas-security-crisis-deepen-4310011</guid>
-            <pubDate>Thu, 29 Oct 2026 10:38:31 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The fight against plastic needs everyone on board]]></title>
@@ -99,6 +98,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/motherhood-must-not-end-sporting-careers-4307831</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/motherhood-must-not-end-sporting-careers-4307831</guid>
             <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NGOs helped change Bangladesh. Can they keep pace with its changing needs?]]></title>
+            <description><![CDATA[By Ahmed Mushtaque Raza Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/ngos-helped-change-bangladesh-can-they-keep-pace-its-changing-needs-4309071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ngos-helped-change-bangladesh-can-they-keep-pace-its-changing-needs-4309071</guid>
+            <dc:creator><![CDATA[Ahmed Mushtaque Raza Chowdhury]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why labour unions are rising against the IMF and World Bank]]></title>
@@ -146,14 +153,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/roadmap-closing-the-skills-gap-our-logistics-sector-4307341</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/roadmap-closing-the-skills-gap-our-logistics-sector-4307341</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COP31 must deliver climate justice for displaced people]]></title>
-            <description><![CDATA[By Farah Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/cop31-must-deliver-climate-justice-displaced-people-4307351</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/cop31-must-deliver-climate-justice-displaced-people-4307351</guid>
-            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
             <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
