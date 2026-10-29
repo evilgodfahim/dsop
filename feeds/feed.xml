@@ -4,16 +4,23 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 17:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 22:17:11 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Oct 2026 17:14:13 GMT</pubDate>
+        <pubDate>Thu, 29 Oct 2026 22:17:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Column by Mahfuz Anam / Only an independent caretaker government can ensure free and fair elections]]></title>
+            <description><![CDATA[It has not even been a year since we had the last national election, so why are we already talking about the next one?]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/only-independent-caretaker-government-can-ensure-free-and-fair-elections-4310946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/only-independent-caretaker-government-can-ensure-free-and-fair-elections-4310946</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 22:17:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mob violence will not end without justice]]></title>
-            <description><![CDATA[The government must ensure swift investigations and punishment]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/mob-violence-will-not-end-without-justice-4310661</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/mob-violence-will-not-end-without-justice-4310661</guid>
-            <pubDate>Thu, 29 Oct 2026 17:14:13 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2026 22:17:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Time to count unpaid care in our economy]]></title>
@@ -21,7 +28,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/time-count-unpaid-care-our-economy-4310511</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-count-unpaid-care-our-economy-4310511</guid>
             <dc:creator><![CDATA[Golam Gilane]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 17:14:13 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh cannot wait two years to manage its energy demand]]></title>
@@ -37,7 +44,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/dhaka-needs-traffic-discipline-not-just-new-transport-initiatives-4310046</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dhaka-needs-traffic-discipline-not-just-new-transport-initiatives-4310046</guid>
             <dc:creator><![CDATA[Sajedul Hoq]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 17:14:13 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Expanding hospitals is not enough. We must plan healthcare resources better]]></title>
@@ -59,14 +66,6 @@
             <title><![CDATA[Plan better to prevent recurring outbreaks]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/plan-better-prevent-recurring-outbreaks-4309801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/plan-better-prevent-recurring-outbreaks-4309801</guid>
-            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chattogram has a mobility problem, and infrastructure alone won't fix it]]></title>
-            <description><![CDATA[By Farzana Islam Toma]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/chattogram-has-mobility-problem-and-infrastructure-alone-wont-fix-it-4309046</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/chattogram-has-mobility-problem-and-infrastructure-alone-wont-fix-it-4309046</guid>
-            <dc:creator><![CDATA[Farzana Islam Toma]]></dc:creator>
             <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -98,6 +97,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/motherhood-must-not-end-sporting-careers-4307831</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/motherhood-must-not-end-sporting-careers-4307831</guid>
             <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Madrasa abuse reports demand a reckoning, not just moral outrage]]></title>
+            <description><![CDATA[By Samia Jaman Karobi]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/madrasa-abuse-reports-demand-reckoning-not-just-moral-outrage-4309051</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/madrasa-abuse-reports-demand-reckoning-not-just-moral-outrage-4309051</guid>
+            <dc:creator><![CDATA[Samia Jaman Karobi]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NGOs helped change Bangladesh. Can they keep pace with its changing needs?]]></title>
@@ -146,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-strategy-wean-itself-imported-gas-4308246</guid>
             <dc:creator><![CDATA[Rassiq Aziz KabirIsmot Hasnine Masrur E Khuda]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A roadmap for closing the skills gap in our logistics sector]]></title>
-            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/roadmap-closing-the-skills-gap-our-logistics-sector-4307341</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/roadmap-closing-the-skills-gap-our-logistics-sector-4307341</guid>
-            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
