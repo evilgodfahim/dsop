@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 07:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 14:09:44 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 31 Oct 2026 07:51:36 GMT</pubDate>
+        <pubDate>Sat, 31 Oct 2026 14:09:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[A promising solution to post-harvest losses]]></title>
+            <description><![CDATA[New irradiation facility must deliver equitable access, reduce losses for farmers]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/promising-solution-post-harvest-losses-4312001</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/promising-solution-post-harvest-losses-4312001</guid>
+            <pubDate>Sat, 31 Oct 2026 14:09:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bangladesh must use the LDC extension for lasting economic gains]]></title>
-            <description><![CDATA[On Thursday, the United Nations General Assembly (UNGA) approved a three-year extension for Bangladesh to prepare for graduation from the Least Developed Country (LDC) category, rescheduling it for November 24, 2029.]]></description>
+            <description><![CDATA[By Fahmida Khatun]]></description>
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-must-use-the-ldc-extension-lasting-economic-gains-4311501</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-must-use-the-ldc-extension-lasting-economic-gains-4311501</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Sat, 31 Oct 2026 07:51:36 GMT</pubDate>
+            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The secretariat relocation plan should open up Dhaka]]></title>
@@ -22,7 +29,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-secretariat-relocation-plan-should-open-dhaka-4311526</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-secretariat-relocation-plan-should-open-dhaka-4311526</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 31 Oct 2026 07:51:36 GMT</pubDate>
+            <pubDate>Sat, 31 Oct 2026 14:09:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We need to de-plot our urban imagination]]></title>
@@ -30,13 +37,13 @@
             <link>https://www.thedailystar.net/opinion/views/the-grudging-urbanist/news/we-need-de-plot-our-urban-imagination-4311521</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-grudging-urbanist/news/we-need-de-plot-our-urban-imagination-4311521</guid>
             <dc:creator><![CDATA[Adnan Zillur Morshed]]></dc:creator>
-            <pubDate>Sat, 31 Oct 2026 07:51:36 GMT</pubDate>
+            <pubDate>Sat, 31 Oct 2026 14:09:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don’t turn fruits into a luxury]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-turn-fruits-luxury-4311491</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-turn-fruits-luxury-4311491</guid>
-            <pubDate>Sat, 31 Oct 2026 07:51:36 GMT</pubDate>
+            <pubDate>Sat, 31 Oct 2026 14:09:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Schools can help address Dhaka's playground crisis]]></title>
@@ -44,7 +51,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/schools-can-help-address-dhakas-playground-crisis-4311516</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/schools-can-help-address-dhakas-playground-crisis-4311516</guid>
             <dc:creator><![CDATA[Ruhina Binta A Ghani]]></dc:creator>
-            <pubDate>Sat, 31 Oct 2026 07:51:36 GMT</pubDate>
+            <pubDate>Sat, 31 Oct 2026 14:09:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Make healthcare affordable for all]]></title>
@@ -59,14 +66,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/only-independent-caretaker-government-can-ensure-free-and-fair-elections-4310946</guid>
             <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
             <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Bureaucratic obstinacy is the root cause of the BRT failure’]]></title>
-            <description><![CDATA[By Monorom Polok]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bureaucratic-obstinacy-the-root-cause-the-brt-failure-4310991</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bureaucratic-obstinacy-the-root-cause-the-brt-failure-4310991</guid>
-            <dc:creator><![CDATA[Monorom Polok]]></dc:creator>
-            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Safeguards are key to preventing irregularities in the financial sector]]></title>
