@@ -4,17 +4,25 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 08:31:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 15:39:53 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Nov 2026 08:31:48 GMT</pubDate>
+        <pubDate>Sun, 01 Nov 2026 15:39:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Is Dhaka’s healthcare infrastructure ‘healthy’? An urban planning perspective]]></title>
+            <description><![CDATA[Access to healthcare depends not only on what happens inside hospital walls but also on how the city outside is planned and connected.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/dhakas-healthcare-infrastructure-healthy-urban-planning-perspective-4312891</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dhakas-healthcare-infrastructure-healthy-urban-planning-perspective-4312891</guid>
+            <dc:creator><![CDATA[AKM Iqbal BaharRayhanul Zannat]]></dc:creator>
+            <pubDate>Sun, 01 Nov 2026 15:39:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rooppur’s first electricity will be a milestone, not the finish line]]></title>
-            <description><![CDATA[If everything goes as planned, Bangladesh will soon do something it has never done before: transmit electricity from a nuclear reactor to the national grid.]]></description>
+            <description><![CDATA[By Md. Shafiqul Islam]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/rooppurs-first-electricity-will-be-milestone-not-the-finish-line-4312296</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rooppurs-first-electricity-will-be-milestone-not-the-finish-line-4312296</guid>
             <dc:creator><![CDATA[Md. Shafiqul Islam]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 08:31:48 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Awami League and Jamaat: Strange turns in the history of political alliances]]></title>
@@ -22,7 +30,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/awami-league-and-jamaat-strange-turns-the-history-political-alliances-4312306</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/awami-league-and-jamaat-strange-turns-the-history-political-alliances-4312306</guid>
             <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 08:31:48 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is Britain's MI6 trying to save Pakistani media from death?]]></title>
@@ -30,13 +38,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/britains-mi6-trying-save-pakistani-media-death-4312311</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/britains-mi6-trying-save-pakistani-media-death-4312311</guid>
             <dc:creator><![CDATA[Hamid Mir]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 08:31:48 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 15:39:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Make public toilets women-friendly]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/make-public-toilets-women-friendly-4312286</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/make-public-toilets-women-friendly-4312286</guid>
-            <pubDate>Sun, 01 Nov 2026 08:31:48 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 15:39:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to make Bangladesh's jute industry thrive at last]]></title>
@@ -44,7 +52,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/how-make-bangladeshs-jute-industry-thrive-last-4312301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-make-bangladeshs-jute-industry-thrive-last-4312301</guid>
             <dc:creator><![CDATA[Md Al-Mamun]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 08:31:48 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 15:39:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A promising solution to post-harvest losses]]></title>
@@ -61,12 +69,10 @@
             <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The secretariat relocation plan should open up Dhaka]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-secretariat-relocation-plan-should-open-dhaka-4311526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-secretariat-relocation-plan-should-open-dhaka-4311526</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Poor HSC results are a wake-up call for the education sector]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/poor-hsc-results-are-wake-call-the-education-sector-4312876</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/poor-hsc-results-are-wake-call-the-education-sector-4312876</guid>
+            <pubDate>Sun, 01 Nov 2026 15:39:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don’t turn fruits into a luxury]]></title>
@@ -93,10 +99,12 @@
             <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Don’t let Khulna’s security crisis deepen]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-khulnas-security-crisis-deepen-4310011</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-khulnas-security-crisis-deepen-4310011</guid>
-            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[We need to de-plot our urban imagination]]></title>
+            <description><![CDATA[By Adnan Zillur Morshed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-grudging-urbanist/news/we-need-de-plot-our-urban-imagination-4311521</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-grudging-urbanist/news/we-need-de-plot-our-urban-imagination-4311521</guid>
+            <dc:creator><![CDATA[Adnan Zillur Morshed]]></dc:creator>
+            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / Only an independent caretaker government can ensure free and fair elections]]></title>
@@ -144,14 +152,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/dhaka-needs-traffic-discipline-not-just-new-transport-initiatives-4310046</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dhaka-needs-traffic-discipline-not-just-new-transport-initiatives-4310046</guid>
             <dc:creator><![CDATA[Sajedul Hoq]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Expanding hospitals is not enough. We must plan healthcare resources better]]></title>
-            <description><![CDATA[By Rumana Huque]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/expanding-hospitals-not-enough-we-must-plan-healthcare-resources-better-4310066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/expanding-hospitals-not-enough-we-must-plan-healthcare-resources-better-4310066</guid>
-            <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
             <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
