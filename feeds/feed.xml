@@ -4,16 +4,48 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 00:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 07:27:11 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Nov 2026 00:18:09 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 07:27:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Listen to the workers before unrest]]></title>
-            <description><![CDATA[Govt must establish an effective channel for resolving RMG workers’ grievances.]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/listen-the-workers-unrest-4313736</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/listen-the-workers-unrest-4313736</guid>
-            <pubDate>Tue, 03 Nov 2026 00:18:09 GMT</pubDate>
+            <title><![CDATA[30 years of the other opinion]]></title>
+            <description><![CDATA[On November 1, 1996, Al Jazeera went on air with a promise: “the opinion… and the other opinion.”]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/30-years-the-other-opinion-4314006</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/30-years-the-other-opinion-4314006</guid>
+            <pubDate>Tue, 03 Nov 2026 07:27:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The RMG sector must balance fair wages and industry competitiveness]]></title>
+            <description><![CDATA[By Selim Raihan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-rmg-sector-must-balance-fair-wages-and-industry-competitiveness-4312916</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-rmg-sector-must-balance-fair-wages-and-industry-competitiveness-4312916</guid>
+            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
+            <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to put idle public assets to work]]></title>
+            <description><![CDATA[By Ashfaq Zaman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-put-idle-public-assets-work-4314056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-put-idle-public-assets-work-4314056</guid>
+            <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 07:27:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Children must not pay the price for institutional silence]]></title>
+            <description><![CDATA[By Shagufe Hossain]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/children-must-not-pay-the-price-institutional-silence-4314036</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/children-must-not-pay-the-price-institutional-silence-4314036</guid>
+            <dc:creator><![CDATA[Shagufe Hossain]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 07:27:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Buriganga to the Sundarbans, BNP keeps contradicting its own environmental pledges]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/buriganga-the-sundarbans-bnp-keeps-contradicting-its-own-environmental-pledges-4314021</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/buriganga-the-sundarbans-bnp-keeps-contradicting-its-own-environmental-pledges-4314021</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The red-to-orange shift must not weaken safeguards in shipbreaking]]></title>
@@ -21,6 +53,12 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-red-orange-shift-must-not-weaken-safeguards-shipbreaking-4313216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-red-orange-shift-must-not-weaken-safeguards-shipbreaking-4313216</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Listen to the workers before unrest]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/listen-the-workers-unrest-4313736</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/listen-the-workers-unrest-4313736</guid>
             <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -32,12 +70,34 @@
             <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Making the most of Japan’s investment opportunity will take more than incentives]]></title>
-            <description><![CDATA[By Khan Khalid Adnan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/making-the-most-japans-investment-opportunity-will-take-more-incentives-4313241</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/making-the-most-japans-investment-opportunity-will-take-more-incentives-4313241</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
+            <title><![CDATA[Fix staffing gaps in government veterinary services]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fix-staffing-gaps-government-veterinary-services-4313211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-staffing-gaps-government-veterinary-services-4313211</guid>
             <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poor HSC results are a wake-up call for the education sector]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/poor-hsc-results-are-wake-call-the-education-sector-4312876</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/poor-hsc-results-are-wake-call-the-education-sector-4312876</guid>
+            <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make public toilets women-friendly]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/make-public-toilets-women-friendly-4312286</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/make-public-toilets-women-friendly-4312286</guid>
+            <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A promising solution to post-harvest losses]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/promising-solution-post-harvest-losses-4312001</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/promising-solution-post-harvest-losses-4312001</guid>
+            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t turn fruits into a luxury]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/dont-turn-fruits-luxury-4311491</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-turn-fruits-luxury-4311491</guid>
+            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Health reform can't be left to the ministry alone. It needs a central, PM-led drive]]></title>
@@ -72,34 +132,12 @@
             <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fix staffing gaps in government veterinary services]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/fix-staffing-gaps-government-veterinary-services-4313211</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-staffing-gaps-government-veterinary-services-4313211</guid>
-            <pubDate>Tue, 03 Nov 2026 00:18:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poor HSC results are a wake-up call for the education sector]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/poor-hsc-results-are-wake-call-the-education-sector-4312876</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/poor-hsc-results-are-wake-call-the-education-sector-4312876</guid>
+            <title><![CDATA[Is Britain's MI6 trying to save Pakistani media from death?]]></title>
+            <description><![CDATA[By Hamid Mir]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/britains-mi6-trying-save-pakistani-media-death-4312311</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/britains-mi6-trying-save-pakistani-media-death-4312311</guid>
+            <dc:creator><![CDATA[Hamid Mir]]></dc:creator>
             <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make public toilets women-friendly]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/make-public-toilets-women-friendly-4312286</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/make-public-toilets-women-friendly-4312286</guid>
-            <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A promising solution to post-harvest losses]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/promising-solution-post-harvest-losses-4312001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/promising-solution-post-harvest-losses-4312001</guid>
-            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t turn fruits into a luxury]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/dont-turn-fruits-luxury-4311491</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-turn-fruits-luxury-4311491</guid>
-            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh must use the LDC extension for lasting economic gains]]></title>
@@ -116,46 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-make-bangladeshs-jute-industry-thrive-last-4312301</guid>
             <dc:creator><![CDATA[Md Al-Mamun]]></dc:creator>
             <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The secretariat relocation plan should open up Dhaka]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-secretariat-relocation-plan-should-open-dhaka-4311526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-secretariat-relocation-plan-should-open-dhaka-4311526</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We need to de-plot our urban imagination]]></title>
-            <description><![CDATA[By Adnan Zillur Morshed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-grudging-urbanist/news/we-need-de-plot-our-urban-imagination-4311521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-grudging-urbanist/news/we-need-de-plot-our-urban-imagination-4311521</guid>
-            <dc:creator><![CDATA[Adnan Zillur Morshed]]></dc:creator>
-            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column by Mahfuz Anam / Only an independent caretaker government can ensure free and fair elections]]></title>
-            <description><![CDATA[By Mahfuz Anam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/only-independent-caretaker-government-can-ensure-free-and-fair-elections-4310946</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/only-independent-caretaker-government-can-ensure-free-and-fair-elections-4310946</guid>
-            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schools can help address Dhaka's playground crisis]]></title>
-            <description><![CDATA[By Ruhina Binta A Ghani]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/schools-can-help-address-dhakas-playground-crisis-4311516</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/schools-can-help-address-dhakas-playground-crisis-4311516</guid>
-            <dc:creator><![CDATA[Ruhina Binta A Ghani]]></dc:creator>
-            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What should Bangladesh gain from its first sovereign bond?]]></title>
-            <description><![CDATA[By Saba El Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-should-bangladesh-gain-its-first-sovereign-bond-4310996</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-should-bangladesh-gain-its-first-sovereign-bond-4310996</guid>
-            <dc:creator><![CDATA[Saba El Kabir]]></dc:creator>
-            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
