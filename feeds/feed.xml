@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Nov 2026 08:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 16:43:52 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Nov 2026 08:25:01 GMT</pubDate>
+        <pubDate>Wed, 04 Nov 2026 16:43:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[A window of opportunity closing]]></title>
+            <description><![CDATA[Bangladesh is running out of time to utilise its demographic dividend]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/window-opportunity-closing-4315546</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/window-opportunity-closing-4315546</guid>
+            <pubDate>Wed, 04 Nov 2026 16:43:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What the LDC deferral means for Bangladesh at COP31]]></title>
-            <description><![CDATA[Bangladesh’s graduation from the least developed country (LDC) category has rarely been treated as anything more than a trade question in our policy discourse.]]></description>
+            <description><![CDATA[By Rassiq Aziz KabirIsmot Hasnine Masrur E Khuda]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/what-the-ldc-deferral-means-bangladesh-cop31-4314881</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-ldc-deferral-means-bangladesh-cop31-4314881</guid>
             <dc:creator><![CDATA[Rassiq Aziz KabirIsmot Hasnine Masrur E Khuda]]></dc:creator>
-            <pubDate>Wed, 04 Nov 2026 08:25:01 GMT</pubDate>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why do some resent garment workers' demand for a living wage?]]></title>
@@ -22,7 +29,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-do-some-resent-garment-workers-demand-living-wage-4314901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-do-some-resent-garment-workers-demand-living-wage-4314901</guid>
             <dc:creator><![CDATA[Maisha Islam Monamee]]></dc:creator>
-            <pubDate>Wed, 04 Nov 2026 08:25:01 GMT</pubDate>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Women cricketers deserve equal rights, not discretionary favours]]></title>
@@ -30,7 +37,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/women-cricketers-deserve-equal-rights-not-discretionary-favours-4314926</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/women-cricketers-deserve-equal-rights-not-discretionary-favours-4314926</guid>
             <dc:creator><![CDATA[Azra Humayra]]></dc:creator>
-            <pubDate>Wed, 04 Nov 2026 08:25:01 GMT</pubDate>
+            <pubDate>Wed, 04 Nov 2026 16:43:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Political parties must practise what they preach]]></title>
@@ -44,7 +51,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/amid-mounting-questions-bangladesh-must-account-citizens-drawn-russias-war-4314941</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/amid-mounting-questions-bangladesh-must-account-citizens-drawn-russias-war-4314941</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Wed, 04 Nov 2026 08:25:01 GMT</pubDate>
+            <pubDate>Wed, 04 Nov 2026 16:43:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Universities must catch up with how AI has changed our classrooms]]></title>
@@ -61,18 +68,10 @@
             <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The RMG sector must balance fair wages and industry competitiveness]]></title>
-            <description><![CDATA[By Selim Raihan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-rmg-sector-must-balance-fair-wages-and-industry-competitiveness-4312916</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-rmg-sector-must-balance-fair-wages-and-industry-competitiveness-4312916</guid>
-            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Whose interests is BERC protecting?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/whose-interests-berc-protecting-4314856</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/whose-interests-berc-protecting-4314856</guid>
-            <pubDate>Wed, 04 Nov 2026 08:25:01 GMT</pubDate>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Listen to the workers before they take to the streets]]></title>
