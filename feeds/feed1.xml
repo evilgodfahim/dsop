@@ -4,219 +4,219 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 18:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 23:55:06 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Nov 2026 18:26:12 GMT</pubDate>
+        <pubDate>Thu, 05 Nov 2026 23:55:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Data-driven discovery and rapid, direct synthesis of MXenes | Science]]></title>
-            <description><![CDATA[MXenes are a rapidly expanding family of two-dimensional transition metal carbides and nitrides, yet scalable synthesis routes remain limited and historical reports suggest a broader, largely unexplored chemical space. We used machine learning–assisted ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aeh5957</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh5957</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[China space experiment creates coldest temperature ever]]></title>
+            <description><![CDATA[Novel technique for cooling atomic gases could make it easier to probe Einstein’s theory of gravity]]></description>
+            <link>https://www.science.org/content/article/china-space-experiment-creates-coldest-temperature-ever</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/china-space-experiment-creates-coldest-temperature-ever</guid>
+            <pubDate>Thu, 05 Nov 2026 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Papaver self-incompatibility is controlled by two multiallelic idiomorphs | Science]]></title>
-            <description><![CDATA[Self-incompatibility (SI) prevents self-fertilization through highly polymorphic genetic recognition at the S locus with multiple alleles. In Papaver rhoeas, the S determinants were previously identified as PrpS and PrsS. However, we found that PrpS-PrsS ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aeg6988</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeg6988</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Are brain-scanning hard hats a safety dream—or a privacy nightmare?]]></title>
+            <description><![CDATA[Construction and mining firms are rolling out devices that track workers’ fatigue. Critics say the tech could be misused by authorities]]></description>
+            <link>https://www.science.org/content/article/are-brain-scanning-hard-hats-safety-dream-or-privacy-nightmare</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/are-brain-scanning-hard-hats-safety-dream-or-privacy-nightmare</guid>
+            <pubDate>Thu, 05 Nov 2026 15:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Whole-body single-cell atlas of an adult vertebrate, Danionella cerebrum | Science]]></title>
-            <description><![CDATA[A complete cell type transcriptome atlas of a vertebrate could promote understanding of animal cell type composition, organization, and evolution. The miniaturized, transparent, and regenerative teleost Danionella cerebrum brings whole-vertebrate single-...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aeg1125</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeg1125</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[In the image of their tools | Science]]></title>
+            <description><![CDATA[In the United States, spending on AI infrastructure now dwarfs investment in the Internet and railroads combined, but spending on the institutions that would let societies absorb that technology is, by comparison, negligible. This asymmetry creates a paradox. Models post striking benchmark scores while aggregate economic output barely moves: Economist Daron Acemoglu projects a total factor productivity gain of well under one percent over a decade, and firm-level studies find that task-level gains do not necessarily add up at the firm or economy level. This paradox follows from an institutional mismatch that can be addressed by reverse alignment, the deliberate redesign of institutions, norms, and skills, rather than of models, so that societies can absorb new forms of machine cognition.]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aem6470</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem6470</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A commensally regulated immune rheostat fine-tunes skin barrier fitness | Science]]></title>
-            <description><![CDATA[At the skin’s surface, the epidermis must balance stem cell renewal with barrier maintenance to withstand environmental stress and shield against pathogens. In this study, we identify a microbial-immune-epithelial feedback mechanism that integrates ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aee5920</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aee5920</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spatial coordination in the codevelopment of the human urogenital system during organogenesis | Science]]></title>
-            <description><![CDATA[The human urogenital system originates from a common embryonic domain, yet the mechanisms guiding its spatiotemporal coordination remain understudied. Here, we combined high-resolution spatial transcriptomics with single-cell multiomics to profile human ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aee5093</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aee5093</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stimulated protein degradation to promote mitochondrial function and neuronal survival | Science]]></title>
-            <description><![CDATA[Targeted protein degradation is a promising modality to treat cancer or inflammation, but whether it can provide a similar benefit for disorders caused by pervasive protein dysregulation is unclear. We describe stimulated protein degradation (SPD) as a ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aed2525</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aed2525</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A case study in conflicts of interest | Science]]></title>
-            <description><![CDATA[In 2014, a paper—Nutt, et al—was published in the journal European Addiction Research that purported to evaluate the relative harms of 12 nicotine-containing products, based on a review by an expert panel. The materials assessed included conventional tobacco products, such as cigarettes, cigars, and pipes; traditional smokeless tobacco products, such as chewing tobacco and snuff; and manufactured nicotine replacement therapies (NRTs), such as patches, pouches, nasal sprays, and e-cigarettes (aka vapes). In the abstract, the authors concluded that “non-combusted sources of nicotine should be encouraged as the harms from these products are much lower.”]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aem6465</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem6465</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Zero-sum mindsets and economic policy preferences | Science]]></title>
+            <description><![CDATA[When economists talk about inclusive growth or shared prosperity, they have in mind economic policies generating widespread gains across individuals in society. For example, economists since Adam Smith have argued there are potentially large gains to be had for society from fostering trading with others. However, for voters to support such ‘win-win’ policies partly depends on whether they perceive the world in zero-sum terms, where zero-sum thinking (ZST) is the belief that gains for an individual or group necessarily come at the expense of others. The idea originally stems from work by anthropologist George Foster, based on pre-industrial societies with scarce resources. However, work in psychology and economics has established that zero-sum mindsets are also relevant, perhaps increasingly so, for understanding preferences over economic policies in modern times in advanced economies. This has spurred work to understand the prevalence, nature, and malleability of zero-sum mindsets.]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aem2407</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem2407</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In Other Journals | Science]]></title>
             <description><![CDATA[Editors’ selections from the current scientific literature]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aen5956</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aen5956</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <link>https://www.science.org/doi/10.1126/science.aen8053</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aen8053</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In Science Journals | Science]]></title>
             <description><![CDATA[Highlights from the Science family of journals]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aen5955</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aen5955</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <link>https://www.science.org/doi/10.1126/science.aen8052</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aen8052</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Immunity at scale | Science]]></title>
-            <description><![CDATA[The brain can serve as a host defense effector]]></description>
-            <link>https://www.science.org/doi/10.1126/science.ael6235</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael6235</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Obesity pharmacotherapies and cognition | Science]]></title>
+            <description><![CDATA[Pharmacotherapies for obesity and type 2 diabetes are increasingly being evaluated for their effects on cognition and brain health. Evidence from preclinical models, observational cohorts, and clinical trials has intensified interest, but findings remain ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aek9987</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aek9987</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Darwin’s atom split | Science]]></title>
-            <description><![CDATA[A whole central nervous system is exposed]]></description>
-            <link>https://www.science.org/doi/10.1126/science.ael6230</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael6230</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Obesity management medications: The way forward | Science]]></title>
+            <description><![CDATA[Obesity is now widely recognized as a chronic progressive condition. The altered biological mechanisms that cause obesity frequently require long-term treatment, including pharmacotherapies or bariatric surgery. In recent decades, the pathophysiology of ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aej1120</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aej1120</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fats that think? | Science]]></title>
-            <description><![CDATA[Lipids are not just building blocks of brain cells but central players in cell diversity and organization]]></description>
-            <link>https://www.science.org/doi/10.1126/science.ael6217</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael6217</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[When fat adapts: From physiological remodeling to disease | Science]]></title>
+            <description><![CDATA[Adipose tissue undergoes extensive remodeling to adapt to changing physiological demands. This plasticity encompasses changes in adipocyte metabolism and number, extracellular matrix organization, vascularization, immune composition, and innervation. ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aee9044</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aee9044</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mapping the scope of drug patents | Science]]></title>
-            <description><![CDATA[Narrowing patents that claim more than they disclose would open space for rival innovators, not generics]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aeh0691</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh0691</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Expanding global access to GLP-1s: Challenges and opportunities | Science]]></title>
+            <description><![CDATA[HomeScienceVol. 394, No. 6824Expanding global access to GLP-1s: Challenges and opportunitiesBack To Vol. 394, No. 6824 Full accessPolicy ForumPolicy Forum Share on Expanding global access to GLP-1s: Challenges and opportunitiesKenneth C. Shadlen and Olivier J. WoutersAuthors Info & AffiliationsScience5 Nov 2026Vol 394, Issue 6824pp. 614-617DOI: 10.1126/science.aek2174 PREVIOUS ARTICLEGLP-1 therap…]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aek2174</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aek2174</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rallying hedgehog poo enthusiasts | Science]]></title>
-            <description><![CDATA[HomeScienceVol. 394, No. 6823Rallying hedgehog poo enthusiastsBack To Vol. 394, No. 6823 Full accessLetterLife in Science Share on Rallying hedgehog poo enthusiastsSophie Lund RasmussenAuthors Info & AffiliationsScience29 Oct 2026Vol 394, Issue 6823p. 494DOI: 10.1126/science.aej2391 PREVIOUS ARTICLEAdvance more drugs for China’s aquaculturePreviousNEXT ARTICLEMapping the scope of drug patentsNext…]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aej2391</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aej2391</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[GLP-1 therapies and cancer risk | Science]]></title>
+            <description><![CDATA[Correct interpretation of evidence is essential in a rapidly evolving medical landscape]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aei1490</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei1490</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Advance more drugs for China’s aquaculture | Science]]></title>
-            <description><![CDATA[China operates the world’s largest aquaculture industry. In 2024, cultured aquatic production reached 60.6 million tonnes, accounting for 82.4% of national output and about 56% of global aquaculture production (1, 2). As farming intensifies and waters warm, disease outbreaks are becoming more frequent and complex, and farmers increasingly need effective, sustainable therapeutics that keep aquatic animals healthy and seafood safe for consumers. However, despite the industry’s scale, only 133 legally registered national-standard drugs and vaccines are available domestically for use in aquatic species (3), compared with about 2000 registered veterinary drugs for livestock and poultry (4). This portfolio cannot maintain the health and sustainability of China’s commercially farmed aquatic species.]]></description>
-            <link>https://www.science.org/doi/10.1126/science.ael5303</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael5303</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[GLP-1 receptor agonists in addiction therapy | Science]]></title>
+            <description><![CDATA[Use of GLP-1–based therapies for addiction could provide a bridge toward whole-person health care]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aej9836</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aej9836</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Use common standards to stop risky research | Science]]></title>
-            <description><![CDATA[HomeScienceVol. 394, No. 6823Use common standards to stop risky researchBack To Vol. 394, No. 6823 Full accessLetter Share on Use common standards to stop risky researchWilmot James, Jonathan Ewbank, and Pat G. CaseyAuthors Info & AffiliationsScience29 Oct 2026Vol 394, Issue 6823p. 493DOI: 10.1126/science.ael6976 PREVIOUS ARTICLESpawning Season: An Experiment in Queer ParenthoodPreviousNEXT ARTIC…]]></description>
-            <link>https://www.science.org/doi/10.1126/science.ael6976</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael6976</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Going Beyond GLP-1 | Science]]></title>
+            <description><![CDATA[The growing complexity of targeting metabolism]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aen0869</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aen0869</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spawning Season: An Experiment in Queer Parenthood | Science]]></title>
-            <description><![CDATA[Biophysicist Joseph Osmundson brings a scientist’s mind to a deeply personal subject in his genre-defying memoir, Spawning Season. This week on the Science podcast, Osmundson explores how queer parenthood intersects with themes present throughout the natural world, evoking questions about community and identity along the way.]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aem8469</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem8469</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[When soil is left undisturbed | Science]]></title>
+            <description><![CDATA[Conservation agriculture reframes farming, risk, and resilience in Africa]]></description>
+            <link>https://www.science.org/doi/10.1126/science.ael2422</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael2422</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Constructing the history of a contested region | Science]]></title>
-            <description><![CDATA[A lack of source notes undermines an otherwise illuminating overview of the Middle East]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aem1550</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem1550</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[The science of the individual | Science]]></title>
+            <description><![CDATA[A new paradigm for behavior change is tested]]></description>
+            <link>https://www.science.org/doi/10.1126/science.ael2415</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael2415</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We have some explaining to do | Science]]></title>
-            <description><![CDATA[A cognitive scientist turns the pursuit of explanation on itself]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aem0071</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem0071</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[China’s farmland needs clean water drainage | Science]]></title>
+            <description><![CDATA[China is transforming its agricultural landscape by building 67 million hectares of high-standard farmland and is aiming to expand this area to 90 million hectares by 2030 (1). By improving irrigation, drainage, soils, and resilience to droughts and floods, the program has become central to China’s food security and climate adaptation. However, the rapid expansion overlooks the importance of clean agricultural drainage water. Before the completion of the planned farmland, China should ensure that the fields do not increase pollution in downstream waterbodies.]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aem2340</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem2340</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Caught by chirality | Science]]></title>
-            <description><![CDATA[Altermagnets are identified by the handedness of their collective magnetic excitations]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aem3997</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem3997</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Biodiversity-inclusive urban planning in China | Science]]></title>
+            <description><![CDATA[HomeScienceVol. 394, No. 6824Biodiversity-inclusive urban planning in ChinaBack To Vol. 394, No. 6824 Full accessLetter Share on Biodiversity-inclusive urban planning in ChinaNan Wang, Hai-Dong Li, [...] , Hao Shi, Xiao-Mian Zhang, and Li Liu+2 authors fewerAuthors Info & AffiliationsScience5 Nov 2026Vol 394, Issue 6824p. 603DOI: 10.1126/science.aem0567 PREVIOUS ARTICLEStart cryosphere flood warn…]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aem0567</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem0567</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Taking the brakes off a stress response | Science]]></title>
-            <description><![CDATA[A small molecule improves the fitness of cells containing diseased mitochondria]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aem1560</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem1560</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Start cryosphere flood warnings at the source | Science]]></title>
+            <description><![CDATA[HomeScienceVol. 394, No. 6824Start cryosphere flood warnings at the sourceBack To Vol. 394, No. 6824 Full accessLetter Share on Start cryosphere flood warnings at the sourceChunlin SongAuthors Info & AffiliationsScience5 Nov 2026Vol 394, Issue 6824pp. 602-603DOI: 10.1126/science.ael8929 PREVIOUS ARTICLEA cultural history of altered artifactsPreviousNEXT ARTICLEBiodiversity-inclusive urban plannin…]]></description>
+            <link>https://www.science.org/doi/10.1126/science.ael8929</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael8929</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How comparable are bird and human sounds? | Science]]></title>
-            <description><![CDATA[Many features of bird and human vocalizations are comparable—but some analogies lack evidence]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aem2333</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem2333</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[A cultural history of altered artifacts | Science]]></title>
+            <description><![CDATA[New tools feed humanity’s ancient impulse to embellish and self-aggrandize, but future scholars will be prepared]]></description>
+            <link>https://www.science.org/doi/10.1126/science.ael6284</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael6284</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Untangling time and prematurity in brain development | Science]]></title>
-            <description><![CDATA[Cerebellar developmental differences between preterm- and term-born children persist into early childhood]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aem4864</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem4864</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[The power of noise | Science]]></title>
+            <description><![CDATA[Noise measurements untangle a decades-old puzzle in high-temperature superconductivity]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aem6813</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem6813</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When AI takes away the thrill of discovery | Science]]></title>
-            <description><![CDATA[“Pure math is being devastated or revolutionized, depending on your point of view.” So said Cornell professor Steven Strogatz after the artificial intelligence (AI) company OpenAI announced in early September a potential solution to the Navier-Stokes ...]]></description>
-            <link>https://www.science.org/doi/10.1126/science.aen3894</link>
-            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aen3894</guid>
-            <pubDate>Thu, 29 Oct 2026 13:01:00 GMT</pubDate>
+            <title><![CDATA[Modeling word learning, child by child | Science]]></title>
+            <description><![CDATA[A computational approach to learning reproduced key features of child language development]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aem3978</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem3978</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘Forever chemicals’ are everywhere. Can new technologies get rid of them for good?]]></title>
-            <description><![CDATA[From superheated water to sound waves, researchers are testing ways to destroy PFAS—and weighing the costs of cleanup]]></description>
-            <link>https://www.science.org/content/article/forever-chemicals-are-everywhere-can-new-technologies-get-rid-them-good</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/forever-chemicals-are-everywhere-can-new-technologies-get-rid-them-good</guid>
-            <pubDate>Wed, 28 Oct 2026 21:45:00 GMT</pubDate>
+            <title><![CDATA[Privacy, accuracy, and objectivity of census data | Science]]></title>
+            <description><![CDATA[A new algorithm for protecting privacy can improve the accuracy of population statistics]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aem6487</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem6487</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI is shaking up math. But can its proofs be trusted?]]></title>
-            <description><![CDATA[As AI firms churn out math breakthroughs, researchers question use of Lean software as proof checker]]></description>
-            <link>https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted</guid>
-            <pubDate>Tue, 27 Oct 2026 21:10:00 GMT</pubDate>
+            <title><![CDATA[How do faults recover after giant earthquakes? | Science]]></title>
+            <description><![CDATA[Long-term monitoring reveals how a fault relocks for a future earthquake after a massive rupture]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aem6802</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem6802</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Milestone cancer vaccine success leaves hard questions unanswered]]></title>
-            <description><![CDATA[mRNA vaccine from Merck and Moderna slashes risk of melanoma’s return, but why remains unclear]]></description>
-            <link>https://www.science.org/content/article/milestone-cancer-vaccine-success-leaves-hard-questions-unanswered</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/milestone-cancer-vaccine-success-leaves-hard-questions-unanswered</guid>
-            <pubDate>Mon, 26 Oct 2026 22:25:00 GMT</pubDate>
+            <title><![CDATA[Can artificial intelligence align with Indigenous science? | Science]]></title>
+            <description><![CDATA[As the use of generative and agentic artificial intelligence (AI) increases, alarms are being raised about how the technology could replace human contribution, override human supervision, ignore ethical and technical guardrails, and cause increasingly ...]]></description>
+            <link>https://www.science.org/doi/10.1126/science.aen6314</link>
+            <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aen6314</guid>
+            <pubDate>Thu, 05 Nov 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wind turbines kill ‘shocking’ number of bats each year]]></title>
-            <description><![CDATA[Deaths can be prevented by regulating when wind turbines operate, scientists say]]></description>
-            <link>https://www.science.org/content/article/wind-turbines-kill-shocking-number-bats-each-year</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/wind-turbines-kill-shocking-number-bats-each-year</guid>
-            <pubDate>Mon, 26 Oct 2026 20:45:00 GMT</pubDate>
+            <title><![CDATA[Wearable device makers are harvesting brain data to train AI—without telling users]]></title>
+            <description><![CDATA[Science investigation reveals firms have amassed tens of millions of hours of brain wave data from neurotech headbands, and face few constraints in using it]]></description>
+            <link>https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users</guid>
+            <pubDate>Wed, 04 Nov 2026 18:40:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kennedy to select MAHA-aligned researcher to head mental health institute, overruling NIH director]]></title>
-            <description><![CDATA[Health secretary wants a leader of “metabolic psychiatry” movement to direct $2.2 billion agency]]></description>
-            <link>https://www.science.org/content/article/kennedy-select-maha-aligned-researcher-head-mental-health-institute-overruling-nih</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/kennedy-select-maha-aligned-researcher-head-mental-health-institute-overruling-nih</guid>
-            <pubDate>Fri, 23 Oct 2026 19:30:00 GMT</pubDate>
+            <title><![CDATA[Hunt for natural hydrogen, an elusive clean fuel, hits roadblocks]]></title>
+            <description><![CDATA[As prospectors struggle, a new French borehole hints at potential of extracting gas from groundwater]]></description>
+            <link>https://www.science.org/content/article/hunt-natural-hydrogen-elusive-clean-fuel-hits-roadblocks</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/hunt-natural-hydrogen-elusive-clean-fuel-hits-roadblocks</guid>
+            <pubDate>Wed, 04 Nov 2026 18:20:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Could your chatbot tip off a scientific rival? It’s possible, researchers say]]></title>
-            <description><![CDATA[Experts offer tips for keeping sensitive research private]]></description>
-            <link>https://www.science.org/content/article/could-your-chatbot-tip-scientific-rival-it-s-possible-researchers-say</link>
-            <guid isPermaLink="true">https://www.science.org/content/article/could-your-chatbot-tip-scientific-rival-it-s-possible-researchers-say</guid>
-            <pubDate>Tue, 20 Oct 2026 18:10:00 GMT</pubDate>
+            <title><![CDATA[U.S. archaeology faces ‘apocalyptic’ threat]]></title>
+            <description><![CDATA[Congress and the White House are moving to weaken key law that requires preproject reviews]]></description>
+            <link>https://www.science.org/content/article/u-s-archaeology-faces-apocalyptic-threat</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/u-s-archaeology-faces-apocalyptic-threat</guid>
+            <pubDate>Wed, 04 Nov 2026 17:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A barbarian tribe’s mythic origin story is true, ancient DNA reveals]]></title>
+            <description><![CDATA[Skeletons across Europe confirm the Goths surged out of Scandinavia before sacking Rome]]></description>
+            <link>https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals</guid>
+            <pubDate>Wed, 04 Nov 2026 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Serbia just elected the world’s brainiest parliament]]></title>
+            <description><![CDATA[Dozens of academics become politicians after student group’s stunning victory]]></description>
+            <link>https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament</guid>
+            <pubDate>Thu, 29 Oct 2026 19:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim]]></title>
+            <description><![CDATA[The result, one of three major claims from OpenAI, raises questions about sharing of AI-generated work]]></description>
+            <link>https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim</guid>
+            <pubDate>Wed, 28 Oct 2026 22:25:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
