@@ -4,17 +4,24 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 12:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 19:47:51 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Nov 2026 12:39:06 GMT</pubDate>
+        <pubDate>Fri, 06 Nov 2026 19:47:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Strengthen labour migration oversight]]></title>
+            <description><![CDATA[Protect our migrant workers from fraudulent recruitment and trafficking.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/strengthen-labour-oversight-migration-4317141</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/strengthen-labour-oversight-migration-4317141</guid>
+            <pubDate>Fri, 06 Nov 2026 19:47:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why are we struggling to attract private investment despite all the effort?]]></title>
-            <description><![CDATA[Private investment has been one of Bangladesh’s persistent economic puzzles.]]></description>
+            <description><![CDATA[By Selim Raihan]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/why-are-we-struggling-attract-private-investment-despite-all-the-effort-4316626</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-we-struggling-attract-private-investment-despite-all-the-effort-4316626</guid>
             <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
-            <pubDate>Fri, 06 Nov 2026 12:39:06 GMT</pubDate>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RMG wage revision must be grounded in evidence, not assumptions]]></title>
@@ -22,7 +29,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/rmg-wage-revision-must-be-grounded-evidence-not-assumptions-4316636</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rmg-wage-revision-must-be-grounded-evidence-not-assumptions-4316636</guid>
             <dc:creator><![CDATA[Saba El Kabir]]></dc:creator>
-            <pubDate>Fri, 06 Nov 2026 12:39:06 GMT</pubDate>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh must protect digital inclusion as the AI boom drives up costs]]></title>
@@ -30,7 +37,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-protect-digital-inclusion-the-ai-boom-drives-costs-4316641</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-protect-digital-inclusion-the-ai-boom-drives-costs-4316641</guid>
             <dc:creator><![CDATA[Mahmudul Hasan]]></dc:creator>
-            <pubDate>Fri, 06 Nov 2026 12:39:06 GMT</pubDate>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What the US midterm results mean for Trump, Washington, and the wider world]]></title>
@@ -38,7 +45,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/what-the-us-midterm-results-mean-trump-washington-and-the-wider-world-4316646</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-us-midterm-results-mean-trump-washington-and-the-wider-world-4316646</guid>
             <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
-            <pubDate>Fri, 06 Nov 2026 12:39:06 GMT</pubDate>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can we establish a uniform minimum wage for all workers?]]></title>
@@ -63,18 +70,10 @@
             <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘Honest’ grading may have arrived, but what about the students left behind?]]></title>
-            <description><![CDATA[By Imran Hossain]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/honest-grading-may-have-arrived-what-about-the-students-left-behind-4315871</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/honest-grading-may-have-arrived-what-about-the-students-left-behind-4315871</guid>
-            <dc:creator><![CDATA[Imran Hossain]]></dc:creator>
-            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fix measles vaccine shortages without delay]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/fix-measles-vaccine-shortages-without-delay-4316616</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-measles-vaccine-shortages-without-delay-4316616</guid>
-            <pubDate>Fri, 06 Nov 2026 12:39:06 GMT</pubDate>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A window of opportunity closing]]></title>
@@ -99,6 +98,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/30-years-the-other-opinion-4314006</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/30-years-the-other-opinion-4314006</guid>
             <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biman’s fleet expansion must be matched by structural reform]]></title>
+            <description><![CDATA[By M. Mafidur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bimans-fleet-expansion-must-be-matched-structural-reform-4315891</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bimans-fleet-expansion-must-be-matched-structural-reform-4315891</guid>
+            <dc:creator><![CDATA[M. Mafidur Rahman]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What the LDC deferral means for Bangladesh at COP31]]></title>
@@ -146,14 +153,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/how-put-idle-public-assets-work-4314056</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-put-idle-public-assets-work-4314056</guid>
             <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
-            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sexual abuse in madrasas: Children must not pay the price for institutional silence]]></title>
-            <description><![CDATA[By Shagufe Hossain]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/sexual-abuse-madrasas-children-must-not-pay-the-price-institutional-silence-4314036</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/sexual-abuse-madrasas-children-must-not-pay-the-price-institutional-silence-4314036</guid>
-            <dc:creator><![CDATA[Shagufe Hossain]]></dc:creator>
             <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
