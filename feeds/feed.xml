@@ -4,16 +4,17 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 04:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 11:26:02 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Nov 2026 04:03:20 GMT</pubDate>
+        <pubDate>Sat, 07 Nov 2026 11:26:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The real deficit in higher education]]></title>
             <description><![CDATA[The government made a bold and necessary move to avoid the populist temptation of cosmetically improving results for political gain, taking a step towards establishing academic integrity by undertaking an impartial grading process at public examinations.]]></description>
             <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-real-deficit-higher-education-4317271</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-real-deficit-higher-education-4317271</guid>
-            <pubDate>Sat, 07 Nov 2026 04:03:20 GMT</pubDate>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 07 Nov 2026 11:26:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh needs a bipartisan US strategy]]></title>
@@ -21,15 +22,23 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-bipartisan-us-strategy-4317276</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-bipartisan-us-strategy-4317276</guid>
             <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 04:03:20 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2026 11:26:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Understanding November 7 beyond competing political narratives]]></title>
+            <title><![CDATA[National Revolution and Solidarity Day / Understanding November 7 beyond competing political narratives]]></title>
             <description><![CDATA[By Mohiuddin Ahmad]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/understanding-november-7-beyond-competing-political-narratives-4317281</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/understanding-november-7-beyond-competing-political-narratives-4317281</guid>
             <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 04:03:20 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2026 11:26:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cleaner cities begin with better waste management]]></title>
+            <description><![CDATA[By Nawshad Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/cleaner-cities-begin-better-waste-management-4317286</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/cleaner-cities-begin-better-waste-management-4317286</guid>
+            <dc:creator><![CDATA[Nawshad Ahmed]]></dc:creator>
+            <pubDate>Sat, 07 Nov 2026 11:26:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strengthen labour migration oversight]]></title>
@@ -62,12 +71,10 @@
             <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What the US midterm results mean for Trump, Washington, and the wider world]]></title>
-            <description><![CDATA[By Zillur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-the-us-midterm-results-mean-trump-washington-and-the-wider-world-4316646</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-us-midterm-results-mean-trump-washington-and-the-wider-world-4316646</guid>
-            <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
-            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Ensure accountability in all recruitment]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/ensure-accountability-all-recruitment-4317266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-accountability-all-recruitment-4317266</guid>
+            <pubDate>Sat, 07 Nov 2026 11:26:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fix measles vaccine shortages without delay]]></title>
@@ -94,10 +101,12 @@
             <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Political parties must practise what they preach]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/political-parties-must-practise-what-they-preach-4314551</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/political-parties-must-practise-what-they-preach-4314551</guid>
-            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Can we establish a uniform minimum wage for all workers?]]></title>
+            <description><![CDATA[By Aparajita Debnath]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/can-we-establish-uniform-minimum-wage-all-workers-4315841</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-we-establish-uniform-minimum-wage-all-workers-4315841</guid>
+            <dc:creator><![CDATA[Aparajita Debnath]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why we must forge a new economic vision]]></title>
@@ -146,14 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/women-cricketers-deserve-equal-rights-not-discretionary-favours-4314926</guid>
             <dc:creator><![CDATA[Azra Humayra]]></dc:creator>
             <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Universities must catch up with how AI has changed our classrooms]]></title>
-            <description><![CDATA[By Mawdudur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/universities-must-catch-how-ai-has-changed-our-classrooms-4314476</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/universities-must-catch-how-ai-has-changed-our-classrooms-4314476</guid>
-            <dc:creator><![CDATA[Mawdudur Rahman]]></dc:creator>
-            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
