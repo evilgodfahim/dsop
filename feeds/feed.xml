@@ -4,17 +4,32 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 07:02:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 14:40:59 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Nov 2026 07:02:01 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 14:40:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The LPG market needs urgent disciplining]]></title>
+            <description><![CDATA[Enforce set rates to protect consumers, fix pricing issues.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/the-lpg-market-needs-urgent-disciplining-4318416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-lpg-market-needs-urgent-disciplining-4318416</guid>
+            <pubDate>Sun, 08 Nov 2026 14:40:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A nation of graduates with few jobs for them]]></title>
+            <description><![CDATA[By Noshin Nawal]]></description>
+            <link>https://www.thedailystar.net/opinion/views/mind-the-gap/news/nation-graduates-few-jobs-them-4317941</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/nation-graduates-few-jobs-them-4317941</guid>
+            <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 14:40:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Getting women into sport is not enough. Keeping them is the real test]]></title>
-            <description><![CDATA[Bangladesh increasingly celebrates women in sport, acknowledging their achievements and encouraging more girls to follow their lead.]]></description>
+            <description><![CDATA[By Shafiq R Bhuiyan]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/getting-women-sport-not-enough-keeping-them-the-real-test-4317946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/getting-women-sport-not-enough-keeping-them-the-real-test-4317946</guid>
             <dc:creator><![CDATA[Shafiq R Bhuiyan]]></dc:creator>
-            <pubDate>Sun, 08 Nov 2026 07:02:01 GMT</pubDate>
+            <pubDate>Sun, 08 Nov 2026 14:40:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[COP31 must put disability inclusion on the climate agenda]]></title>
@@ -22,7 +37,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/cop31-must-put-disability-inclusion-the-climate-agenda-4317951</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/cop31-must-put-disability-inclusion-the-climate-agenda-4317951</guid>
             <dc:creator><![CDATA[Vashkar Bhattacharjee]]></dc:creator>
-            <pubDate>Sun, 08 Nov 2026 07:02:01 GMT</pubDate>
+            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can we make ship recycling both green and commercially viable?]]></title>
@@ -30,7 +45,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/can-we-make-ship-recycling-both-green-and-commercially-viable-4317956</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-we-make-ship-recycling-both-green-and-commercially-viable-4317956</guid>
             <dc:creator><![CDATA[Muhammed Ali Shahin]]></dc:creator>
-            <pubDate>Sun, 08 Nov 2026 07:02:01 GMT</pubDate>
+            <pubDate>Sun, 08 Nov 2026 14:40:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The real deficit in higher education]]></title>
@@ -54,14 +69,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/understanding-november-7-beyond-competing-political-narratives-4317281</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/understanding-november-7-beyond-competing-political-narratives-4317281</guid>
             <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cleaner cities begin with better waste management]]></title>
-            <description><![CDATA[By Nawshad Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/cleaner-cities-begin-better-waste-management-4317286</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/cleaner-cities-begin-better-waste-management-4317286</guid>
-            <dc:creator><![CDATA[Nawshad Ahmed]]></dc:creator>
             <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -95,10 +102,12 @@
             <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Close the gaps in lead pollution control]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/close-the-gaps-lead-pollution-control-4315836</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/close-the-gaps-lead-pollution-control-4315836</guid>
-            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Why are we struggling to attract private investment despite all the effort?]]></title>
+            <description><![CDATA[By Selim Raihan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-are-we-struggling-attract-private-investment-despite-all-the-effort-4316626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-we-struggling-attract-private-investment-despite-all-the-effort-4316626</guid>
+            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RMG wage revision must be grounded in evidence, not assumptions]]></title>
@@ -146,14 +155,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/honest-grading-may-have-arrived-what-about-the-students-left-behind-4315871</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/honest-grading-may-have-arrived-what-about-the-students-left-behind-4315871</guid>
             <dc:creator><![CDATA[Imran Hossain]]></dc:creator>
-            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biman’s fleet expansion must be matched by structural reform]]></title>
-            <description><![CDATA[By M. Mafidur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bimans-fleet-expansion-must-be-matched-structural-reform-4315891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bimans-fleet-expansion-must-be-matched-structural-reform-4315891</guid>
-            <dc:creator><![CDATA[M. Mafidur Rahman]]></dc:creator>
             <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
