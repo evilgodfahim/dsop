@@ -4,13 +4,37 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 00:59:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 07:02:01 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Nov 2026 00:59:39 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 07:02:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Getting women into sport is not enough. Keeping them is the real test]]></title>
+            <description><![CDATA[Bangladesh increasingly celebrates women in sport, acknowledging their achievements and encouraging more girls to follow their lead.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/getting-women-sport-not-enough-keeping-them-the-real-test-4317946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/getting-women-sport-not-enough-keeping-them-the-real-test-4317946</guid>
+            <dc:creator><![CDATA[Shafiq R Bhuiyan]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 07:02:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COP31 must put disability inclusion on the climate agenda]]></title>
+            <description><![CDATA[By Vashkar Bhattacharjee]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/cop31-must-put-disability-inclusion-the-climate-agenda-4317951</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/cop31-must-put-disability-inclusion-the-climate-agenda-4317951</guid>
+            <dc:creator><![CDATA[Vashkar Bhattacharjee]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 07:02:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can we make ship recycling both green and commercially viable?]]></title>
+            <description><![CDATA[By Muhammed Ali Shahin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/can-we-make-ship-recycling-both-green-and-commercially-viable-4317956</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-we-make-ship-recycling-both-green-and-commercially-viable-4317956</guid>
+            <dc:creator><![CDATA[Muhammed Ali Shahin]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 07:02:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The real deficit in higher education]]></title>
-            <description><![CDATA[The government made a bold and necessary move to avoid the populist temptation of cosmetically improving results for political gain, taking a step towards establishing academic integrity by undertaking an impartial grading process at public examinations.]]></description>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
             <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-real-deficit-higher-education-4317271</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-real-deficit-higher-education-4317271</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
@@ -41,18 +65,40 @@
             <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Engage expatriates in local development]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/engage-expatriates-local-development-4317936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/engage-expatriates-local-development-4317936</guid>
+            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COP31 must bridge the funding gap]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/cop31-must-bridge-the-funding-gap-4317681</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/cop31-must-bridge-the-funding-gap-4317681</guid>
+            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ensure accountability in all recruitment]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/ensure-accountability-all-recruitment-4317266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-accountability-all-recruitment-4317266</guid>
+            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Strengthen labour migration oversight]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/strengthen-labour-oversight-migration-4317141</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/strengthen-labour-oversight-migration-4317141</guid>
             <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why are we struggling to attract private investment despite all the effort?]]></title>
-            <description><![CDATA[By Selim Raihan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-are-we-struggling-attract-private-investment-despite-all-the-effort-4316626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-we-struggling-attract-private-investment-despite-all-the-effort-4316626</guid>
-            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
+            <title><![CDATA[Fix measles vaccine shortages without delay]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fix-measles-vaccine-shortages-without-delay-4316616</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-measles-vaccine-shortages-without-delay-4316616</guid>
             <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Close the gaps in lead pollution control]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/close-the-gaps-lead-pollution-control-4315836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/close-the-gaps-lead-pollution-control-4315836</guid>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RMG wage revision must be grounded in evidence, not assumptions]]></title>
@@ -71,34 +117,12 @@
             <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[COP31 must bridge the funding gap]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/cop31-must-bridge-the-funding-gap-4317681</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/cop31-must-bridge-the-funding-gap-4317681</guid>
-            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ensure accountability in all recruitment]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/ensure-accountability-all-recruitment-4317266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-accountability-all-recruitment-4317266</guid>
-            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fix measles vaccine shortages without delay]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/fix-measles-vaccine-shortages-without-delay-4316616</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-measles-vaccine-shortages-without-delay-4316616</guid>
+            <title><![CDATA[What the US midterm results mean for Trump, Washington, and the wider world]]></title>
+            <description><![CDATA[By Zillur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-the-us-midterm-results-mean-trump-washington-and-the-wider-world-4316646</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-us-midterm-results-mean-trump-washington-and-the-wider-world-4316646</guid>
+            <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
             <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Close the gaps in lead pollution control]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/close-the-gaps-lead-pollution-control-4315836</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/close-the-gaps-lead-pollution-control-4315836</guid>
-            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A window of opportunity closing]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/window-opportunity-closing-4315546</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/window-opportunity-closing-4315546</guid>
-            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can we establish a uniform minimum wage for all workers?]]></title>
@@ -131,30 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bimans-fleet-expansion-must-be-matched-structural-reform-4315891</guid>
             <dc:creator><![CDATA[M. Mafidur Rahman]]></dc:creator>
             <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the LDC deferral means for Bangladesh at COP31]]></title>
-            <description><![CDATA[By Rassiq Aziz KabirIsmot Hasnine Masrur E Khuda]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-the-ldc-deferral-means-bangladesh-cop31-4314881</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-ldc-deferral-means-bangladesh-cop31-4314881</guid>
-            <dc:creator><![CDATA[Rassiq Aziz KabirIsmot Hasnine Masrur E Khuda]]></dc:creator>
-            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why do some resent garment workers' demand for a living wage?]]></title>
-            <description><![CDATA[By Maisha Islam Monamee]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-do-some-resent-garment-workers-demand-living-wage-4314901</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-do-some-resent-garment-workers-demand-living-wage-4314901</guid>
-            <dc:creator><![CDATA[Maisha Islam Monamee]]></dc:creator>
-            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Women cricketers deserve equal rights, not discretionary favours]]></title>
-            <description><![CDATA[By Azra Humayra]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/women-cricketers-deserve-equal-rights-not-discretionary-favours-4314926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/women-cricketers-deserve-equal-rights-not-discretionary-favours-4314926</guid>
-            <dc:creator><![CDATA[Azra Humayra]]></dc:creator>
-            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
