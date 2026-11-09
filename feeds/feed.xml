@@ -4,16 +4,39 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 23:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 04:00:49 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Nov 2026 23:21:37 GMT</pubDate>
+        <pubDate>Mon, 09 Nov 2026 04:00:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[What should the minimum wage be for garment workers?]]></title>
+            <description><![CDATA[Following widespread protests by garment workers, the government recently formed a wage board that has pledged to finalise a new minimum wage by December.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-should-the-minimum-wage-be-garment-workers-4318746</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-should-the-minimum-wage-be-garment-workers-4318746</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 04:00:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rohingya justice, protection and repatriation / Rohingyas' last hope rests on the ICJ verdict]]></title>
+            <description><![CDATA[By Kamal Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/rohingyas-last-hope-rests-the-icj-verdict-4318756</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rohingyas-last-hope-rests-the-icj-verdict-4318756</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 04:00:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rohingya rights cannot remain on hold until repatriation]]></title>
+            <description><![CDATA[By Moyeenul Islam Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/rohingya-rights-cannot-remain-hold-until-repatriation-4318761</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rohingya-rights-cannot-remain-hold-until-repatriation-4318761</guid>
+            <dc:creator><![CDATA[Moyeenul Islam Chowdhury]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 04:00:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The LPG market needs urgent disciplining]]></title>
-            <description><![CDATA[Enforce set rates to protect consumers, fix pricing issues.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/the-lpg-market-needs-urgent-disciplining-4318416</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/the-lpg-market-needs-urgent-disciplining-4318416</guid>
-            <pubDate>Sun, 08 Nov 2026 23:21:36 GMT</pubDate>
+            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A nation of graduates with few jobs for them]]></title>
@@ -48,30 +71,6 @@
             <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The real deficit in higher education]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-real-deficit-higher-education-4317271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-real-deficit-higher-education-4317271</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh needs a bipartisan US strategy]]></title>
-            <description><![CDATA[By M Kabir Hassan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-bipartisan-us-strategy-4317276</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-bipartisan-us-strategy-4317276</guid>
-            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[National Revolution and Solidarity Day / Understanding November 7 beyond competing political narratives]]></title>
-            <description><![CDATA[By Mohiuddin Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/understanding-november-7-beyond-competing-political-narratives-4317281</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/understanding-november-7-beyond-competing-political-narratives-4317281</guid>
-            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Engage expatriates in local development]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/engage-expatriates-local-development-4317936</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/engage-expatriates-local-development-4317936</guid>
@@ -100,6 +99,30 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/fix-measles-vaccine-shortages-without-delay-4316616</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-measles-vaccine-shortages-without-delay-4316616</guid>
             <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh needs a bipartisan US strategy]]></title>
+            <description><![CDATA[By M Kabir Hassan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-bipartisan-us-strategy-4317276</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-bipartisan-us-strategy-4317276</guid>
+            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
+            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[National Revolution and Solidarity Day / Understanding November 7 beyond competing political narratives]]></title>
+            <description><![CDATA[By Mohiuddin Ahmad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/understanding-november-7-beyond-competing-political-narratives-4317281</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/understanding-november-7-beyond-competing-political-narratives-4317281</guid>
+            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
+            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cleaner cities begin with better waste management]]></title>
+            <description><![CDATA[By Nawshad Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/cleaner-cities-begin-better-waste-management-4317286</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/cleaner-cities-begin-better-waste-management-4317286</guid>
+            <dc:creator><![CDATA[Nawshad Ahmed]]></dc:creator>
+            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why are we struggling to attract private investment despite all the effort?]]></title>
@@ -132,30 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-us-midterm-results-mean-trump-washington-and-the-wider-world-4316646</guid>
             <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
             <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can we establish a uniform minimum wage for all workers?]]></title>
-            <description><![CDATA[By Aparajita Debnath]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/can-we-establish-uniform-minimum-wage-all-workers-4315841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-we-establish-uniform-minimum-wage-all-workers-4315841</guid>
-            <dc:creator><![CDATA[Aparajita Debnath]]></dc:creator>
-            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why we must forge a new economic vision]]></title>
-            <description><![CDATA[By Sayeeful Islam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-we-must-forge-new-economic-vision-4315846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-we-must-forge-new-economic-vision-4315846</guid>
-            <dc:creator><![CDATA[Sayeeful Islam]]></dc:creator>
-            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Honest’ grading may have arrived, but what about the students left behind?]]></title>
-            <description><![CDATA[By Imran Hossain]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/honest-grading-may-have-arrived-what-about-the-students-left-behind-4315871</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/honest-grading-may-have-arrived-what-about-the-students-left-behind-4315871</guid>
-            <dc:creator><![CDATA[Imran Hossain]]></dc:creator>
-            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
