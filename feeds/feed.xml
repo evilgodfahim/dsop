@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Nov 2026 10:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 18:18:56 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Nov 2026 10:24:54 GMT</pubDate>
+        <pubDate>Fri, 13 Nov 2026 18:18:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Make climate finance fair and accessible]]></title>
+            <description><![CDATA[PM’s five proposals at COP31 must be considered seriously by world leaders]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/make-climate-finance-fair-and-accessible-4322946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/make-climate-finance-fair-and-accessible-4322946</guid>
+            <pubDate>Fri, 13 Nov 2026 18:18:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How can we make healthcare decentralisation work? Lessons from an upazila-level project]]></title>
-            <description><![CDATA[Bangladesh’s overall health workforce density remains below the recommendations of the World Health Organization (WHO), with pronounced rural-urban imbalances.]]></description>
+            <description><![CDATA[By Syed Abdul Hamid]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/how-can-we-make-healthcare-decentralisation-work-lessons-upazila-level-project-4322541</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-can-we-make-healthcare-decentralisation-work-lessons-upazila-level-project-4322541</guid>
             <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
@@ -22,7 +29,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/precision-farming-must-go-hand-hand-groundwater-protection-4322546</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/precision-farming-must-go-hand-hand-groundwater-protection-4322546</guid>
             <dc:creator><![CDATA[Mo HoqueAshraf Dewan]]></dc:creator>
-            <pubDate>Fri, 13 Nov 2026 10:24:54 GMT</pubDate>
+            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beyond BNP-AL rivalries, the search for a new political path]]></title>
@@ -30,7 +37,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/beyond-bnp-al-rivalries-the-search-new-political-path-4322581</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/beyond-bnp-al-rivalries-the-search-new-political-path-4322581</guid>
             <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Fri, 13 Nov 2026 10:24:54 GMT</pubDate>
+            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chattogram's expansion into flood-prone areas is a dangerous gamble]]></title>
@@ -38,7 +45,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/chattograms-expansion-flood-prone-areas-dangerous-gamble-4322571</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/chattograms-expansion-flood-prone-areas-dangerous-gamble-4322571</guid>
             <dc:creator><![CDATA[Md Delwar Hossain Mazumdar]]></dc:creator>
-            <pubDate>Fri, 13 Nov 2026 10:24:54 GMT</pubDate>
+            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Corruption can’t be dressed up as gifts]]></title>
@@ -63,18 +70,10 @@
             <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Dhaka doesn’t want Hasina back]]></title>
-            <description><![CDATA[By David Bergman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-dhaka-doesnt-want-hasina-back-4321406</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-dhaka-doesnt-want-hasina-back-4321406</guid>
-            <dc:creator><![CDATA[David Bergman]]></dc:creator>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Assess local healthcare needs before expanding UHCs]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/assess-local-healthcare-needs-expanding-uhcs-4322526</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/assess-local-healthcare-needs-expanding-uhcs-4322526</guid>
-            <pubDate>Fri, 13 Nov 2026 10:24:54 GMT</pubDate>
+            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop policing cultural events]]></title>
@@ -106,6 +105,14 @@
             <link>https://www.thedailystar.net/opinion/views/news/we-must-prioritise-rsv-prevention-strengthen-pneumonia-control-4321891</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-prioritise-rsv-prevention-strengthen-pneumonia-control-4321891</guid>
             <dc:creator><![CDATA[Aniqa Tasnim HossainRidwana Maher MannaAhmed Ehsanur Rahman Shams El Arifeen]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Dhaka doesn’t want Hasina back]]></title>
+            <description><![CDATA[By David Bergman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-dhaka-doesnt-want-hasina-back-4321406</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-dhaka-doesnt-want-hasina-back-4321406</guid>
+            <dc:creator><![CDATA[David Bergman]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -147,14 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-real-test-bangladeshs-tb-hiv-and-malaria-project-lies-implementation-4320156</guid>
             <dc:creator><![CDATA[Ruhul Amin]]></dc:creator>
             <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh must seek the truth behind women migrant workers’ deaths]]></title>
-            <description><![CDATA[By Dr Munshi Muhammad Abdul Kader Jilani]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-seek-the-truth-behind-women-migrant-workers-deaths-4320631</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-seek-the-truth-behind-women-migrant-workers-deaths-4320631</guid>
-            <dc:creator><![CDATA[Dr Munshi Muhammad Abdul Kader Jilani]]></dc:creator>
-            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
