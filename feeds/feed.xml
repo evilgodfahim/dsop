@@ -4,13 +4,44 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Nov 2026 02:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 10:24:54 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Nov 2026 02:18:52 GMT</pubDate>
+        <pubDate>Fri, 13 Nov 2026 10:24:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[How can we make healthcare decentralisation work? Lessons from an upazila-level project]]></title>
+            <description><![CDATA[Bangladesh’s overall health workforce density remains below the recommendations of the World Health Organization (WHO), with pronounced rural-urban imbalances.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-can-we-make-healthcare-decentralisation-work-lessons-upazila-level-project-4322541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-can-we-make-healthcare-decentralisation-work-lessons-upazila-level-project-4322541</guid>
+            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Precision farming must go hand in hand with groundwater protection]]></title>
+            <description><![CDATA[By Mo HoqueAshraf Dewan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/precision-farming-must-go-hand-hand-groundwater-protection-4322546</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/precision-farming-must-go-hand-hand-groundwater-protection-4322546</guid>
+            <dc:creator><![CDATA[Mo HoqueAshraf Dewan]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 10:24:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beyond BNP-AL rivalries, the search for a new political path]]></title>
+            <description><![CDATA[By Mohiuddin Ahmad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/beyond-bnp-al-rivalries-the-search-new-political-path-4322581</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/beyond-bnp-al-rivalries-the-search-new-political-path-4322581</guid>
+            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 10:24:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chattogram's expansion into flood-prone areas is a dangerous gamble]]></title>
+            <description><![CDATA[By Md Delwar Hossain Mazumdar]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/chattograms-expansion-flood-prone-areas-dangerous-gamble-4322571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/chattograms-expansion-flood-prone-areas-dangerous-gamble-4322571</guid>
+            <dc:creator><![CDATA[Md Delwar Hossain Mazumdar]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 10:24:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Corruption can’t be dressed up as gifts]]></title>
-            <description><![CDATA[The LGRD state minister’s remark on bribes sends the wrong signal.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/corruption-cant-be-dressed-gifts-4322161</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/corruption-cant-be-dressed-gifts-4322161</guid>
             <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
@@ -40,11 +71,15 @@
             <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Peter Singer made me rethink NGOs' priorities – and chickens]]></title>
-            <description><![CDATA[By Ahmed Mushtaque Raza Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/peter-singer-made-me-rethink-ngos-priorities-and-chickens-4321421</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/peter-singer-made-me-rethink-ngos-priorities-and-chickens-4321421</guid>
-            <dc:creator><![CDATA[Ahmed Mushtaque Raza Chowdhury]]></dc:creator>
+            <title><![CDATA[Assess local healthcare needs before expanding UHCs]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/assess-local-healthcare-needs-expanding-uhcs-4322526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/assess-local-healthcare-needs-expanding-uhcs-4322526</guid>
+            <pubDate>Fri, 13 Nov 2026 10:24:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop policing cultural events]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/stop-policing-cultural-events-4321376</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/stop-policing-cultural-events-4321376</guid>
             <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -52,6 +87,34 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/fatullah-madrasa-fire-exposes-negligence-4321121</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fatullah-madrasa-fire-exposes-negligence-4321121</guid>
             <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Child marriage must see preventive actions]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/child-marriage-must-see-preventive-actions-4320601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/child-marriage-must-see-preventive-actions-4320601</guid>
+            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Take grassroots poll reform seriously]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/take-grassroots-poll-reform-seriously-4320231</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/take-grassroots-poll-reform-seriously-4320231</guid>
+            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Pneumonia Day / We must prioritise RSV prevention to strengthen pneumonia control]]></title>
+            <description><![CDATA[By Aniqa Tasnim HossainRidwana Maher MannaAhmed Ehsanur Rahman Shams El Arifeen]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-must-prioritise-rsv-prevention-strengthen-pneumonia-control-4321891</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-prioritise-rsv-prevention-strengthen-pneumonia-control-4321891</guid>
+            <dc:creator><![CDATA[Aniqa Tasnim HossainRidwana Maher MannaAhmed Ehsanur Rahman Shams El Arifeen]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peter Singer made me rethink NGOs' priorities – and chickens]]></title>
+            <description><![CDATA[By Ahmed Mushtaque Raza Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/peter-singer-made-me-rethink-ngos-priorities-and-chickens-4321421</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/peter-singer-made-me-rethink-ngos-priorities-and-chickens-4321421</guid>
+            <dc:creator><![CDATA[Ahmed Mushtaque Raza Chowdhury]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What makes higher garment wages affordable?]]></title>
@@ -68,36 +131,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-banking-future-cannot-come-the-cost-data-privacy-4320621</guid>
             <dc:creator><![CDATA[Md Nazmul Hossen]]></dc:creator>
             <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stop policing cultural events]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/stop-policing-cultural-events-4321376</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/stop-policing-cultural-events-4321376</guid>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Child marriage must see preventive actions]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/child-marriage-must-see-preventive-actions-4320601</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/child-marriage-must-see-preventive-actions-4320601</guid>
-            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Take grassroots poll reform seriously]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/take-grassroots-poll-reform-seriously-4320231</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/take-grassroots-poll-reform-seriously-4320231</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Food inflation needs urgent remedy]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/food-inflation-needs-urgent-remedy-4319516</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/food-inflation-needs-urgent-remedy-4319516</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our migrant workers deserve justice]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/our-migrant-workers-deserve-justice-4319246</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/our-migrant-workers-deserve-justice-4319246</guid>
-            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The growing threat of unregulated tourism]]></title>
@@ -122,38 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-seek-the-truth-behind-women-migrant-workers-deaths-4320631</guid>
             <dc:creator><![CDATA[Dr Munshi Muhammad Abdul Kader Jilani]]></dc:creator>
             <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New e-rickshaw rules were long overdue, but they leave critical safety gaps]]></title>
-            <description><![CDATA[By Dhrubo Alam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/new-e-rickshaw-rules-were-long-overdue-they-leave-critical-safety-gaps-4319551</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-e-rickshaw-rules-were-long-overdue-they-leave-critical-safety-gaps-4319551</guid>
-            <dc:creator><![CDATA[Dhrubo Alam]]></dc:creator>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rising LPG costs pushing the poor to the edge of survival]]></title>
-            <description><![CDATA[By Amith Kumar Malaker]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/rising-lpg-costs-pushing-the-poor-the-edge-survival-4319621</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rising-lpg-costs-pushing-the-poor-the-edge-survival-4319621</guid>
-            <dc:creator><![CDATA[Amith Kumar Malaker]]></dc:creator>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh needs a sustainable debt management policy]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-sustainable-debt-management-policy-4319606</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-sustainable-debt-management-policy-4319606</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Catching ghosts in the ice: Why the 2026 physics Nobel matters]]></title>
-            <description><![CDATA[By Hussain A Samad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/catching-ghosts-the-ice-why-the-2026-physics-nobel-matters-4319106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/catching-ghosts-the-ice-why-the-2026-physics-nobel-matters-4319106</guid>
-            <dc:creator><![CDATA[Hussain A Samad]]></dc:creator>
-            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
