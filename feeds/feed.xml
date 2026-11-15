@@ -4,13 +4,37 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Nov 2026 23:33:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 04:15:16 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Nov 2026 23:33:25 GMT</pubDate>
+        <pubDate>Sun, 15 Nov 2026 04:15:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Who guards the depositors? The other side of bad loans]]></title>
+            <description><![CDATA[Bangladesh’s debate over its banking crisis may finally be asking a question it has long neglected.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/who-guards-the-depositors-the-other-side-bad-loans-4323896</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/who-guards-the-depositors-the-other-side-bad-loans-4323896</guid>
+            <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 04:15:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Water must move to the centre of climate action]]></title>
+            <description><![CDATA[By Jigmi Y. Thinley]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/water-must-move-the-centre-climate-action-4323906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/water-must-move-the-centre-climate-action-4323906</guid>
+            <dc:creator><![CDATA[Jigmi Y. Thinley]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 04:15:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Garment workers’ minimum wages should be based on data, not just bargaining]]></title>
+            <description><![CDATA[By Kazi Iqbal]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/garment-workers-minimum-wages-should-be-based-data-not-just-bargaining-4323911</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/garment-workers-minimum-wages-should-be-based-data-not-just-bargaining-4323911</guid>
+            <dc:creator><![CDATA[Kazi Iqbal]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 04:15:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Our students deserve a better university admission system]]></title>
-            <description><![CDATA[Our tertiary admission system is in a state of disarray. Even within a single university, there are various assessment mechanisms.]]></description>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/our-students-deserve-better-university-admission-system-4323101</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-students-deserve-better-university-admission-system-4323101</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
@@ -47,22 +71,6 @@
             <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Precision farming must go hand in hand with groundwater protection]]></title>
-            <description><![CDATA[By Mo HoqueAshraf Dewan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/precision-farming-must-go-hand-hand-groundwater-protection-4322546</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/precision-farming-must-go-hand-hand-groundwater-protection-4322546</guid>
-            <dc:creator><![CDATA[Mo HoqueAshraf Dewan]]></dc:creator>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beyond BNP-AL rivalries, the search for a new political path]]></title>
-            <description><![CDATA[By Mohiuddin Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/beyond-bnp-al-rivalries-the-search-new-political-path-4322581</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/beyond-bnp-al-rivalries-the-search-new-political-path-4322581</guid>
-            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Trafficking networks must be dismantled]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/trafficking-networks-must-be-dismantled-4323096</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/trafficking-networks-must-be-dismantled-4323096</guid>
@@ -93,10 +101,20 @@
             <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Child marriage must see preventive actions]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/child-marriage-must-see-preventive-actions-4320601</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/child-marriage-must-see-preventive-actions-4320601</guid>
-            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Precision farming must go hand in hand with groundwater protection]]></title>
+            <description><![CDATA[By Mo HoqueAshraf Dewan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/precision-farming-must-go-hand-hand-groundwater-protection-4322546</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/precision-farming-must-go-hand-hand-groundwater-protection-4322546</guid>
+            <dc:creator><![CDATA[Mo HoqueAshraf Dewan]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beyond BNP-AL rivalries, the search for a new political path]]></title>
+            <description><![CDATA[By Mohiuddin Ahmad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/beyond-bnp-al-rivalries-the-search-new-political-path-4322581</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/beyond-bnp-al-rivalries-the-search-new-political-path-4322581</guid>
+            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chattogram's expansion into flood-prone areas is a dangerous gamble]]></title>
@@ -136,22 +154,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-dhaka-doesnt-want-hasina-back-4321406</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-dhaka-doesnt-want-hasina-back-4321406</guid>
             <dc:creator><![CDATA[David Bergman]]></dc:creator>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peter Singer made me rethink NGOs' priorities – and chickens]]></title>
-            <description><![CDATA[By Ahmed Mushtaque Raza Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/peter-singer-made-me-rethink-ngos-priorities-and-chickens-4321421</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/peter-singer-made-me-rethink-ngos-priorities-and-chickens-4321421</guid>
-            <dc:creator><![CDATA[Ahmed Mushtaque Raza Chowdhury]]></dc:creator>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is holding back the health sector’s development spending?]]></title>
-            <description><![CDATA[By Rumana Huque]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-holding-back-the-health-sectors-development-spending-4321416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-holding-back-the-health-sectors-development-spending-4321416</guid>
-            <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
