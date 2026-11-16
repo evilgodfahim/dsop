@@ -4,16 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Nov 2026 23:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 04:14:09 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Nov 2026 23:40:37 GMT</pubDate>
+        <pubDate>Mon, 16 Nov 2026 04:14:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Between extradition and voluntary return, where does Hasina's future lie?]]></title>
+            <description><![CDATA[Two reports concerning Sheikh Hasina—who has been tried in absentia and sentenced to death by Bangladesh’s International Crimes Tribunal for crimes against humanity—have generated considerable political speculation and heated debate in recent weeks.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/between-extradition-and-voluntary-return-where-does-hasinas-future-lie-4324761</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/between-extradition-and-voluntary-return-where-does-hasinas-future-lie-4324761</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 04:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are there no women on the RMG minimum wage board?]]></title>
+            <description><![CDATA[By Azra Humayra]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-are-there-no-women-the-rmg-minimum-wage-board-4324806</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-there-no-women-the-rmg-minimum-wage-board-4324806</guid>
+            <dc:creator><![CDATA[Azra Humayra]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 04:14:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bangladesh must not leave the Basel Convention]]></title>
-            <description><![CDATA[Don’t take steps that risk weakening safeguards in shipbreaking.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/bangladesh-must-not-leave-the-basel-convention-4324541</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bangladesh-must-not-leave-the-basel-convention-4324541</guid>
-            <pubDate>Sun, 15 Nov 2026 23:40:37 GMT</pubDate>
+            <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Health literacy matters in the fight against diabetes]]></title>
@@ -56,22 +71,6 @@
             <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Our students deserve a better university admission system]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/our-students-deserve-better-university-admission-system-4323101</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-students-deserve-better-university-admission-system-4323101</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh cannot adapt its way out of the climate crisis]]></title>
-            <description><![CDATA[By Ejaj AhmadDavid King]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-cannot-adapt-its-way-out-the-climate-crisis-4323111</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-cannot-adapt-its-way-out-the-climate-crisis-4323111</guid>
-            <dc:creator><![CDATA[Ejaj AhmadDavid King]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tourism taking a toll on Chera Dwip]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/tourism-taking-toll-chera-dwip-4323891</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/tourism-taking-toll-chera-dwip-4323891</guid>
@@ -100,6 +99,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/corruption-cant-be-dressed-gifts-4322161</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/corruption-cant-be-dressed-gifts-4322161</guid>
             <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh cannot adapt its way out of the climate crisis]]></title>
+            <description><![CDATA[By Ejaj AhmadDavid King]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-cannot-adapt-its-way-out-the-climate-crisis-4323111</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-cannot-adapt-its-way-out-the-climate-crisis-4323111</guid>
+            <dc:creator><![CDATA[Ejaj AhmadDavid King]]></dc:creator>
+            <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saving banks takes more than clearing bad loans]]></title>
+            <description><![CDATA[By Md. Badrul Millat Ibne Hannan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/saving-banks-takes-more-clearing-bad-loans-4323126</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/saving-banks-takes-more-clearing-bad-loans-4323126</guid>
+            <dc:creator><![CDATA[Md. Badrul Millat Ibne Hannan]]></dc:creator>
+            <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why falling costs don't always mean cheaper food]]></title>
@@ -140,22 +155,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/chattograms-expansion-flood-prone-areas-dangerous-gamble-4322571</guid>
             <dc:creator><![CDATA[Md Delwar Hossain Mazumdar]]></dc:creator>
             <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The energy crisis really hits home when it hits the kitchen]]></title>
-            <description><![CDATA[By Nahian Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-energy-crisis-really-hits-home-when-it-hits-the-kitchen-4322141</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-energy-crisis-really-hits-home-when-it-hits-the-kitchen-4322141</guid>
-            <dc:creator><![CDATA[Nahian Rahman]]></dc:creator>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Pneumonia Day / We must prioritise RSV prevention to strengthen pneumonia control]]></title>
-            <description><![CDATA[By Aniqa Tasnim HossainRidwana Maher MannaAhmed Ehsanur Rahman Shams El Arifeen]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-must-prioritise-rsv-prevention-strengthen-pneumonia-control-4321891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-prioritise-rsv-prevention-strengthen-pneumonia-control-4321891</guid>
-            <dc:creator><![CDATA[Aniqa Tasnim HossainRidwana Maher MannaAhmed Ehsanur Rahman Shams El Arifeen]]></dc:creator>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
