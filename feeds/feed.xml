@@ -4,17 +4,32 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Nov 2026 04:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 13:17:03 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Nov 2026 04:14:09 GMT</pubDate>
+        <pubDate>Mon, 16 Nov 2026 13:17:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Khulna must not be left at criminals’ mercy]]></title>
+            <description><![CDATA[Intelligence-led operations needed to rein in the gangs wreaking havoc]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/khulna-must-not-be-left-criminals-mercy-4325416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/khulna-must-not-be-left-criminals-mercy-4325416</guid>
+            <pubDate>Mon, 16 Nov 2026 13:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh needs a new generation of tech-savvy farmers]]></title>
+            <description><![CDATA[By Rukhsat Afrin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-new-generation-tech-savvy-farmers-4325336</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-new-generation-tech-savvy-farmers-4325336</guid>
+            <dc:creator><![CDATA[Rukhsat Afrin]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 13:17:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Between extradition and voluntary return, where does Hasina's future lie?]]></title>
-            <description><![CDATA[Two reports concerning Sheikh Hasina—who has been tried in absentia and sentenced to death by Bangladesh’s International Crimes Tribunal for crimes against humanity—have generated considerable political speculation and heated debate in recent weeks.]]></description>
+            <description><![CDATA[By Kamal Ahmed]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/between-extradition-and-voluntary-return-where-does-hasinas-future-lie-4324761</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/between-extradition-and-voluntary-return-where-does-hasinas-future-lie-4324761</guid>
             <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Mon, 16 Nov 2026 04:14:09 GMT</pubDate>
+            <pubDate>Mon, 16 Nov 2026 13:17:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why are there no women on the RMG minimum wage board?]]></title>
@@ -22,7 +37,23 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-are-there-no-women-the-rmg-minimum-wage-board-4324806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-there-no-women-the-rmg-minimum-wage-board-4324806</guid>
             <dc:creator><![CDATA[Azra Humayra]]></dc:creator>
-            <pubDate>Mon, 16 Nov 2026 04:14:09 GMT</pubDate>
+            <pubDate>Mon, 16 Nov 2026 13:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New port rules, but where are the safeguards against monopoly?]]></title>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/new-port-rules-where-are-the-safeguards-against-monopoly-4324821</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-port-rules-where-are-the-safeguards-against-monopoly-4324821</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 13:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forensic auditing as a tool for institutional reform in Bangladesh]]></title>
+            <description><![CDATA[By Samira TasnimA S M Rafad Asgar]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/forensic-auditing-tool-institutional-reform-bangladesh-4324781</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/forensic-auditing-tool-institutional-reform-bangladesh-4324781</guid>
+            <dc:creator><![CDATA[Samira TasnimA S M Rafad Asgar]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 13:17:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh must not leave the Basel Convention]]></title>
@@ -39,36 +70,10 @@
             <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Who guards the depositors? The other side of bad loans]]></title>
-            <description><![CDATA[By M Niaz AsadullahJesmin Akhter]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/who-guards-the-depositors-the-other-side-bad-loans-4323896</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/who-guards-the-depositors-the-other-side-bad-loans-4323896</guid>
-            <dc:creator><![CDATA[M Niaz AsadullahJesmin Akhter]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Water must move to the centre of climate action]]></title>
-            <description><![CDATA[By Jigmi Y. Thinley]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/water-must-move-the-centre-climate-action-4323906</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/water-must-move-the-centre-climate-action-4323906</guid>
-            <dc:creator><![CDATA[Jigmi Y. Thinley]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Garment workers’ minimum wages should be based on data, not just bargaining]]></title>
-            <description><![CDATA[By Kazi Iqbal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/garment-workers-minimum-wages-should-be-based-data-not-just-bargaining-4323911</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/garment-workers-minimum-wages-should-be-based-data-not-just-bargaining-4323911</guid>
-            <dc:creator><![CDATA[Kazi Iqbal]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The information commission has a chance to win back public trust]]></title>
-            <description><![CDATA[By Shamsul BariRuhi Naz]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-information-commission-has-chance-win-back-public-trust-4323921</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-information-commission-has-chance-win-back-public-trust-4323921</guid>
-            <dc:creator><![CDATA[Shamsul BariRuhi Naz]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Rebuilding a library shouldn’t take this long]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/rebuilding-library-shouldnt-take-long-4324751</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rebuilding-library-shouldnt-take-long-4324751</guid>
+            <pubDate>Mon, 16 Nov 2026 13:17:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tourism taking a toll on Chera Dwip]]></title>
@@ -95,10 +100,36 @@
             <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Corruption can’t be dressed up as gifts]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/corruption-cant-be-dressed-gifts-4322161</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/corruption-cant-be-dressed-gifts-4322161</guid>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Water must move to the centre of climate action]]></title>
+            <description><![CDATA[By Jigmi Y. Thinley]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/water-must-move-the-centre-climate-action-4323906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/water-must-move-the-centre-climate-action-4323906</guid>
+            <dc:creator><![CDATA[Jigmi Y. Thinley]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The information commission has a chance to win back public trust]]></title>
+            <description><![CDATA[By Shamsul BariRuhi Naz]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-information-commission-has-chance-win-back-public-trust-4323921</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-information-commission-has-chance-win-back-public-trust-4323921</guid>
+            <dc:creator><![CDATA[Shamsul BariRuhi Naz]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Garment workers’ minimum wages should be based on data, not just bargaining]]></title>
+            <description><![CDATA[By Kazi Iqbal]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/garment-workers-minimum-wages-should-be-based-data-not-just-bargaining-4323911</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/garment-workers-minimum-wages-should-be-based-data-not-just-bargaining-4323911</guid>
+            <dc:creator><![CDATA[Kazi Iqbal]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our students deserve a better university admission system]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/our-students-deserve-better-university-admission-system-4323101</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-students-deserve-better-university-admission-system-4323101</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh cannot adapt its way out of the climate crisis]]></title>
@@ -123,38 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-falling-costs-dont-always-mean-cheaper-food-4323131</guid>
             <dc:creator><![CDATA[Md. Mominur Rahman]]></dc:creator>
             <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can we make healthcare decentralisation work? Lessons from an upazila-level project]]></title>
-            <description><![CDATA[By Syed Abdul Hamid]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-can-we-make-healthcare-decentralisation-work-lessons-upazila-level-project-4322541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-can-we-make-healthcare-decentralisation-work-lessons-upazila-level-project-4322541</guid>
-            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Precision farming must go hand in hand with groundwater protection]]></title>
-            <description><![CDATA[By Mo HoqueAshraf Dewan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/precision-farming-must-go-hand-hand-groundwater-protection-4322546</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/precision-farming-must-go-hand-hand-groundwater-protection-4322546</guid>
-            <dc:creator><![CDATA[Mo HoqueAshraf Dewan]]></dc:creator>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beyond BNP-AL rivalries, the search for a new political path]]></title>
-            <description><![CDATA[By Mohiuddin Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/beyond-bnp-al-rivalries-the-search-new-political-path-4322581</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/beyond-bnp-al-rivalries-the-search-new-political-path-4322581</guid>
-            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chattogram's expansion into flood-prone areas is a dangerous gamble]]></title>
-            <description><![CDATA[By Md Delwar Hossain Mazumdar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/chattograms-expansion-flood-prone-areas-dangerous-gamble-4322571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/chattograms-expansion-flood-prone-areas-dangerous-gamble-4322571</guid>
-            <dc:creator><![CDATA[Md Delwar Hossain Mazumdar]]></dc:creator>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
