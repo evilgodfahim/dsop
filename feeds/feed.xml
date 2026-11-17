@@ -4,9 +4,9 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Nov 2026 05:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 15:45:22 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Nov 2026 05:59:43 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 15:45:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Can COP31 restore confidence in global climate cooperation?]]></title>
@@ -14,7 +14,21 @@
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/can-cop31-restore-confidence-global-climate-cooperation-4325661</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/can-cop31-restore-confidence-global-climate-cooperation-4325661</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 05:59:43 GMT</pubDate>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gram Sarkar 2.0 should help citizens, not add another layer of bureaucracy]]></title>
+            <description><![CDATA[By Hossain Zillur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/gram-sarkar-20-should-help-citizens-not-add-another-layer-bureaucracy-4325666</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/gram-sarkar-20-should-help-citizens-not-add-another-layer-bureaucracy-4325666</guid>
+            <dc:creator><![CDATA[Hossain Zillur Rahman]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 15:45:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RMG wage board must act with a sense of urgency]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/rmg-wage-board-must-act-sense-urgency-4326266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rmg-wage-board-must-act-sense-urgency-4326266</guid>
+            <pubDate>Tue, 17 Nov 2026 15:45:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rushing into Phulbari coal mining without assessing its costs will be unwise]]></title>
@@ -22,7 +36,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/rushing-phulbari-coal-mining-without-assessing-its-costs-will-be-unwise-4325706</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rushing-phulbari-coal-mining-without-assessing-its-costs-will-be-unwise-4325706</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 05:59:43 GMT</pubDate>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[50th death anniversary of Maulana Bhashani /  A rebel dervish on the grey horizons of Bengal’s history]]></title>
@@ -30,7 +44,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/rebel-dervish-the-grey-horizons-bengals-history-4325691</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rebel-dervish-the-grey-horizons-bengals-history-4325691</guid>
             <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 05:59:43 GMT</pubDate>
+            <pubDate>Tue, 17 Nov 2026 15:45:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Khulna must not be left at criminals’ mercy]]></title>
@@ -55,18 +69,10 @@
             <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why are there no women on the RMG minimum wage board?]]></title>
-            <description><![CDATA[By Azra Humayra]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-are-there-no-women-the-rmg-minimum-wage-board-4324806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-there-no-women-the-rmg-minimum-wage-board-4324806</guid>
-            <dc:creator><![CDATA[Azra Humayra]]></dc:creator>
-            <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Closure of Shastho Batayon unfortunate]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/closure-shastho-batayon-unfortunate-4325656</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/closure-shastho-batayon-unfortunate-4325656</guid>
-            <pubDate>Tue, 17 Nov 2026 05:59:43 GMT</pubDate>
+            <pubDate>Tue, 17 Nov 2026 15:45:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rebuilding a library shouldn’t take this long]]></title>
@@ -93,10 +99,12 @@
             <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Make climate finance fair and accessible]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/make-climate-finance-fair-and-accessible-4322946</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/make-climate-finance-fair-and-accessible-4322946</guid>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[New port rules, but where are the safeguards against monopoly?]]></title>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/new-port-rules-where-are-the-safeguards-against-monopoly-4324821</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-port-rules-where-are-the-safeguards-against-monopoly-4324821</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Forensic auditing as a tool for institutional reform in Bangladesh]]></title>
@@ -145,14 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/garment-workers-minimum-wages-should-be-based-data-not-just-bargaining-4323911</guid>
             <dc:creator><![CDATA[Kazi Iqbal]]></dc:creator>
             <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our students deserve a better university admission system]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/our-students-deserve-better-university-admission-system-4323101</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-students-deserve-better-university-admission-system-4323101</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

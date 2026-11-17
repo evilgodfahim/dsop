@@ -4,9 +4,9 @@
         <description><![CDATA[The very best in news and research across the sciences.]]></description>
         <link>https://www.science.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Nov 2026 05:59:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 15:45:24 GMT</lastBuildDate>
         <atom:link href="https://feeds.science.org/rss/science.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Nov 2026 05:59:46 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 15:45:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TMEM184 proteins are Ca2+ uptake transporters in lysosomes | Science]]></title>
@@ -168,6 +168,55 @@
             <link>https://www.science.org/doi/10.1126/science.aen7366</link>
             <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aen7366</guid>
             <pubDate>Thu, 12 Nov 2026 14:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Long-overlooked Alzheimer’s hypothesis makes a comeback]]></title>
+            <description><![CDATA[Decades after it fell out of fashion, researchers return to an idea linking the disease to the loss of crucial neurons]]></description>
+            <link>https://www.science.org/content/article/long-overlooked-alzheimer-s-hypothesis-makes-comeback</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/long-overlooked-alzheimer-s-hypothesis-makes-comeback</guid>
+            <pubDate>Thu, 12 Nov 2026 13:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ‘Pathogen Hunters’ track microbes around the world. But are their data real?]]></title>
+            <description><![CDATA[Critics question baffling genetic data from prolific infectious diseases group]]></description>
+            <link>https://www.science.org/content/article/pathogen-hunters-track-microbes-around-world-are-their-data-real</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/pathogen-hunters-track-microbes-around-world-are-their-data-real</guid>
+            <pubDate>Tue, 10 Nov 2026 21:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Researchers have a wish list. Can the new Congress deliver?]]></title>
+            <description><![CDATA[Despite a healthy majority, Democrats face limits on what they can achieve]]></description>
+            <link>https://www.science.org/content/article/researchers-have-wish-list-can-new-congress-deliver</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/researchers-have-wish-list-can-new-congress-deliver</guid>
+            <pubDate>Tue, 10 Nov 2026 20:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Neurons in a dish are the newest computing machines]]></title>
+            <description><![CDATA[Brain organoids offer highly efficient processing—if researchers can learn how to harness their power]]></description>
+            <link>https://www.science.org/content/article/neurons-dish-are-newest-computing-machines</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/neurons-dish-are-newest-computing-machines</guid>
+            <pubDate>Mon, 09 Nov 2026 22:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Novel gene therapy lets drug dampen brain cell activity, reducing seizures]]></title>
+            <description><![CDATA[In first clinical result using “chemogenetic” strategy, a team in China treated three patients to control epilepsy]]></description>
+            <link>https://www.science.org/content/article/novel-gene-therapy-lets-drug-dampen-brain-cell-activity-reducing-seizures</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/novel-gene-therapy-lets-drug-dampen-brain-cell-activity-reducing-seizures</guid>
+            <pubDate>Fri, 06 Nov 2026 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Californians poised to approve controversial $8.4 billion initiative to fund immunology research]]></title>
+            <description><![CDATA[Critics say ballot measure’s narrow language will funnel taxpayer money to a single, billionaire-backed nonprofit]]></description>
+            <link>https://www.science.org/content/article/californians-poised-approve-controversial-8-4-billion-initiative-fund-immunology</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/californians-poised-approve-controversial-8-4-billion-initiative-fund-immunology</guid>
+            <pubDate>Fri, 06 Nov 2026 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI company’s research deepens mystery of vaults, cells’ strangest particles]]></title>
+            <description><![CDATA[Anthropic used its Claude AI to show bacteria and viruses also likely make the odd structures, suggesting an ancient origin]]></description>
+            <link>https://www.science.org/content/article/ai-company-s-research-deepens-mystery-vaults-cells-strangest-particles</link>
+            <guid isPermaLink="true">https://www.science.org/content/article/ai-company-s-research-deepens-mystery-vaults-cells-strangest-particles</guid>
+            <pubDate>Wed, 04 Nov 2026 20:05:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
