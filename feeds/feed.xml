@@ -4,17 +4,38 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 05:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 14:55:08 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Nov 2026 05:29:34 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 14:55:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Awami League’s violent strategy will backfire]]></title>
+            <description><![CDATA[Govt must contain the violence judiciously]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/awami-leagues-violent-strategy-will-backfire-4327236</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/awami-leagues-violent-strategy-will-backfire-4327236</guid>
+            <pubDate>Wed, 18 Nov 2026 14:55:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bhabadah cannot be dredged dry]]></title>
+            <description><![CDATA[By Ahad Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bhabadah-cannot-be-dredged-dry-4327216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bhabadah-cannot-be-dredged-dry-4327216</guid>
+            <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 14:55:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police resistance to using bodycams is alarming]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/police-resistance-using-bodycams-alarming-4326701</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/police-resistance-using-bodycams-alarming-4326701</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Building a resilient food system is key to our future food security]]></title>
-            <description><![CDATA[Bangladesh’s food security is facing growing uncertainty as warnings of possible disruptions to global food supplies and volatility in international markets raise concerns about future food availability and prices.]]></description>
+            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/building-resilient-food-system-key-our-future-food-security-4326726</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/building-resilient-food-system-key-our-future-food-security-4326726</guid>
             <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
-            <pubDate>Wed, 18 Nov 2026 05:29:34 GMT</pubDate>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[It's not enough to promote women's leadership. Employers must remove barriers to their advancement]]></title>
@@ -22,7 +43,15 @@
             <link>https://www.thedailystar.net/opinion/views/news/its-not-enough-promote-womens-leadership-employers-must-remove-barriers-their-advancement-4326746</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/its-not-enough-promote-womens-leadership-employers-must-remove-barriers-their-advancement-4326746</guid>
             <dc:creator><![CDATA[Laila Khondkar]]></dc:creator>
-            <pubDate>Wed, 18 Nov 2026 05:29:34 GMT</pubDate>
+            <pubDate>Wed, 18 Nov 2026 14:55:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another climate summit, the same unanswered questions]]></title>
+            <description><![CDATA[By Md. Moniruzzaman Majed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/another-climate-summit-the-same-unanswered-questions-4326736</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/another-climate-summit-the-same-unanswered-questions-4326736</guid>
+            <dc:creator><![CDATA[Md. Moniruzzaman Majed]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When factory machines go quiet, who pays? An investor's perspective]]></title>
@@ -30,7 +59,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/when-factory-machines-go-quiet-who-pays-investors-perspective-4326756</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-factory-machines-go-quiet-who-pays-investors-perspective-4326756</guid>
             <dc:creator><![CDATA[Rubana Huq]]></dc:creator>
-            <pubDate>Wed, 18 Nov 2026 05:29:34 GMT</pubDate>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can COP31 restore confidence in global climate cooperation?]]></title>
@@ -41,32 +70,10 @@
             <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gram Sarkar 2.0 should help citizens, not add another layer of bureaucracy]]></title>
-            <description><![CDATA[By Hossain Zillur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/gram-sarkar-20-should-help-citizens-not-add-another-layer-bureaucracy-4325666</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/gram-sarkar-20-should-help-citizens-not-add-another-layer-bureaucracy-4325666</guid>
-            <dc:creator><![CDATA[Hossain Zillur Rahman]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[RMG wage board must act with a sense of urgency]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/rmg-wage-board-must-act-sense-urgency-4326266</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rmg-wage-board-must-act-sense-urgency-4326266</guid>
             <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rushing into Phulbari coal mining without assessing its costs will be unwise]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/rushing-phulbari-coal-mining-without-assessing-its-costs-will-be-unwise-4325706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rushing-phulbari-coal-mining-without-assessing-its-costs-will-be-unwise-4325706</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police resistance to using bodycams is alarming]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/police-resistance-using-bodycams-alarming-4326701</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/police-resistance-using-bodycams-alarming-4326701</guid>
-            <pubDate>Wed, 18 Nov 2026 05:29:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Closure of Shastho Batayon unfortunate]]></title>
@@ -93,10 +100,12 @@
             <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tourism taking a toll on Chera Dwip]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/tourism-taking-toll-chera-dwip-4323891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/tourism-taking-toll-chera-dwip-4323891</guid>
-            <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Rushing into Phulbari coal mining without assessing its costs will be unwise]]></title>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/rushing-phulbari-coal-mining-without-assessing-its-costs-will-be-unwise-4325706</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rushing-phulbari-coal-mining-without-assessing-its-costs-will-be-unwise-4325706</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh needs a new generation of tech-savvy farmers]]></title>
@@ -105,6 +114,14 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-new-generation-tech-savvy-farmers-4325336</guid>
             <dc:creator><![CDATA[Rukhsat Afrin]]></dc:creator>
             <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gram Sarkar 2.0 should help citizens, not add another layer of bureaucracy]]></title>
+            <description><![CDATA[By Hossain Zillur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/gram-sarkar-20-should-help-citizens-not-add-another-layer-bureaucracy-4325666</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/gram-sarkar-20-should-help-citizens-not-add-another-layer-bureaucracy-4325666</guid>
+            <dc:creator><![CDATA[Hossain Zillur Rahman]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Between extradition and voluntary return, where does Hasina's future lie?]]></title>
@@ -137,22 +154,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/forensic-auditing-tool-institutional-reform-bangladesh-4324781</guid>
             <dc:creator><![CDATA[Samira TasnimA S M Rafad Asgar]]></dc:creator>
             <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Health literacy matters in the fight against diabetes]]></title>
-            <description><![CDATA[By AKM Iqbal Bahar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/health-literacy-matters-the-fight-against-diabetes-4324436</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/health-literacy-matters-the-fight-against-diabetes-4324436</guid>
-            <dc:creator><![CDATA[AKM Iqbal Bahar]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who guards the depositors? The other side of bad loans]]></title>
-            <description><![CDATA[By M Niaz AsadullahJesmin Akhter]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/who-guards-the-depositors-the-other-side-bad-loans-4323896</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/who-guards-the-depositors-the-other-side-bad-loans-4323896</guid>
-            <dc:creator><![CDATA[M Niaz AsadullahJesmin Akhter]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
