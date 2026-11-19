@@ -4,17 +4,33 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Nov 2026 03:55:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 12:24:07 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Nov 2026 03:55:57 GMT</pubDate>
+        <pubDate>Thu, 19 Nov 2026 12:24:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Why is contraception still seen as solely a woman’s responsibility?]]></title>
+            <description><![CDATA[Shocking reaction to news about development of contraceptive pills for men]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-contraception-still-seen-solely-womans-responsibility-4328061</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-contraception-still-seen-solely-womans-responsibility-4328061</guid>
+            <dc:creator><![CDATA[Jannatun Naim Monira]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 12:24:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why is Bangladesh's GDP growth losing momentum?]]></title>
-            <description><![CDATA[Rarely have we noticed that Bangladesh’s growth performance over the last four decades has shown an upward trend that no other comparable economy has dared to contest.]]></description>
+            <description><![CDATA[By Birupaksha Paul]]></description>
             <link>https://www.thedailystar.net/opinion/views/open-sky/news/why-bangladeshs-gdp-growth-losing-momentum-4327706</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/open-sky/news/why-bangladeshs-gdp-growth-losing-momentum-4327706</guid>
             <dc:creator><![CDATA[Birupaksha Paul]]></dc:creator>
-            <pubDate>Thu, 19 Nov 2026 03:55:57 GMT</pubDate>
+            <pubDate>Thu, 19 Nov 2026 12:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We cannot ignore the psychological scars of climate change]]></title>
+            <description><![CDATA[By Shamsin AhmedMohammad Julfiqar Haider]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-cannot-ignore-the-psychological-scars-climate-change-4327711</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-cannot-ignore-the-psychological-scars-climate-change-4327711</guid>
+            <dc:creator><![CDATA[Shamsin AhmedMohammad Julfiqar Haider]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 12:24:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Toilet Day / Lack of public toilets is undermining women's mobility and well-being]]></title>
@@ -22,7 +38,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/lack-public-toilets-undermining-womens-mobility-and-well-being-4327716</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/lack-public-toilets-undermining-womens-mobility-and-well-being-4327716</guid>
             <dc:creator><![CDATA[Afia Jahin]]></dc:creator>
-            <pubDate>Thu, 19 Nov 2026 03:55:57 GMT</pubDate>
+            <pubDate>Thu, 19 Nov 2026 12:24:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Awami League’s violent strategy will backfire]]></title>
@@ -45,28 +61,10 @@
             <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building a resilient food system is key to our future food security]]></title>
-            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/building-resilient-food-system-key-our-future-food-security-4326726</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/building-resilient-food-system-key-our-future-food-security-4326726</guid>
-            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
-            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's not enough to promote women's leadership. Employers must remove barriers to their advancement]]></title>
-            <description><![CDATA[By Laila Khondkar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/its-not-enough-promote-womens-leadership-employers-must-remove-barriers-their-advancement-4326746</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/its-not-enough-promote-womens-leadership-employers-must-remove-barriers-their-advancement-4326746</guid>
-            <dc:creator><![CDATA[Laila Khondkar]]></dc:creator>
-            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Another climate summit, the same unanswered questions]]></title>
-            <description><![CDATA[By Md. Moniruzzaman Majed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/another-climate-summit-the-same-unanswered-questions-4326736</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/another-climate-summit-the-same-unanswered-questions-4326736</guid>
-            <dc:creator><![CDATA[Md. Moniruzzaman Majed]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Char villagers need reliable electricity, too]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/char-villagers-need-reliable-electricity-too-4327701</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/char-villagers-need-reliable-electricity-too-4327701</guid>
+            <pubDate>Thu, 19 Nov 2026 12:24:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RMG wage board must act with a sense of urgency]]></title>
@@ -99,6 +97,30 @@
             <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[It's not enough to promote women's leadership. Employers must remove barriers to their advancement]]></title>
+            <description><![CDATA[By Laila Khondkar]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/its-not-enough-promote-womens-leadership-employers-must-remove-barriers-their-advancement-4326746</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/its-not-enough-promote-womens-leadership-employers-must-remove-barriers-their-advancement-4326746</guid>
+            <dc:creator><![CDATA[Laila Khondkar]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When factory machines go quiet, who pays? An investor's perspective]]></title>
+            <description><![CDATA[By Rubana Huq]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/when-factory-machines-go-quiet-who-pays-investors-perspective-4326756</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-factory-machines-go-quiet-who-pays-investors-perspective-4326756</guid>
+            <dc:creator><![CDATA[Rubana Huq]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another climate summit, the same unanswered questions]]></title>
+            <description><![CDATA[By Md. Moniruzzaman Majed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/another-climate-summit-the-same-unanswered-questions-4326736</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/another-climate-summit-the-same-unanswered-questions-4326736</guid>
+            <dc:creator><![CDATA[Md. Moniruzzaman Majed]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Can COP31 restore confidence in global climate cooperation?]]></title>
             <description><![CDATA[By Fahmida Khatun]]></description>
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/can-cop31-restore-confidence-global-climate-cooperation-4325661</link>
@@ -128,30 +150,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-new-generation-tech-savvy-farmers-4325336</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-new-generation-tech-savvy-farmers-4325336</guid>
             <dc:creator><![CDATA[Rukhsat Afrin]]></dc:creator>
-            <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gram Sarkar 2.0 should help citizens, not add another layer of bureaucracy]]></title>
-            <description><![CDATA[By Hossain Zillur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/gram-sarkar-20-should-help-citizens-not-add-another-layer-bureaucracy-4325666</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/gram-sarkar-20-should-help-citizens-not-add-another-layer-bureaucracy-4325666</guid>
-            <dc:creator><![CDATA[Hossain Zillur Rahman]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Between extradition and voluntary return, where does Hasina's future lie?]]></title>
-            <description><![CDATA[By Kamal Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/between-extradition-and-voluntary-return-where-does-hasinas-future-lie-4324761</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/between-extradition-and-voluntary-return-where-does-hasinas-future-lie-4324761</guid>
-            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are there no women on the RMG minimum wage board?]]></title>
-            <description><![CDATA[By Azra Humayra]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-are-there-no-women-the-rmg-minimum-wage-board-4324806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-there-no-women-the-rmg-minimum-wage-board-4324806</guid>
-            <dc:creator><![CDATA[Azra Humayra]]></dc:creator>
             <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
