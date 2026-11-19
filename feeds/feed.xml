@@ -4,16 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 22:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 03:55:57 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Nov 2026 22:26:24 GMT</pubDate>
+        <pubDate>Thu, 19 Nov 2026 03:55:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Why is Bangladesh's GDP growth losing momentum?]]></title>
+            <description><![CDATA[Rarely have we noticed that Bangladesh’s growth performance over the last four decades has shown an upward trend that no other comparable economy has dared to contest.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/open-sky/news/why-bangladeshs-gdp-growth-losing-momentum-4327706</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/open-sky/news/why-bangladeshs-gdp-growth-losing-momentum-4327706</guid>
+            <dc:creator><![CDATA[Birupaksha Paul]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 03:55:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Toilet Day / Lack of public toilets is undermining women's mobility and well-being]]></title>
+            <description><![CDATA[By Afia Jahin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/lack-public-toilets-undermining-womens-mobility-and-well-being-4327716</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/lack-public-toilets-undermining-womens-mobility-and-well-being-4327716</guid>
+            <dc:creator><![CDATA[Afia Jahin]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 03:55:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Awami League’s violent strategy will backfire]]></title>
-            <description><![CDATA[Govt must contain the violence judiciously]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/awami-leagues-violent-strategy-will-backfire-4327236</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/awami-leagues-violent-strategy-will-backfire-4327236</guid>
-            <pubDate>Wed, 18 Nov 2026 22:26:24 GMT</pubDate>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bhabadah cannot be dredged dry]]></title>
@@ -21,7 +36,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/bhabadah-cannot-be-dredged-dry-4327216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bhabadah-cannot-be-dredged-dry-4327216</guid>
             <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
-            <pubDate>Wed, 18 Nov 2026 22:26:24 GMT</pubDate>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Police resistance to using bodycams is alarming]]></title>
@@ -54,22 +69,6 @@
             <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When factory machines go quiet, who pays? An investor's perspective]]></title>
-            <description><![CDATA[By Rubana Huq]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/when-factory-machines-go-quiet-who-pays-investors-perspective-4326756</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-factory-machines-go-quiet-who-pays-investors-perspective-4326756</guid>
-            <dc:creator><![CDATA[Rubana Huq]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can COP31 restore confidence in global climate cooperation?]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/can-cop31-restore-confidence-global-climate-cooperation-4325661</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/can-cop31-restore-confidence-global-climate-cooperation-4325661</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[RMG wage board must act with a sense of urgency]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/rmg-wage-board-must-act-sense-urgency-4326266</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rmg-wage-board-must-act-sense-urgency-4326266</guid>
@@ -98,6 +97,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/bangladesh-must-not-leave-the-basel-convention-4324541</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bangladesh-must-not-leave-the-basel-convention-4324541</guid>
             <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can COP31 restore confidence in global climate cooperation?]]></title>
+            <description><![CDATA[By Fahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/can-cop31-restore-confidence-global-climate-cooperation-4325661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/can-cop31-restore-confidence-global-climate-cooperation-4325661</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[50th death anniversary of Maulana Bhashani /  A rebel dervish on the grey horizons of Bengal’s history]]></title>
+            <description><![CDATA[By Mohiuddin Ahmad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/rebel-dervish-the-grey-horizons-bengals-history-4325691</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rebel-dervish-the-grey-horizons-bengals-history-4325691</guid>
+            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rushing into Phulbari coal mining without assessing its costs will be unwise]]></title>
@@ -137,22 +152,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-are-there-no-women-the-rmg-minimum-wage-board-4324806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-there-no-women-the-rmg-minimum-wage-board-4324806</guid>
             <dc:creator><![CDATA[Azra Humayra]]></dc:creator>
-            <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New port rules, but where are the safeguards against monopoly?]]></title>
-            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/new-port-rules-where-are-the-safeguards-against-monopoly-4324821</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-port-rules-where-are-the-safeguards-against-monopoly-4324821</guid>
-            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forensic auditing as a tool for institutional reform in Bangladesh]]></title>
-            <description><![CDATA[By Samira TasnimA S M Rafad Asgar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/forensic-auditing-tool-institutional-reform-bangladesh-4324781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/forensic-auditing-tool-institutional-reform-bangladesh-4324781</guid>
-            <dc:creator><![CDATA[Samira TasnimA S M Rafad Asgar]]></dc:creator>
             <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
