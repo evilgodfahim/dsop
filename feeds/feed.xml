@@ -4,17 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Nov 2026 02:46:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 10:48:09 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Nov 2026 02:46:42 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 10:48:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / How we never stop hurting ourselves]]></title>
-            <description><![CDATA[I am quite certain that some understanding about the minimum wage for the garment sector will be reached soon enough.]]></description>
+            <description><![CDATA[After decades of being No. 2 in global RMG industry, why do our workers still need to take to the streets?]]></description>
             <link>https://www.thedailystar.net/opinion/views/the-third-view/news/how-we-never-stop-hurting-ourselves-4328461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/how-we-never-stop-hurting-ourselves-4328461</guid>
             <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 02:46:42 GMT</pubDate>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Children’s Day / By failing our children, we are failing the future of our society]]></title>
+            <description><![CDATA[By Sifat Afrin Shams]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/failing-our-children-we-are-failing-the-future-our-society-4328506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/failing-our-children-we-are-failing-the-future-our-society-4328506</guid>
+            <dc:creator><![CDATA[Sifat Afrin Shams]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 10:48:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI is worsening online child sexual abuse. Are we prepared to respond?]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/ai-worsening-online-child-sexual-abuse-are-we-prepared-respond-4328516</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ai-worsening-online-child-sexual-abuse-are-we-prepared-respond-4328516</guid>
+            <pubDate>Fri, 20 Nov 2026 10:48:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bridges must not kill or threaten rivers]]></title>
@@ -39,6 +53,12 @@
             <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Break the cycle of speech prosecutions]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/break-the-cycle-speech-prosecutions-4328446</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/break-the-cycle-speech-prosecutions-4328446</guid>
+            <pubDate>Fri, 20 Nov 2026 10:48:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[We cannot ignore the psychological scars of climate change]]></title>
             <description><![CDATA[By Shamsin AhmedMohammad Julfiqar Haider]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/we-cannot-ignore-the-psychological-scars-climate-change-4327711</link>
@@ -47,11 +67,9 @@
             <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World Toilet Day / Lack of public toilets is undermining women's mobility and well-being]]></title>
-            <description><![CDATA[By Afia Jahin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/lack-public-toilets-undermining-womens-mobility-and-well-being-4327716</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/lack-public-toilets-undermining-womens-mobility-and-well-being-4327716</guid>
-            <dc:creator><![CDATA[Afia Jahin]]></dc:creator>
+            <title><![CDATA[Char villagers need reliable electricity, too]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/char-villagers-need-reliable-electricity-too-4327701</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/char-villagers-need-reliable-electricity-too-4327701</guid>
             <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -59,20 +77,6 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/awami-leagues-violent-strategy-will-backfire-4327236</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/awami-leagues-violent-strategy-will-backfire-4327236</guid>
             <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bhabadah cannot be dredged dry]]></title>
-            <description><![CDATA[By Ahad Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bhabadah-cannot-be-dredged-dry-4327216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bhabadah-cannot-be-dredged-dry-4327216</guid>
-            <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
-            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Char villagers need reliable electricity, too]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/char-villagers-need-reliable-electricity-too-4327701</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/char-villagers-need-reliable-electricity-too-4327701</guid>
-            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RMG wage board must act with a sense of urgency]]></title>
@@ -93,10 +97,20 @@
             <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Khulna must not be left at criminals’ mercy]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/khulna-must-not-be-left-criminals-mercy-4325416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/khulna-must-not-be-left-criminals-mercy-4325416</guid>
-            <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Bhabadah cannot be dredged dry]]></title>
+            <description><![CDATA[By Ahad Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bhabadah-cannot-be-dredged-dry-4327216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bhabadah-cannot-be-dredged-dry-4327216</guid>
+            <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a resilient food system is key to our future food security]]></title>
+            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/building-resilient-food-system-key-our-future-food-security-4326726</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/building-resilient-food-system-key-our-future-food-security-4326726</guid>
+            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[It's not enough to promote women's leadership. Employers must remove barriers to their advancement]]></title>
@@ -137,22 +151,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rebel-dervish-the-grey-horizons-bengals-history-4325691</guid>
             <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rushing into Phulbari coal mining without assessing its costs will be unwise]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/rushing-phulbari-coal-mining-without-assessing-its-costs-will-be-unwise-4325706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rushing-phulbari-coal-mining-without-assessing-its-costs-will-be-unwise-4325706</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh needs a new generation of tech-savvy farmers]]></title>
-            <description><![CDATA[By Rukhsat Afrin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-new-generation-tech-savvy-farmers-4325336</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-new-generation-tech-savvy-farmers-4325336</guid>
-            <dc:creator><![CDATA[Rukhsat Afrin]]></dc:creator>
-            <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
