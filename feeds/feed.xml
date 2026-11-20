@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Nov 2026 10:48:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 18:55:54 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Nov 2026 10:48:09 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 18:55:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[A landmark verdict for Rohingya justice]]></title>
+            <description><![CDATA[ICJ ruling must lead to Myanmar's accountability and the refugees' safe return home.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/landmark-verdict-rohingya-justice-4328916</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/landmark-verdict-rohingya-justice-4328916</guid>
+            <pubDate>Fri, 20 Nov 2026 18:55:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Column by Mahfuz Anam / How we never stop hurting ourselves]]></title>
-            <description><![CDATA[After decades of being No. 2 in global RMG industry, why do our workers still need to take to the streets?]]></description>
+            <description><![CDATA[By Mahfuz Anam]]></description>
             <link>https://www.thedailystar.net/opinion/views/the-third-view/news/how-we-never-stop-hurting-ourselves-4328461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/how-we-never-stop-hurting-ourselves-4328461</guid>
             <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
@@ -22,13 +29,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/failing-our-children-we-are-failing-the-future-our-society-4328506</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/failing-our-children-we-are-failing-the-future-our-society-4328506</guid>
             <dc:creator><![CDATA[Sifat Afrin Shams]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 10:48:09 GMT</pubDate>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI is worsening online child sexual abuse. Are we prepared to respond?]]></title>
             <link>https://www.thedailystar.net/opinion/views/news/ai-worsening-online-child-sexual-abuse-are-we-prepared-respond-4328516</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ai-worsening-online-child-sexual-abuse-are-we-prepared-respond-4328516</guid>
-            <pubDate>Fri, 20 Nov 2026 10:48:09 GMT</pubDate>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bridges must not kill or threaten rivers]]></title>
@@ -56,15 +63,7 @@
             <title><![CDATA[Break the cycle of speech prosecutions]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/break-the-cycle-speech-prosecutions-4328446</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/break-the-cycle-speech-prosecutions-4328446</guid>
-            <pubDate>Fri, 20 Nov 2026 10:48:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We cannot ignore the psychological scars of climate change]]></title>
-            <description><![CDATA[By Shamsin AhmedMohammad Julfiqar Haider]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-cannot-ignore-the-psychological-scars-climate-change-4327711</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-cannot-ignore-the-psychological-scars-climate-change-4327711</guid>
-            <dc:creator><![CDATA[Shamsin AhmedMohammad Julfiqar Haider]]></dc:creator>
-            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Char villagers need reliable electricity, too]]></title>
@@ -95,6 +94,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/closure-shastho-batayon-unfortunate-4325656</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/closure-shastho-batayon-unfortunate-4325656</guid>
             <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Toilet Day / Lack of public toilets is undermining women's mobility and well-being]]></title>
+            <description><![CDATA[By Afia Jahin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/lack-public-toilets-undermining-womens-mobility-and-well-being-4327716</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/lack-public-toilets-undermining-womens-mobility-and-well-being-4327716</guid>
+            <dc:creator><![CDATA[Afia Jahin]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bhabadah cannot be dredged dry]]></title>
@@ -142,14 +149,6 @@
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/can-cop31-restore-confidence-global-climate-cooperation-4325661</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/can-cop31-restore-confidence-global-climate-cooperation-4325661</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[50th death anniversary of Maulana Bhashani /  A rebel dervish on the grey horizons of Bengal’s history]]></title>
-            <description><![CDATA[By Mohiuddin Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/rebel-dervish-the-grey-horizons-bengals-history-4325691</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rebel-dervish-the-grey-horizons-bengals-history-4325691</guid>
-            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
