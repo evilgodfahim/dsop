@@ -4,16 +4,47 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Nov 2026 00:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 07:54:38 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Nov 2026 00:33:17 GMT</pubDate>
+        <pubDate>Sat, 21 Nov 2026 07:54:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The ICJ verdict against Myanmar is more than a ruling on genocide]]></title>
+            <description><![CDATA[The ICJ’s directives go considerably further than establishing Myanmar’s responsibility.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-icj-verdict-against-myanmar-more-ruling-genocide-4329076</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-icj-verdict-against-myanmar-more-ruling-genocide-4329076</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:54:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After the ICJ verdict, will the Rohingya have a home?]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/after-the-icj-verdict-will-the-rohingya-have-home-4329066</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/after-the-icj-verdict-will-the-rohingya-have-home-4329066</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:54:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Green growth must be at the heart of Bangladesh's economy]]></title>
+            <description><![CDATA[By Sudeepto Roy]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/green-growth-must-be-the-heart-bangladeshs-economy-4329071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/green-growth-must-be-the-heart-bangladeshs-economy-4329071</guid>
+            <dc:creator><![CDATA[Sudeepto Roy]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:54:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our digital finance revolution faces a test of trust]]></title>
+            <description><![CDATA[By M Niaz Asadullah]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/our-digital-finance-revolution-faces-test-trust-4329081</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-digital-finance-revolution-faces-test-trust-4329081</guid>
+            <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:54:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A landmark verdict for Rohingya justice]]></title>
-            <description><![CDATA[ICJ ruling must lead to Myanmar's accountability and the refugees' safe return home.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/landmark-verdict-rohingya-justice-4328916</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/landmark-verdict-rohingya-justice-4328916</guid>
-            <pubDate>Sat, 21 Nov 2026 00:33:17 GMT</pubDate>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / How we never stop hurting ourselves]]></title>
@@ -38,32 +69,22 @@
             <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bridges must not kill or threaten rivers]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/bridges-must-not-kill-or-threaten-rivers-4328251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bridges-must-not-kill-or-threaten-rivers-4328251</guid>
-            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is contraception still seen as solely a woman’s responsibility?]]></title>
-            <description><![CDATA[By Jannatun Naim Monira]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-contraception-still-seen-solely-womans-responsibility-4328061</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-contraception-still-seen-solely-womans-responsibility-4328061</guid>
-            <dc:creator><![CDATA[Jannatun Naim Monira]]></dc:creator>
-            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is Bangladesh's GDP growth losing momentum?]]></title>
-            <description><![CDATA[By Birupaksha Paul]]></description>
-            <link>https://www.thedailystar.net/opinion/views/open-sky/news/why-bangladeshs-gdp-growth-losing-momentum-4327706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/open-sky/news/why-bangladeshs-gdp-growth-losing-momentum-4327706</guid>
-            <dc:creator><![CDATA[Birupaksha Paul]]></dc:creator>
-            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Address the urban public toilet crisis]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/address-the-urban-public-toilet-crisis-4329061</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-the-urban-public-toilet-crisis-4329061</guid>
+            <pubDate>Sat, 21 Nov 2026 07:54:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Break the cycle of speech prosecutions]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/break-the-cycle-speech-prosecutions-4328446</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/break-the-cycle-speech-prosecutions-4328446</guid>
             <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bridges must not kill or threaten rivers]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/bridges-must-not-kill-or-threaten-rivers-4328251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bridges-must-not-kill-or-threaten-rivers-4328251</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Char villagers need reliable electricity, too]]></title>
@@ -78,22 +99,20 @@
             <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RMG wage board must act with a sense of urgency]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/rmg-wage-board-must-act-sense-urgency-4326266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rmg-wage-board-must-act-sense-urgency-4326266</guid>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Why is Bangladesh's GDP growth losing momentum?]]></title>
+            <description><![CDATA[By Birupaksha Paul]]></description>
+            <link>https://www.thedailystar.net/opinion/views/open-sky/news/why-bangladeshs-gdp-growth-losing-momentum-4327706</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/open-sky/news/why-bangladeshs-gdp-growth-losing-momentum-4327706</guid>
+            <dc:creator><![CDATA[Birupaksha Paul]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Police resistance to using bodycams is alarming]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/police-resistance-using-bodycams-alarming-4326701</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/police-resistance-using-bodycams-alarming-4326701</guid>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Closure of Shastho Batayon unfortunate]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/closure-shastho-batayon-unfortunate-4325656</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/closure-shastho-batayon-unfortunate-4325656</guid>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[We cannot ignore the psychological scars of climate change]]></title>
+            <description><![CDATA[By Shamsin AhmedMohammad Julfiqar Haider]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-cannot-ignore-the-psychological-scars-climate-change-4327711</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-cannot-ignore-the-psychological-scars-climate-change-4327711</guid>
+            <dc:creator><![CDATA[Shamsin AhmedMohammad Julfiqar Haider]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Toilet Day / Lack of public toilets is undermining women's mobility and well-being]]></title>
@@ -133,22 +152,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/when-factory-machines-go-quiet-who-pays-investors-perspective-4326756</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-factory-machines-go-quiet-who-pays-investors-perspective-4326756</guid>
             <dc:creator><![CDATA[Rubana Huq]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Another climate summit, the same unanswered questions]]></title>
-            <description><![CDATA[By Md. Moniruzzaman Majed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/another-climate-summit-the-same-unanswered-questions-4326736</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/another-climate-summit-the-same-unanswered-questions-4326736</guid>
-            <dc:creator><![CDATA[Md. Moniruzzaman Majed]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can COP31 restore confidence in global climate cooperation?]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/can-cop31-restore-confidence-global-climate-cooperation-4325661</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/can-cop31-restore-confidence-global-climate-cooperation-4325661</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
