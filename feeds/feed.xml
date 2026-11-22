@@ -4,15 +4,46 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Nov 2026 01:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 09:11:14 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Nov 2026 01:50:52 GMT</pubDate>
+        <pubDate>Sun, 22 Nov 2026 09:11:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[As Rooppur begins trial operation, are we prepared for an emergency?]]></title>
+            <description><![CDATA[The unit’s VVER-1200 reactor is a Generation III+ design with advanced safety features, and the probability of an accident is very low. Even so, preparedness is essential.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/rooppur-begins-trial-operation-are-we-prepared-emergency-4329711</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rooppur-begins-trial-operation-are-we-prepared-emergency-4329711</guid>
+            <dc:creator><![CDATA[Md. Shafiqul Islam]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 09:11:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh must build trust in its shrimp supply chain]]></title>
+            <description><![CDATA[By Max TuñónCormac O’SullivanRezaur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-build-trust-its-shrimp-supply-chain-4329716</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-build-trust-its-shrimp-supply-chain-4329716</guid>
+            <dc:creator><![CDATA[Max TuñónCormac O’SullivanRezaur Rahman]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 09:11:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don't let industry pressure weaken ship-recycling safeguards]]></title>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/dont-let-industry-pressure-weaken-ship-recycling-safeguards-4329726</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dont-let-industry-pressure-weaken-ship-recycling-safeguards-4329726</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 09:11:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turn the ICT genocide verdict into a roadmap for Rohingya return]]></title>
+            <description><![CDATA[By Mir Ahmad Bin Quasem]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/turn-the-ict-genocide-verdict-roadmap-rohingya-return-4329731</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/turn-the-ict-genocide-verdict-roadmap-rohingya-return-4329731</guid>
+            <dc:creator><![CDATA[Mir Ahmad Bin Quasem]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 09:11:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Firefighters deserve better pay and training]]></title>
-            <description><![CDATA[Bangladesh is neglecting its most crucial first responders]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/firefighters-deserve-better-pay-and-training-4329531</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/firefighters-deserve-better-pay-and-training-4329531</guid>
+            <link>https://www.thedailystar.net/opinion/editorial/news/firefighters-deserve-better-pay-and-training-4329531</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/firefighters-deserve-better-pay-and-training-4329531</guid>
             <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -40,11 +71,15 @@
             <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Our digital finance revolution faces a test of trust]]></title>
-            <description><![CDATA[By M Niaz Asadullah]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/our-digital-finance-revolution-faces-test-trust-4329081</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-digital-finance-revolution-faces-test-trust-4329081</guid>
-            <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
+            <title><![CDATA[End open burning of waste]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/end-open-burning-waste-4329706</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-open-burning-waste-4329706</guid>
+            <pubDate>Sun, 22 Nov 2026 09:11:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Address the urban public toilet crisis]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/address-the-urban-public-toilet-crisis-4329061</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-the-urban-public-toilet-crisis-4329061</guid>
             <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -52,6 +87,18 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/landmark-verdict-rohingya-justice-4328916</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/landmark-verdict-rohingya-justice-4328916</guid>
             <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Break the cycle of speech prosecutions]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/break-the-cycle-speech-prosecutions-4328446</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/break-the-cycle-speech-prosecutions-4328446</guid>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bridges must not kill or threaten rivers]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/bridges-must-not-kill-or-threaten-rivers-4328251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bridges-must-not-kill-or-threaten-rivers-4328251</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / How we never stop hurting ourselves]]></title>
@@ -70,34 +117,10 @@
             <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Address the urban public toilet crisis]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/address-the-urban-public-toilet-crisis-4329061</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-the-urban-public-toilet-crisis-4329061</guid>
-            <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Break the cycle of speech prosecutions]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/break-the-cycle-speech-prosecutions-4328446</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/break-the-cycle-speech-prosecutions-4328446</guid>
+            <title><![CDATA[AI is worsening online child sexual abuse. Are we prepared to respond?]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/ai-worsening-online-child-sexual-abuse-are-we-prepared-respond-4328516</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ai-worsening-online-child-sexual-abuse-are-we-prepared-respond-4328516</guid>
             <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bridges must not kill or threaten rivers]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/bridges-must-not-kill-or-threaten-rivers-4328251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/bridges-must-not-kill-or-threaten-rivers-4328251</guid>
-            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Char villagers need reliable electricity, too]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/char-villagers-need-reliable-electricity-too-4327701</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/char-villagers-need-reliable-electricity-too-4327701</guid>
-            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Awami League’s violent strategy will backfire]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/awami-leagues-violent-strategy-will-backfire-4327236</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/awami-leagues-violent-strategy-will-backfire-4327236</guid>
-            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why is contraception still seen as solely a woman’s responsibility?]]></title>
@@ -130,30 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/lack-public-toilets-undermining-womens-mobility-and-well-being-4327716</guid>
             <dc:creator><![CDATA[Afia Jahin]]></dc:creator>
             <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bhabadah cannot be dredged dry]]></title>
-            <description><![CDATA[By Ahad Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bhabadah-cannot-be-dredged-dry-4327216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bhabadah-cannot-be-dredged-dry-4327216</guid>
-            <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
-            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a resilient food system is key to our future food security]]></title>
-            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/building-resilient-food-system-key-our-future-food-security-4326726</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/building-resilient-food-system-key-our-future-food-security-4326726</guid>
-            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
-            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's not enough to promote women's leadership. Employers must remove barriers to their advancement]]></title>
-            <description><![CDATA[By Laila Khondkar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/its-not-enough-promote-womens-leadership-employers-must-remove-barriers-their-advancement-4326746</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/its-not-enough-promote-womens-leadership-employers-must-remove-barriers-their-advancement-4326746</guid>
-            <dc:creator><![CDATA[Laila Khondkar]]></dc:creator>
-            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
