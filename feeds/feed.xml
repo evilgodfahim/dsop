@@ -4,16 +4,16 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Nov 2026 14:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 23:42:16 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Nov 2026 14:27:56 GMT</pubDate>
+        <pubDate>Tue, 24 Nov 2026 23:42:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Align universities with job market needs]]></title>
             <description><![CDATA[Strengthen industry links, update curricula to improve graduate employability]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/align-universities-job-market-needs-4332176</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/align-universities-job-market-needs-4332176</guid>
-            <pubDate>Tue, 24 Nov 2026 14:27:56 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2026 23:42:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Marrakesh Treaty must lead to better access to books]]></title>
@@ -21,7 +21,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-marrakesh-treaty-must-lead-better-access-books-4331571</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-marrakesh-treaty-must-lead-better-access-books-4331571</guid>
             <dc:creator><![CDATA[Vashkar Bhattacharjee]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 14:27:56 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Are we paying enough attention to what children learn from screens?]]></title>
@@ -29,7 +29,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/are-we-paying-enough-attention-what-children-learn-screens-4332011</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/are-we-paying-enough-attention-what-children-learn-screens-4332011</guid>
             <dc:creator><![CDATA[Taiba Akhter Mim]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 14:27:56 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh cannot afford another cycle of violence and repression]]></title>
@@ -37,7 +37,13 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-cannot-afford-another-cycle-violence-and-repression-4331556</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-cannot-afford-another-cycle-violence-and-repression-4331556</guid>
             <dc:creator><![CDATA[David Bergman]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 14:27:56 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Protect children from the harms of social media]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/protect-children-the-harms-social-media-4332461</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-children-the-harms-social-media-4332461</guid>
+            <pubDate>Tue, 24 Nov 2026 23:42:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh needs an employment-led growth strategy]]></title>
@@ -53,7 +59,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/why-are-elephants-still-dying-preventable-causes-4331551</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-elephants-still-dying-preventable-causes-4331551</guid>
             <dc:creator><![CDATA[Nusrat Jahan Sumona]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 14:27:56 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India's silence on the Ganges treaty is unfair]]></title>
@@ -62,18 +68,10 @@
             <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Are we getting the evidence right in the RMG wage debate?]]></title>
-            <description><![CDATA[By M Niaz Asadullah]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/are-we-getting-the-evidence-right-the-rmg-wage-debate-4330711</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/are-we-getting-the-evidence-right-the-rmg-wage-debate-4330711</guid>
-            <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
-            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Break traffickers' grip on Teknaf]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/break-traffickers-grip-teknaf-4331506</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/break-traffickers-grip-teknaf-4331506</guid>
-            <pubDate>Tue, 24 Nov 2026 14:27:56 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Idle food stocks won't feed the hungry]]></title>
@@ -98,6 +96,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/address-the-urban-public-toilet-crisis-4329061</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-the-urban-public-toilet-crisis-4329061</guid>
             <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hospitals must be safe places for sick children]]></title>
+            <description><![CDATA[By Tamanna Yesmin Maria]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/hospitals-must-be-safe-places-sick-children-4330716</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/hospitals-must-be-safe-places-sick-children-4330716</guid>
+            <dc:creator><![CDATA[Tamanna Yesmin Maria]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Time to move beyond project-based dredging to long-term river management]]></title>
@@ -146,12 +152,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/turn-the-icj-genocide-verdict-roadmap-rohingya-return-4329731</guid>
             <dc:creator><![CDATA[Mir Ahmad Bin Quasem]]></dc:creator>
             <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Firefighters deserve better pay and training]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/firefighters-deserve-better-pay-and-training-4329531</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/firefighters-deserve-better-pay-and-training-4329531</guid>
-            <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
