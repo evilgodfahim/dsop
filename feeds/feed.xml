@@ -4,17 +4,32 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Nov 2026 03:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 14:27:56 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Nov 2026 03:41:34 GMT</pubDate>
+        <pubDate>Tue, 24 Nov 2026 14:27:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Bangladesh needs an employment-led growth strategy]]></title>
-            <description><![CDATA[Bangladesh’s economy has been in a prolonged downturn since 2022, driven by external and domestic challenges, with pressures intensifying over the years because of inadequate policy measures.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-employment-led-growth-strategy-4331526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-employment-led-growth-strategy-4331526</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 03:41:34 GMT</pubDate>
+            <title><![CDATA[Align universities with job market needs]]></title>
+            <description><![CDATA[Strengthen industry links, update curricula to improve graduate employability]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/align-universities-job-market-needs-4332176</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/align-universities-job-market-needs-4332176</guid>
+            <pubDate>Tue, 24 Nov 2026 14:27:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Marrakesh Treaty must lead to better access to books]]></title>
+            <description><![CDATA[By Vashkar Bhattacharjee]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-marrakesh-treaty-must-lead-better-access-books-4331571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-marrakesh-treaty-must-lead-better-access-books-4331571</guid>
+            <dc:creator><![CDATA[Vashkar Bhattacharjee]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 14:27:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are we paying enough attention to what children learn from screens?]]></title>
+            <description><![CDATA[By Taiba Akhter Mim]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/are-we-paying-enough-attention-what-children-learn-screens-4332011</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/are-we-paying-enough-attention-what-children-learn-screens-4332011</guid>
+            <dc:creator><![CDATA[Taiba Akhter Mim]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 14:27:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh cannot afford another cycle of violence and repression]]></title>
@@ -22,7 +37,23 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-cannot-afford-another-cycle-violence-and-repression-4331556</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-cannot-afford-another-cycle-violence-and-repression-4331556</guid>
             <dc:creator><![CDATA[David Bergman]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 03:41:34 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2026 14:27:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh needs an employment-led growth strategy]]></title>
+            <description><![CDATA[By Fahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-employment-led-growth-strategy-4331526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-employment-led-growth-strategy-4331526</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are elephants still dying from preventable causes?]]></title>
+            <description><![CDATA[By Nusrat Jahan Sumona]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-are-elephants-still-dying-preventable-causes-4331551</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-elephants-still-dying-preventable-causes-4331551</guid>
+            <dc:creator><![CDATA[Nusrat Jahan Sumona]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 14:27:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India's silence on the Ganges treaty is unfair]]></title>
@@ -39,36 +70,10 @@
             <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hospitals must be safe places for sick children]]></title>
-            <description><![CDATA[By Tamanna Yesmin Maria]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/hospitals-must-be-safe-places-sick-children-4330716</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/hospitals-must-be-safe-places-sick-children-4330716</guid>
-            <dc:creator><![CDATA[Tamanna Yesmin Maria]]></dc:creator>
-            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Time to move beyond project-based dredging to long-term river management]]></title>
-            <description><![CDATA[By Shahrina Akhtar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/time-move-beyond-project-based-dredging-long-term-river-management-4330721</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-move-beyond-project-based-dredging-long-term-river-management-4330721</guid>
-            <dc:creator><![CDATA[Shahrina Akhtar]]></dc:creator>
-            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don't let the Ganges treaty expire without a plan for what comes next]]></title>
-            <description><![CDATA[By Arman Shaid]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/dont-let-the-ganges-treaty-expire-without-plan-what-comes-next-4330741</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dont-let-the-ganges-treaty-expire-without-plan-what-comes-next-4330741</guid>
-            <dc:creator><![CDATA[Arman Shaid]]></dc:creator>
-            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As Rooppur begins trial operation, are we prepared for an emergency?]]></title>
-            <description><![CDATA[By Md. Shafiqul Islam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/rooppur-begins-trial-operation-are-we-prepared-emergency-4329711</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rooppur-begins-trial-operation-are-we-prepared-emergency-4329711</guid>
-            <dc:creator><![CDATA[Md. Shafiqul Islam]]></dc:creator>
-            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Break traffickers' grip on Teknaf]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/break-traffickers-grip-teknaf-4331506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/break-traffickers-grip-teknaf-4331506</guid>
+            <pubDate>Tue, 24 Nov 2026 14:27:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Idle food stocks won't feed the hungry]]></title>
@@ -95,10 +100,36 @@
             <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A landmark verdict for Rohingya justice]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/landmark-verdict-rohingya-justice-4328916</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/landmark-verdict-rohingya-justice-4328916</guid>
-            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Time to move beyond project-based dredging to long-term river management]]></title>
+            <description><![CDATA[By Shahrina Akhtar]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/time-move-beyond-project-based-dredging-long-term-river-management-4330721</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-move-beyond-project-based-dredging-long-term-river-management-4330721</guid>
+            <dc:creator><![CDATA[Shahrina Akhtar]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don't let the Ganges treaty expire without a plan for what comes next]]></title>
+            <description><![CDATA[By Arman Shaid]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/dont-let-the-ganges-treaty-expire-without-plan-what-comes-next-4330741</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dont-let-the-ganges-treaty-expire-without-plan-what-comes-next-4330741</guid>
+            <dc:creator><![CDATA[Arman Shaid]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As Rooppur begins trial operation, are we prepared for an emergency?]]></title>
+            <description><![CDATA[By Md. Shafiqul Islam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/rooppur-begins-trial-operation-are-we-prepared-emergency-4329711</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rooppur-begins-trial-operation-are-we-prepared-emergency-4329711</guid>
+            <dc:creator><![CDATA[Md. Shafiqul Islam]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh must build trust in its shrimp supply chain]]></title>
+            <description><![CDATA[By Max TuñónCormac O’SullivanRezaur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-build-trust-its-shrimp-supply-chain-4329716</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-build-trust-its-shrimp-supply-chain-4329716</guid>
+            <dc:creator><![CDATA[Max TuñónCormac O’SullivanRezaur Rahman]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don't let industry pressure weaken ship-recycling safeguards]]></title>
@@ -120,38 +151,6 @@
             <title><![CDATA[Firefighters deserve better pay and training]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/firefighters-deserve-better-pay-and-training-4329531</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/firefighters-deserve-better-pay-and-training-4329531</guid>
-            <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The ICJ verdict against Myanmar is more than a ruling on genocide]]></title>
-            <description><![CDATA[By Kamal Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-icj-verdict-against-myanmar-more-ruling-genocide-4329076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-icj-verdict-against-myanmar-more-ruling-genocide-4329076</guid>
-            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After the ICJ verdict, will the Rohingya have a home?]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/after-the-icj-verdict-will-the-rohingya-have-home-4329066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/after-the-icj-verdict-will-the-rohingya-have-home-4329066</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Green growth must be at the heart of Bangladesh's economy]]></title>
-            <description><![CDATA[By Sudeepto Roy]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/green-growth-must-be-the-heart-bangladeshs-economy-4329071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/green-growth-must-be-the-heart-bangladeshs-economy-4329071</guid>
-            <dc:creator><![CDATA[Sudeepto Roy]]></dc:creator>
-            <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our digital finance revolution faces a test of trust]]></title>
-            <description><![CDATA[By M Niaz Asadullah]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/our-digital-finance-revolution-faces-test-trust-4329081</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-digital-finance-revolution-faces-test-trust-4329081</guid>
-            <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
             <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
