@@ -4,16 +4,31 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Nov 2026 17:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 03:41:34 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Nov 2026 17:01:46 GMT</pubDate>
+        <pubDate>Tue, 24 Nov 2026 03:41:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Bangladesh needs an employment-led growth strategy]]></title>
+            <description><![CDATA[Bangladesh’s economy has been in a prolonged downturn since 2022, driven by external and domestic challenges, with pressures intensifying over the years because of inadequate policy measures.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-employment-led-growth-strategy-4331526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-employment-led-growth-strategy-4331526</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 03:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh cannot afford another cycle of violence and repression]]></title>
+            <description><![CDATA[By David Bergman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-cannot-afford-another-cycle-violence-and-repression-4331556</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-cannot-afford-another-cycle-violence-and-repression-4331556</guid>
+            <dc:creator><![CDATA[David Bergman]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 03:41:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[India's silence on the Ganges treaty is unfair]]></title>
-            <description><![CDATA[Resolve the current impasse to protect water security and livelihoods of millions in Bangladesh]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/indias-silence-the-ganges-treaty-unfair-4331286</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/indias-silence-the-ganges-treaty-unfair-4331286</guid>
-            <pubDate>Mon, 23 Nov 2026 17:01:46 GMT</pubDate>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Are we getting the evidence right in the RMG wage debate?]]></title>
@@ -29,7 +44,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/hospitals-must-be-safe-places-sick-children-4330716</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/hospitals-must-be-safe-places-sick-children-4330716</guid>
             <dc:creator><![CDATA[Tamanna Yesmin Maria]]></dc:creator>
-            <pubDate>Mon, 23 Nov 2026 17:01:46 GMT</pubDate>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Time to move beyond project-based dredging to long-term river management]]></title>
@@ -53,22 +68,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/rooppur-begins-trial-operation-are-we-prepared-emergency-4329711</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rooppur-begins-trial-operation-are-we-prepared-emergency-4329711</guid>
             <dc:creator><![CDATA[Md. Shafiqul Islam]]></dc:creator>
-            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh must build trust in its shrimp supply chain]]></title>
-            <description><![CDATA[By Max TuñónCormac O’SullivanRezaur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-build-trust-its-shrimp-supply-chain-4329716</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-build-trust-its-shrimp-supply-chain-4329716</guid>
-            <dc:creator><![CDATA[Max TuñónCormac O’SullivanRezaur Rahman]]></dc:creator>
-            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don't let industry pressure weaken ship-recycling safeguards]]></title>
-            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/dont-let-industry-pressure-weaken-ship-recycling-safeguards-4329726</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dont-let-industry-pressure-weaken-ship-recycling-safeguards-4329726</guid>
-            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
             <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -100,6 +99,22 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/landmark-verdict-rohingya-justice-4328916</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/landmark-verdict-rohingya-justice-4328916</guid>
             <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don't let industry pressure weaken ship-recycling safeguards]]></title>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/dont-let-industry-pressure-weaken-ship-recycling-safeguards-4329726</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dont-let-industry-pressure-weaken-ship-recycling-safeguards-4329726</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turn the ICJ genocide verdict into a roadmap for Rohingya return]]></title>
+            <description><![CDATA[By Mir Ahmad Bin Quasem]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/turn-the-icj-genocide-verdict-roadmap-rohingya-return-4329731</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/turn-the-icj-genocide-verdict-roadmap-rohingya-return-4329731</guid>
+            <dc:creator><![CDATA[Mir Ahmad Bin Quasem]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Firefighters deserve better pay and training]]></title>
@@ -138,22 +153,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-digital-finance-revolution-faces-test-trust-4329081</guid>
             <dc:creator><![CDATA[M Niaz Asadullah]]></dc:creator>
             <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column by Mahfuz Anam / How we never stop hurting ourselves]]></title>
-            <description><![CDATA[By Mahfuz Anam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/how-we-never-stop-hurting-ourselves-4328461</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/how-we-never-stop-hurting-ourselves-4328461</guid>
-            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Children’s Day / By failing our children, we are failing the future of our society]]></title>
-            <description><![CDATA[By Sifat Afrin Shams]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/failing-our-children-we-are-failing-the-future-our-society-4328506</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/failing-our-children-we-are-failing-the-future-our-society-4328506</guid>
-            <dc:creator><![CDATA[Sifat Afrin Shams]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
