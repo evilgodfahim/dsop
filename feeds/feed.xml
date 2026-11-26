@@ -4,17 +4,39 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Nov 2026 10:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 19:56:54 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Nov 2026 10:17:38 GMT</pubDate>
+        <pubDate>Thu, 26 Nov 2026 19:56:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Column by Mahfuz Anam / PM’s policy is ‘Bangladesh first’, for others it is self-interest first]]></title>
+            <description><![CDATA[We have never been short of slogans, but have always failed to realise them. Even when we achieved some success, the benefits never reached the people.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/pms-policy-bangladesh-first-others-it-self-interest-first-4334281</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/pms-policy-bangladesh-first-others-it-self-interest-first-4334281</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 19:56:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US tariff threats are unfair, irrational]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/us-tariff-threats-are-unfair-irrational-4333966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/us-tariff-threats-are-unfair-irrational-4333966</guid>
+            <pubDate>Thu, 26 Nov 2026 19:56:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Bangladesh can learn from Japan’s waste management system]]></title>
+            <description><![CDATA[By Md Ayatullah Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-bangladesh-can-learn-japans-waste-management-system-4333866</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-bangladesh-can-learn-japans-waste-management-system-4333866</guid>
+            <dc:creator><![CDATA[Md Ayatullah Khan]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 19:56:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Shastho Batayon helpline: Why let a lifeline to healthcare fall silent over unpaid bills?]]></title>
-            <description><![CDATA[Rahim Mia returns to his village home at about 10:30pm and finds his five-year-old daughter’s fever getting worse.]]></description>
+            <description><![CDATA[By M Morshed Alam]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/shastho-batayon-helpline-why-let-lifeline-healthcare-fall-silent-over-unpaid-bills-4333246</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/shastho-batayon-helpline-why-let-lifeline-healthcare-fall-silent-over-unpaid-bills-4333246</guid>
             <dc:creator><![CDATA[M Morshed Alam]]></dc:creator>
-            <pubDate>Thu, 26 Nov 2026 10:17:38 GMT</pubDate>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The failure of climate leadership is a failure of gender justice, too]]></title>
@@ -22,7 +44,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-failure-climate-leadership-failure-gender-justice-too-4333261</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-failure-climate-leadership-failure-gender-justice-too-4333261</guid>
             <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Thu, 26 Nov 2026 10:17:38 GMT</pubDate>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amid a rebound in megaprojects, the govt must rethink spending and foreign borrowing]]></title>
@@ -30,7 +52,7 @@
             <link>https://www.thedailystar.net/opinion/views/news/amid-rebound-megaprojects-the-govt-must-rethink-spending-and-foreign-borrowing-4333271</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/amid-rebound-megaprojects-the-govt-must-rethink-spending-and-foreign-borrowing-4333271</guid>
             <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Thu, 26 Nov 2026 10:17:38 GMT</pubDate>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting our industrial policy right before LDC graduation]]></title>
@@ -38,34 +60,18 @@
             <link>https://www.thedailystar.net/opinion/views/news/getting-our-industrial-policy-right-ldc-graduation-4333296</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/getting-our-industrial-policy-right-ldc-graduation-4333296</guid>
             <dc:creator><![CDATA[Owais Parray]]></dc:creator>
-            <pubDate>Thu, 26 Nov 2026 10:17:38 GMT</pubDate>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ensure healthcare reaches the poorest]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/ensure-healthcare-reaches-the-poorest-4333226</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-healthcare-reaches-the-poorest-4333226</guid>
-            <pubDate>Thu, 26 Nov 2026 10:17:38 GMT</pubDate>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Women and girls are not getting any safer]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/women-and-girls-are-not-getting-any-safer-4333076</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/women-and-girls-are-not-getting-any-safer-4333076</guid>
-            <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As tea union election nears, time to rethink workers' needs and representation]]></title>
-            <description><![CDATA[By Philip GainFahmida Afroze Nadia]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/tea-union-election-nears-time-rethink-workers-needs-and-representation-4332516</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tea-union-election-nears-time-rethink-workers-needs-and-representation-4332516</guid>
-            <dc:creator><![CDATA[Philip GainFahmida Afroze Nadia]]></dc:creator>
-            <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh must help Rohingya survivors prepare to claim reparations]]></title>
-            <description><![CDATA[By Khan Khalid Adnan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-help-rohingya-survivors-prepare-claim-reparations-4332486</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-help-rohingya-survivors-prepare-claim-reparations-4332486</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -93,10 +99,28 @@
             <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Idle food stocks won't feed the hungry]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/idle-food-stocks-wont-feed-the-hungry-4330386</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/idle-food-stocks-wont-feed-the-hungry-4330386</guid>
-            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Sagar-Runi murder case  / When justice keeps getting another deadline]]></title>
+            <description><![CDATA[By Ashfaq Ferdous]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/when-justice-keeps-getting-another-deadline-4333006</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-justice-keeps-getting-another-deadline-4333006</guid>
+            <dc:creator><![CDATA[Ashfaq Ferdous]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As tea union election nears, time to rethink workers' needs and representation]]></title>
+            <description><![CDATA[By Philip GainFahmida Afroze Nadia]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/tea-union-election-nears-time-rethink-workers-needs-and-representation-4332516</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tea-union-election-nears-time-rethink-workers-needs-and-representation-4332516</guid>
+            <dc:creator><![CDATA[Philip GainFahmida Afroze Nadia]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh must help Rohingya survivors prepare to claim reparations]]></title>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-help-rohingya-survivors-prepare-claim-reparations-4332486</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-help-rohingya-survivors-prepare-claim-reparations-4332486</guid>
+            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Make the justice system work for the survivors of gender-based violence]]></title>
@@ -128,30 +152,6 @@
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-employment-led-growth-strategy-4331526</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-employment-led-growth-strategy-4331526</guid>
             <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Marrakesh Treaty must lead to better access to books]]></title>
-            <description><![CDATA[By Vashkar Bhattacharjee]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-marrakesh-treaty-must-lead-better-access-books-4331571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-marrakesh-treaty-must-lead-better-access-books-4331571</guid>
-            <dc:creator><![CDATA[Vashkar Bhattacharjee]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh cannot afford another cycle of violence and repression]]></title>
-            <description><![CDATA[By David Bergman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-cannot-afford-another-cycle-violence-and-repression-4331556</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-cannot-afford-another-cycle-violence-and-repression-4331556</guid>
-            <dc:creator><![CDATA[David Bergman]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are elephants still dying from preventable causes?]]></title>
-            <description><![CDATA[By Nusrat Jahan Sumona]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-are-elephants-still-dying-preventable-causes-4331551</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-elephants-still-dying-preventable-causes-4331551</guid>
-            <dc:creator><![CDATA[Nusrat Jahan Sumona]]></dc:creator>
             <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
